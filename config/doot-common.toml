@@ -1,0 +1,13 @@
+
+#Game Settings
+[settings]
+
+	#Trumpet
+	[settings.trumpet]
+		#How far can the Trumpet be heard?
+		#Range: 0.0 ~ 1.7976931348623157E308
+		trumpetRange = 10.0
+		#How many uses does the Trumpet have?
+		#Range: > 1
+		trumpetDurability = 64
+

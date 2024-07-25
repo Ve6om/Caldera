@@ -1,0 +1,19 @@
+[
+  {
+    "mob": ["the_flesh_that_hates:plaqueincubatorstart"],
+    "persecond": 20,
+    "attempts": 20,
+    "amount": {
+      "minimum": 2,
+      "maximum": 5
+    },
+    "conditions": {
+      "dimension": "lostcities:lostcity",
+      "mindist": 25,
+      "maxdist": 100,
+      "minheight": 15,
+      "maxheight": 200,
+      "maxthis": 100
+    }
+  }
+]

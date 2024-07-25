@@ -1,0 +1,20 @@
+type = customizablemenus
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+dev.emi.emi.screen.RecipeScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+

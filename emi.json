@@ -1,0 +1,28 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:refinedstorage:wireless_grid",
+    "item:scalinghealth:heart_crystal",
+    "item:fltpot:wings{Damage:0}",
+    "item:confluence:rocket_boots",
+    "item:confluence:terraspark_boots",
+    "item:confluence:spectre_boots",
+    "item:confluence:lightning_boots",
+    "item:confluence:frostspark_boots",
+    "item:iceandfire:dread_queen_sword{Damage:0}",
+    "item:iceandfire:dragon_skull_lightning{DragonAge:104,DragonType:0,Stage:5}",
+    "item:iceandfire:dragonbone",
+    "item:spartanfire:dragon_bone_javelin{Damage:0}",
+    "item:spartanfire:flamed_dragon_bone_javelin{Damage:0}",
+    "item:iceandfire:dragonsteel_fire_ingot",
+    "item:spartanfire:fire_dragonsteel_scythe{Damage:0}"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

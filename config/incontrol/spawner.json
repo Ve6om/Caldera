@@ -1,8 +1,8 @@
 [
   {
-    "mob": ["the_flesh_that_hates:plaqueincubatorstart"],
-    "persecond": 20,
-    "attempts": 20,
+    "mob": "the_flesh_that_hates:plaqueincubatorstart",
+    "persecond": 5,
+    "attempts": 200,
     "amount": {
       "minimum": 2,
       "maximum": 5

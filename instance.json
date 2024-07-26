@@ -50302,13 +50302,298 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Just CTGUI",
+        "version": "just_ctgui-0.1.5_release-forge-1.20.1.jar",
+        "optional": true,
+        "file": "just_ctgui-0.1.5_release-forge-1.20.1.jar",
+        "type": "mods",
+        "description": "The Just Craft Tweaker GUI mod provides a visual recipe editor in minecraft using Craft Tweaker and a simple Zen Script programming language.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 899032,
+        "curseForgeFileId": 5532496,
+        "curseForgeProject": {
+          "id": 899032,
+          "name": "Just CTGUI",
+          "authors": [
+            {
+              "id": 102543361,
+              "name": "300f20t",
+              "url": "https://www.curseforge.com/members/300f20t"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The Just Craft Tweaker GUI mod provides a visual recipe editor in minecraft using Craft Tweaker and a simple Zen Script programming language.",
+          "categories": [
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "CraftTweaker",
+              "slug": "crafttweaker",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/crafttweaker",
+              "dateModified": "2023-06-16T13:16:03.86Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4773,
+              "iconUrl": "https://media.forgecdn.net/avatars/177/676/636772941470587416.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 4773,
+          "classId": 6,
+          "slug": "just-ctgui",
+          "isFeatured": false,
+          "dateModified": "2024-07-23T00:11:16.543Z",
+          "dateCreated": "2023-08-05T06:21:53.93Z",
+          "dateReleased": "2024-07-23T00:04:43.19Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/just-ctgui",
+            "sourceUrl": "https://github.com/300f20t/Just-CTGUI"
+          },
+          "logo": {
+            "id": 860993,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/860/993/256/256/638268133139559915.png",
+            "title": "638268133139559915.png",
+            "url": "https://media.forgecdn.net/avatars/860/993/638268133139559915.png",
+            "modId": 899032
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 796818,
+              "description": "2024-01-26_19.26.20.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/796/818/310/172/2024-01-26_19.png",
+              "title": "Demonstration of the mod's work",
+              "url": "https://media.forgecdn.net/attachments/796/818/2024-01-26_19.png",
+              "modId": 899032
+            },
+            {
+              "id": 796817,
+              "description": "2024-01-26_19.25.06.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/796/817/310/172/2024-01-26_19.png",
+              "title": "Demonstration of the mod's work",
+              "url": "https://media.forgecdn.net/attachments/796/817/2024-01-26_19.png",
+              "modId": 899032
+            },
+            {
+              "id": 708045,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/708/45/310/172/2023-08-07_11.png",
+              "title": "Demonstration of the mod's work",
+              "url": "https://media.forgecdn.net/attachments/708/45/2023-08-07_11.png",
+              "modId": 899032
+            },
+            {
+              "id": 708044,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/708/44/310/172/2023-08-07_11.png",
+              "title": "Demonstration of the mod's work",
+              "url": "https://media.forgecdn.net/attachments/708/44/2023-08-07_11.png",
+              "modId": 899032
+            },
+            {
+              "id": 708043,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/708/43/310/172/logo-jctgui-2-2.png",
+              "title": "mod logo",
+              "url": "https://media.forgecdn.net/attachments/708/43/logo-jctgui-2-2.png",
+              "modId": 899032
+            }
+          ],
+          "mainFileId": 5555971
+        },
+        "curseForgeFile": {
+          "id": 5532496,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "just_ctgui-0.1.5_release-forge-1.20.1.jar",
+          "fileName": "just_ctgui-0.1.5_release-forge-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-14T18:46:24.19Z",
+          "fileLength": 544091,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1855865533,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 317569803,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4104995348,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2981455045,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2776600739,
+              "name": "mixins.just_ctgui.json"
+            },
+            {
+              "fingerprint": 242068445,
+              "name": "net"
+            },
+            {
+              "fingerprint": 221054680,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d988306c5022b2daef24e216cfc40908f4f4ccc9",
+              "algo": 1
+            },
+            {
+              "value": "fb3c17463966fdee7115401e5c1b2d30",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2810608014,
+          "modId": 899032
+        },
+        "modrinthProject": {
+          "id": "uQorKjjW",
+          "slug": "just-ctgui",
+          "project_type": "mod",
+          "team": "zKrL6CMU",
+          "title": "Just CTGUI",
+          "description": "The Just Craft Tweaker GUI mod provides a visual recipe editor in minecraft using Craft Tweaker and a simple Zen Script programming language.",
+          "body": "### [**![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/requires/fabric-api_vector.svg)**](https://modrinth.com/mod/fabric-api) [**![](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/curseforge_vector.svg)**](https://www.curseforge.com/minecraft/mc-mods/just-ctgui)\n\n<h3>What is this mod and how to use it?</h3>\n\nThe Just Craft Tweaker GUI mod provides a visual recipe editor in minecraft using Craft Tweaker and a simple Zen Script programming language. To be more precise, it is not an additional mod for Craft Tweaker, but simply adds a visual editor to the game and automatic code generation in Zen Script.\n\nIt is very easy to use this mod, it is enough to install the mod on the server and client, if desired, you can install Craft Tweaker for ease of development, but this is optional. Thanks to this, you can start creating your own recipes for assembly even before the official release of Craft Tweaker on this version. Thus, the recipes will not work in the game, but when the craft tweaker is installed, they will all work.\n\nAfter installing JCTGUI and CT on the server and client, you can start creating the first recipe. To do this, open the chat and register the beginning of the command \"/ctgui\" and press the space bar. Then you will have several options for crafting blocks. At the moment, only \"crafting_table\" is supported and press the space bar. Next, you need to select an action. At the moment, you can only \"open\". As a result, our command should look something like this before executing: **/ctgui crafting_table create**\n\nThen we will open the GUI itself. Before opening, take the items from which you want to craft into your inventory. When the GUI is open, you can see an interface similar to crafting table, in which you need to lay out the recipe. Creating using items from other mods is possible, but errors may occur. When you have posted your recipe, you can click the Generate button to generate Zen Script code. The generated code will appear in your chat and you can check it for errors if you understand this language. Then you can click the Save button and the recipe will be automatically saved to the Scripts folder called generated1.zs. It is not possible to choose the name of the recipe and file manually yet, and this happens automatically.\n\nNow that the recipe has been created, you need to update the list of Craft Tweaker recipes. This can be done by logging back into minecraft or by running the command below: **/reload**\n\n<h3>A little history of creation and plans for the future.</h3>\n\nThis mod was created by me for myself and was supposed to help me create my minecraft builds, but soon a bug occurred, because of which I could not continue development. And today, as I write this, I fixed this bug and improved the code generation mechanism.\n\nHere are some plans for the future and a roadmap for the development of the mod, the elements in it are distributed according to the degree of importance and complexity of implementation:\n\nThe Todo list can be found here: https://github.com/300f20t/Just-CTGUI/issues/3\n\nMy discord server: https://discord.gg/y3xkvMrYt6\n\n_-This mod is not maintained or supported by the the creators of  Craft Tweaker._",
+          "published": "2023-08-05T04:44:18.273316Z",
+          "updated": "2024-07-23T00:05:54.841240Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "management",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/uQorKjjW/a06451d7d462d6edad25a84e59b515bf7038de8b.png",
+          "issues_url": "https://github.com/300f20t/Just-CTGUI/issues",
+          "source_url": "https://github.com/300f20t/Just-CTGUI",
+          "discord_url": "https://discord.gg/y3xkvMrYt6",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/uQorKjjW/images/04c6e9f9f90c8910f00e291c9b6467a41754aacb.png",
+              "featured": false,
+              "created": "2023-08-07T09:02:37.105294Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/uQorKjjW/images/e8844bedbfdfe7d5a5efdf2a343132166be2c186.png",
+              "featured": true,
+              "created": "2023-08-05T04:46:47.056858Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/uQorKjjW/images/ff0696dddfceabaf084e41650206b8f8acf329fd.png",
+              "featured": false,
+              "created": "2023-08-07T09:02:21.023183Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ZO39JcSh",
+          "project_id": "uQorKjjW",
+          "author_id": "4tbGGrq5",
+          "name": "Just CTGUI 0.1.5",
+          "version_number": "0.1.5",
+          "changelog": "Minor fixes. Downgraded to 1.20.1.",
+          "date_published": "2024-07-14T18:48:55.528347Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d988306c5022b2daef24e216cfc40908f4f4ccc9",
+                "sha512": "6ce79b599fc9e2e7e43816cc606f329ca1aecbc9e571c9adff5c882cdf08f31aed4b498d1a15b99f99aba761fe33c25bd17ae2a97cbe0e7fa017804a083adc39"
+              },
+              "url": "https://cdn.modrinth.com/data/uQorKjjW/versions/ZO39JcSh/just_ctgui-0.1.5_release-forge-1.20.1.jar",
+              "filename": "just_ctgui-0.1.5_release-forge-1.20.1.jar",
+              "primary": true,
+              "size": 544091
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Xg35A4rS",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1721948188796,
-    "numPlays": 16
+    "lastPlayed": 1721955178470,
+    "numPlays": 17
   },
   "id": "1.20.1",
   "complianceLevel": 1,

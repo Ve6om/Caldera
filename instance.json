@@ -18091,931 +18091,6 @@
         }
       },
       {
-        "name": "Embeddium",
-        "version": "[1.20.1] Embeddium 0.3.27",
-        "optional": false,
-        "file": "embeddium-0.3.27+mc1.20.1.jar",
-        "type": "mods",
-        "description": "A performance-enhancing client mod (based on Sodium) prioritizing reliability & mod compatibility",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 908741,
-        "curseForgeFileId": 5556138,
-        "curseForgeProject": {
-          "id": 908741,
-          "name": "Embeddium",
-          "authors": [
-            {
-              "id": 101435003,
-              "name": "embeddedt",
-              "url": "https://www.curseforge.com/members/embeddedt"
-            }
-          ],
-          "gameId": 432,
-          "summary": "An open-source client performance mod for Minecraft (based on Sodium 0.5.8) prioritizing reliability & mod compatibility",
-          "categories": [
-            {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 6814,
-          "classId": 6,
-          "slug": "embeddium",
-          "isFeatured": false,
-          "dateModified": "2024-07-23T01:23:48.257Z",
-          "dateCreated": "2023-08-31T22:33:13.537Z",
-          "dateReleased": "2024-07-23T01:19:19.397Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
-            "wikiUrl": "https://github.com/embeddedt/embeddium/wiki",
-            "issuesUrl": "https://github.com/embeddedt/embeddium/issues",
-            "sourceUrl": "https://github.com/embeddedt/embeddium"
-          },
-          "logo": {
-            "id": 893778,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/893/778/256/256/638336829931216743.png",
-            "title": "638336829931216743.png",
-            "url": "https://media.forgecdn.net/avatars/893/778/638336829931216743.png",
-            "modId": 908741
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5556146
-        },
-        "curseForgeFile": {
-          "id": 5556138,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[1.20.1] Embeddium 0.3.27",
-          "fileName": "embeddium-0.3.27+mc1.20.1.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-07-23T01:14:29.507Z",
-          "fileLength": 1315841,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 920924132,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2226923820,
-              "name": "COPYING"
-            },
-            {
-              "fingerprint": 1136524626,
-              "name": "COPYING.LESSER"
-            },
-            {
-              "fingerprint": 859634317,
-              "name": "README.md"
-            },
-            {
-              "fingerprint": 1354940893,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1200891204,
-              "name": "embeddium-refmap.json"
-            },
-            {
-              "fingerprint": 3903890000,
-              "name": "embeddium.mixins.json"
-            },
-            {
-              "fingerprint": 318634973,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 2533547597,
-              "name": "icon.svg"
-            },
-            {
-              "fingerprint": 4014633969,
-              "name": "licenses"
-            },
-            {
-              "fingerprint": 2857455806,
-              "name": "me"
-            },
-            {
-              "fingerprint": 3474788070,
-              "name": "net"
-            },
-            {
-              "fingerprint": 2562400510,
-              "name": "org"
-            },
-            {
-              "fingerprint": 3323427021,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "f13c5ab8b4090b7a7a887c9b3ac6d1a5e2214702",
-              "algo": 1
-            },
-            {
-              "value": "b83c22c76ffc90b382d380a8dcf08b83",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 2226682459,
-          "modId": 908741
-        },
-        "modrinthProject": {
-          "id": "sk9rgfiA",
-          "slug": "embeddium",
-          "project_type": "mod",
-          "team": "4VBpO7y2",
-          "title": "Embeddium",
-          "description": "A performance-enhancing client mod (based on Sodium) prioritizing reliability & mod compatibility",
-          "body": "# Embeddium\n\nEmbeddium is a free and open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility.\n\nDespite being forked from Sodium, Embeddium is **not supported by CaffeineMC**. Do not report issues encountered with it to their bug tracker or in their Discord. I have my own [Discord server](https://discord.gg/rN9Y7caguP) for my mods.\n\n## Highlights\n\n* All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements\n* Available for Minecraft Forge on 1.20.1 and older, Fabric on 1.20.1-1.20.6, and NeoForge on 1.20.1 and newer\n* Integrated Fabric Rendering API support (Indium is no longer required, and will not work with Embeddium)\n* Frequent patch updates to fix mod compatibility issues soon after being reported & reproduced\n* Additional APIs for mod integration\n* Optional support for translucency sorting (can be enabled in Video Settings)\n\n## For developers\n\nIf you're looking to add Embeddium to your development environment, please take a look at the [dedicated wiki page](https://github.com/embeddedt/embeddium/wiki/For-Developers) for instructions & recommended guidelines for integration.\n\n## Credits\n\n* JellySquid & the CaffeineMC team, for making Sodium in the first place, without which this project would not be possible\n* Asek3, for the initial port to Forge\n* XFactHD, for providing a list of gamebreaking Rubidium issues to start this work off, and for testing early builds\n* Pepper, for their invaluable assistance with getting Forge lighting to work on Sodium 0.5\n* @CelestialAbyss and @input-Here for making the new logo design\n\n## License\n\nEmbeddium is distributed under the Lesser GNU General Public License version 3. For more details, refer to our [GitHub](https://github.com/embeddedt/embeddium) repository.",
-          "published": "2023-09-01T13:13:55.152605Z",
-          "updated": "2024-07-23T01:19:19.180520Z",
-          "status": "approved",
-          "license": {
-            "id": "LGPL-3.0-only",
-            "name": "GNU Lesser General Public License v3.0 only"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "optimization"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/sk9rgfiA/7f5be8843494e3c34bd628143cbb07bc6cbc77f7.png",
-          "issues_url": "https://github.com/embeddedt/embeddium/issues",
-          "source_url": "https://github.com/embeddedt/embeddium",
-          "discord_url": "https://discord.gg/rN9Y7caguP",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/embeddedt"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/sk9rgfiA/images/84451725b6fca79230b02c53966ff820b7e1b9f7.png",
-              "featured": false,
-              "title": "Rebuilt config screen",
-              "description": "Derived from Reese's Sodium Options, with additional improvements such as grouping pages by mod, and an API for mods to add their own options to the screen",
-              "created": "2024-05-18T02:08:47.291302Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/sk9rgfiA/images/9d00ad6364d8d002ef1244795559a54ab2c79cb9.png",
-              "featured": false,
-              "title": "Translucency sorting",
-              "description": "Translucent blocks are rendered correctly even when behind other translucent blocks (when enabled in Video Settings->Quality).",
-              "created": "2024-05-18T01:51:37.704659Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/sk9rgfiA/images/d4f4c086bb168dc87cff77b5f13b1a86fb404c10.png",
-              "featured": false,
-              "title": "Integrated Fabric Rendering API support",
-              "description": "Indium is not required; content mods using FRAPI features will work out of the box. Shown here are AE2 and Continuity.",
-              "created": "2024-05-18T02:02:10.173143Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "ylN2s7IP",
-          "project_id": "sk9rgfiA",
-          "author_id": "6bGskxLV",
-          "name": "[1.20.1] Embeddium 0.3.27",
-          "version_number": "0.3.27+mc1.20.1",
-          "changelog": "https://github.com/embeddedt/embeddium/wiki/Changelog",
-          "date_published": "2024-07-23T01:14:30.020554Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "f13c5ab8b4090b7a7a887c9b3ac6d1a5e2214702",
-                "sha512": "d8d18440da8a4615f9c1ca83efbeb00ae9b4eba8027ec6af84ce653b007f454a3e484bd22427914ba8aa66e11eb30e801072a7199fb1aabe8c3a2afc48c66ebf"
-              },
-              "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/ylN2s7IP/embeddium-0.3.27%2Bmc1.20.1.jar",
-              "filename": "embeddium-0.3.27+mc1.20.1.jar",
-              "primary": true,
-              "size": 1315841
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "4ZqxOvjD"
-            },
-            {
-              "project_id": "S1tndFDa"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge",
-            "neoforge"
-          ]
-        }
-      },
-      {
-        "name": "Embeddium++",
-        "version": "Embeddium++/1.20.1/v1.2.13",
-        "optional": false,
-        "file": "embeddiumplus-1.20.1-v1.2.13.jar",
-        "type": "mods",
-        "description": "Mod who gives a plus to Embeddium",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 931925,
-        "curseForgeFileId": 5436746,
-        "curseForgeProject": {
-          "id": 931925,
-          "name": "Embeddium++",
-          "authors": [
-            {
-              "id": 103883049,
-              "name": "SrRapero720",
-              "url": "https://www.curseforge.com/members/srrapero720"
-            }
-          ],
-          "gameId": 432,
-          "summary": "The most reliable extension for Embeddium, providing performance features and quality options. Everything configurable and compatible with all your mods",
-          "categories": [
-            {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 6814,
-          "classId": 6,
-          "slug": "embeddiumplus",
-          "isFeatured": false,
-          "dateModified": "2024-06-17T02:51:52.117Z",
-          "dateCreated": "2023-11-02T04:04:45.497Z",
-          "dateReleased": "2024-06-17T02:43:14.247Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/embeddiumplus",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/SrRapero720/EmbeddiumPlus/issues",
-            "sourceUrl": "https://github.com/SrRapero720/EmbeddiumPlus"
-          },
-          "logo": {
-            "id": 914949,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/914/949/256/256/638372448804340818.png",
-            "title": "638372448804340818.png",
-            "url": "https://media.forgecdn.net/avatars/914/949/638372448804340818.png",
-            "modId": 931925
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 791867,
-              "description": "Embeddium++Cover",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/791/867/310/172/cover-fix.png",
-              "title": "Cover",
-              "url": "https://media.forgecdn.net/attachments/791/867/cover-fix.png",
-              "modId": 931925
-            },
-            {
-              "id": 789143,
-              "description": "emb++badged-explain-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/143/310/172/emb-badged-explain-min.png",
-              "title": "emb++badged-explain-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/143/emb-badged-explain-min.png",
-              "modId": 931925
-            },
-            {
-              "id": 789138,
-              "description": "fps-display-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/138/310/172/fps-display-min.png",
-              "title": "fps-display-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/138/fps-display-min.png",
-              "modId": 931925
-            },
-            {
-              "id": 789140,
-              "description": "entity-distance-culling-plus-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/140/310/172/entity-distance-culling-plus-min.png",
-              "title": "entity-distance-culling-plus-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/140/entity-distance-culling-plus-min.png",
-              "modId": 931925
-            },
-            {
-              "id": 789142,
-              "description": "fast-models-plus-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/142/310/172/fast-models-plus-min.png",
-              "title": "fast-models-plus-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/142/fast-models-plus-min.png",
-              "modId": 931925
-            },
-            {
-              "id": 789139,
-              "description": "true-darkness-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/139/310/172/true-darkness-min.png",
-              "title": "true-darkness-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/139/true-darkness-min.png",
-              "modId": 931925
-            },
-            {
-              "id": 789134,
-              "description": "misc-features-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/134/310/172/misc-features-min.png",
-              "title": "misc-features-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/134/misc-features-min.png",
-              "modId": 931925
-            },
-            {
-              "id": 789135,
-              "description": "emb++thefuture-min.png",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/135/310/172/emb-thefuture-min.png",
-              "title": "emb++thefuture-min.png",
-              "url": "https://media.forgecdn.net/attachments/789/135/emb-thefuture-min.png",
-              "modId": 931925
-            }
-          ],
-          "mainFileId": 5436750
-        },
-        "curseForgeFile": {
-          "id": 5436746,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Embeddium++/1.20.1/v1.2.13",
-          "fileName": "embeddiumplus-1.20.1-v1.2.13.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-06-17T02:39:55.22Z",
-          "fileLength": 895427,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 908741,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 927564,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1177190364,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1489276643,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 387637290,
-              "name": "embeddiumplus.mixin-refmap.json"
-            },
-            {
-              "fingerprint": 4054476277,
-              "name": "embeddiumplus.mixin.json"
-            },
-            {
-              "fingerprint": 2528520141,
-              "name": "me"
-            },
-            {
-              "fingerprint": 3824615197,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 3459600532,
-              "name": "pack.png"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
-              "algo": 1
-            },
-            {
-              "value": "e370f41a09f9d1bfd90e89044230d3a8",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "NeoForge",
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 2532503508,
-          "modId": 931925
-        },
-        "modrinthProject": {
-          "id": "yD9qW65f",
-          "slug": "embeddiumplus",
-          "project_type": "mod",
-          "team": "9ZDbJI1u",
-          "title": "Embeddium++",
-          "description": "Mod who gives a plus to Embeddium",
-          "body": "[![Downloads](https://cf.way2muchnoise.eu/embeddiumplus.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus)\n[![Available for](https://cf.way2muchnoise.eu/versions/embeddiumplus.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/files)\n[![Latest Version](https://img.shields.io/curseforge/v/931925?style=for-the-badge&label=curseforge&labelColor=%232d2d2d&color=%23e04e14&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fwatermedia%2Ffiles)](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/files)\n[![Discord community](https://dcbadge.vercel.app/api/server/cuYAzzZ)](https://discord.gg/cuYAzzZ)\n[![Static Badge](https://img.shields.io/badge/POWERED_BY-ZUME_(by_nolij)-ff4040?style=for-the-badge&labelColor=%23111111&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fzume)](https://www.curseforge.com/minecraft/mc-mods/zume)\n[![Modrinth Downloads](https://img.shields.io/modrinth/dt/embeddiumplus?style=for-the-badge&logo=modrinth&label=MODRINTH&color=%231bd96a)](https://modrinth.com/mod/embeddiumplus)\n\n\n[![Embeddium++Banner](https://i.imgur.com/oBLXT7n.png)](https://github.com/SrRapero720/EmbeddiumPlus)\n\nThe best complement for embeddium, giving it some extras in performance and game quality.<br>\nProvides a bunch of options to speed up your FPS, like fast models, entity distance culling, font shadows toggle, JEI hiding and more\n\n~~It Also includes their own dynamic lights system~~ - *(soon)*\n\n---\n\n# ⚠️ IMPORTANT\nThis mod is a remplacement of [Magnesium/Rubidium Extras](https://github.com/anthxnymc/MagnesiumExtras), \n~~[DynamicLights Reforged](https://github.com/anthxnymc/DynamicLightsReforged)~~\nand many other mods referenced in the [Gallery](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/screenshots). \nIf you have any of them or similar, you should remove them, may crash, collide or cause lag.\n\n# 🔧 FEATURES\n\n### [⚡] PERFORMANCE\n\n- ~~**[💡] Dynamic Lights:**~~ (**Soon™️** will be back)\n- **[🐄] Entity Distance Culling:** Stops rendering and ticking on client side of **Entities** and **Block entities** too far away.\n  - You can ignore specific entities in mod config adding them on the whitelist (requires resource name)\n  - Example: ``minecraft:bat`` skips bats only, `alexsmobs:*` skips all Alex's Mobs entities.\n- **[🕯️] True Darkness:** When low brightness isn't enough in your terror modpacks, we can make it **Really Dark**.\n- **[👟] Fast Models:** Disable the unoptimized dynamic **Chest** and **Bed** models and use static ones\n- **[🔦] Hide JEI:** Now doesn't render **JEI items** until you **search** for something\n- **[🌎] Fast Language Reload:** No more wait 2 minutes just to change your language\n\n### [👓] QUALITY\n\n- **[🧮] FPS Display:** Shows your current, min and average **FPS**, **Memory** usage percent and **GPU** usage percent.\n    - You can place it anywhere of your top corners\n- **[🖥️] Borderless FullScreen:** gives Image-In-Image support, and you can use ALT+TAB faster\n    - Using F11 also switch to Borderless FullScreen (can be disabled)\n- **[🌁] Toggle Fog:** Disables overworld fog.\n- **[🔳] Toggle Text Shadows:** Menus have a flat-style and might increase FPS using [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3))\n- **[🔍] Zoom Key:** Powered by [Zume](https://www.curseforge.com/minecraft/mc-mods/zume). Let you see your friends and enemies from far away\n- **~~[👁️] Chunk Fade In~~:** (**Soon™️** will be back)\n\n\n# ☕ SUPPORT ME\n\nYou can support me on: \n[PayPal](https://paypal.me/SrRapero720) | \n[Boss Revolution](https://www.bossrevolution.com/es-us/country/mexico/send-money) - BANK: BBVA / CLABE: `012180015606063111`<br>\nOr buy a server using my coupon code and get 15% discount in your first purchase\nI use the money to buy coffee, sleep less and program more\n\n![KineticHosting sponsor](https://media.discordapp.net/attachments/1076151535291088916/1107066110492278856/watermods.png \"KineticHosting sponsor code WATERMoDS\")\n\n---\n\n# 🔰 VERSION 1.16.5\n\nI decide to skip that version in favor of\n[Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/embeddium-extras) by PotatoBoy (aka TexTure).\nIt Is too good like Embeddium++, Shares features and has more Performance fixes and features.\n\n# 👥 COMMUNITY AND SUPPORT\n\nHave some questions?\nBugs? \nOr want to say something to my [stupid face](https://www.youtube.com/watch?v=4NqHV1BpQHQ)? \nThen my [discord](https://discord.gg/cuYAzzZ) is the place you're looking for.\nI am always around, only have to throw your question, and I will answer\n\n# ⏩ THE FUTURE OF EMBEDDIUM++\n\nBefore I place some jokes, but this time I am 100% sure. \nAll [Sodium Extras](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) will be added\nonto Embeddium++, making OBSOLETE some ports of it like Rubidium (Embeddium) Extra.\n\nCreate the first API around Sodium config page and include some misc optimization options like Cull Leaves\nand quality features like Shadow Path Blocks\n\nEnviddium (Nvidium port) will be a separated mod; I don't think it is a good idea to add it on embeddium++.\nYou can speed porting donating me, so I can afford a second-hand GTX 1660), you cannot, and anyway, I'll do it :)\n\nSodium++ will exist... *soon™️*",
-          "published": "2023-12-11T09:26:47.447544Z",
-          "updated": "2024-06-17T02:46:22.583516Z",
-          "status": "approved",
-          "license": {
-            "id": "WTFPL",
-            "name": "Do What The F*ck You Want To Public License",
-            "url": "https://spdx.org/licenses/WTFPL.html"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "optimization"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/yD9qW65f/1d783f10ded32fbb48f4a5d8f7203fa45dc8e143.jpeg",
-          "issues_url": "https://github.com/SrRapero720/EmbeddiumPlus/issues",
-          "source_url": "https://github.com/SrRapero720/EmbeddiumPlus",
-          "wiki_url": "https://github.com/SrRapero720/waterframes/wiki",
-          "discord_url": "https://discord.gg/cuYAzzZ",
-          "donation_urls": [
-            {
-              "id": "paypal",
-              "platform": "Paypal",
-              "url": "https://paypal.me/SrRapero720"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/1c533ca52def910d8966539e7ee7cb47552f2332.png",
-              "featured": true,
-              "title": "Cover",
-              "description": "Mod cover",
-              "created": "2024-01-14T04:17:14.375396Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/e0d91fe8f1242492ad2a479b4f72820085961d4e.png",
-              "featured": false,
-              "title": "Badges explain",
-              "description": "Relevance is on nexts pictures",
-              "created": "2024-01-13T10:01:24.370960Z",
-              "ordering": 1.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/535850c5583c12841b543eec59af2e883fc4c4af.png",
-              "featured": false,
-              "title": "FPS Display++",
-              "description": "FPS | MIN FPS | AVG FPS - GPU % | RAM %\nIn that order",
-              "created": "2024-01-13T10:02:40.346014Z",
-              "ordering": 2.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/dc301ca58de9d914a912deea1dc4430869ec8885.png",
-              "featured": false,
-              "title": "Entity Distance Culling++",
-              "description": "Stupid neighbor with that stupid mob farm.\nYou can cull all of them and recover FPS",
-              "created": "2024-01-13T10:03:53.837706Z",
-              "ordering": 3.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/232a18892cb36039f37dd9809d5b3dfc5bb7eca8.png",
-              "featured": false,
-              "title": "Fast Models++",
-              "description": "Change dynamic models of chests and beds and uses a static model that helps to your FPS",
-              "created": "2024-01-13T10:07:36.404450Z",
-              "ordering": 5.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/f6683236a5db3866a0b5166cba9abb1d8ca14e40.png",
-              "featured": false,
-              "title": "True Darkness++",
-              "description": "Involve your world into a real nightmare",
-              "created": "2024-01-13T10:08:25.236472Z",
-              "ordering": 6.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/312db081392c901fd7bf64fe53641adf3d2afc46.png",
-              "featured": false,
-              "title": "Misc Features",
-              "description": "You didn't ask for it but you need it",
-              "created": "2024-01-13T10:18:23.542659Z",
-              "ordering": 7.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/ffd7a4747d31d7c3f874f30850a49a51451fd87a.png",
-              "featured": false,
-              "title": "The future and the ++",
-              "created": "2024-01-13T10:09:08.919166Z",
-              "ordering": 8.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "KEd4eJfk",
-          "project_id": "yD9qW65f",
-          "author_id": "MIVwsmWD",
-          "name": "Embeddium++/1.20.1/v1.2.13",
-          "version_number": "1.20.1-v1.2.13",
-          "changelog": "# RELEASE 1.2.13\n- [🐛] Fixed crashes due to non-renamed accessors (fixes BadOptimizations mod crashes)\n",
-          "date_published": "2024-06-17T02:40:00.444818Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "2ea60376eecaf859b3303d46cc8b593e3121ce5487f97db2a60ec0025327ae740c9d28fb5523fcae32da0a3de010e5f1b59024c1cfa9f1547116668ac04de278",
-                "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
-              },
-              "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/KEd4eJfk/embeddiumplus-1.20.1-v1.2.13.jar",
-              "filename": "embeddiumplus-1.20.1-v1.2.13.jar",
-              "primary": true,
-              "size": 895427
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "aWDwN8NN"
-            },
-            {
-              "project_id": "o6qsdrrQ",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "sk9rgfiA",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge",
-            "neoforge"
-          ]
-        }
-      },
-      {
-        "name": "Embeddium (Rubidium) Extra",
-        "version": "[(Neo)Forge 1.20.1] v0.5.4.3",
-        "optional": false,
-        "file": "rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
-        "type": "mods",
-        "description": "Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 654373,
-        "curseForgeFileId": 5299719,
-        "curseForgeProject": {
-          "id": 654373,
-          "name": "Embeddium (Rubidium) Extra",
-          "authors": [
-            {
-              "id": 102141805,
-              "name": "dimadencep",
-              "url": "https://www.curseforge.com/members/dimadencep"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "rubidium-extra",
-          "isFeatured": false,
-          "dateModified": "2024-07-23T03:38:18.333Z",
-          "dateCreated": "2022-08-03T02:44:39.527Z",
-          "dateReleased": "2024-07-23T03:32:52.287Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rubidium-extra",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/dima-dencep/rubidium-extra/issues",
-            "sourceUrl": "https://github.com/dima-dencep/rubidium-extra"
-          },
-          "logo": {
-            "id": 587602,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/587/602/256/256/637956775773435327.png",
-            "title": "637956775773435327.png",
-            "url": "https://media.forgecdn.net/avatars/587/602/637956775773435327.png",
-            "modId": 654373
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 483056,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/56/310/172/r6e9bjl.png",
-              "title": "Fog",
-              "url": "https://media.forgecdn.net/attachments/483/56/r6e9bjl.png",
-              "modId": 654373
-            },
-            {
-              "id": 483055,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/55/310/172/ejdl7z7.png",
-              "title": "Smoke Particles",
-              "url": "https://media.forgecdn.net/attachments/483/55/ejdl7z7.png",
-              "modId": 654373
-            }
-          ],
-          "mainFileId": 5556336
-        },
-        "curseForgeFile": {
-          "id": 5299719,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[(Neo)Forge 1.20.1] v0.5.4.3",
-          "fileName": "rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-04-28T21:42:15.957Z",
-          "fileLength": 544113,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 908741,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 581495,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 5299720,
-          "modules": [
-            {
-              "fingerprint": 2706477403,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1136524626,
-              "name": "LICENSE.txt"
-            },
-            {
-              "fingerprint": 3677595737,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2178047624,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 412179423,
-              "name": "me"
-            },
-            {
-              "fingerprint": 3589546603,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1787015179,
-              "name": "rubidium-extra-refmap.json"
-            },
-            {
-              "fingerprint": 369665014,
-              "name": "sodium-extra.mixins.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba",
-              "algo": 1
-            },
-            {
-              "value": "f61cc3ea7c32ce7839467caf0ac0f113",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 806811605,
-          "modId": 654373
-        },
-        "modrinthProject": {
-          "id": "oY2B1pjg",
-          "slug": "rubidium-extra",
-          "project_type": "mod",
-          "team": "wUaVjvCN",
-          "title": "Embeddium (Rubidium) Extra",
-          "description": "Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge",
-          "body": "# What is Embeddium Extra?\nRubidium Extra is an unofficial fork of [Sodium Extra](https://modrinth.com/mod/sodium-extra) for Forge that aims to bring most of the OptiFine features to Rubidium, as well as providing some features such as visual bug fixes and other performance features not yet available in Embeddium.\n\n# Rubidium or Embeddium\nDespite the name, Rubidium Extra is being developed for Embeddium (for the sole reason that it is faster to update). I have no desire to do a complete rebranding, Rubidium compatibility is still a priority, but sometimes you may need to download an older version of Rubidium Extra for the game to work properly!\n\n# Features\nHere is a basic rundown of what this mod does.\n+ Animations Settings (Control fire, water, lava, block animations and etc...)\n+ Particles Settings (Control all types of particles, including ones from other mods)\n+ Details Settings (Control sky, stars, sun/moon, weather, and much more)\n+ Render Settings (Control fog, static entities, and other miscellaneous renderings)\n+ Extra Settings (Display FPS, coordinates, toast notifications, clouds, and much more)\n\nSee a more detailed explanation of what features are included in Embeddium Extra [here](https://github.com/FlashyReese/sodium-extra-fabric/wiki/Features).\n\n# Modpack Permissions\nThis is a free and open-source project; you can include it in your mod pack as long as you provide attribution!\n\n# Common Questions\n+ **Do I need Rubidium/Embeddium installed for this mod to work?** You will need to download Rubidium or Embeddium for this mod to work.\n+ **Can I re-host/upload this mod somewhere else?** No.\n+ **Will you add x features to this mod?** Ask the original author about it, you can do it [here](https://github.com/FlashyReese/sodium-extra-fabric/issues).\n+ **For any other questions, please contact our [discord](https://discord.gg/jdB5JYX7W7 \"Discord\")!**\n\n#### Some information copied from the [official page](https://modrinth.com/mod/sodium-extra) of the mod.",
-          "published": "2022-08-03T10:46:44.710306Z",
-          "updated": "2024-07-23T03:32:53.776818Z",
-          "status": "approved",
-          "license": {
-            "id": "LGPL-3.0-only",
-            "name": "GNU Lesser General Public License v3.0 only"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "cursed",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/oY2B1pjg/e21509d986b82e5a09e46682afd7644ce119cc26.webp",
-          "issues_url": "https://github.com/dima-dencep/rubidium-extra/issues",
-          "source_url": "https://github.com/dima-dencep/rubidium-extra",
-          "wiki_url": "https://github.com/FlashyReese/sodium-extra-fabric/wiki",
-          "discord_url": "https://discord.gg/jdB5JYX7W7",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/oY2B1pjg/images/3d4239ddc87fb72eb307cb396428b4c9d357f09d.png",
-              "featured": false,
-              "title": "Smoke Particles",
-              "created": "2022-08-03T10:46:42.777942Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/oY2B1pjg/images/f8654c9f9e83b61bbb3947b5307a626b55ee5b02.png",
-              "featured": false,
-              "title": "Fog",
-              "created": "2022-08-03T10:46:42.777942Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "6Iycptzn",
-          "project_id": "oY2B1pjg",
-          "author_id": "caWpagRT",
-          "name": "[(Neo)Forge 1.20.1] v0.5.4.3",
-          "version_number": "0.5.4.3+mc1.20.1-build.121",
-          "changelog": "- [066b4da](http://github.com/dima-dencep/rubidium-extra/commit/066b4da0e1abe3939e6b092ca4cd0daa2b6d2d00) - Oculus 1.7 compat",
-          "date_published": "2024-04-28T21:42:19.236873Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "31a7b12d8c5058c7032fb1640f9480814bf64b498553b66c8409ffa10b0671bc92242e1bad1e6529de976abc179a5e7de43f243bb218dbb0d7310a2bed07b516",
-                "sha1": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba"
-              },
-              "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/6Iycptzn/rubidium-extra-0.5.4.3%2Bmc1.20.1-build.121.jar",
-              "filename": "rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
-              "primary": true,
-              "size": 544113
-            },
-            {
-              "hashes": {
-                "sha512": "9875fe34ac072740bbf9154f3b8dd4a6eb90844737c17518e6ee52477a99fb07816c8cda365170cee514c7462334dfee0a2ead48e65651d27edbf949354e40a3",
-                "sha1": "741cfbb5a44f003b9f4bad7cd952b29c160b5ae0"
-              },
-              "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/6Iycptzn/rubidium-extra-0.5.4.3%2Bmc1.20.1-build.121-sources.jar",
-              "filename": "rubidium-extra-0.5.4.3+mc1.20.1-build.121-sources.jar",
-              "primary": false,
-              "size": 298182
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "GchcoXML",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "sk9rgfiA",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge",
-            "neoforge"
-          ]
-        }
-      },
-      {
         "name": "Structure Essentials[Forge/Fabric]",
         "version": "structureessentials-1.20.1-3.4.jar",
         "optional": false,
@@ -23529,171 +22604,6 @@
           "loaders": [
             "forge"
           ]
-        }
-      },
-      {
-        "name": "Embeddium/Rubidium Dynamic Lights",
-        "version": "dynamiclightsreforged-1.20.1_v1.6.0.jar",
-        "optional": false,
-        "file": "dynamiclightsreforged-1.20.1_v1.6.0.jar",
-        "type": "mods",
-        "description": "A dynamic lighting mod that works with Forge Sodium (Embeddium or Rubidium)",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 551736,
-        "curseForgeFileId": 4731947,
-        "curseForgeProject": {
-          "id": 551736,
-          "name": "Embeddium/Rubidium Dynamic Lights",
-          "authors": [
-            {
-              "id": 102782844,
-              "name": "Txni",
-              "url": "https://www.curseforge.com/members/txni"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A dynamic lighting mod that works with Forge Sodium (Embeddium or Rubidium)",
-          "categories": [
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 424,
-          "classId": 6,
-          "slug": "dynamiclights-reforged",
-          "isFeatured": false,
-          "dateModified": "2023-09-01T06:34:46.38Z",
-          "dateCreated": "2021-12-02T03:36:35.27Z",
-          "dateReleased": "2023-09-01T06:29:32.573Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/TeamDeusVult/DynamicLightsReforged/issues",
-            "sourceUrl": "https://github.com/anthxnymc/DynamicLightsReforged"
-          },
-          "logo": {
-            "id": 469256,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/469/256/256/256/637754473832817728.png",
-            "title": "637754473832817728.png",
-            "url": "https://media.forgecdn.net/avatars/469/256/637754473832817728.png",
-            "modId": 551736
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4731947
-        },
-        "curseForgeFile": {
-          "id": 4731947,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "dynamiclightsreforged-1.20.1_v1.6.0.jar",
-          "fileName": "dynamiclightsreforged-1.20.1_v1.6.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-09-01T06:29:32.573Z",
-          "fileLength": 94614,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 558905,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 574856,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 66915100,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3977364015,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 4212797587,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 313225015,
-              "name": "dynamiclightsreforged.mixins.json"
-            },
-            {
-              "fingerprint": 1931709995,
-              "name": "lambdynlights.toml"
-            },
-            {
-              "fingerprint": 1438559181,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1232094082,
-              "name": "dynamiclightsreforged.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "323498a94ba91e24417c0ae1bc34bb4b461c0a3a",
-              "algo": 1
-            },
-            {
-              "value": "f8f506d864082aa61b3e38d249542f40",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "NeoForge",
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 2811927648,
-          "modId": 551736
         }
       },
       {
@@ -53773,13 +52683,1582 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Embeddium",
+        "version": "[1.20.1] Embeddium 0.3.28",
+        "optional": true,
+        "file": "embeddium-0.3.28+mc1.20.1.jar",
+        "type": "mods",
+        "description": "An open-source client performance mod for Minecraft (based on Sodium 0.5.8) prioritizing reliability & mod compatibility",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 908741,
+        "curseForgeFileId": 5566632,
+        "curseForgeProject": {
+          "id": 908741,
+          "name": "Embeddium",
+          "authors": [
+            {
+              "id": 101435003,
+              "name": "embeddedt",
+              "url": "https://www.curseforge.com/members/embeddedt"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An open-source client performance mod for Minecraft (based on Sodium 0.5.8) prioritizing reliability & mod compatibility",
+          "categories": [
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6814,
+          "classId": 6,
+          "slug": "embeddium",
+          "isFeatured": false,
+          "dateModified": "2024-07-26T01:41:03.957Z",
+          "dateCreated": "2023-08-31T22:33:13.537Z",
+          "dateReleased": "2024-07-26T01:34:28.753Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+            "wikiUrl": "https://github.com/embeddedt/embeddium/wiki",
+            "issuesUrl": "https://github.com/embeddedt/embeddium/issues",
+            "sourceUrl": "https://github.com/embeddedt/embeddium"
+          },
+          "logo": {
+            "id": 893778,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/893/778/256/256/638336829931216743.png",
+            "title": "638336829931216743.png",
+            "url": "https://media.forgecdn.net/avatars/893/778/638336829931216743.png",
+            "modId": 908741
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5566632
+        },
+        "curseForgeFile": {
+          "id": 5566632,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20.1] Embeddium 0.3.28",
+          "fileName": "embeddium-0.3.28+mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-26T01:34:28.753Z",
+          "fileLength": 1316946,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1492136772,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "COPYING"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "COPYING.LESSER"
+            },
+            {
+              "fingerprint": 859634317,
+              "name": "README.md"
+            },
+            {
+              "fingerprint": 1354940893,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1200891204,
+              "name": "embeddium-refmap.json"
+            },
+            {
+              "fingerprint": 3903890000,
+              "name": "embeddium.mixins.json"
+            },
+            {
+              "fingerprint": 318634973,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2533547597,
+              "name": "icon.svg"
+            },
+            {
+              "fingerprint": 4014633969,
+              "name": "licenses"
+            },
+            {
+              "fingerprint": 3588305868,
+              "name": "me"
+            },
+            {
+              "fingerprint": 3474788070,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2265808171,
+              "name": "org"
+            },
+            {
+              "fingerprint": 3323427021,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f6e9e4288c8a8e2cdd251eaf8aa7556b53b3a2fb",
+              "algo": 1
+            },
+            {
+              "value": "832b5f9a12f38bae289b0da1d99a4482",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2392210455,
+          "modId": 908741
+        },
+        "modrinthProject": {
+          "id": "sk9rgfiA",
+          "slug": "embeddium",
+          "project_type": "mod",
+          "team": "4VBpO7y2",
+          "title": "Embeddium",
+          "description": "A performance-enhancing client mod (based on Sodium) prioritizing reliability & mod compatibility",
+          "body": "# Embeddium\n\nEmbeddium is a free and open-source performance mod for Minecraft clients. It is based on the last FOSS-licensed version of the Sodium codebase, and includes additional bugfixes & features for better mod compatibility.\n\nDespite being forked from Sodium, Embeddium is **not supported by CaffeineMC**. Do not report issues encountered with it to their bug tracker or in their Discord. I have my own [Discord server](https://discord.gg/rN9Y7caguP) for my mods.\n\n## Highlights\n\n* All performance improvements from Sodium 0.5.8 and earlier, i.e. a rewritten terrain renderer, various optimizations to the immediate-mode rendering pipeline (used by entities, GUIs, block entities, etc.), and other miscellaneous improvements\n* Available for Minecraft Forge on 1.20.1 and older, Fabric on 1.20.1-1.20.6, and NeoForge on 1.20.1 and newer\n* Integrated Fabric Rendering API support (Indium is no longer required, and will not work with Embeddium)\n* Frequent patch updates to fix mod compatibility issues soon after being reported & reproduced\n* Additional APIs for mod integration\n* Optional support for translucency sorting (can be enabled in Video Settings)\n\n## For developers\n\nIf you're looking to add Embeddium to your development environment, please take a look at the [dedicated wiki page](https://github.com/embeddedt/embeddium/wiki/For-Developers) for instructions & recommended guidelines for integration.\n\n## Credits\n\n* JellySquid & the CaffeineMC team, for making Sodium in the first place, without which this project would not be possible\n* Asek3, for the initial port to Forge\n* XFactHD, for providing a list of gamebreaking Rubidium issues to start this work off, and for testing early builds\n* Pepper, for their invaluable assistance with getting Forge lighting to work on Sodium 0.5\n* @CelestialAbyss and @input-Here for making the new logo design\n\n## License\n\nEmbeddium is distributed under the Lesser GNU General Public License version 3. For more details, refer to our [GitHub](https://github.com/embeddedt/embeddium) repository.",
+          "published": "2023-09-01T13:13:55.152605Z",
+          "updated": "2024-07-26T01:34:28.197359Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "optimization"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/sk9rgfiA/7f5be8843494e3c34bd628143cbb07bc6cbc77f7.png",
+          "issues_url": "https://github.com/embeddedt/embeddium/issues",
+          "source_url": "https://github.com/embeddedt/embeddium",
+          "discord_url": "https://discord.gg/rN9Y7caguP",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/embeddedt"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/sk9rgfiA/images/84451725b6fca79230b02c53966ff820b7e1b9f7.png",
+              "featured": false,
+              "title": "Rebuilt config screen",
+              "description": "Derived from Reese's Sodium Options, with additional improvements such as grouping pages by mod, and an API for mods to add their own options to the screen",
+              "created": "2024-05-18T02:08:47.291302Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sk9rgfiA/images/9d00ad6364d8d002ef1244795559a54ab2c79cb9.png",
+              "featured": false,
+              "title": "Translucency sorting",
+              "description": "Translucent blocks are rendered correctly even when behind other translucent blocks (when enabled in Video Settings->Quality).",
+              "created": "2024-05-18T01:51:37.704659Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sk9rgfiA/images/d4f4c086bb168dc87cff77b5f13b1a86fb404c10.png",
+              "featured": false,
+              "title": "Integrated Fabric Rendering API support",
+              "description": "Indium is not required; content mods using FRAPI features will work out of the box. Shown here are AE2 and Continuity.",
+              "created": "2024-05-18T02:02:10.173143Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "lopZqfMw",
+          "project_id": "sk9rgfiA",
+          "author_id": "6bGskxLV",
+          "name": "[1.20.1] Embeddium 0.3.28",
+          "version_number": "0.3.28+mc1.20.1",
+          "changelog": "https://github.com/embeddedt/embeddium/wiki/Changelog",
+          "date_published": "2024-07-26T01:34:29.133427Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "7dea141e886090a463e4f28c65cffa4a2252985197214fcf48795ffc5c3e42c9cbad44dfa3c975ef1ffa63448f155ba787f95ca30231b404fc737808f5bba866",
+                "sha1": "f6e9e4288c8a8e2cdd251eaf8aa7556b53b3a2fb"
+              },
+              "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/lopZqfMw/embeddium-0.3.28%2Bmc1.20.1.jar",
+              "filename": "embeddium-0.3.28+mc1.20.1.jar",
+              "primary": true,
+              "size": 1316946
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "4ZqxOvjD"
+            },
+            {
+              "project_id": "S1tndFDa"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Embeddium (Rubidium) Extra",
+        "version": "[(Neo)Forge 1.20.1] v0.5.4.3",
+        "optional": true,
+        "file": "rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+        "type": "mods",
+        "description": "Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 654373,
+        "curseForgeFileId": 5299719,
+        "curseForgeProject": {
+          "id": 654373,
+          "name": "Embeddium (Rubidium) Extra",
+          "authors": [
+            {
+              "id": 102141805,
+              "name": "dimadencep",
+              "url": "https://www.curseforge.com/members/dimadencep"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "rubidium-extra",
+          "isFeatured": false,
+          "dateModified": "2024-07-23T03:38:18.333Z",
+          "dateCreated": "2022-08-03T02:44:39.527Z",
+          "dateReleased": "2024-07-23T03:32:52.287Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/rubidium-extra",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/dima-dencep/rubidium-extra/issues",
+            "sourceUrl": "https://github.com/dima-dencep/rubidium-extra"
+          },
+          "logo": {
+            "id": 587602,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/587/602/256/256/637956775773435327.png",
+            "title": "637956775773435327.png",
+            "url": "https://media.forgecdn.net/avatars/587/602/637956775773435327.png",
+            "modId": 654373
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 483056,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/56/310/172/r6e9bjl.png",
+              "title": "Fog",
+              "url": "https://media.forgecdn.net/attachments/483/56/r6e9bjl.png",
+              "modId": 654373
+            },
+            {
+              "id": 483055,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/55/310/172/ejdl7z7.png",
+              "title": "Smoke Particles",
+              "url": "https://media.forgecdn.net/attachments/483/55/ejdl7z7.png",
+              "modId": 654373
+            }
+          ],
+          "mainFileId": 5556336
+        },
+        "curseForgeFile": {
+          "id": 5299719,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[(Neo)Forge 1.20.1] v0.5.4.3",
+          "fileName": "rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-28T21:42:15.957Z",
+          "fileLength": 544113,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 908741,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 581495,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 5299720,
+          "modules": [
+            {
+              "fingerprint": 2706477403,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "LICENSE.txt"
+            },
+            {
+              "fingerprint": 3677595737,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2178047624,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 412179423,
+              "name": "me"
+            },
+            {
+              "fingerprint": 3589546603,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1787015179,
+              "name": "rubidium-extra-refmap.json"
+            },
+            {
+              "fingerprint": 369665014,
+              "name": "sodium-extra.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba",
+              "algo": 1
+            },
+            {
+              "value": "f61cc3ea7c32ce7839467caf0ac0f113",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 806811605,
+          "modId": 654373
+        },
+        "modrinthProject": {
+          "id": "oY2B1pjg",
+          "slug": "rubidium-extra",
+          "project_type": "mod",
+          "team": "wUaVjvCN",
+          "title": "Embeddium (Rubidium) Extra",
+          "description": "Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge",
+          "body": "# What is Embeddium Extra?\nRubidium Extra is an unofficial fork of [Sodium Extra](https://modrinth.com/mod/sodium-extra) for Forge that aims to bring most of the OptiFine features to Rubidium, as well as providing some features such as visual bug fixes and other performance features not yet available in Embeddium.\n\n# Rubidium or Embeddium\nDespite the name, Rubidium Extra is being developed for Embeddium (for the sole reason that it is faster to update). I have no desire to do a complete rebranding, Rubidium compatibility is still a priority, but sometimes you may need to download an older version of Rubidium Extra for the game to work properly!\n\n# Features\nHere is a basic rundown of what this mod does.\n+ Animations Settings (Control fire, water, lava, block animations and etc...)\n+ Particles Settings (Control all types of particles, including ones from other mods)\n+ Details Settings (Control sky, stars, sun/moon, weather, and much more)\n+ Render Settings (Control fog, static entities, and other miscellaneous renderings)\n+ Extra Settings (Display FPS, coordinates, toast notifications, clouds, and much more)\n\nSee a more detailed explanation of what features are included in Embeddium Extra [here](https://github.com/FlashyReese/sodium-extra-fabric/wiki/Features).\n\n# Modpack Permissions\nThis is a free and open-source project; you can include it in your mod pack as long as you provide attribution!\n\n# Common Questions\n+ **Do I need Rubidium/Embeddium installed for this mod to work?** You will need to download Rubidium or Embeddium for this mod to work.\n+ **Can I re-host/upload this mod somewhere else?** No.\n+ **Will you add x features to this mod?** Ask the original author about it, you can do it [here](https://github.com/FlashyReese/sodium-extra-fabric/issues).\n+ **For any other questions, please contact our [discord](https://discord.gg/jdB5JYX7W7 \"Discord\")!**\n\n#### Some information copied from the [official page](https://modrinth.com/mod/sodium-extra) of the mod.",
+          "published": "2022-08-03T10:46:44.710306Z",
+          "updated": "2024-07-23T03:32:53.776818Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "cursed",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/oY2B1pjg/e21509d986b82e5a09e46682afd7644ce119cc26.webp",
+          "issues_url": "https://github.com/dima-dencep/rubidium-extra/issues",
+          "source_url": "https://github.com/dima-dencep/rubidium-extra",
+          "wiki_url": "https://github.com/FlashyReese/sodium-extra-fabric/wiki",
+          "discord_url": "https://discord.gg/jdB5JYX7W7",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/oY2B1pjg/images/3d4239ddc87fb72eb307cb396428b4c9d357f09d.png",
+              "featured": false,
+              "title": "Smoke Particles",
+              "created": "2022-08-03T10:46:42.777942Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/oY2B1pjg/images/f8654c9f9e83b61bbb3947b5307a626b55ee5b02.png",
+              "featured": false,
+              "title": "Fog",
+              "created": "2022-08-03T10:46:42.777942Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "6Iycptzn",
+          "project_id": "oY2B1pjg",
+          "author_id": "caWpagRT",
+          "name": "[(Neo)Forge 1.20.1] v0.5.4.3",
+          "version_number": "0.5.4.3+mc1.20.1-build.121",
+          "changelog": "- [066b4da](http://github.com/dima-dencep/rubidium-extra/commit/066b4da0e1abe3939e6b092ca4cd0daa2b6d2d00) - Oculus 1.7 compat",
+          "date_published": "2024-04-28T21:42:19.236873Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "31a7b12d8c5058c7032fb1640f9480814bf64b498553b66c8409ffa10b0671bc92242e1bad1e6529de976abc179a5e7de43f243bb218dbb0d7310a2bed07b516",
+                "sha1": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba"
+              },
+              "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/6Iycptzn/rubidium-extra-0.5.4.3%2Bmc1.20.1-build.121.jar",
+              "filename": "rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+              "primary": true,
+              "size": 544113
+            },
+            {
+              "hashes": {
+                "sha1": "741cfbb5a44f003b9f4bad7cd952b29c160b5ae0",
+                "sha512": "9875fe34ac072740bbf9154f3b8dd4a6eb90844737c17518e6ee52477a99fb07816c8cda365170cee514c7462334dfee0a2ead48e65651d27edbf949354e40a3"
+              },
+              "url": "https://cdn.modrinth.com/data/oY2B1pjg/versions/6Iycptzn/rubidium-extra-0.5.4.3%2Bmc1.20.1-build.121-sources.jar",
+              "filename": "rubidium-extra-0.5.4.3+mc1.20.1-build.121-sources.jar",
+              "primary": false,
+              "size": 298182
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "GchcoXML",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "sk9rgfiA",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Embeddium++",
+        "version": "Embeddium++/1.20.1/v1.2.13",
+        "optional": true,
+        "file": "embeddiumplus-1.20.1-v1.2.13.jar",
+        "type": "mods",
+        "description": "The most reliable extension for Embeddium, providing performance features and quality options. Everything configurable and compatible with all your mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 931925,
+        "curseForgeFileId": 5436746,
+        "curseForgeProject": {
+          "id": 931925,
+          "name": "Embeddium++",
+          "authors": [
+            {
+              "id": 103883049,
+              "name": "SrRapero720",
+              "url": "https://www.curseforge.com/members/srrapero720"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The most reliable extension for Embeddium, providing performance features and quality options. Everything configurable and compatible with all your mods",
+          "categories": [
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6814,
+          "classId": 6,
+          "slug": "embeddiumplus",
+          "isFeatured": false,
+          "dateModified": "2024-06-17T02:51:52.117Z",
+          "dateCreated": "2023-11-02T04:04:45.497Z",
+          "dateReleased": "2024-06-17T02:43:14.247Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/embeddiumplus",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/SrRapero720/EmbeddiumPlus/issues",
+            "sourceUrl": "https://github.com/SrRapero720/EmbeddiumPlus"
+          },
+          "logo": {
+            "id": 914949,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/914/949/256/256/638372448804340818.png",
+            "title": "638372448804340818.png",
+            "url": "https://media.forgecdn.net/avatars/914/949/638372448804340818.png",
+            "modId": 931925
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 791867,
+              "description": "Embeddium++Cover",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/791/867/310/172/cover-fix.png",
+              "title": "Cover",
+              "url": "https://media.forgecdn.net/attachments/791/867/cover-fix.png",
+              "modId": 931925
+            },
+            {
+              "id": 789143,
+              "description": "emb++badged-explain-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/143/310/172/emb-badged-explain-min.png",
+              "title": "emb++badged-explain-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/143/emb-badged-explain-min.png",
+              "modId": 931925
+            },
+            {
+              "id": 789138,
+              "description": "fps-display-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/138/310/172/fps-display-min.png",
+              "title": "fps-display-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/138/fps-display-min.png",
+              "modId": 931925
+            },
+            {
+              "id": 789140,
+              "description": "entity-distance-culling-plus-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/140/310/172/entity-distance-culling-plus-min.png",
+              "title": "entity-distance-culling-plus-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/140/entity-distance-culling-plus-min.png",
+              "modId": 931925
+            },
+            {
+              "id": 789142,
+              "description": "fast-models-plus-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/142/310/172/fast-models-plus-min.png",
+              "title": "fast-models-plus-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/142/fast-models-plus-min.png",
+              "modId": 931925
+            },
+            {
+              "id": 789139,
+              "description": "true-darkness-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/139/310/172/true-darkness-min.png",
+              "title": "true-darkness-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/139/true-darkness-min.png",
+              "modId": 931925
+            },
+            {
+              "id": 789134,
+              "description": "misc-features-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/134/310/172/misc-features-min.png",
+              "title": "misc-features-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/134/misc-features-min.png",
+              "modId": 931925
+            },
+            {
+              "id": 789135,
+              "description": "emb++thefuture-min.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/789/135/310/172/emb-thefuture-min.png",
+              "title": "emb++thefuture-min.png",
+              "url": "https://media.forgecdn.net/attachments/789/135/emb-thefuture-min.png",
+              "modId": 931925
+            }
+          ],
+          "mainFileId": 5436750
+        },
+        "curseForgeFile": {
+          "id": 5436746,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Embeddium++/1.20.1/v1.2.13",
+          "fileName": "embeddiumplus-1.20.1-v1.2.13.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-17T02:39:55.22Z",
+          "fileLength": 895427,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 908741,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 927564,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1177190364,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1489276643,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 387637290,
+              "name": "embeddiumplus.mixin-refmap.json"
+            },
+            {
+              "fingerprint": 4054476277,
+              "name": "embeddiumplus.mixin.json"
+            },
+            {
+              "fingerprint": 2528520141,
+              "name": "me"
+            },
+            {
+              "fingerprint": 3824615197,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3459600532,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d922515ae0f16af2afdddfd72243a4890a2c7ad8",
+              "algo": 1
+            },
+            {
+              "value": "e370f41a09f9d1bfd90e89044230d3a8",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2532503508,
+          "modId": 931925
+        },
+        "modrinthProject": {
+          "id": "yD9qW65f",
+          "slug": "embeddiumplus",
+          "project_type": "mod",
+          "team": "9ZDbJI1u",
+          "title": "Embeddium++",
+          "description": "Mod who gives a plus to Embeddium",
+          "body": "[![Downloads](https://cf.way2muchnoise.eu/embeddiumplus.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus)\n[![Available for](https://cf.way2muchnoise.eu/versions/embeddiumplus.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/files)\n[![Latest Version](https://img.shields.io/curseforge/v/931925?style=for-the-badge&label=curseforge&labelColor=%232d2d2d&color=%23e04e14&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fwatermedia%2Ffiles)](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/files)\n[![Discord community](https://dcbadge.vercel.app/api/server/cuYAzzZ)](https://discord.gg/cuYAzzZ)\n[![Static Badge](https://img.shields.io/badge/POWERED_BY-ZUME_(by_nolij)-ff4040?style=for-the-badge&labelColor=%23111111&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fzume)](https://www.curseforge.com/minecraft/mc-mods/zume)\n[![Modrinth Downloads](https://img.shields.io/modrinth/dt/embeddiumplus?style=for-the-badge&logo=modrinth&label=MODRINTH&color=%231bd96a)](https://modrinth.com/mod/embeddiumplus)\n\n\n[![Embeddium++Banner](https://i.imgur.com/oBLXT7n.png)](https://github.com/SrRapero720/EmbeddiumPlus)\n\nThe best complement for embeddium, giving it some extras in performance and game quality.<br>\nProvides a bunch of options to speed up your FPS, like fast models, entity distance culling, font shadows toggle, JEI hiding and more\n\n~~It Also includes their own dynamic lights system~~ - *(soon)*\n\n---\n\n# ⚠️ IMPORTANT\nThis mod is a remplacement of [Magnesium/Rubidium Extras](https://github.com/anthxnymc/MagnesiumExtras), \n~~[DynamicLights Reforged](https://github.com/anthxnymc/DynamicLightsReforged)~~\nand many other mods referenced in the [Gallery](https://www.curseforge.com/minecraft/mc-mods/embeddiumplus/screenshots). \nIf you have any of them or similar, you should remove them, may crash, collide or cause lag.\n\n# 🔧 FEATURES\n\n### [⚡] PERFORMANCE\n\n- ~~**[💡] Dynamic Lights:**~~ (**Soon™️** will be back)\n- **[🐄] Entity Distance Culling:** Stops rendering and ticking on client side of **Entities** and **Block entities** too far away.\n  - You can ignore specific entities in mod config adding them on the whitelist (requires resource name)\n  - Example: ``minecraft:bat`` skips bats only, `alexsmobs:*` skips all Alex's Mobs entities.\n- **[🕯️] True Darkness:** When low brightness isn't enough in your terror modpacks, we can make it **Really Dark**.\n- **[👟] Fast Models:** Disable the unoptimized dynamic **Chest** and **Bed** models and use static ones\n- **[🔦] Hide JEI:** Now doesn't render **JEI items** until you **search** for something\n- **[🌎] Fast Language Reload:** No more wait 2 minutes just to change your language\n\n### [👓] QUALITY\n\n- **[🧮] FPS Display:** Shows your current, min and average **FPS**, **Memory** usage percent and **GPU** usage percent.\n    - You can place it anywhere of your top corners\n- **[🖥️] Borderless FullScreen:** gives Image-In-Image support, and you can use ALT+TAB faster\n    - Using F11 also switch to Borderless FullScreen (can be disabled)\n- **[🌁] Toggle Fog:** Disables overworld fog.\n- **[🔳] Toggle Text Shadows:** Menus have a flat-style and might increase FPS using [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3))\n- **[🔍] Zoom Key:** Powered by [Zume](https://www.curseforge.com/minecraft/mc-mods/zume). Let you see your friends and enemies from far away\n- **~~[👁️] Chunk Fade In~~:** (**Soon™️** will be back)\n\n\n# ☕ SUPPORT ME\n\nYou can support me on: \n[PayPal](https://paypal.me/SrRapero720) | \n[Boss Revolution](https://www.bossrevolution.com/es-us/country/mexico/send-money) - BANK: BBVA / CLABE: `012180015606063111`<br>\nOr buy a server using my coupon code and get 15% discount in your first purchase\nI use the money to buy coffee, sleep less and program more\n\n![KineticHosting sponsor](https://media.discordapp.net/attachments/1076151535291088916/1107066110492278856/watermods.png \"KineticHosting sponsor code WATERMoDS\")\n\n---\n\n# 🔰 VERSION 1.16.5\n\nI decide to skip that version in favor of\n[Embeddium Extras](https://www.curseforge.com/minecraft/mc-mods/embeddium-extras) by PotatoBoy (aka TexTure).\nIt Is too good like Embeddium++, Shares features and has more Performance fixes and features.\n\n# 👥 COMMUNITY AND SUPPORT\n\nHave some questions?\nBugs? \nOr want to say something to my [stupid face](https://www.youtube.com/watch?v=4NqHV1BpQHQ)? \nThen my [discord](https://discord.gg/cuYAzzZ) is the place you're looking for.\nI am always around, only have to throw your question, and I will answer\n\n# ⏩ THE FUTURE OF EMBEDDIUM++\n\nBefore I place some jokes, but this time I am 100% sure. \nAll [Sodium Extras](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) will be added\nonto Embeddium++, making OBSOLETE some ports of it like Rubidium (Embeddium) Extra.\n\nCreate the first API around Sodium config page and include some misc optimization options like Cull Leaves\nand quality features like Shadow Path Blocks\n\nEnviddium (Nvidium port) will be a separated mod; I don't think it is a good idea to add it on embeddium++.\nYou can speed porting donating me, so I can afford a second-hand GTX 1660), you cannot, and anyway, I'll do it :)\n\nSodium++ will exist... *soon™️*",
+          "published": "2023-12-11T09:26:47.447544Z",
+          "updated": "2024-06-17T02:46:22.583516Z",
+          "status": "approved",
+          "license": {
+            "id": "WTFPL",
+            "name": "Do What The F*ck You Want To Public License",
+            "url": "https://spdx.org/licenses/WTFPL.html"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "optimization"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/yD9qW65f/1d783f10ded32fbb48f4a5d8f7203fa45dc8e143.jpeg",
+          "issues_url": "https://github.com/SrRapero720/EmbeddiumPlus/issues",
+          "source_url": "https://github.com/SrRapero720/EmbeddiumPlus",
+          "wiki_url": "https://github.com/SrRapero720/waterframes/wiki",
+          "discord_url": "https://discord.gg/cuYAzzZ",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://paypal.me/SrRapero720"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/1c533ca52def910d8966539e7ee7cb47552f2332.png",
+              "featured": true,
+              "title": "Cover",
+              "description": "Mod cover",
+              "created": "2024-01-14T04:17:14.375396Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/e0d91fe8f1242492ad2a479b4f72820085961d4e.png",
+              "featured": false,
+              "title": "Badges explain",
+              "description": "Relevance is on nexts pictures",
+              "created": "2024-01-13T10:01:24.370960Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/535850c5583c12841b543eec59af2e883fc4c4af.png",
+              "featured": false,
+              "title": "FPS Display++",
+              "description": "FPS | MIN FPS | AVG FPS - GPU % | RAM %\nIn that order",
+              "created": "2024-01-13T10:02:40.346014Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/dc301ca58de9d914a912deea1dc4430869ec8885.png",
+              "featured": false,
+              "title": "Entity Distance Culling++",
+              "description": "Stupid neighbor with that stupid mob farm.\nYou can cull all of them and recover FPS",
+              "created": "2024-01-13T10:03:53.837706Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/232a18892cb36039f37dd9809d5b3dfc5bb7eca8.png",
+              "featured": false,
+              "title": "Fast Models++",
+              "description": "Change dynamic models of chests and beds and uses a static model that helps to your FPS",
+              "created": "2024-01-13T10:07:36.404450Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/f6683236a5db3866a0b5166cba9abb1d8ca14e40.png",
+              "featured": false,
+              "title": "True Darkness++",
+              "description": "Involve your world into a real nightmare",
+              "created": "2024-01-13T10:08:25.236472Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/312db081392c901fd7bf64fe53641adf3d2afc46.png",
+              "featured": false,
+              "title": "Misc Features",
+              "description": "You didn't ask for it but you need it",
+              "created": "2024-01-13T10:18:23.542659Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/images/ffd7a4747d31d7c3f874f30850a49a51451fd87a.png",
+              "featured": false,
+              "title": "The future and the ++",
+              "created": "2024-01-13T10:09:08.919166Z",
+              "ordering": 8.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "KEd4eJfk",
+          "project_id": "yD9qW65f",
+          "author_id": "MIVwsmWD",
+          "name": "Embeddium++/1.20.1/v1.2.13",
+          "version_number": "1.20.1-v1.2.13",
+          "changelog": "# RELEASE 1.2.13\n- [🐛] Fixed crashes due to non-renamed accessors (fixes BadOptimizations mod crashes)\n",
+          "date_published": "2024-06-17T02:40:00.444818Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "2ea60376eecaf859b3303d46cc8b593e3121ce5487f97db2a60ec0025327ae740c9d28fb5523fcae32da0a3de010e5f1b59024c1cfa9f1547116668ac04de278",
+                "sha1": "d922515ae0f16af2afdddfd72243a4890a2c7ad8"
+              },
+              "url": "https://cdn.modrinth.com/data/yD9qW65f/versions/KEd4eJfk/embeddiumplus-1.20.1-v1.2.13.jar",
+              "filename": "embeddiumplus-1.20.1-v1.2.13.jar",
+              "primary": true,
+              "size": 895427
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "aWDwN8NN"
+            },
+            {
+              "project_id": "o6qsdrrQ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "sk9rgfiA",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Oculus",
+        "version": "Oculus mc1.20.1-1.7.0",
+        "optional": true,
+        "file": "oculus-mc1.20.1-1.7.0.jar",
+        "type": "mods",
+        "description": "Unofficial Fork of \"Iris\", made to work with FML",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 581495,
+        "curseForgeFileId": 5299671,
+        "curseForgeProject": {
+          "id": 581495,
+          "name": "Oculus",
+          "authors": [
+            {
+              "id": 100828852,
+              "name": "Asek3",
+              "url": "https://www.curseforge.com/members/asek3"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Unofficial Fork of \"Iris\", made to work with FML",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "oculus",
+          "isFeatured": false,
+          "dateModified": "2024-04-28T21:46:13.64Z",
+          "dateCreated": "2022-02-19T19:08:18.743Z",
+          "dateReleased": "2024-04-28T21:22:38.047Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Asek3/Oculus/issues",
+            "sourceUrl": "https://github.com/Asek3/Oculus"
+          },
+          "logo": {
+            "id": 495526,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/495/526/256/256/637808944989585825.jpeg",
+            "title": "637808944989585825.jpeg",
+            "url": "https://media.forgecdn.net/avatars/495/526/637808944989585825.jpeg",
+            "modId": 581495
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5299671
+        },
+        "curseForgeFile": {
+          "id": 5299671,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Oculus mc1.20.1-1.7.0",
+          "fileName": "oculus-mc1.20.1-1.7.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-28T21:22:38.047Z",
+          "fileLength": 2831148,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 908741,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3984881563,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 288709712,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1579026811,
+              "name": "centerDepth.fsh"
+            },
+            {
+              "fingerprint": 462961270,
+              "name": "centerDepth.vsh"
+            },
+            {
+              "fingerprint": 1494857400,
+              "name": "colorSpace.csh"
+            },
+            {
+              "fingerprint": 1398698219,
+              "name": "colorSpace.vsh"
+            },
+            {
+              "fingerprint": 2453389400,
+              "name": "de"
+            },
+            {
+              "fingerprint": 1768955417,
+              "name": "io"
+            },
+            {
+              "fingerprint": 3196569757,
+              "name": "kroppeb"
+            },
+            {
+              "fingerprint": 3608516529,
+              "name": "mixins.oculus.bettermipmaps.json"
+            },
+            {
+              "fingerprint": 3621373861,
+              "name": "mixins.oculus.compat.dh.json"
+            },
+            {
+              "fingerprint": 1406439942,
+              "name": "mixins.oculus.compat.indigo.json"
+            },
+            {
+              "fingerprint": 999766876,
+              "name": "mixins.oculus.compat.indium.json"
+            },
+            {
+              "fingerprint": 2802900041,
+              "name": "mixins.oculus.compat.pixelmon.json"
+            },
+            {
+              "fingerprint": 4128106545,
+              "name": "mixins.oculus.compat.sodium.json"
+            },
+            {
+              "fingerprint": 126404564,
+              "name": "mixins.oculus.fantastic.json"
+            },
+            {
+              "fingerprint": 1880608424,
+              "name": "mixins.oculus.fixes.maxfpscrash.json"
+            },
+            {
+              "fingerprint": 3729550497,
+              "name": "mixins.oculus.integrationtest.json"
+            },
+            {
+              "fingerprint": 3959164937,
+              "name": "mixins.oculus.json"
+            },
+            {
+              "fingerprint": 3129157077,
+              "name": "mixins.oculus.vertexformat.json"
+            },
+            {
+              "fingerprint": 2398924114,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2268836204,
+              "name": "oculus-batched-entity-rendering.mixins.json"
+            },
+            {
+              "fingerprint": 285620050,
+              "name": "oculus-logo.png"
+            },
+            {
+              "fingerprint": 1364055004,
+              "name": "oculus-mixins-refmap.json"
+            },
+            {
+              "fingerprint": 3385123402,
+              "name": "oculus"
+            },
+            {
+              "fingerprint": 3663900039,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2572498480,
+              "name": "sodiumCompatibility-oculus-mixins-refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "27410903d3af950378776106b76503cfebe7ea3a",
+              "algo": 1
+            },
+            {
+              "value": "45b96133bb46cc61dd9778bd4fca741d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3367645112,
+          "modId": 581495
+        },
+        "modrinthProject": {
+          "id": "GchcoXML",
+          "slug": "oculus",
+          "project_type": "mod",
+          "team": "zFcUWaYx",
+          "title": "Oculus",
+          "description": "Unofficial Fork of \"Iris\", made to work with FML",
+          "body": "Unofficial Fork of \"Iris\", made to work with FML\n\nFeatures\n\n<details>\n  <summary>Features</summary>\n\n- Performance. Oculus should fully utilize your graphics card when paired with optimization mods like Rubidium.\n- Mod compatibility. Oculus should make a best effort to be compatible with modded environments.\n- Backwards compatibility. All existing ShadersMod / OptiFine shader packs should just work on Iris, without any modifications required.\n- A well-organized codebase. I'd like for working with Iris code to be a pleasant experience overall.\n</details>\n\n \nPlease, don't report Oculus' issues to the official Iris Github.",
+          "published": "2022-07-02T10:02:12.932789Z",
+          "updated": "2024-04-28T21:22:45.893944Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration",
+            "optimization"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/GchcoXML/icon.png",
+          "issues_url": "https://github.com/Asek3/Oculus/issues",
+          "source_url": "https://github.com/Asek3/Oculus",
+          "discord_url": "https://discord.com/invite/UCsyn5RS4s",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/asek3"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "vVuYfukI",
+          "project_id": "GchcoXML",
+          "author_id": "OGBzw79h",
+          "name": "Oculus mc1.20.1-1.7.0",
+          "version_number": "1.20.1-1.7.0",
+          "changelog": "### Upstream to Iris 1.7.0 (Main feature is Distant Horizon 2.0.4+ support, _which is not released yet_)",
+          "date_published": "2024-04-28T21:22:46.942307Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "27410903d3af950378776106b76503cfebe7ea3a",
+                "sha512": "8f7e56e65a12c7cfa4719c69e1de552dc8651ab202ff9bf78ff180c4bf81a82f3e569641046b1915b6f9e60f54451ae4b8b0d9a688a0c966473b91de9cefb923"
+              },
+              "url": "https://cdn.modrinth.com/data/GchcoXML/versions/vVuYfukI/oculus-mc1.20.1-1.7.0.jar",
+              "filename": "oculus-mc1.20.1-1.7.0.jar",
+              "primary": true,
+              "size": 2831148
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "sk9rgfiA",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Iris/Oculus & GeckoLib Compat",
+        "version": "Oculus & GeckoLib Compat",
+        "optional": true,
+        "file": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+        "type": "mods",
+        "description": "Fixes GeckoLib animations not working if using a shaderpack with entity shadows.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 959388,
+        "curseForgeFileId": 5018199,
+        "curseForgeProject": {
+          "id": 959388,
+          "name": "Iris/Oculus & GeckoLib Compat",
+          "authors": [
+            {
+              "id": 103001449,
+              "name": "ElocinDev",
+              "url": "https://www.curseforge.com/members/elocindev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fixes GeckoLib animations not working if using a shaderpack with entity shadows.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "geckoanimfix",
+          "isFeatured": false,
+          "dateModified": "2024-06-15T19:10:36.86Z",
+          "dateCreated": "2024-01-07T20:09:50.92Z",
+          "dateReleased": "2024-01-08T19:29:44.317Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/geckoanimfix",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/nvb-uy/geckoanimfix/issues",
+            "sourceUrl": "https://github.com/nvb-uy/geckoanimfix"
+          },
+          "logo": {
+            "id": 930061,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/930/61/256/256/638402549909663881.png",
+            "title": "638402549909663881.png",
+            "url": "https://media.forgecdn.net/avatars/930/61/638402549909663881.png",
+            "modId": 959388
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5015554
+        },
+        "curseForgeFile": {
+          "id": 5018199,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Oculus & GeckoLib Compat",
+          "fileName": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-01-08T19:29:44.317Z",
+          "fileLength": 6239,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3611129567,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1237128693,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3017805847,
+              "name": "necronomicon.json"
+            },
+            {
+              "fingerprint": 825129023,
+              "name": "geckoanimfix.forge.mixins.json"
+            },
+            {
+              "fingerprint": 1208639882,
+              "name": "geckoanimfix.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "GeckoLibIrisCompat-1.19.4-forge-refmap.json"
+            },
+            {
+              "fingerprint": 1390078766,
+              "name": "elocindev"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d5c91ae0cfade2672bf00628721da661a59930c5",
+              "algo": 1
+            },
+            {
+              "value": "4dd6b749ec2ca69a208a15091530825b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-13T15:52:21.12Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2023-12-18T00:00:00Z",
+              "gameVersionName": "1.20.5-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-05-04T00:00:00Z",
+              "gameVersionName": "1.21-Snapshot"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.20.2",
+            "1.21",
+            "1.20.5",
+            "1.20.5-Snapshot",
+            "1.19.4",
+            "Client",
+            "1.18.2",
+            "1.19.2",
+            "NeoForge",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.6",
+            "1.20.4",
+            "1.21-Snapshot"
+          ],
+          "fileFingerprint": 3119093921,
+          "modId": 959388
+        },
+        "modrinthProject": {
+          "id": "TbriQCWD",
+          "slug": "geckoanimfix",
+          "project_type": "mod",
+          "team": "vOPPtsyL",
+          "title": "Iris/Oculus & GeckoLib Compat",
+          "description": "Fixes GeckoLib animations not working if using a shaderpack with entity shadows.",
+          "body": "# Iris / Oculus & GeckoLib Compat\n\nFixes GeckoLib entities' animations not working while using shaderpacks that have entity shadows.\n\nExample of a GeckoLib entity working with Insanity Shader, using entity shadows.\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/5kLo4HdSz44\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n",
+          "published": "2024-01-07T19:47:34.800790Z",
+          "updated": "2024-03-16T05:05:38.990789Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [],
+          "icon_url": "https://cdn.modrinth.com/data/TbriQCWD/5b0cd877e80dc7167a73df5160f7b0cd43b15f43.png",
+          "issues_url": "https://github.com/nvb-uy/geckoanimfix/issues",
+          "source_url": "https://github.com/nvb-uy/geckoanimfix",
+          "discord_url": "https://discord.gg/LUNAPIXEL",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "uWXuMaW4",
+          "project_id": "TbriQCWD",
+          "author_id": "Kp5oK4eX",
+          "name": "Oculus & GeckoLib Compat 1.0.1",
+          "version_number": "1.0.1",
+          "changelog": "- Fixed start warn screen, sorry I forgot to upload this version to modrinth",
+          "date_published": "2024-03-16T05:05:39.509736Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "12c17477ad82bad2d80348732ee1e0d19cf1b68ca64527a251af46e664a8a5473bfba4262441d5bb0b5ff2b5f515df4387d4fce327d5906e3c3d073eb9bd9652",
+                "sha1": "d5c91ae0cfade2672bf00628721da661a59930c5"
+              },
+              "url": "https://cdn.modrinth.com/data/TbriQCWD/versions/uWXuMaW4/GeckoLibOculusCompat-Forge-1.0.1.jar",
+              "filename": "GeckoLibOculusCompat-Forge-1.0.1.jar",
+              "primary": true,
+              "size": 6239
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18.2",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6",
+            "1.21"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1722141690569,
-    "numPlays": 64
+    "lastPlayed": 1722190486361,
+    "numPlays": 70
   },
   "id": "1.20.1",
   "complianceLevel": 1,

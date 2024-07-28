@@ -1,4 +1,0 @@
-[16:11:54] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[16:11:54] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE battletowers 1.2.0 {depends minecraft @ [~1.21]}, ROOT_FORCELOAD_SINGLE battletowers 1.2.0]
-[16:11:54] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP battletowers 1.2.0 {depends minecraft @ [~1.21]}]
-[16:11:54] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[minecraft 1.20.1] -> add:minecraft 1.21 ([[1.21,1.22-)])]

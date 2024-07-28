@@ -3,7 +3,7 @@
   "launcher": {
     "name": "RL20",
     "pack": "RL20",
-    "description": "A challenging 1.20.1 modpack featuring skills, powerful mobs, and unique bosses, with elements inspired by RLCraft!",
+    "description": "A challenging 1.20.1 modpack featuring skills, powerful mobs, and unique bosses, with elements inspired by RLCraft",
     "packId": 0,
     "externalPackId": 0,
     "version": "1.20.1",
@@ -310,6 +310,18 @@
           "summary": "Dragons and Mythical creatures in minecraft.",
           "categories": [
             {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -331,18 +343,6 @@
               "id": 411,
               "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
               "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
               "classId": 6
             },
             {
@@ -506,19 +506,19 @@
               "modId": 264231
             },
             {
-              "id": 259089,
-              "description": "A wild ice dragon explores the area around its roost.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/259/89/310/172/7.png",
-              "title": "Ice Dragon Roost",
-              "url": "https://media.forgecdn.net/attachments/259/89/7.png",
-              "modId": 264231
-            },
-            {
               "id": 259087,
               "description": "A big pile of valuable loot from the roosts and dens of both types of dragons.",
               "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/259/87/310/172/5.png",
               "title": "Dragon Loot Stockpile",
               "url": "https://media.forgecdn.net/attachments/259/87/5.png",
+              "modId": 264231
+            },
+            {
+              "id": 259089,
+              "description": "A wild ice dragon explores the area around its roost.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/259/89/310/172/7.png",
+              "title": "Ice Dragon Roost",
+              "url": "https://media.forgecdn.net/attachments/259/89/7.png",
               "modId": 264231
             },
             {
@@ -976,18 +976,6 @@
           "summary": "Adds a fullscreen worldmap which shows you what you have explored in the world. Can work together with Xaero's Minimap.",
           "categories": [
             {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -997,6 +985,18 @@
               "id": 423,
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
               "classId": 6
             }
           ],
@@ -1226,18 +1226,6 @@
           "summary": "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
           "categories": [
             {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -1247,6 +1235,18 @@
               "id": 423,
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
               "classId": 6
             }
           ],
@@ -1874,6 +1874,18 @@
               "classId": 6
             },
             {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
               "name": "Server Utility",
               "slug": "server-utility",
               "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
@@ -1895,18 +1907,6 @@
               "id": 419,
               "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
               "classId": 6
             }
           ],
@@ -2034,6 +2034,12 @@
           ],
           "sortableGameVersions": [
             {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
               "gameVersionPadded": "0000000001.0000000020.0000000001",
               "gameVersion": "1.20.1",
               "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
@@ -2053,6 +2059,7 @@
             }
           ],
           "gameVersions": [
+            "NeoForge",
             "1.20.1",
             "Forge",
             "1.20"
@@ -2970,6 +2977,18 @@
           "summary": "Powerful overworld enemies and more!",
           "categories": [
             {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Structures",
               "slug": "world-structures",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
@@ -2982,14 +3001,14 @@
               "classId": 6
             },
             {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -3014,18 +3033,6 @@
               "isClass": false,
               "id": 419,
               "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -5337,6 +5344,18 @@
           "summary": "All things that should have been.",
           "categories": [
             {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "Armor, Tools, and Weapons",
               "slug": "armor-weapons-tools",
               "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
@@ -5349,14 +5368,14 @@
               "classId": 6
             },
             {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
               "gameId": 432,
               "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -5370,18 +5389,6 @@
               "id": 411,
               "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
               "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
               "classId": 6
             }
           ],
@@ -5941,310 +5948,6 @@
         }
       },
       {
-        "name": "Bygone Nether",
-        "version": "Bygone Nether v1.3.2 [1.20.x]",
-        "optional": false,
-        "file": "bygonenether-1.3.2-1.20.x.jar",
-        "type": "mods",
-        "description": "Explore new structures unique to each Nether biome, as well as the new mobs that inhabit them.",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 576124,
-        "curseForgeFileId": 4747444,
-        "curseForgeProject": {
-          "id": 576124,
-          "name": "Bygone Nether",
-          "authors": [
-            {
-              "id": 103049350,
-              "name": "izofar",
-              "url": "https://www.curseforge.com/members/izofar"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds new biome-specific structures and mobs to the nether dimension",
-          "categories": [
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 409,
-          "classId": 6,
-          "slug": "bygone-nether",
-          "isFeatured": false,
-          "dateModified": "2023-09-10T22:10:57.66Z",
-          "dateCreated": "2022-02-04T05:57:31.587Z",
-          "dateReleased": "2023-09-10T22:05:09.26Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/bygone-nether",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/izofar/bygone-nether/issues",
-            "sourceUrl": "https://github.com/izofar/bygone-nether"
-          },
-          "logo": {
-            "id": 497444,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/497/444/256/256/637813713407635129.png",
-            "title": "637813713407635129.png",
-            "url": "https://media.forgecdn.net/avatars/497/444/637813713407635129.png",
-            "modId": 576124
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 439777,
-              "description": "Spawns in Crimson Forests",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/777/310/172/bygone-nether_piglin_manor.png",
-              "title": "Piglin Manor",
-              "url": "https://media.forgecdn.net/attachments/439/777/bygone-nether_piglin_manor.png",
-              "modId": 576124
-            },
-            {
-              "id": 478734,
-              "description": "Spawns in Soul Sand Valleys",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/478/734/310/172/bygone-nether_catacomb.png",
-              "title": "Catacomb",
-              "url": "https://media.forgecdn.net/attachments/478/734/bygone-nether_catacomb.png",
-              "modId": 576124
-            },
-            {
-              "id": 439779,
-              "description": "Spawns in Warped Forests",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/779/310/172/bygone-nether_citadel.png",
-              "title": "Citadel",
-              "url": "https://media.forgecdn.net/attachments/439/779/bygone-nether_citadel.png",
-              "modId": 576124
-            }
-          ],
-          "mainFileId": 4747444
-        },
-        "curseForgeFile": {
-          "id": 4747444,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Bygone Nether v1.3.2 [1.20.x]",
-          "fileName": "bygonenether-1.3.2-1.20.x.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-09-10T22:05:09.26Z",
-          "fileLength": 7642613,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 2180169163,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3366227802,
-              "name": "com"
-            },
-            {
-              "fingerprint": 3692939654,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2040917967,
-              "name": "bygonenether.mixins.json"
-            },
-            {
-              "fingerprint": 3835719617,
-              "name": "bygonenether.png"
-            },
-            {
-              "fingerprint": 803406652,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1993296645,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 56663120,
-              "name": "bygonenether.refmap.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "529e31d2877b87a8bf006f590513a33ab6b73171",
-              "algo": 1
-            },
-            {
-              "value": "4f26ce959dae1e0365f00dedae471d10",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.20.1",
-            "Forge",
-            "1.20",
-            "Server"
-          ],
-          "fileFingerprint": 3349407418,
-          "modId": 576124
-        },
-        "modrinthProject": {
-          "id": "kt3BLgXB",
-          "slug": "bygone-nether",
-          "project_type": "mod",
-          "team": "vbBoFdSk",
-          "title": "Bygone Nether",
-          "description": "Explore new structures unique to each Nether biome, as well as the new mobs that inhabit them.",
-          "body": "<p align=\"center\"><img src=\"https://imgur.com/oPVtrP5.png\" alt=\"Logo\"></p>\n\n<center><a style=\"margin-bottom: 5px;\" href=\"https://www.youtube.com/channel/UCZWKmEPkPd7Xt8fkKVeBzTQ\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/youtube/channel/subscribers/UCZWKmEPkPd7Xt8fkKVeBzTQ?color=885425&amp;logo=youtube&amp;style=for-the-badge\" /></a> <a href=\"https://soundcloud.com/izofar/wither-waltz\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/badge/plays-3.8k-55302b?logo=soundcloud&amp;logoColor=white&amp;style=for-the-badge\" /></a> <a href=\"https://twitter.com/izofar43\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/badge/followers-35-885425?logo=twitter&amp;logoColor=white&amp;style=for-the-badge\" /></a> <a href=\"https://github.com/izofar/bygone-nether\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/github/license/izofar/bygone-nether?color=55302b&amp;label=license&amp;logo=github&amp;style=for-the-badge\" /></a> <a href=\"https://www.curseforge.com/minecraft/mc-mods/bygone-nether/files\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/badge/version-1.3.2-885425?label=Version&amp;logo=curseforge&amp;logoColor=white&amp;style=for-the-badge\" /></a></center>\n</br>\n\n## 📖 About:\n\n> *A Nether structure mod for Minecraft 1.16.5+ aiming to advance the lore behind the nether dimension, as well as provide additional challenges and compelling gameplay in the survival game mode.*\n\nExplore new structures unique to each Nether biome, as well as the new mobs that inhabit them. Includes a redesign to fortresses and addition of Bastion Remnants to the Basalt Deltas. See the Images Tab for Spoilers!\n\nListen to the soundtrack on [SoundCloud](https://soundcloud.com/izofar). This is my first mod in release. Check out my others, and keep an eye out for more!. **Please considering supporting me below, as that will allow me more time for updates and fixes.**\n\n<img src=\"https://imgur.com/hv904uC.png\" />\n\n## 🎥 Videos:\n\n<center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0XQCWCl2FaA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\n</br>\n\n<center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JaPvLVb5JwQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\n\n<img src=\"https://imgur.com/hv904uC.png\" />\n\n## Dependencies:\n* <img src=\"https://imgur.com/9tshDxW.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/pKf97it.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)\n* <img src=\"https://imgur.com/b1sKEDp.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/NFDhQUd.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html)\n* <img src=\"https://imgur.com/ek7ODYh.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/ZVo2Y5w.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html)\n* <img src=\"https://imgur.com/JmJfA0d.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/LK6Yi7Q.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)\n* No other mod dependencies!\n\n<img src=\"https://imgur.com/hv904uC.png\" />\n\n## 🍳 Recipes:\n<details>\n<summary>Spoilers</summary>\n\n### Gilded Netherite (Smithing Table):\n<center><img src=\"https://imgur.com/wFyJnPJ.png\"></center>\n\n### Wither (Block-place in-world):\n<center><img src=\"https://imgur.com/hsTLmMd.png\"></center>\n</details>\n\n## 📦 Integrations with other mods:\n\nVisit the [Bygone Nether page on CurseForge](https://www.curseforge.com/minecraft/mc-mods/bygone-nether) for the full integration list!\n\n## ✔️ Fixes to Old Issues:\n> tldr: update Bygone Nether and Forge!\n\nVisit the [Bygone Nether page on CurseForge](https://www.curseforge.com/minecraft/mc-mods/bygone-nether) for an extensive list of fix recommendations!\n\n## Acknowledgements:\n\nSpecial Thanks to: Telepathic Grunt, Sizable Shrimp, Commoble, and Cadiboo from the Mod Development Discord for their assistance and direction during the development process.",
-          "published": "2022-03-19T22:10:53.248743Z",
-          "updated": "2024-07-17T00:20:17.736834Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "adventure",
-            "worldgen"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/kt3BLgXB/icon.png",
-          "issues_url": "https://github.com/izofar/bygone-nether/issues",
-          "source_url": "https://github.com/izofar/bygone-nether",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/150fc8ddd48b59215572e01a9cd7f53f1f9562d2.png",
-              "featured": false,
-              "title": "Citadel",
-              "description": "Spawns in Warped Forests",
-              "created": "2022-03-19T22:15:00.444137Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/3dae19260dc9676885d28907f00016b2af595ebe.png",
-              "featured": false,
-              "title": "Catacomb",
-              "description": "Spawns in Soul Sand Valleys",
-              "created": "2022-07-25T14:19:22.399697Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/c961fdfc4fbef53da14f6cac21d257f46f887eb0.png",
-              "featured": false,
-              "title": "Piglin Manor",
-              "description": "Spawns in Crimson Forests",
-              "created": "2022-03-19T22:14:21.976618Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/e47f7a223b003084754cd12922ddededd5b70f3f.png",
-              "featured": true,
-              "title": "Warped Endermen",
-              "description": "They don't wait for you to stare",
-              "created": "2024-07-17T20:58:25.138026Z",
-              "ordering": 3.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "RA38ax2z",
-          "project_id": "kt3BLgXB",
-          "author_id": "g662ekb6",
-          "name": "Bygone Nether v1.3.2",
-          "version_number": "1.3.2-1.20.x",
-          "changelog": "See [CHANGELOG.md](https://github.com/izofar/bygone-nether/blob/1.18.2/CHANGELOG.md) on GitHub for details",
-          "date_published": "2023-09-10T22:47:18.908159Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "529e31d2877b87a8bf006f590513a33ab6b73171",
-                "sha512": "9f8e9e091540f3f6eaec5987f131a89498632509aa3f92dd6f1b7e16ed9e725079bc703a5451868a6013ccabfa70f7a7ab100d5a58755dfa0bd78bbeb3dbdf53"
-              },
-              "url": "https://cdn.modrinth.com/data/kt3BLgXB/versions/RA38ax2z/bygonenether-1.3.2-1.20.x.jar",
-              "filename": "bygonenether-1.3.2-1.20.x.jar",
-              "primary": true,
-              "size": 7642613
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "Sophisticated Core",
         "version": "sophisticatedcore-1.20.1-0.6.22.611.jar",
         "optional": false,
@@ -6408,18 +6111,6 @@
           "summary": "Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades",
           "categories": [
             {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Armor, Tools, and Weapons",
               "slug": "armor-weapons-tools",
               "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
@@ -6428,6 +6119,18 @@
               "isClass": false,
               "id": 434,
               "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -6920,19 +6623,19 @@
               "modId": 619320
             },
             {
-              "id": 459403,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/459/403/310/172/crafting_upgrade.png",
-              "title": "Crafting Upgrade",
-              "url": "https://media.forgecdn.net/attachments/459/403/crafting_upgrade.png",
-              "modId": 619320
-            },
-            {
               "id": 459399,
               "description": "",
               "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/459/399/310/172/auto_smelting_upgrade.png",
               "title": "Auto Smelting Upgrade",
               "url": "https://media.forgecdn.net/attachments/459/399/auto_smelting_upgrade.png",
+              "modId": 619320
+            },
+            {
+              "id": 459403,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/459/403/310/172/crafting_upgrade.png",
+              "title": "Crafting Upgrade",
+              "url": "https://media.forgecdn.net/attachments/459/403/crafting_upgrade.png",
               "modId": 619320
             },
             {
@@ -7112,19 +6815,19 @@
               "modId": 619320
             },
             {
-              "id": 459415,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/459/415/310/172/stonecutter_upgrade.png",
-              "title": "Stonecutter Upgrade",
-              "url": "https://media.forgecdn.net/attachments/459/415/stonecutter_upgrade.png",
-              "modId": 619320
-            },
-            {
               "id": 459413,
               "description": "",
               "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/459/413/310/172/stack_upgrade_tier_3.png",
               "title": "Stack Upgrade Tier 3",
               "url": "https://media.forgecdn.net/attachments/459/413/stack_upgrade_tier_3.png",
+              "modId": 619320
+            },
+            {
+              "id": 459415,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/459/415/310/172/stonecutter_upgrade.png",
+              "title": "Stonecutter Upgrade",
+              "url": "https://media.forgecdn.net/attachments/459/415/stonecutter_upgrade.png",
               "modId": 619320
             }
           ],
@@ -8065,18 +7768,6 @@
           "summary": "Diablo Style Modifiers",
           "categories": [
             {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -8086,6 +7777,18 @@
               "id": 422,
               "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -8372,18 +8075,6 @@
           "summary": "Adds some useful information about food/hunger to the HUD",
           "categories": [
             {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Food",
               "slug": "mc-food",
               "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
@@ -8392,6 +8083,18 @@
               "isClass": false,
               "id": 436,
               "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -8597,18 +8300,6 @@
               "classId": 6
             },
             {
-              "name": "Performance",
-              "slug": "performance",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
-              "dateModified": "2024-01-16T06:56:01.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 6814,
-              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Utility & QoL",
               "slug": "utility-qol",
               "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
@@ -8619,6 +8310,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Performance",
+              "slug": "performance",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
+              "dateModified": "2024-01-16T06:56:01.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6814,
+              "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -8626,9 +8329,9 @@
           "classId": 6,
           "slug": "modernfix",
           "isFeatured": false,
-          "dateModified": "2024-07-17T22:57:28.15Z",
+          "dateModified": "2024-07-27T00:26:23.157Z",
           "dateCreated": "2023-01-05T01:43:12.673Z",
-          "dateReleased": "2024-07-17T22:51:39.54Z",
+          "dateReleased": "2024-07-27T00:16:20.357Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
             "wikiUrl": "https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches",
@@ -8645,7 +8348,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5541516
+          "mainFileId": 5569656
         },
         "curseForgeFile": {
           "id": 5541516,
@@ -11140,9 +10843,9 @@
           "classId": 6,
           "slug": "reskillable-forge",
           "isFeatured": false,
-          "dateModified": "2024-07-23T00:03:58.757Z",
+          "dateModified": "2024-07-26T23:10:16.22Z",
           "dateCreated": "2024-03-01T01:42:12.233Z",
-          "dateReleased": "2024-07-22T23:56:12.737Z",
+          "dateReleased": "2024-07-26T23:03:04.447Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/reskillable-forge",
             "wikiUrl": "",
@@ -11176,7 +10879,7 @@
               "modId": 981352
             }
           ],
-          "mainFileId": 5555947
+          "mainFileId": 5569522
         },
         "curseForgeFile": {
           "id": 5555947,
@@ -11999,9 +11702,9 @@
           "classId": 6,
           "slug": "spartan-weaponry",
           "isFeatured": false,
-          "dateModified": "2024-07-16T15:55:10.523Z",
+          "dateModified": "2024-07-25T14:30:56.777Z",
           "dateCreated": "2017-09-16T05:29:31.157Z",
-          "dateReleased": "2024-07-16T15:38:49.487Z",
+          "dateReleased": "2024-07-25T14:28:52.357Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry",
             "wikiUrl": "",
@@ -12027,7 +11730,7 @@
               "modId": 278141
             }
           ],
-          "mainFileId": 5537967
+          "mainFileId": 5564836
         },
         "curseForgeFile": {
           "id": 5537967,
@@ -12536,18 +12239,6 @@
               "classId": 6
             },
             {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "API and Library",
               "slug": "library-api",
               "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
@@ -12558,6 +12249,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -12565,25 +12268,26 @@
           "classId": 6,
           "slug": "spartan-weaponry-addon-toolkit",
           "isFeatured": false,
-          "dateModified": "2024-07-16T20:36:21.26Z",
+          "dateModified": "2024-07-26T07:12:28.163Z",
           "dateCreated": "2024-06-27T17:46:24.157Z",
-          "dateReleased": "2024-07-16T20:31:04.033Z",
+          "dateReleased": "2024-07-26T07:08:32.907Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-addon-toolkit",
+            "wikiUrl": "",
             "issuesUrl": "https://github.com/KreloX/SpartanToolkit/issues",
             "sourceUrl": "https://github.com/KreloX/SpartanToolkit"
           },
           "logo": {
-            "id": 1029135,
+            "id": 1046982,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1029/135/256/256/638551071841956739.png",
-            "title": "638551071841956739.png",
-            "url": "https://media.forgecdn.net/avatars/1029/135/638551071841956739.png",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1046/982/256/256/638575187540404528.png",
+            "title": "638575187540404528.png",
+            "url": "https://media.forgecdn.net/avatars/1046/982/638575187540404528.png",
             "modId": 1051658
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5538649
+          "mainFileId": 5567139
         },
         "curseForgeFile": {
           "id": 5538649,
@@ -14955,9 +14659,9 @@
           "classId": 6,
           "slug": "cupboard",
           "isFeatured": false,
-          "dateModified": "2024-06-26T21:25:56.29Z",
+          "dateModified": "2024-07-27T11:20:31.757Z",
           "dateCreated": "2019-07-08T10:31:04.037Z",
-          "dateReleased": "2024-06-26T21:13:39.92Z",
+          "dateReleased": "2024-07-27T11:17:59.547Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
             "wikiUrl": "",
@@ -14974,7 +14678,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5477519
+          "mainFileId": 5570763
         },
         "curseForgeFile": {
           "id": 5470032,
@@ -17446,9 +17150,9 @@
           "classId": 6,
           "slug": "creativecore",
           "isFeatured": false,
-          "dateModified": "2024-07-18T21:17:25.09Z",
+          "dateModified": "2024-07-26T16:05:44.99Z",
           "dateCreated": "2017-01-23T11:04:02.753Z",
-          "dateReleased": "2024-07-18T21:13:38.467Z",
+          "dateReleased": "2024-07-26T16:02:39.437Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
             "wikiUrl": "",
@@ -17465,7 +17169,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5544276
+          "mainFileId": 5568299
         },
         "curseForgeFile": {
           "id": 5544260,
@@ -18203,18 +17907,6 @@
           "summary": "Allows you to sit on slabs and stairs.",
           "categories": [
             {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Cosmetic",
               "slug": "cosmetic",
               "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
@@ -18223,6 +17915,18 @@
               "isClass": false,
               "id": 424,
               "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -19386,9 +19090,9 @@
           "classId": 6,
           "slug": "forgified-fabric-api",
           "isFeatured": false,
-          "dateModified": "2024-07-23T12:11:18.307Z",
+          "dateModified": "2024-07-26T10:02:48.543Z",
           "dateCreated": "2023-07-15T17:12:08.48Z",
-          "dateReleased": "2024-07-23T12:07:15.797Z",
+          "dateReleased": "2024-07-26T09:55:32.753Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api",
             "wikiUrl": "https://github.com/Sinytra/ForgifiedFabricAPI/discussions",
@@ -20341,18 +20045,6 @@
           "summary": "Lots of Vanilla styled structures to fill up the end dimension with life!",
           "categories": [
             {
-              "name": "Dimensions",
-              "slug": "world-dimensions",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
-              "dateModified": "2014-05-08T17:37:26.84Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 410,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -20365,18 +20057,6 @@
               "classId": 6
             },
             {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "World Gen",
               "slug": "world-gen",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
@@ -20386,6 +20066,30 @@
               "id": 406,
               "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -21468,281 +21172,6 @@
           "loaders": [
             "forge",
             "neoforge"
-          ]
-        }
-      },
-      {
-        "name": "Feathers",
-        "version": "Feathers 1.20 v1.1",
-        "optional": false,
-        "file": "feathers-1.1.jar",
-        "type": "mods",
-        "description": "A simple and well-integrated stamina mechanic for Minecraft!",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 699933,
-        "curseForgeFileId": 4814309,
-        "curseForgeProject": {
-          "id": 699933,
-          "name": "Feathers",
-          "authors": [
-            {
-              "id": 100428128,
-              "name": "ElenaiDev",
-              "url": "https://www.curseforge.com/members/elenaidev"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A simple and well-integrated stamina mechanic for Minecraft!",
-          "categories": [
-            {
-              "name": "Magic",
-              "slug": "magic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
-              "dateModified": "2014-05-08T17:40:24.787Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 419,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "feathers",
-          "isFeatured": false,
-          "dateModified": "2023-10-24T09:19:51.983Z",
-          "dateCreated": "2022-11-08T21:00:31.72Z",
-          "dateReleased": "2023-10-24T09:14:23.563Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/feathers",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/ElenaiDev/Feathers/issues",
-            "sourceUrl": "https://github.com/ElenaiDev/Feathers"
-          },
-          "logo": {
-            "id": 753499,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/753/499/256/256/638092291489111002.png",
-            "title": "638092291489111002.png",
-            "url": "https://media.forgecdn.net/avatars/753/499/638092291489111002.png",
-            "modId": 699933
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4573576
-        },
-        "curseForgeFile": {
-          "id": 4814309,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Feathers 1.20 v1.1",
-          "fileName": "feathers-1.1.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2023-10-24T09:14:23.563Z",
-          "fileLength": 124984,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4039105188,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 894117302,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1578216208,
-              "name": "com"
-            },
-            {
-              "fingerprint": 2665708776,
-              "name": "feathers.png"
-            },
-            {
-              "fingerprint": 3853588767,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "c14d5653b96084b3e0d21aec5e04028fa11db070",
-              "algo": 1
-            },
-            {
-              "value": "5e796b140b9fd8d7daaf19a7872e22bd",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "1.20.1",
-            "Forge",
-            "1.20",
-            "Server"
-          ],
-          "fileFingerprint": 507776461,
-          "modId": 699933
-        },
-        "modrinthProject": {
-          "id": "6Na0gn2c",
-          "slug": "feathers",
-          "project_type": "mod",
-          "team": "TnMacOnD",
-          "title": "Feathers",
-          "description": "A simple and well-integrated stamina mechanic for Minecraft!",
-          "body": "<p><img src=\"https://i.imgur.com/MuLKyIY.png\" alt=\"Feathers Banner\" width=\"1280\" height=\"600\" /></p>\n<p style=\"text-align: center;\"><strong><img src=\"https://img.shields.io/discord/810643737238831104?color=blue&amp;label=chat&amp;logo=discord&amp;style=flat-square\" height=\"18\" /></a>&nbsp;&nbsp; <a href=\"https://files.minecraftforge.net/\"><img src=\"https://img.shields.io/badge/built%20with-forge-red.svg?style=flat-square&amp;logo=conda-forge\" width=\"117\" height=\"20\" /></a> &nbsp; <a href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\"><img src=\"https://img.shields.io/badge/license-CCA--NC--SA--3-blue?style=flat-square\" width=\"132\" height=\"20\" /></a></strong></p>\n<p style=\"text-align: center;\"><strong><b>Feathers is a simple and well-integrated&nbsp;stamina mechanic for Minecraft</b></strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"https://i.imgur.com/c9ZqQMX.png\" alt=\"Divider\" width=\"1280\" height=\"40\" /></strong></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 18px;\"><strong>🧾 About:</strong></span></p>\n<p style=\"text-align: left;\">Feathers adds a set of blue feathers above the hunger bar <a href=\"https://www.curseforge.com/minecraft/mc-mods/elenai-dodge-2\"><strong>to be used by other mods</strong></a> as a stamina system. The amount of feathers the player has access to is entirely dependent on the&nbsp;<strong>weight of their armor</strong>. Armor weight is automatically calculated but can be overwritten in the Config! The mod also contains a series of potion effects that directly affect the feathers mechanic, as well as a super simple to use API for modders to add their own support!</p>\n<p style=\"text-align: center;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/iY7E5Y9.png\" alt=\"GUI\" width=\"729\" height=\"198\" /></p>\n<p><strong><img src=\"https://i.imgur.com/fYukRZb.png\" alt=\"Divider\" width=\"1280\" height=\"40\" /></strong></p>\n<p><span style=\"font-size: 18px;\"><strong>⚓ Armor Weights:</strong></span></p>\n<p>By default, every armor item in the game (both vanilla and modded) now has a weight. Weight directly affects the number of feathers players can use, indicated by&nbsp;<em>steel feathers</em><span style=\"font-size: 1.2rem;\">.</span></p>\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/O3lBHVw.png\" alt=\"Steel Feathers\" width=\"330\" height=\"42\" /></p>\n<p>This encourages players to make decisions in combat that hadn't mattered before. Better armor means better protection, however less maneuverability, whereas a worse armor set would lead to more damage taken if hit, but more available stamina!</p>\n<p><img src=\"https://i.imgur.com/c9ZqQMX.png\" width=\"1125\" height=\"35\" /></p>\n<p><span style=\"font-size: 18px;\">🧪<strong> Potion Effects:</strong></span></p>\n<p><span style=\"font-size: 12px;\">Feathers adds 3 new potion effects to the game! All displayed on the feathers bar in a Vanilla+ style.</span></p>\n<p><span style=\"font-size: 12px;\">🏅 Endurance: Adds a set of extra feathers above the bar, similar to how the absorption effect influences health.</span></p>\n<p><span style=\"font-size: 12px;\">⚡ Energized: Feathers regenerate a lot faster!</span></p>\n<p><span style=\"font-size: 12px;\">⛄ Cold: Brr! Feathers no longer regenerate whilst this effect is active.</span></p>\n<p>👀 More coming soon!</p>\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/EMDUnLb.png\" alt=\"Effects\" width=\"270\" height=\"90\" /><img src=\"https://i.imgur.com/fYukRZb.png\" alt=\"Divider\" width=\"1280\" height=\"40\" /></p>\n<p><span style=\"font-size: 18px;\">🏆<strong> Mods Using Feathers:</strong></span></p>\n<p>💨 <a href=\"https://www.curseforge.com/minecraft/mc-mods/elenai-dodge-2\">Elenai Dodge 2</a> - Uses feathers to dive out the way of attacks!&nbsp;</p>\n<p>💎&nbsp;<span style=\"text-decoration: underline;\"><strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/actions-of-stamina\">Actions of Stamina</a></strong></span> by the amazing&nbsp;<a href=\"https://www.curseforge.com/members/ccr4ft3r/followers\"><span style=\"text-decoration: underline;\"><strong>ccr4ft3r</strong></span></a> - Running, jumping and crawling all require stamina!</p>\n<p>❗ Your mod here! Feathers has a super simple API for mod developers to use. Why not make a mod that makes sprinting require stamina? Or running, or jumping, or something entirely different? Feathers makes these systems incredibly easy to implement for mod developers. Once you're done making a mod using the mechanic, let me know and I'll add it to this list!</p>\n<p>&nbsp;</p>\n<p>A&nbsp;<strong>MASSIVE&nbsp;</strong>thanks to&nbsp;<a class=\"Link--primary no-underline flex-self-center\" href=\"https://github.com/BookerCatch\"><strong>BookerCatch</strong></a>&nbsp;for their amazing work on the attributes system!</p>\n<p>&nbsp;</p>\n<p>If you discover any issues or incompatibilities with the mod, please report them <a href=\"https://github.com/ElenaiDev/Feathers/issues\">here</a>.</p>",
-          "published": "2023-10-24T09:39:59.265735Z",
-          "updated": "2023-10-24T09:43:54.623380Z",
-          "status": "approved",
-          "license": {
-            "id": "LGPL-3.0-or-later",
-            "name": "GNU Lesser General Public License v3.0 only"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "adventure",
-            "game-mechanics",
-            "library"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/6Na0gn2c/bea82f058de603528645c028213b06744c3e2279.png",
-          "issues_url": "https://github.com/ElenaiDev/Feathers/issues",
-          "source_url": "https://github.com/ElenaiDev/Feathers",
-          "donation_urls": [
-            {
-              "id": "other",
-              "platform": "Other",
-              "url": "https://donate.cancerresearchuk.org/donate?gclid=CjwKCAjw1t2pBhAFEiwA_-A-NHlDkcVlHRhqC47smAz_vmFU4rt2fmF9mO5uOZyAJkODz048uKml5hoCBScQAvD_BwE&gclsrc=aw.ds"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/6Na0gn2c/images/a6cdf2de6fc9791cdfb010d13c3ead507feab2bb.png",
-              "featured": true,
-              "title": "Feathers",
-              "description": "A simple stamina bar for Minecraft!",
-              "created": "2023-10-24T10:10:58.711859Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "lHj2edCG",
-          "project_id": "6Na0gn2c",
-          "author_id": "EbVVhYLC",
-          "name": "Feathers 1.1",
-          "version_number": "1.1",
-          "changelog": "Changelog:\n\n- Updated to 1.20 and 1.20.1\n\n If you discover any issues or incompatibilities with the mod, please report them here.",
-          "date_published": "2023-10-24T09:43:55.858414Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "c14d5653b96084b3e0d21aec5e04028fa11db070",
-                "sha512": "d8389fc4f78271a6b54c70b5ccbb0b32cdd07f539b78b48407d24beddbfb3d59e23188cac92222631a47bcc15aa2c3e1343a44741d1723cd395f2c8c93f4f50b"
-              },
-              "url": "https://cdn.modrinth.com/data/6Na0gn2c/versions/lHj2edCG/feathers-1.1.jar",
-              "filename": "feathers-1.1.jar",
-              "primary": true,
-              "size": 124984
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20",
-            "1.20.1",
-            "1.20.2"
-          ],
-          "loaders": [
-            "forge"
           ]
         }
       },
@@ -23011,9 +22440,9 @@
           "classId": 6,
           "slug": "ruins",
           "isFeatured": false,
-          "dateModified": "2024-07-10T19:57:09.413Z",
+          "dateModified": "2024-07-26T18:04:30.09Z",
           "dateCreated": "2022-01-17T22:12:37.747Z",
-          "dateReleased": "2024-07-10T19:50:47.773Z",
+          "dateReleased": "2024-07-26T17:58:50.897Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ruins",
             "wikiUrl": ""
@@ -23477,7 +22906,7 @@
               "modId": 569737
             }
           ],
-          "mainFileId": 5521261
+          "mainFileId": 5568689
         },
         "curseForgeFile": {
           "id": 5521240,
@@ -30154,9 +29583,9 @@
           "classId": 6,
           "slug": "tool-belt",
           "isFeatured": false,
-          "dateModified": "2024-07-12T14:25:10.957Z",
+          "dateModified": "2024-07-25T08:48:24.297Z",
           "dateCreated": "2017-02-11T10:55:50.703Z",
-          "dateReleased": "2024-07-12T14:23:29.617Z",
+          "dateReleased": "2024-07-25T08:41:50.507Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/tool-belt",
             "wikiUrl": "https://github.com/gigaherz/ToolBelt/wiki",
@@ -30173,7 +29602,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5526047
+          "mainFileId": 5563999
         },
         "curseForgeFile": {
           "id": 5393183,
@@ -31700,9 +31129,9 @@
           "classId": 6,
           "slug": "ftb-library-forge",
           "isFeatured": false,
-          "dateModified": "2024-07-23T13:34:19.85Z",
+          "dateModified": "2024-07-26T11:07:30.837Z",
           "dateCreated": "2020-08-25T11:39:27.403Z",
-          "dateReleased": "2024-07-23T13:29:41.43Z",
+          "dateReleased": "2024-07-26T11:03:37.067Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
             "wikiUrl": "https://go.ftb.team/docs-library",
@@ -31719,7 +31148,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5543335
+          "mainFileId": 5567594
         },
         "curseForgeFile": {
           "id": 5543335,
@@ -32619,9 +32048,9 @@
           "classId": 6,
           "slug": "puzzles-lib",
           "isFeatured": false,
-          "dateModified": "2024-07-19T09:40:26.637Z",
+          "dateModified": "2024-07-26T13:53:28.837Z",
           "dateCreated": "2021-06-18T21:32:37.78Z",
-          "dateReleased": "2024-07-19T09:37:03Z",
+          "dateReleased": "2024-07-26T13:49:26.483Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
             "wikiUrl": "",
@@ -32638,7 +32067,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5545348
+          "mainFileId": 5567973
         },
         "curseForgeFile": {
           "id": 5475403,
@@ -34330,9 +33759,9 @@
           "classId": 6,
           "slug": "collective",
           "isFeatured": false,
-          "dateModified": "2024-07-24T14:12:43.373Z",
+          "dateModified": "2024-07-28T18:03:41.52Z",
           "dateCreated": "2019-09-21T20:27:44.81Z",
-          "dateReleased": "2024-07-24T14:10:00.827Z",
+          "dateReleased": "2024-07-28T18:00:11.423Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/collective",
             "wikiUrl": "",
@@ -34349,7 +33778,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5561324
+          "mainFileId": 5575078
         },
         "curseForgeFile": {
           "id": 5561322,
@@ -34558,18 +33987,6 @@
           "summary": "🧑‍🌾 Gives all villager entities a default or custom name to liven up the world.",
           "categories": [
             {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -34580,6 +33997,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -34587,9 +34016,9 @@
           "classId": 6,
           "slug": "villager-names",
           "isFeatured": false,
-          "dateModified": "2024-06-28T09:43:38.753Z",
+          "dateModified": "2024-07-27T17:33:29.28Z",
           "dateCreated": "2019-10-06T15:59:59.447Z",
-          "dateReleased": "2024-06-28T09:35:55.28Z",
+          "dateReleased": "2024-07-27T17:23:48.467Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/villager-names",
             "wikiUrl": "",
@@ -34606,7 +34035,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5482073
+          "mainFileId": 5571629
         },
         "curseForgeFile": {
           "id": 5482070,
@@ -36306,9 +35735,9 @@
           "classId": 6,
           "slug": "selene",
           "isFeatured": false,
-          "dateModified": "2024-07-23T07:39:17.927Z",
+          "dateModified": "2024-07-26T06:39:28.963Z",
           "dateCreated": "2021-07-02T14:28:35.327Z",
-          "dateReleased": "2024-07-23T07:32:33.703Z",
+          "dateReleased": "2024-07-26T06:34:26.557Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/selene",
             "wikiUrl": "",
@@ -36341,7 +35770,7 @@
               "modId": 499980
             }
           ],
-          "mainFileId": 5556628
+          "mainFileId": 5567103
         },
         "curseForgeFile": {
           "id": 5556628,
@@ -37080,18 +36509,6 @@
           "summary": "Startup warning to configure the proper amount of ram/memory for java, prevents micro stuttering/freezing problems.",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -37102,6 +36519,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -37109,9 +36538,9 @@
           "classId": 6,
           "slug": "memory-settings",
           "isFeatured": false,
-          "dateModified": "2024-07-14T09:26:16.953Z",
+          "dateModified": "2024-07-26T10:59:28.163Z",
           "dateCreated": "2021-09-12T20:04:59.67Z",
-          "dateReleased": "2024-07-14T09:21:31.213Z",
+          "dateReleased": "2024-07-26T10:56:30.163Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/memory-settings",
             "wikiUrl": "",
@@ -37128,7 +36557,7 @@
           },
           "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5531321
+          "mainFileId": 5567570
         },
         "curseForgeFile": {
           "id": 5531210,
@@ -37421,18 +36850,6 @@
           "summary": "A Library mod for easy structure config and runtime datapacks.",
           "categories": [
             {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
               "name": "World Gen",
               "slug": "world-gen",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
@@ -37454,6 +36871,18 @@
               "id": 421,
               "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -37713,6 +37142,18 @@
           "summary": "Spice up your world with new villages, pillager outposts, and even new ships!",
           "categories": [
             {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
               "name": "Adventure and RPG",
               "slug": "adventure-rpg",
               "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
@@ -37734,18 +37175,6 @@
               "id": 406,
               "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
               "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Structures",
-              "slug": "world-structures",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
-              "dateModified": "2014-05-08T17:37:17.173Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 409,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
-              "parentCategoryId": 406,
               "classId": 6
             }
           ],
@@ -40782,18 +40211,6 @@
           "summary": "Optimizes a lot of tasks that Entity AI wastefully performs, minimal effect on gameplay.",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Performance",
               "slug": "performance",
               "url": "https://www.curseforge.com/minecraft/mc-mods/performance",
@@ -40802,6 +40219,18 @@
               "isClass": false,
               "id": 6814,
               "iconUrl": "https://media.forgecdn.net/avatars/933/987/638409849610531091.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
               "parentCategoryId": 6,
               "classId": 6
             }
@@ -46863,18 +46292,6 @@
           "summary": "Simple vanilla style storage mod",
           "categories": [
             {
-              "name": "Storage",
-              "slug": "storage",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
-              "dateModified": "2014-05-08T17:41:17.203Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 420,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Technology",
               "slug": "technology",
               "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
@@ -46885,6 +46302,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -46892,9 +46321,9 @@
           "classId": 6,
           "slug": "toms-storage",
           "isFeatured": false,
-          "dateModified": "2024-07-20T13:52:59.32Z",
+          "dateModified": "2024-07-28T18:00:36.243Z",
           "dateCreated": "2020-04-25T10:01:46.24Z",
-          "dateReleased": "2024-07-20T13:48:31.89Z",
+          "dateReleased": "2024-07-28T17:56:51.593Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/toms-storage",
             "wikiUrl": "",
@@ -46928,7 +46357,7 @@
               "modId": 378609
             }
           ],
-          "mainFileId": 5548590
+          "mainFileId": 5575070
         },
         "curseForgeFile": {
           "id": 5548573,
@@ -48112,18 +47541,6 @@
           "summary": "Edit recipes, add new custom items, script world events, all in JavaScript!",
           "categories": [
             {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
               "name": "Map and Information",
               "slug": "map-information",
               "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
@@ -48132,18 +47549,6 @@
               "isClass": false,
               "id": 423,
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -48160,6 +47565,18 @@
               "classId": 6
             },
             {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
               "name": "World Gen",
               "slug": "world-gen",
               "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
@@ -48170,6 +47587,18 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
               "parentCategoryId": 6,
               "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
             }
           ],
           "status": 4,
@@ -48177,9 +47606,9 @@
           "classId": 6,
           "slug": "kubejs",
           "isFeatured": false,
-          "dateModified": "2024-07-24T19:29:13.503Z",
+          "dateModified": "2024-07-27T21:37:34.27Z",
           "dateCreated": "2015-11-19T21:38:50.513Z",
-          "dateReleased": "2024-07-24T19:24:55.843Z",
+          "dateReleased": "2024-07-27T21:33:07.753Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
             "wikiUrl": "https://kubejs.com/",
@@ -49339,14 +48768,14 @@
           "summary": "Adds various treasure items that can be found through exploration",
           "categories": [
             {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
               "gameId": 432,
               "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -49363,14 +48792,14 @@
               "classId": 6
             },
             {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
               "gameId": 432,
               "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
               "parentCategoryId": 6,
               "classId": 6
             },
@@ -49392,9 +48821,9 @@
           "classId": 6,
           "slug": "artifacts",
           "isFeatured": false,
-          "dateModified": "2024-07-26T12:16:05.15Z",
+          "dateModified": "2024-07-28T14:52:55.663Z",
           "dateCreated": "2019-01-25T17:54:05.243Z",
-          "dateReleased": "2024-07-26T12:11:58.583Z",
+          "dateReleased": "2024-07-28T14:49:34.773Z",
           "links": {
             "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
             "wikiUrl": "https://github.com/ochotonida/artifacts/wiki",
@@ -52653,13 +52082,321 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "Bygone Nether",
+        "version": "Bygone Nether v1.3.2 [1.20.x]",
+        "optional": true,
+        "file": "bygonenether-1.3.2-1.20.x.jar",
+        "type": "mods",
+        "description": "Adds new biome-specific structures and mobs to the nether dimension",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 576124,
+        "curseForgeFileId": 4747444,
+        "curseForgeProject": {
+          "id": 576124,
+          "name": "Bygone Nether",
+          "authors": [
+            {
+              "id": 103049350,
+              "name": "izofar",
+              "url": "https://www.curseforge.com/members/izofar"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds new biome-specific structures and mobs to the nether dimension",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "bygone-nether",
+          "isFeatured": false,
+          "dateModified": "2023-09-10T22:10:57.66Z",
+          "dateCreated": "2022-02-04T05:57:31.587Z",
+          "dateReleased": "2023-09-10T22:05:09.26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/bygone-nether",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/izofar/bygone-nether/issues",
+            "sourceUrl": "https://github.com/izofar/bygone-nether"
+          },
+          "logo": {
+            "id": 497444,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/497/444/256/256/637813713407635129.png",
+            "title": "637813713407635129.png",
+            "url": "https://media.forgecdn.net/avatars/497/444/637813713407635129.png",
+            "modId": 576124
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 439777,
+              "description": "Spawns in Crimson Forests",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/777/310/172/bygone-nether_piglin_manor.png",
+              "title": "Piglin Manor",
+              "url": "https://media.forgecdn.net/attachments/439/777/bygone-nether_piglin_manor.png",
+              "modId": 576124
+            },
+            {
+              "id": 478734,
+              "description": "Spawns in Soul Sand Valleys",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/478/734/310/172/bygone-nether_catacomb.png",
+              "title": "Catacomb",
+              "url": "https://media.forgecdn.net/attachments/478/734/bygone-nether_catacomb.png",
+              "modId": 576124
+            },
+            {
+              "id": 439779,
+              "description": "Spawns in Warped Forests",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/779/310/172/bygone-nether_citadel.png",
+              "title": "Citadel",
+              "url": "https://media.forgecdn.net/attachments/439/779/bygone-nether_citadel.png",
+              "modId": 576124
+            }
+          ],
+          "mainFileId": 4747444
+        },
+        "curseForgeFile": {
+          "id": 4747444,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Bygone Nether v1.3.2 [1.20.x]",
+          "fileName": "bygonenether-1.3.2-1.20.x.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-10T22:05:09.26Z",
+          "fileLength": 7642613,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2180169163,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3366227802,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3692939654,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2040917967,
+              "name": "bygonenether.mixins.json"
+            },
+            {
+              "fingerprint": 3835719617,
+              "name": "bygonenether.png"
+            },
+            {
+              "fingerprint": 803406652,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1993296645,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 56663120,
+              "name": "bygonenether.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "529e31d2877b87a8bf006f590513a33ab6b73171",
+              "algo": 1
+            },
+            {
+              "value": "4f26ce959dae1e0365f00dedae471d10",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 3349407418,
+          "modId": 576124
+        },
+        "modrinthProject": {
+          "id": "kt3BLgXB",
+          "slug": "bygone-nether",
+          "project_type": "mod",
+          "team": "vbBoFdSk",
+          "title": "Bygone Nether",
+          "description": "Explore new structures unique to each Nether biome, as well as the new mobs that inhabit them.",
+          "body": "<p align=\"center\"><img src=\"https://imgur.com/oPVtrP5.png\" alt=\"Logo\"></p>\n\n<center><a style=\"margin-bottom: 5px;\" href=\"https://www.youtube.com/channel/UCZWKmEPkPd7Xt8fkKVeBzTQ\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/youtube/channel/subscribers/UCZWKmEPkPd7Xt8fkKVeBzTQ?color=885425&amp;logo=youtube&amp;style=for-the-badge\" /></a> <a href=\"https://soundcloud.com/izofar/wither-waltz\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/badge/plays-3.8k-55302b?logo=soundcloud&amp;logoColor=white&amp;style=for-the-badge\" /></a> <a href=\"https://twitter.com/izofar43\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/badge/followers-35-885425?logo=twitter&amp;logoColor=white&amp;style=for-the-badge\" /></a> <a href=\"https://github.com/izofar/bygone-nether\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/github/license/izofar/bygone-nether?color=55302b&amp;label=license&amp;logo=github&amp;style=for-the-badge\" /></a> <a href=\"https://www.curseforge.com/minecraft/mc-mods/bygone-nether/files\"><img style=\"margin-bottom: 5px;\" src=\"https://img.shields.io/badge/version-1.3.2-885425?label=Version&amp;logo=curseforge&amp;logoColor=white&amp;style=for-the-badge\" /></a></center>\n</br>\n\n## 📖 About:\n\n> *A Nether structure mod for Minecraft 1.16.5+ aiming to advance the lore behind the nether dimension, as well as provide additional challenges and compelling gameplay in the survival game mode.*\n\nExplore new structures unique to each Nether biome, as well as the new mobs that inhabit them. Includes a redesign to fortresses and addition of Bastion Remnants to the Basalt Deltas. See the Images Tab for Spoilers!\n\nListen to the soundtrack on [SoundCloud](https://soundcloud.com/izofar). This is my first mod in release. Check out my others, and keep an eye out for more!. **Please considering supporting me below, as that will allow me more time for updates and fixes.**\n\n<img src=\"https://imgur.com/hv904uC.png\" />\n\n## 🎥 Videos:\n\n<center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0XQCWCl2FaA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\n</br>\n\n<center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JaPvLVb5JwQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></center>\n\n<img src=\"https://imgur.com/hv904uC.png\" />\n\n## Dependencies:\n* <img src=\"https://imgur.com/9tshDxW.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/pKf97it.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)\n* <img src=\"https://imgur.com/b1sKEDp.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/NFDhQUd.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html)\n* <img src=\"https://imgur.com/ek7ODYh.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/ZVo2Y5w.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html)\n* <img src=\"https://imgur.com/JmJfA0d.png\" width=\"73\" height=\"31\" />[<img src=\"https://imgur.com/LK6Yi7Q.png\" width=\"146\" height=\"31\" />](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)\n* No other mod dependencies!\n\n<img src=\"https://imgur.com/hv904uC.png\" />\n\n## 🍳 Recipes:\n<details>\n<summary>Spoilers</summary>\n\n### Gilded Netherite (Smithing Table):\n<center><img src=\"https://imgur.com/wFyJnPJ.png\"></center>\n\n### Wither (Block-place in-world):\n<center><img src=\"https://imgur.com/hsTLmMd.png\"></center>\n</details>\n\n## 📦 Integrations with other mods:\n\nVisit the [Bygone Nether page on CurseForge](https://www.curseforge.com/minecraft/mc-mods/bygone-nether) for the full integration list!\n\n## ✔️ Fixes to Old Issues:\n> tldr: update Bygone Nether and Forge!\n\nVisit the [Bygone Nether page on CurseForge](https://www.curseforge.com/minecraft/mc-mods/bygone-nether) for an extensive list of fix recommendations!\n\n## Acknowledgements:\n\nSpecial Thanks to: Telepathic Grunt, Sizable Shrimp, Commoble, and Cadiboo from the Mod Development Discord for their assistance and direction during the development process.",
+          "published": "2022-03-19T22:10:53.248743Z",
+          "updated": "2024-07-17T00:20:17.736834Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/kt3BLgXB/icon.png",
+          "issues_url": "https://github.com/izofar/bygone-nether/issues",
+          "source_url": "https://github.com/izofar/bygone-nether",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/150fc8ddd48b59215572e01a9cd7f53f1f9562d2.png",
+              "featured": false,
+              "title": "Citadel",
+              "description": "Spawns in Warped Forests",
+              "created": "2022-03-19T22:15:00.444137Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/3dae19260dc9676885d28907f00016b2af595ebe.png",
+              "featured": false,
+              "title": "Catacomb",
+              "description": "Spawns in Soul Sand Valleys",
+              "created": "2022-07-25T14:19:22.399697Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/c961fdfc4fbef53da14f6cac21d257f46f887eb0.png",
+              "featured": false,
+              "title": "Piglin Manor",
+              "description": "Spawns in Crimson Forests",
+              "created": "2022-03-19T22:14:21.976618Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kt3BLgXB/images/e47f7a223b003084754cd12922ddededd5b70f3f.png",
+              "featured": true,
+              "title": "Warped Endermen",
+              "description": "They don't wait for you to stare",
+              "created": "2024-07-17T20:58:25.138026Z",
+              "ordering": 3.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "RA38ax2z",
+          "project_id": "kt3BLgXB",
+          "author_id": "g662ekb6",
+          "name": "Bygone Nether v1.3.2",
+          "version_number": "1.3.2-1.20.x",
+          "changelog": "See [CHANGELOG.md](https://github.com/izofar/bygone-nether/blob/1.18.2/CHANGELOG.md) on GitHub for details",
+          "date_published": "2023-09-10T22:47:18.908159Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "529e31d2877b87a8bf006f590513a33ab6b73171",
+                "sha512": "9f8e9e091540f3f6eaec5987f131a89498632509aa3f92dd6f1b7e16ed9e725079bc703a5451868a6013ccabfa70f7a7ab100d5a58755dfa0bd78bbeb3dbdf53"
+              },
+              "url": "https://cdn.modrinth.com/data/kt3BLgXB/versions/RA38ax2z/bygonenether-1.3.2-1.20.x.jar",
+              "filename": "bygonenether-1.3.2-1.20.x.jar",
+              "primary": true,
+              "size": 7642613
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1722190486361,
-    "numPlays": 70
+    "lastPlayed": 1722198524630,
+    "numPlays": 81,
+    "lastExportName": "RL20",
+    "lastExportVersion": "1.20.1",
+    "lastExportAuthor": "kiwiphoenix364",
+    "lastExportSaveTo": "/home/kiwi/Downloads/"
   },
   "id": "1.20.1",
   "complianceLevel": 1,

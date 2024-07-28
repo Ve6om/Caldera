@@ -84,7 +84,7 @@
 
 [difficulty]
 	#Display a warning to players trying to sleep, to remind them their difficulty may change. Sleeping is still allowed.
-	warnWhenSleeping = true
+	warnWhenSleeping = false
 
 	[difficulty.meter]
 		#When to show the difficulty meter.

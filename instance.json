@@ -8038,291 +8038,6 @@
         }
       },
       {
-        "name": "Just Enough Items",
-        "version": "jei-1.20.1-forge-15.8.0.16.jar",
-        "optional": false,
-        "file": "jei-1.20.1-forge-15.8.0.16.jar",
-        "type": "mods",
-        "description": "JEI - View Items and Recipes",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 238222,
-        "curseForgeFileId": 5547894,
-        "curseForgeProject": {
-          "id": 238222,
-          "name": "Just Enough Items (JEI)",
-          "authors": [
-            {
-              "id": 17072262,
-              "name": "mezz",
-              "url": "https://www.curseforge.com/members/mezz"
-            }
-          ],
-          "gameId": 432,
-          "summary": "View Items and Recipes",
-          "categories": [
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "jei",
-          "isFeatured": false,
-          "dateModified": "2024-07-25T02:54:07.96Z",
-          "dateCreated": "2015-11-23T22:55:58.84Z",
-          "dateReleased": "2024-07-25T02:48:20.857Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
-            "sourceUrl": "https://github.com/mezz/JustEnoughItems"
-          },
-          "logo": {
-            "id": 29069,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
-            "title": "635838945588716414.jpeg",
-            "url": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
-            "modId": 238222
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 31417,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
-              "title": "Recipe Completion",
-              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
-              "modId": 238222
-            },
-            {
-              "id": 31419,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
-              "title": "Potions",
-              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
-              "modId": 238222
-            },
-            {
-              "id": 31420,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
-              "title": "Itemlist Edit Mode",
-              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
-              "modId": 238222
-            },
-            {
-              "id": 31418,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/418/310/172/9lngh5f.png",
-              "title": "Big Screen Support",
-              "url": "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
-              "modId": 238222
-            }
-          ],
-          "mainFileId": 5106178
-        },
-        "curseForgeFile": {
-          "id": 5547894,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "jei-1.20.1-forge-15.8.0.16.jar",
-          "fileName": "jei-1.20.1-forge-15.8.0.16.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2024-07-20T08:15:04.317Z",
-          "fileLength": 1238011,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4181783712,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3330156403,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2007185424,
-              "name": "jei-icon.png"
-            },
-            {
-              "fingerprint": 1919872547,
-              "name": "mezz"
-            },
-            {
-              "fingerprint": 2606738017,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "79fc3f1f4659bb8c2e40793839de6a15c8b87b1a",
-              "algo": 1
-            },
-            {
-              "value": "2a764fff78691b1bc509ce6b10037a32",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 857412656,
-          "modId": 238222
-        },
-        "modrinthProject": {
-          "id": "u6dRKJwZ",
-          "slug": "jei",
-          "project_type": "mod",
-          "team": "H2zAm1Kt",
-          "title": "Just Enough Items",
-          "description": "JEI - View Items and Recipes",
-          "body": "# Just Enough Items\nJEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.\n\n![JEI Recipe GUI](https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png)\n\n## Controls\n\n### Inventory:\n*(Minecraft Options -> Controls)*\n\nShow **R**ecipes: *Hover over item + R*  \nShow **U**ses: *Hover over item + U*  \nToggle Item List **O**verlay: *Control + O*  \n\n### Item List:\nShow Recipes: *Click Item or type R*  \nShow Uses: *Right-Click Item or type U*  \nNext/Previous page: *Scroll Wheel*  \n\n### Search:\nSelect Search Bar: *Click or Control + F*  \nClear Search: *Right Click*  \nPrevious Search: *Up Arrow * \nSearch by Mod Name: *Type @ in front of a word (@thaum)*  \nMultiple terms work together *(wand @thaum)*  \n\nExclude search terms: *Type - in front of a word (@thaum -wand)*  \n\nSearch terms that have spaces in them: *Type \"\" around the words (\"two words\")*\n\n### Recipe View:\nNext/Previous page: *Scroll Wheel*  \nShow all Recipes: *Click the recipe category's name*  \nMove items into crafting area: *Click the [+] button. Shift-Click to move multiple sets of items.*  \n\n<details>\n<summary>View advanced controls</summary>\n\n### Advanced Search:\nSearch by Tooltip Only: *Type # in front of a word*  \nSearch by OreDict name: *Type $ in front of a word*  \nSearch by Creative Tab: *Type % in front of a word*  \nMultiple Searches: *Separate terms with | characters, like \"wrench|hammer\"*  \n\n### With Cheat Mode Active:\nGet a full stack of Items: *Click Item*  \nGet one Item: *Right-Click Item*  \nDelete Item: *Drop an Item into the Item List*  \n\n### With Item List Edit Mode Active: \n*(These controls are shown in-game on the item tooltip)*\n\nHide Item: *Control-Click Item*  \nHide Items and Sub-Items: *Control-Right-Click Item*  \nHide all Items from a mod: *Control-Shift-Click Item*\n\n</details>\n\n## FAQ\n### Can I include JEI in my mod pack?\nOf course!\n\n### Can JEI run client-only, or with a vanilla server?\nYes, with some features disabled:\n- The \"Move items into crafting area\" [+] buttons.\n- Cheating in items that have lots of NBT data.\n- Deleting items.\n\n### Where can I find the ___ feature from NEI?\n\n[The chart here shows which mods support each feature.](https://docs.google.com/spreadsheets/d/1NEWZjKvWB-SibY1BXc1zoYkK7AhjMMBZess9wMy--6w/edit#gid=0)\n\n### I have an issue / bug / crash / report / request, where can I send it?\n[JEI Github Issues Page](https://github.com/mezz/JustEnoughItems/issues)\n\n## Support\n[Become a patron on Patreon](https://www.patreon.com/mezz)",
-          "published": "2023-01-27T05:19:03.821699Z",
-          "updated": "2024-07-25T02:48:51.788373Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "library",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/u6dRKJwZ/565c44deeac2a38cbb6c600b5e002fac59572b88.png",
-          "issues_url": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
-          "source_url": "https://github.com/mezz/JustEnoughItems",
-          "wiki_url": "https://github.com/mezz/JustEnoughItems/wiki",
-          "discord_url": "https://discord.gg/sCQcWU2",
-          "donation_urls": [
-            {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/mezz"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/4ebe4cc9942c4bf0b07fdac67f93026b42f9a4d4.png",
-              "featured": false,
-              "title": "Recipe Completion",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png",
-              "featured": false,
-              "title": "JEI Recipe GUI",
-              "created": "2023-01-27T05:27:31.621057Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/f281af132332942e0739d557d6608e9263273fbb.jpeg",
-              "featured": true,
-              "title": "jei-header",
-              "description": "Zoomed image of JEI viewed on a high resolution CRT monitor",
-              "created": "2023-01-29T23:20:13.068911Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/156edbd1e04f86d64edc4f41a6d00e849bc7984b.png",
-              "featured": false,
-              "title": "Potions",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 1.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b9efa7c6ecb817461416e6a30d8dfc0cc01e8566.png",
-              "featured": false,
-              "title": "Itemlist Edit Mode",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 2.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b1d94b5957935666467e1b2073d5cf92993b4078.png",
-              "featured": false,
-              "title": "Big Screen Support",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 3.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "FWlyYcv9",
-          "project_id": "u6dRKJwZ",
-          "author_id": "nMXRSbhF",
-          "name": "15.8.0.16 for Forge 1.20.1",
-          "version_number": "15.8.0.16",
-          "changelog": "  * [Crash if the vanilla plugin crashes](https://github.com/mezz/JustEnoughItems/commit/d983ef96059200756794f25d435c1c0173e7ee24) - mezz\n",
-          "date_published": "2024-07-20T08:15:35.967682Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "79fc3f1f4659bb8c2e40793839de6a15c8b87b1a",
-                "sha512": "4dfe256d30dafe2ead022be6a060d6c12e6da9a019e632b9bd598cc43783fa3e573c9140544dbc2c8b5f441005c4d4c9bc55a14d5cf7a25d4aa4bf720288c222"
-              },
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/FWlyYcv9/jei-1.20.1-forge-15.8.0.16.jar",
-              "filename": "jei-1.20.1-forge-15.8.0.16.jar",
-              "primary": true,
-              "size": 1238011
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "AtomicStryker's Infernal Mobs",
         "version": "Infernal Mobs",
         "optional": false,
@@ -52535,13 +52250,1536 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Mini-boss Boss Bars",
+        "version": "Mini-boss Boss Bars.jar",
+        "optional": true,
+        "file": "Mini-boss Boss Bars.jar",
+        "type": "mods",
+        "description": "Adds boss bars to different mini-bosses (or bosses that lack their own) from numerous different Minecraft mods, including vanilla's Elder Guardian and Warden.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1001151,
+        "curseForgeFileId": 5571016,
+        "curseForgeProject": {
+          "id": 1001151,
+          "name": "Mini-boss Boss Bars",
+          "authors": [
+            {
+              "id": 100861829,
+              "name": "theexiiedfeiiow_",
+              "url": "https://www.curseforge.com/members/theexiiedfeiiow_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds boss bars to different mini-bosses (or bosses that lack their own) from numerous different Minecraft mods, including vanilla's Elder Guardian and Warden.",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "mini-boss-boss-bars",
+          "isFeatured": false,
+          "dateModified": "2024-07-27T13:24:32.463Z",
+          "dateCreated": "2024-04-10T10:49:22.74Z",
+          "dateReleased": "2024-07-27T13:21:25.373Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mini-boss-boss-bars",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 978426,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/978/426/256/256/638483429627614615.png",
+            "title": "638483429627614615.png",
+            "url": "https://media.forgecdn.net/avatars/978/426/638483429627614615.png",
+            "modId": 1001151
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 844842,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/842/310/172/2024-04-12_15.png",
+              "title": "Galosphere's Berserker with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/844/842/2024-04-12_15.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843699,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/699/310/172/2024-04-10_22.png",
+              "title": "Mutant Monsters' Mutant Zombie with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/699/2024-04-10_22.png",
+              "modId": 1001151
+            },
+            {
+              "id": 844825,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/825/310/172/2024-04-12_03.png",
+              "title": "Ice and Fire's Fire Dragon with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/844/825/2024-04-12_03.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843704,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/704/310/172/2024-04-11_00.png",
+              "title": "L_Ender's Cataclysm's Amethyst Crab with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/704/2024-04-11_00.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843703,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/703/310/172/2024-04-10_23.png",
+              "title": "Alex's Caves' Hullbreaker with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/703/2024-04-10_23.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843831,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/831/310/172/2024-04-11_04.png",
+              "title": "Vanilla Mob Minibosses' Withered Cultist with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/831/2024-04-11_04.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843706,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/706/310/172/2024-04-11_00.png",
+              "title": "Aquamirae's Mother of the Maze with her boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/706/2024-04-11_00.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843701,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/701/310/172/2024-04-10_23.png",
+              "title": "Alex's Caves' Forsaken with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/701/2024-04-10_23.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843700,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/700/310/172/2024-04-10_23.png",
+              "title": "The Conjurer with his boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/700/2024-04-10_23.png",
+              "modId": 1001151
+            },
+            {
+              "id": 843830,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/830/310/172/2024-04-11_03.png",
+              "title": "The Undergarden's Forgotten Guardian with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/843/830/2024-04-11_03.png",
+              "modId": 1001151
+            },
+            {
+              "id": 844843,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/843/310/172/2024-04-12_16.png",
+              "title": "Legendary Monsters' Withered Abomination with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/844/843/2024-04-12_16.png",
+              "modId": 1001151
+            },
+            {
+              "id": 844826,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/826/310/172/2024-04-12_03.png",
+              "title": "Alex's Mobs' Warped Mosco with its boss bar",
+              "url": "https://media.forgecdn.net/attachments/844/826/2024-04-12_03.png",
+              "modId": 1001151
+            }
+          ],
+          "mainFileId": 5571016
+        },
+        "curseForgeFile": {
+          "id": 5571016,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Mini-boss Boss Bars.jar",
+          "fileName": "Mini-boss Boss Bars.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-27T13:21:25.373Z",
+          "fileLength": 585781,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 989333,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 855414,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1028734,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1022612,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 379849,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 631098,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 972273,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 264231,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 862098,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 551586,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 536254,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 947258,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 686437,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 913840,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 377798,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 967672,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 602059,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 986907,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 945686,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 890127,
+              "relationType": 4
+            },
+            {
+              "fileId": 0,
+              "modId": 538529,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 921600,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 936922,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 715248,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 965601,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 896969,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 634942,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 944035,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 966410,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1021702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 924854,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 426558,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 323596,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 962250,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 852665,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 967045,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1022950640,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1083420942,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3832002172,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2311985668,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3888393594,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "32f5aa958e7145c2590e639f8529b8f6e11e9fa6",
+              "algo": 1
+            },
+            {
+              "value": "a0c1fa62ea96327cfb49f96620d67882",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3403401680,
+          "modId": 1001151
+        },
+        "modrinthProject": {
+          "id": "A8rzsSSb",
+          "slug": "mini-boss-boss-bars",
+          "project_type": "mod",
+          "team": "2bpTdfuz",
+          "title": "Mini-boss Boss Bars",
+          "description": "Adds boss bars to different mini-bosses (or bosses that lack their own) from numerous different Minecraft mods, including vanilla's Elder Guardian and Warden.",
+          "body": "### **NOTE:** While the mod specifically runs on the (Neo)Forge modloader(s), it also includes added support for Fabric mods with the help of the [Sinytra Connector](https://modrinth.com/mod/connector) mod. The lists provided below will indicate when a mod this mod supports necessitates it.\n\n\n\n\nThis mod serves as an addon to any mod featuring conspicuously resilient foes that don't quite qualify as true bosses and thus lack boss bars of their own, and does basically what the title of the mod says, by granting them their very own boss bars that track their health (like any other boss should)! This also includes vanilla's Elder Guardian and Warden. Additionally, true bosses that for whatever reason also lack a boss bar of their own have also been granted one to finally bequeath them that more appropriate and clear facade to their boss status that they so deserve.\n\n_It is also worth noting that the boss bars added by this mod do not necessarily work the same way as regular boss bars do, as they won't actually appear right off the bat as when any of these mini-bosses spawn. Rather, the mini-bosses have to receive at least a single strike of damage from a player in order for the bars to show up. Should the player stray off into the distance at a minimum of 60 blocks away from a mini-boss, their health bar will then vanish and require another blow of damage in order for them to reappear once more. These measures serve to prevent the redundancy of boss bars on a player's screen from enemies they aren't anywhere near inclined to provoking, thus rendering the bars obsolete by default._\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wXujtxAVJ6o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nYou can disable boss bars from showing up for certain bosses through datapacks and giving them the tag **#minibossbossbars:boss_exception.** For bosses that exist through datapacks (like Ultris or Vanilla Mob Minibosses), instead run the command **/tag @e[whatever goes in here] add minibossbossbars.boss_exception** through a ticking function in a datapack. As to find out whatever goes between those square brackets, feel free to pry open the mod with WinRAR, navigate to **_data > miniboss_boss_bars > functions_** and scour through whichever function has their designated mod names to look for the desired boss.\n\n**The mod doesn't mandate the installation of every listed mod within each version simultaneously; rather, it adjusts to accommodate the ones that are currently installed.**\n\n\n### The lists shown below detail what mods and their respective bosses are supported by this mod.\n\n\n<details>\n<summary>1.20.1</summary>\n\n**[Alex's Caves](https://modrinth.com/mod/alexs-caves)**\n• Forsaken\n• Hullbreaker\n• Tremorzilla (if untamed, boss bar disappears and will no longer appear again once tamed)\n\n**[Alex's Mobs](https://modrinth.com/mod/alexs-mobs)**\n• Warped Mosco\n\n**[Aquamirae](https://modrinth.com/mod/aquamirae)**\n• Eel\n• Mother of the Maze\n\n**[Arthropod Phobia Expansions](https://modrinth.com/mod/arphex)**\n• Spider Widow\n• Spider Prowler\n• Centipede Evictor\n• Spider Moth\n• Scorpioid Bloodluster\n• Draconic Voidlasher\n\n**[Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)**\n• Missionary\n• Supreme Bonescaller\n• Sir Pumpkinhead\n\n**[Choup's Drakvyrn Mod](https://www.curseforge.com/minecraft/mc-mods/choups-drakvyrn-mod)**\n• All Drakvyrn variants (if wild/untamed, boss bar disappears and will no longer appear again once tamed)\n\n**[Creation and Adventure](https://www.curseforge.com/minecraft/mc-mods/creation-and-adventure)**\n• Shaman Monkey (Mono chamán)\n• Nether King (Rey del nether)\n\n**[Creature Compendium](https://modrinth.com/mod/creature-compendium)**\n• Netherite Forge (when first awoken and hostile)\n\n**[EEEAB's Mobs](https://modrinth.com/mod/eeeab-s-mobs)**\n• Corpse Warlock\n• Guling Sentinel-Heavy\n\n**[Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)**\n• Wildfire\n\n**[From The Shadows Reborn](https://www.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn)**\n• Nehemoth\n• Bulldrogioth\n\n**[Frostiful](https://modrinth.com/mod/frostiful)** _([Sinytra Connector required](https://modrinth.com/mod/connector))_\n• Frostologer\n\n**[Galosphere](https://modrinth.com/mod/galosphere)**\n• Berserker\n\n**[Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons)**\n• Fire Dragon (if wild/untamed, disappears when asleep)\n• Ice Dragon (if wild/untamed, disappears when asleep)\n• Lightning Dragon (if wild/untamed, disappears when asleep)\n• Cyclops\n• Gorgon\n• Hydra\n\n**[Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)**\n• Archevoker\n• Cryomancer\n\n**[L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)**\n• Amethyst Crab\n• Coral Golem\n• Coralssus\n• The Prowler\n• Ignited Revenant\n• Ignited Berserker\n• Wadjet\n• Kobolediator\n• Ender Golem\n\n**[Land of Goblins](https://modrinth.com/mod/land-of-goblins)**\n• Creeptus\n• Crabtilus\n• Wither Fungus\n\n**[Legendary Monsters](https://modrinth.com/mod/legendary-monsters)**\n• Overgrown Colossus\n• Frostbitten Golem\n• Skeletosaurus\n• Warped Fungussus\n• Lava Eater\n• Withered Abomination\n• Shulker Mimic\n• Endersent\n• Cloud Golem\n• Ancient Guardian\n• Possessed Paladin\n• Dune Sentinel\n\n**[LUNACY: The World of RPG](https://www.curseforge.com/minecraft/mc-mods/lunacy-the-world-of-rpg)**\n• Ender Monstrosity\n\n**[Mokels RPG](https://www.curseforge.com/minecraft/mc-mods/mokels-rpg)**\n• Elemental\n• Tainted Flame\n• Guardian of the First Flame\n\n**[Mutant Iceologer Mod](https://modrinth.com/mod/mutant-iceologer-mod)**\n• Mutant Iceologer\n\n**[Mutant Monsters](https://modrinth.com/mod/mutant-monsters)**\n• Mutant Zombie\n• Mutant Skeleton\n• Mutant Creeper\n• Mutant Endeman\n\n**[Rats](https://modrinth.com/mod/rats)**\n• Rat King\n\n**[Sky Lands](https://modrinth.com/mod/sky-lands)**\n• Sky Automaton Boss\n• Glaciated Dragon\n• Igneo Robo Feline\n\n**[Sons of Sins](https://modrinth.com/mod/sons-of-sins)**\n• Prowler\n• Kelvin\n• Curse\n• Blüd\n• Butcher\n• Walking Bed\n• Wistiver\n\n**[Tax' Big Boss](https://www.curseforge.com/minecraft/mc-mods/taxbigboss)**\n• Enforcer\n\n**[The Awakening of the Elder Souls](https://www.curseforge.com/minecraft/mc-mods/the-awakening-of-the-elder-souls)**\n• The Guardian of the Eclipse\n\n**[The Cardinal Sins](https://modrinth.com/mod/the-cardinal-sins)**\n• Stone Warrior\n• Drakara, Eternal Mourner\n• Cursed Knight\n\n**[The Conjurer](https://modrinth.com/mod/the-conjurer)**\n• The Conjurer\n\n**[The Quackening](https://www.curseforge.com/minecraft/mc-mods/the-quackening)**\n• Axethrower\n\n**[The Stellar Conquest](https://www.curseforge.com/minecraft/mc-mods/the-stellar-conquest)**\n• Mekkron\n\n**[The Undergarden](https://modrinth.com/mod/the-undergarden)**\n• Forgotten Guardian\n\n**[TOWERS OF CHAOS](https://www.curseforge.com/minecraft/mc-mods/towers-of-chaos)**\n• Nether Obelisk\n\n**[Ultris: Boss Expansion](https://modrinth.com/datapack/ultris)**\n• Illusioner\n\n**[Vanilla Mob Minibosses](https://www.curseforge.com/minecraft/mc-mods/vanilla-minibosses)**\n• Natureologer\n• Knightlander\n• Withered Cultist\n\n</details>\n\n",
+          "published": "2024-04-10T12:39:47.098063Z",
+          "updated": "2024-07-27T13:26:32.225934Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/A8rzsSSb/8756ee9ccf3af2b7b3875ad44e0663ff4c91ec12.png",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/183128c832739eb6820aa16d091d8d16a5240ea3.png",
+              "featured": false,
+              "title": "Alex's Mobs' Warped Mosco with its boss bar",
+              "created": "2024-04-12T07:16:38.052310Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/1a9715c01ff571b528f207b813f0dad0159b7ecc.png",
+              "featured": false,
+              "title": "Legendary Monsters' Withered Abomination with its boss bar",
+              "created": "2024-04-12T08:28:04.549507Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/21ffd92aa2850d16a89c7a56b1fdbe08dcf3c54a.png",
+              "featured": false,
+              "title": "L_Ender's Cataclysm's Amethyst Crab with its boss bar",
+              "created": "2024-04-10T17:00:11.094263Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/48a08fdbd0d991e99d02fd53daad0a4a14e26676.png",
+              "featured": false,
+              "title": "The Undergarden's Forgotten Guardian with its boss bar",
+              "created": "2024-04-10T20:03:35.754376Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/5601562deb0977b935fab1dc313fa5a014820c1c.png",
+              "featured": false,
+              "title": "The Conjurer with its boss bar",
+              "created": "2024-04-10T16:59:30.935144Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/736ed2b67853fc74776e5563fc71e439f2960061.png",
+              "featured": false,
+              "title": "Galosphere's Berserker with its boss bar",
+              "created": "2024-04-12T08:27:44.496901Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/9949fc61066a21dffaafd14cd9738ed9dbacdd48.png",
+              "featured": false,
+              "title": "Alex's Caves' Hullbreaker with its boss bar",
+              "created": "2024-04-10T16:59:54.641136Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/af94e3706f2eff28b7a56cd090daf9ac40541e35.png",
+              "featured": false,
+              "title": "Ice and Fire's Fire Dragon with its boss bar",
+              "created": "2024-04-12T07:16:18.355412Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/c3d22b884978421874ff1240b614b56bee414e56.png",
+              "featured": false,
+              "title": "Mutant Monsters' Mutant Zombie with its boss bar",
+              "created": "2024-04-10T16:59:15.365867Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/cda9a555dc4b636f127ec7d25048bef6f90dae51.png",
+              "featured": false,
+              "title": "Vanilla Mob Minibosses' Withered Cultist with its boss bar",
+              "created": "2024-04-10T20:03:50.797764Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/e20fbbce5ef94c1af77c10913e444e7df4bf7641.png",
+              "featured": false,
+              "title": "Aquamirae's Mother of the Maze with its boss bar",
+              "created": "2024-04-10T17:00:24.468691Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/eae8a0ae6626450157b4bac4561a0d379b94d3e4.png",
+              "featured": false,
+              "title": "Alex's Caves' Forsaken with its boss bar",
+              "created": "2024-04-10T16:59:43.478465Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Oethul2a",
+          "project_id": "A8rzsSSb",
+          "author_id": "NccmrgBt",
+          "name": "Mini-boss Boss Bars 1.20.1",
+          "version_number": "1.0.36",
+          "changelog": "Added **Arthropod Phobia Expansions'** _Spider Prowler_ and _Draconic Voidlasher_",
+          "date_published": "2024-07-27T13:26:32.670058Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "c3a24378d5d26bc254a8ca90935906ee60e682323984c598773fd456782a5d01f24fc9670c97caab00727b84964e50ba700e99a11521a482fba327bbf06de8f2",
+                "sha1": "32f5aa958e7145c2590e639f8529b8f6e11e9fa6"
+              },
+              "url": "https://cdn.modrinth.com/data/A8rzsSSb/versions/Oethul2a/Mini-boss%20Boss%20Bars.jar",
+              "filename": "Mini-boss Boss Bars.jar",
+              "primary": true,
+              "size": 585781
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "2cMuAZAp",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "46KJle7n",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "9d9Bkqva",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "9lbfIPsl",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "Ae6qoBj3",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "CETpiisl",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "Ejfl5qDL",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "Kn7xyQ1v",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "LVnvHVBp",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "N8MNCv66",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "POQ2i9zu",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "U6GY0xp0",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "WP5prCOu",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "XYgKw0vI",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "derP0ten",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "hvaVU41U",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "k0RPP4IO",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "k23mNPhZ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "l7YxzukZ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "n9qawiAe",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "s4OWxYQQ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "sPhqHDEb",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "tA7mQv7R",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "u58R1TMW"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Enhanced Boss Bars",
+        "version": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+        "optional": true,
+        "file": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+        "type": "mods",
+        "description": "New improved boss bars!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1063296,
+        "curseForgeFileId": 5529869,
+        "curseForgeProject": {
+          "id": 1063296,
+          "name": "Enhanced Boss Bars",
+          "authors": [
+            {
+              "id": 103071936,
+              "name": "Nakuring",
+              "url": "https://www.curseforge.com/members/nakuring"
+            }
+          ],
+          "gameId": 432,
+          "summary": "New improved boss bars!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "enhanced-boss-bars",
+          "isFeatured": false,
+          "dateModified": "2024-07-14T15:53:25.25Z",
+          "dateCreated": "2024-07-13T20:10:21.167Z",
+          "dateReleased": "2024-07-13T20:36:59.377Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/enhanced-boss-bars"
+          },
+          "logo": {
+            "id": 1039449,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1039/449/256/256/638564982213431593.png",
+            "title": "638564982213431593.png",
+            "url": "https://media.forgecdn.net/avatars/1039/449/638564982213431593.png",
+            "modId": 1063296
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 915539,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/539/310/172/enderguardian-update.png",
+              "title": "Ender Guardian",
+              "url": "https://media.forgecdn.net/attachments/915/539/enderguardian-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915544,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/544/310/172/sun-spirit-update.png",
+              "title": "Sun Spirit",
+              "url": "https://media.forgecdn.net/attachments/915/544/sun-spirit-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915549,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/549/310/172/obsidilith-update.png",
+              "title": "Obsidilith",
+              "url": "https://media.forgecdn.net/attachments/915/549/obsidilith-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915543,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/543/310/172/slider-update.png",
+              "title": "Slider",
+              "url": "https://media.forgecdn.net/attachments/915/543/slider-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915536,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/536/310/172/frostmaw-update2.png",
+              "title": "Frostmaw",
+              "url": "https://media.forgecdn.net/attachments/915/536/frostmaw-update2.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915552,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/552/310/172/bellringer-update.png",
+              "title": "Bellringer",
+              "url": "https://media.forgecdn.net/attachments/915/552/bellringer-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915541,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/541/310/172/leviathan-update.png",
+              "title": "Leviathan",
+              "url": "https://media.forgecdn.net/attachments/915/541/leviathan-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915547,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/547/310/172/nethergauntlet-update.png",
+              "title": "Nether Gauntlet",
+              "url": "https://media.forgecdn.net/attachments/915/547/nethergauntlet-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915534,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/534/310/172/ferrous-update2.png",
+              "title": "Ferrous Wroughtnaut",
+              "url": "https://media.forgecdn.net/attachments/915/534/ferrous-update2.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915551,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/551/310/172/void-update.png",
+              "title": "Void Worm",
+              "url": "https://media.forgecdn.net/attachments/915/551/void-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915546,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/546/310/172/nightlich-update.png",
+              "title": "Night Lich",
+              "url": "https://media.forgecdn.net/attachments/915/546/nightlich-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915540,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/540/310/172/harbinger-update.png",
+              "title": "Harbinger",
+              "url": "https://media.forgecdn.net/attachments/915/540/harbinger-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915537,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/537/310/172/ignis-update.png",
+              "title": "Ignis",
+              "url": "https://media.forgecdn.net/attachments/915/537/ignis-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915518,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/518/310/172/enderdragon-update3.png",
+              "title": "Ender Dragon",
+              "url": "https://media.forgecdn.net/attachments/915/518/enderdragon-update3.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915548,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/548/310/172/voidblossom-update.png",
+              "title": "Void Blossom",
+              "url": "https://media.forgecdn.net/attachments/915/548/voidblossom-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915550,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/550/310/172/witherstorm-update.png",
+              "title": "Wither Storm",
+              "url": "https://media.forgecdn.net/attachments/915/550/witherstorm-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915519,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/519/310/172/wither-update2.png",
+              "title": "Wither",
+              "url": "https://media.forgecdn.net/attachments/915/519/wither-update2.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915545,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/545/310/172/valkyrie-queen-update.png",
+              "title": "Valkyrie Queen",
+              "url": "https://media.forgecdn.net/attachments/915/545/valkyrie-queen-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915555,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/555/310/172/swampjaw-update.png",
+              "title": "Swampjaw",
+              "url": "https://media.forgecdn.net/attachments/915/555/swampjaw-update.png",
+              "modId": 1063296
+            },
+            {
+              "id": 915538,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/538/310/172/netherite-monstrosoity-update.png",
+              "title": "Netherite Monstrosity",
+              "url": "https://media.forgecdn.net/attachments/915/538/netherite-monstrosoity-update.png",
+              "modId": 1063296
+            }
+          ],
+          "mainFileId": 5529872
+        },
+        "curseForgeFile": {
+          "id": 5529869,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+          "fileName": "enhanced_boss_bars-1.20.1-1.0.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-13T20:36:26.017Z",
+          "fileLength": 254629,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1135526322,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1858295994,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2430116609,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1742288278,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2036008725,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "8a709553a1eb98792b5db787dc57d132bc5b3971",
+              "algo": 1
+            },
+            {
+              "value": "26cdbb61d5d8b0d91584f5f4ca233237",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3809100949,
+          "modId": 1063296
+        }
+      },
+      {
+        "name": "REI Plugin Compatibilities (REIPC)",
+        "version": "[Forge 1.20.1] v12.0.93",
+        "optional": true,
+        "file": "REIPluginCompatibilities-forge-12.0.93.jar",
+        "type": "mods",
+        "description": "Support for JEI plugins for REI",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 521393,
+        "curseForgeFileId": 4837449,
+        "curseForgeProject": {
+          "id": 521393,
+          "name": "REI Plugin Compatibilities (REIPC)",
+          "authors": [
+            {
+              "id": 32851078,
+              "name": "shedaniel",
+              "url": "https://www.curseforge.com/members/shedaniel"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Support for JEI plugins for REI",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "roughly-enough-items-hacks",
+          "isFeatured": false,
+          "dateModified": "2023-11-05T13:43:47.147Z",
+          "dateCreated": "2021-08-28T09:00:46.83Z",
+          "dateReleased": "2023-11-03T12:30:37.773Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-hacks",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/shedaniel/REIPluginCompatibilities-Issues/issues",
+            "sourceUrl": "https://github.com/shedaniel/RoughlyEnoughItems"
+          },
+          "logo": {
+            "id": 426650,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/426/650/256/256/637657380468740930.png",
+            "title": "637657380468740930.png",
+            "url": "https://media.forgecdn.net/avatars/426/650/637657380468740930.png",
+            "modId": 521393
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4837450
+        },
+        "curseForgeFile": {
+          "id": 4837449,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge 1.20.1] v12.0.93",
+          "fileName": "REIPluginCompatibilities-forge-12.0.93.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-03T12:30:32.767Z",
+          "fileLength": 462966,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3168548458,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 8116423,
+              "name": "rei-jei-internals-workaround.mixins.json"
+            },
+            {
+              "fingerprint": 3927185014,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3030729220,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "REIPluginCompatibilities-forge-forge-refmap.json"
+            },
+            {
+              "fingerprint": 665753941,
+              "name": "mezz"
+            },
+            {
+              "fingerprint": 3230642964,
+              "name": "me"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "00ba3027cd4942013b22ac07a42f2e0cc6703b8a",
+              "algo": 1
+            },
+            {
+              "value": "551c50467decb913d67f072a83f381be",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 80648374,
+          "modId": 521393
+        },
+        "modrinthProject": {
+          "id": "1PfY6b5p",
+          "slug": "roughly-enough-items-hacks",
+          "project_type": "mod",
+          "team": "wIvUQ4Lf",
+          "title": "REI Plugin Compatibilities",
+          "description": "Workaround for mods accessing JEI apis",
+          "body": "This is an external REI module to workaround issues brought forward by mods accessing JEI apis, by remapping those usages back to their REI equivalent code.\n\nThis module is extremely unstable, invokes terrible hacks, and should be used as a last resort.\n\n**This mod must be used in companion with Roughly Enough Items.**",
+          "published": "2022-06-11T13:34:57.295280Z",
+          "updated": "2023-11-03T12:30:38.596232Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [],
+          "icon_url": "https://cdn.modrinth.com/data/1PfY6b5p/icon.png",
+          "issues_url": "https://github.com/shedaniel/RoughlyEnoughItems",
+          "source_url": "https://github.com/shedaniel/RoughlyEnoughItems/issues",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "XwQE7XRH",
+          "project_id": "1PfY6b5p",
+          "author_id": "1Hsaf75m",
+          "name": "[Forge 1.20.1] v12.0.93",
+          "version_number": "12.0.93",
+          "changelog": "## REI Plugin Compatibilities v12.0.93 for 1.20.1\nUpdated at **2023-11-03 12:23**.\n",
+          "date_published": "2023-11-03T12:30:35.154586Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "8dac3d9d14c78a3d9d0ef3b3de9444f1082beddbf36a2ed77ddb1c34f2c1ba99aff9029992bc6862220131c365a9816b51216a528606125523b3f47a8b52071c",
+                "sha1": "00ba3027cd4942013b22ac07a42f2e0cc6703b8a"
+              },
+              "url": "https://cdn.modrinth.com/data/1PfY6b5p/versions/XwQE7XRH/REIPluginCompatibilities-forge-12.0.93.jar",
+              "filename": "REIPluginCompatibilities-forge-12.0.93.jar",
+              "primary": true,
+              "size": 462966
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nfn13YXA",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Roughly Enough Items Fabric/Forge/NeoForge (REI)",
+        "version": "[Forge 1.20(.1)] v12.1.740",
+        "optional": true,
+        "file": "RoughlyEnoughItems-12.1.740-forge.jar",
+        "type": "mods",
+        "description": "Clean and Customizable. An easy way to browse recipes. Alternative to JEI Just Enough Items.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 310111,
+        "curseForgeFileId": 5554253,
+        "curseForgeProject": {
+          "id": 310111,
+          "name": "Roughly Enough Items Fabric/Forge/NeoForge (REI)",
+          "authors": [
+            {
+              "id": 32851078,
+              "name": "shedaniel",
+              "url": "https://www.curseforge.com/members/shedaniel"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Clean and Customizable. An easy way to browse recipes. Alternative to JEI Just Enough Items.",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "roughly-enough-items",
+          "isFeatured": false,
+          "dateModified": "2024-07-22T13:45:50.143Z",
+          "dateCreated": "2018-12-30T12:43:29.877Z",
+          "dateReleased": "2024-07-22T13:27:52.487Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items",
+            "wikiUrl": "https://www.craft.do/s/qj8mHyTVd7qkOZ",
+            "issuesUrl": "https://github.com/shedaniel/RoughlyEnoughItems/issues",
+            "sourceUrl": "https://github.com/shedaniel/RoughlyEnoughItems"
+          },
+          "logo": {
+            "id": 282025,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png",
+            "title": "637287701215436754.png",
+            "url": "https://media.forgecdn.net/avatars/282/25/637287701215436754.png",
+            "modId": 310111
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5554301
+        },
+        "curseForgeFile": {
+          "id": 5554253,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Forge 1.20(.1)] v12.1.740",
+          "fileName": "RoughlyEnoughItems-12.1.740-forge.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-07-22T13:14:21.68Z",
+          "fileLength": 2323066,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 521393,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 419699,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1307682745,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 3421179957,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2107471666,
+              "name": "RoughlyEnoughItems-forge-refmap.json"
+            },
+            {
+              "fingerprint": 1819774602,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1972081312,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2333771430,
+              "name": "me"
+            },
+            {
+              "fingerprint": 1583793709,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2356844520,
+              "name": "rei.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "151308a48e514663b839f65dbdeb7014c92947e8",
+              "algo": 1
+            },
+            {
+              "value": "cb740d40d7432fb1a667c9baf753f51b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 4225533220,
+          "modId": 310111
+        },
+        "modrinthProject": {
+          "id": "nfn13YXA",
+          "slug": "rei",
+          "project_type": "mod",
+          "team": "tVG3f9PC",
+          "title": "Roughly Enough Items (REI)",
+          "description": "Clean and Customizable. Alternative to Just Enough Items/JEI.",
+          "body": "**(Snapshot versions of REI is on the Patreon)**\n\n_Clean and Customizable. An easy way to browse recipes._\n\n#### Downloads contain files for Forge, Fabric and Rift! Please download the correct one!\n#### The Fabric version should be compatible on Quilt!\n\n---\n\nNeed a server to play with friends? Or don't know how to setup one? Just rent a server that is already configured!\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png\" alt=\"\" width=\"400\"/>](https://www.bisecthosting.com/)\n\nClick on the picture above, select plan (at least 4 GB), use my code **shedaniel** to get **25% off** your first month and enjoy playing with your friends!\n\n---\n\n## Recipes Exporting\n\nREI provides a keybind that is unbound by default that can be used to export recipes, here is an example:\n\n## JEI Plugins Support: (Forge)\n\nThis **DOES** support JEI plugins. Some mods might require REI Compatibility Workaround.\n\nIf you wish to support both JEI and REI users on a server, install JEI alongside with REI Server Component on the server.\n\n## Favourites / Bookmarking:\nFavouriting items are possible by pressing __A__ when hovering any items.\n\n## Advanced Search:\nMod: `@modname`\nNon-case sensitive, searching via mod, for example @materialisation to search for items added by materialisation.\n\nTooltip: `#text`\nNon-case sensitive, searching via tooltip, for example #protection to search for protection books.\n\nTags: `$tag`\nNon-case sensitive, searching via tags, for example $logs to search for logs.\n\nRegex: `r/regex/`\nCase sensitive, searching via regex, for example r/(Golden )?Apple) to search for golden apples or apples.\n\nQuotes: `\"`\nAllowing spaces, for example \"#protection iii\" to search with spaces.\n\nOr: `|`\nOr, for example apple|$logs to search for apples or logs.\n\n## Version Roadmap:\nREI 5\n- Fabric 1.16.x - Bug Fixes until 28 Feb 2022\n\nREI 6\n- Forge 1.16.x - Feature Updates until Mar 2022\n- Fabric 1.17.x - Feature Updates until Mar 2022\n- Forge 1.17.x - Feature Updates until Mar 2022\n\nREI 7\n- Fabric 1.18 - Feature Updates until June 2022\n- Forge 1.18 - Feature Updates until June 2022\n\nREI 8\n- Fabric 1.18.2 - Feature Updates until 1.20 (at least)\n- Forge 1.18.2 - Feature Updates until 1.20 (at least)\n\nREI 9\n- Fabric 1.19 - Feature Updates until 1.20 (at least)\n- Forge 1.19 - Feature Updates until 1.20 (at least)",
+          "published": "2022-06-11T10:06:44.284284Z",
+          "updated": "2024-07-22T13:27:57.947212Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [],
+          "icon_url": "https://cdn.modrinth.com/data/nfn13YXA/icon.png",
+          "issues_url": "https://github.com/shedaniel/RoughlyEnoughItems/discussions",
+          "source_url": "https://github.com/shedaniel/RoughlyEnoughItems",
+          "wiki_url": "https://www.craft.do/s/qj8mHyTVd7qkOZ",
+          "discord_url": "https://discord.gg/Vs9AVkxjYY",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/4bc190b2ad4222bb738bfd9872e329ec1aca882a.png",
+              "featured": false,
+              "title": "REI Interface",
+              "description": "The basic REI interface showcasing the recipe viewing experience, favorites, and detailed tooltips.",
+              "created": "2023-03-16T15:39:51.410228Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/440f97510240d67139abf40abec5585bf7e99742.png",
+              "featured": false,
+              "title": "Pinning Recipes and Quick Craft",
+              "description": "Never forget recipes by pinning them to the top left of your screen!\nCtrl+Click to quick craft recipes easily!",
+              "created": "2023-03-16T15:46:11.644043Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/7a85c902524b287c87bc90a6ac1edb1efee0abf2.png",
+              "featured": false,
+              "title": "Advanced Manual Hiding Mode",
+              "description": "Hiding items with just a click and drag!",
+              "created": "2023-03-16T15:42:22.458353Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/865c35fbe45f8f0eab98dab45d9f1a7d57a89f16.png",
+              "featured": false,
+              "title": "High Configurability",
+              "description": "Disable the vanilla recipe book... mirroring REI's interface horizontally...\nThere are 80+ options for you to explore!",
+              "created": "2023-03-16T15:50:12.027223Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/0aac3b01f1138eb707d4951091b50028671f4358.png",
+              "featured": false,
+              "title": "Configuring Quick Craft",
+              "description": "Use REI's comprehensive configuration screen to modify Quick Craft Settings",
+              "created": "2023-03-16T15:43:14.013656Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/a4529e4f8a514e9175f54c35b1dcacc6d0cb705b.png",
+              "featured": false,
+              "title": "Tag Tree",
+              "description": "View the tag tree and the dependencies of tags!",
+              "created": "2023-03-16T15:47:30.994722Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/images/e8f66cc4099d44f5c7aec2919612130be237310d.png",
+              "featured": true,
+              "title": "REI Banner",
+              "created": "2023-03-16T16:15:11.794149Z",
+              "ordering": 123.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ZgGvCEA6",
+          "project_id": "nfn13YXA",
+          "author_id": "1Hsaf75m",
+          "name": "[Forge 1.20(.1)] v12.1.740",
+          "version_number": "12.1.740+forge",
+          "changelog": "## REI v12.1.740 for 1.20(.1)\nUpdated at **2024-07-22 13:10**.\n[Click here for changelog](https://www.github.com/shedaniel/RoughlyEnoughItems/commits/12.x-1.20)",
+          "date_published": "2024-07-22T13:14:26.528824Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "351d609d5ecf3af78c686022321161f117bb846ff7da157250fa5db3d4d5fdbe1dca264516c69f44e86c0e7061146f27a54b7df54b2ed7a93789926fb8eae45d",
+                "sha1": "151308a48e514663b839f65dbdeb7014c92947e8"
+              },
+              "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/ZgGvCEA6/RoughlyEnoughItems-12.1.740-forge.jar",
+              "filename": "RoughlyEnoughItems-12.1.740-forge.jar",
+              "primary": true,
+              "size": 2323066
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "lhGA9TYQ",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1722021574277,
-    "numPlays": 27
+    "lastPlayed": 1722141690569,
+    "numPlays": 64
   },
   "id": "1.20.1",
   "complianceLevel": 1,

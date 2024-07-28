@@ -1,8 +1,108 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:roughtweaks:bandage{Damage:5}"
+    }
+  ],
   "lookup_history": [
-    "item:angelring:diamond_ring",
+    "item:cataclysm:mechanical_fusion_anvil",
+    "item:rustic_faming_and_decor:cooper_scythe{Damage:0}",
+    "item:spartanweaponry:diamond_saber{Damage:0}",
+    "item:spartanweaponry:lead_tomahawk{AmmoUsed:0,Damage:0}",
+    "item:spartanfire:dragon_bone_quarterstaff{Damage:0}",
+    "item:hydras_mobs:sun_blaster{Damage:0}",
+    "item:hydras_mobs:scyte{Damage:0}",
+    "item:cataclysm:ancient_metal_ingot",
+    "item:cataclysm:bone_reptile_chestplate{Damage:0}",
+    "item:enemyexpansion:phantasm_chestplate{Damage:0}",
+    "item:scalinghealth:heart_crystal",
+    "item:minecraft:bookshelf",
+    "#item:c:bookshelves",
+    "item:apotheosis:hellshelf",
+    "item:potionring:ring_of_speed",
+    "item:potionring:ring_of_strengh",
+    {
+      "type": "item",
+      "id": "scalinghealth:deepslate_power_crystal_ore",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "scalinghealth:power_crystal_ore",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "scalinghealth:power_crystal_shard",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "scalinghealth:power_crystal",
+      "amount": 64
+    },
+    "item:roughtweaks:bandage{Damage:5}",
+    "item:firstaid:bandage",
+    {
+      "type": "item",
+      "id": "scalinghealth:enchanted_heart",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "scalinghealth:chance_heart",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "scalinghealth:cursed_heart",
+      "amount": 2
+    },
+    "item:toughasnails:wool_chestplate{Damage:0}",
+    "item:toughasnails:leaf_chestplate{Damage:0}",
+    "item:mowziesmobs:umvuthana_mask_fear{Damage:0}",
+    "item:minecraft:leather_chestplate{Damage:0}",
+    "item:the_flesh_that_hates:bundle_of_flesh",
+    "item:the_flesh_that_hates:flesh_chest_chestplate{Damage:0}",
+    "item:the_flesh_that_hates:flesh_boot_boots{Damage:0}",
+    "item:the_flesh_that_hates:flesh_pants_leggings{Damage:0}",
+    "item:the_flesh_that_hates:flesh_mask_helmet{Damage:0}",
+    "item:iceandfire:dragonsteel_fire_ingot",
+    "item:cataclysm:ignitium_ingot",
+    "item:minecraft:netherite_ingot",
+    "item:confluence:gravity_globe",
     "item:angelring:angel_ring",
+    "item:spartanshields:basic_mekanists_tower_shield{Energy:1000000}",
+    "item:quark:diamond_heart",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_3",
+    "item:toolbelt:pouch",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_2",
+    "item:toolbelt:belt",
+    "item:minecraft:netherite_chestplate{Damage:0}",
+    "item:eldritch_end:etyrite_chestplate{Damage:0}",
+    "item:minecraft:blaze_rod",
+    "item:quark:redstone_randomizer",
+    "item:minecraft:prismarine_crystals",
+    "item:philipsruins:frozen_prismarine_crystals",
+    "item:tan__a_curios_expansion:regulation_circuit_shard",
+    "item:tan__a_curios_expansion:regulation_circuit",
+    "item:minecraft:emerald",
+    "item:tan__a_curios_expansion:regulation_crystal",
+    "item:tan__a_curios_expansion:cooling_thermal_insulation",
+    "item:tan__a_curios_expansion:universal_thermal_insulation",
+    "item:tan__a_curios_expansion:heated_thermal_insulation",
+    {
+      "type": "item",
+      "id": "tan__a_curios_expansion:firoze_bucket",
+      "remainder": "item:minecraft:bucket"
+    },
+    "item:xpbook:xp_tome{}",
+    "item:quark:ancient_tome{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:7s}]}",
+    "item:iceandfire:stymphalian_feather_bundle",
+    "item:minecraft:heart_of_the_sea",
+    "item:artifacts:crystal_heart",
+    "item:angelring:diamond_ring",
     {
       "type": "item",
       "id": "grapplemod:motorupgradeitem",
@@ -40,25 +140,16 @@
     "item:the_flesh_that_hates:flesh_sword{Damage:0}",
     "item:iceandfire:dragonsteel_lightning_helmet{Damage:0}",
     "item:spartanfire:ice_dragonsteel_rapier{Damage:0}",
-    "item:iceandfire:dragonsteel_fire_ingot",
     "item:iceandfire:dragonsteel_fire_sword{Damage:0}",
-    "item:the_flesh_that_hates:bundle_of_flesh",
-    "item:the_flesh_that_hates:flesh_chest_chestplate{Damage:0}",
     "item:iceandfire:dragonsteel_ice_ingot",
     "item:spartanfire:ice_dragonsteel_longsword{Damage:0}",
     "item:spartanfire:fire_dragonsteel_longsword{Damage:0}",
     "item:iceandfire:dragonsteel_ice_helmet{Damage:0}",
-    "item:the_flesh_that_hates:flesh_mask_helmet{Damage:0}",
     "item:minecraft:elytra{Damage:0}",
     "item:sophisticatedbackpacks:battery_upgrade",
     {
       "type": "item",
       "id": "iceandfire:dragonsteel_lightning_ingot",
-      "amount": 64
-    },
-    {
-      "type": "item",
-      "id": "cataclysm:ignitium_ingot",
       "amount": 64
     },
     "item:iceandfire:ghost_ingot",
@@ -89,7 +180,6 @@
     "item:alexsmobs:tarantula_hawk_wing",
     "item:alexsmobs:tarantula_hawk_elytra{Damage:0}",
     "item:iceandfire:dragonarmor_silver_tail",
-    "item:scalinghealth:heart_crystal",
     "item:confluence:terraspark_boots",
     "item:confluence:lightning_boots",
     "item:confluence:frostspark_boots",

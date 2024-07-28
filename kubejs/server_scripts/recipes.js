@@ -74,9 +74,13 @@ ServerEvents.recipes(event => {
         'spartanfire:lightning_dragonsteel_quarterstaff',
         'spartanfire:fire_dragonsteel_scythe',
         'spartanfire:ice_dragonsteel_scythe',
-        'spartanfire:lightning_dragonsteel_scythe'
+        'spartanfire:lightning_dragonsteel_scythe',
+        'scalinghealth:power_crystal',
+        'cataclysm:bone_reptile_helmet',
+        'cataclysm:bone_reptile_chestplate'
 
     ].forEach((itemID) => event.remove({output: itemID}))
+    /*
     event.shaped(
         Item.of('angelring:angel_ring', 1), // arg 1: output
         [
@@ -92,5 +96,16 @@ ServerEvents.recipes(event => {
           E: 'angelring:diamond_ring',
           F: 'minecraft:nether_star'
         }
+    )
+    */
+    event.replaceInput(
+      { output: 'tan__a_curios_expansion:regulation_circuit_shard' }, 
+      'minecraft:prismarine_crystals',
+      'minecraft:quartz'
+    )
+    event.replaceInput(
+      { output: 'tan__a_curios_expansion:regulation_crystal' }, 
+      'minecraft:prismarine_crystals',
+      'minecraft:quartz'
     )
 })

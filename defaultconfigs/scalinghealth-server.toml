@@ -10,11 +10,11 @@
 	#Enable pet add hp by crystals.
 	crystalsAddPetHealth = false
 	#Enable player add damage by crystals.
-	crystalsAddDamage = true
+	crystalsAddDamage = false
 	#Enable ore gen of health crystals. Still drops as loot.
 	hpCrystalsOreGen = true
 	#Enable ore gen of power crystals. Still drops as loot.
-	powerCrystalsOreGen = true
+	powerCrystalsOreGen = false
 	#Mobs will gain bonus health with difficulty.
 	mobHpIncrease = true
 	#Mobs will gain bonus damage with difficulty.
@@ -24,7 +24,7 @@
 	#Enable mob damage scaling.
 	mobDamageScaling = true
 	#Enable difficulty system. If disabled, everything will have 0 difficulty.
-	enableDifficulty = false
+	enableDifficulty = true
 	#Enable blights. If disabled, no blights will spawn.
 	enableBlights = true
 

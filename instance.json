@@ -3,6 +3,7 @@
   "launcher": {
     "name": "RL20",
     "pack": "RL20",
+    "description": "A challenging 1.20.1 modpack featuring skills, powerful mobs, and unique bosses, with elements inspired by RLCraft!",
     "packId": 0,
     "externalPackId": 0,
     "version": "1.20.1",
@@ -9804,268 +9805,6 @@
         }
       },
       {
-        "name": "EMI Loot",
-        "version": "emi_loot-0.6.6+fix3+1.20.1+forge.jar",
-        "optional": false,
-        "file": "emi_loot-0.6.6+fix3+1.20.1+forge.jar",
-        "type": "mods",
-        "description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 681783,
-        "curseForgeFileId": 5458725,
-        "curseForgeProject": {
-          "id": 681783,
-          "name": "EMI Loot",
-          "authors": [
-            {
-              "id": 103101273,
-              "name": "fzzyhmstrs",
-              "url": "https://www.curseforge.com/members/fzzyhmstrs"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "emi-loot",
-          "isFeatured": false,
-          "dateModified": "2024-07-08T16:22:58.813Z",
-          "dateCreated": "2022-09-25T22:00:36.49Z",
-          "dateReleased": "2024-07-08T16:19:00.55Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi-loot",
-            "wikiUrl": "https://github.com/fzzyhmstrs/EMI_loot/wiki",
-            "issuesUrl": "https://github.com/fzzyhmstrs/EMI_loot/issues",
-            "sourceUrl": "https://github.com/fzzyhmstrs/EMI_loot"
-          },
-          "logo": {
-            "id": 614234,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/614/234/256/256/637997400365146063.png",
-            "title": "637997400365146063.png",
-            "url": "https://media.forgecdn.net/avatars/614/234/637997400365146063.png",
-            "modId": 681783
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5514196
-        },
-        "curseForgeFile": {
-          "id": 5458725,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "emi_loot-0.6.6+fix3+1.20.1+forge.jar",
-          "fileName": "emi_loot-0.6.6+fix3+1.20.1+forge.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-06-22T18:07:56.34Z",
-          "fileLength": 360338,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 615134,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1090396871,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2817256199,
-              "name": "architectury_inject_EMI_loot_common_dc458c2234ac4e9aada82956dcc9251b_97100aad68616655b63871156fab9a70636f922e302b75a9edd27573c760afdbemi_loot066fix31201commondevjar"
-            },
-            {
-              "fingerprint": 1942155169,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2072128101,
-              "name": "data"
-            },
-            {
-              "fingerprint": 1177981948,
-              "name": "emi_loot-common-refmap.json"
-            },
-            {
-              "fingerprint": 1590370544,
-              "name": "emi_loot-common.mixins.json"
-            },
-            {
-              "fingerprint": 2519634732,
-              "name": "fzzyhmstrs"
-            },
-            {
-              "fingerprint": 2555961475,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 1514789763,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "d0fbb7de06123b4bbc9e2558d27a4ccb2f6826fc",
-              "algo": 1
-            },
-            {
-              "value": "a3e567bcdaa06186235950f791aa5e64",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Client",
-            "NeoForge",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 2689518533,
-          "modId": 681783
-        },
-        "modrinthProject": {
-          "id": "qbbO7Jns",
-          "slug": "emi-loot",
-          "project_type": "mod",
-          "team": "A6CuhMKl",
-          "title": "EMI Loot",
-          "description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
-          "body": "[![Bisect Hosting Banner](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp \"Bisect Hosting Banner\")](https://bisecthosting.com/fzzyhmstrs)\n\n![Emi Loot chest screen](https://i.imgur.com/Jaf6bFD.png)\n\n![Chest screen with lots of drops condensed into lists sorted by percentage, each list displays the items in that percentage category.](https://i.imgur.com/0ew58PW.png)\n\n### EMI Loot\n\nEMI Loot is a plugin for the [EMI Recipe and Item viewer](https://modrinth.com/mod/emi) that displays loot tables for chests, blocks , and mobs.\n\n \n*EMI Loot is in beta! Please expect features to change and be added as development continues.*\n\n*This mod is for Fabric and Quilt. A Forge port is not planned at this time.*\n\n*All credit goes to EmilyPloszaj for the creation of EMI itself. This is just a plugin.*\n\n[![Join the Discord](https://i.imgur.com/iXATO6K.png)](https://discord.gg/zDbaYmUba2)\n[![Ronald McDonald House Donation Link](https://cdn.modrinth.com/data/cached_images/5f2635e02e8561eb3ae165bda17a9579841d3882.png)](https://tiltify.com/+team-timefall/team-timefall-annual-charity-2024)\n\n#### Wiki\n\nFor guides on how to use the data-driven systems in EMI Loot, please see [the wiki](https://github.com/fzzyhmstrs/EMI_loot/wiki)\n\n#### Notable Features\n\n- Chest loot is sorted by percentage and includes drops added to the loot tables by mods.\n- If a chest has too many loot options to fit onto the screen, EMI Loot will condense the output into lists of items stacked by same-percentage. Hovering over a certain percentage list will show the possible stacks you can expect to get at that probability.\n- Stack sizes shown represent the average item count you can expect to pull at a time (before factoring in the probability).\n- Block drops have been added. These views show the various drops available, split into different categories based on any particular circumstances needed to get that drop (Silk Touch, Shears, etc).\n- Mob drops have been added. Shows drops available split into categories based on circumstances needed to acquire them (only when a mob is on fire, extra with looting, etc)\n\n\n#### Features to come\n- Implement resource-pack driven system for defining custom conditions and how to parse them.\n- Add in fishing and other gameplay loot\n\n\n",
-          "published": "2022-09-25T22:13:18.112945Z",
-          "updated": "2024-07-08T16:18:17.891555Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [
-            "library",
-            "management",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/qbbO7Jns/dec44ad1547e774b6fce97a5268f6ff6309ec40a.png",
-          "issues_url": "https://github.com/fzzyhmstrs/EMI_loot/issues",
-          "source_url": "https://github.com/fzzyhmstrs/EMI_loot",
-          "wiki_url": "https://github.com/fzzyhmstrs/EMI_loot/wiki",
-          "discord_url": "https://discord.gg/zDbaYmUba2",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/fzzyhmstrs"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "ZkDaJFMU",
-          "project_id": "qbbO7Jns",
-          "author_id": "ANKRvkxl",
-          "name": "EMI Loot 0.6.6+fix3+1.20.1+forge",
-          "version_number": "0.6.6+fix3+1.20.1+forge",
-          "changelog": "More fixes for the /reload issue",
-          "date_published": "2024-06-22T18:06:32.430645Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "d0fbb7de06123b4bbc9e2558d27a4ccb2f6826fc",
-                "sha512": "1320590d9c48e7d7bb67aa24c45bc7f6d73e950147679de7f4f3e4adadd48dd01a87c7e10c22652703930c942b567eaf6d17515c0c30703841a08279c20f8e30"
-              },
-              "url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/ZkDaJFMU/emi_loot-0.6.6%2Bfix3%2B1.20.1%2Bforge.jar",
-              "filename": "emi_loot-0.6.6+fix3+1.20.1+forge.jar",
-              "primary": true,
-              "size": 360338
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "ftdbN0KK",
-              "dependency_type": "required"
-            },
-            {
-              "project_id": "fRiHVvU7",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20",
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
-        }
-      },
-      {
         "name": "No Tree Punching",
         "version": "notreepunching-forge-1.20-7.1.0.jar",
         "optional": false,
@@ -13498,357 +13237,6 @@
           ],
           "fileFingerprint": 239143443,
           "modId": 358578
-        }
-      },
-      {
-        "name": "The Lost Cities",
-        "version": "LostCities - 1.20-7.1.8",
-        "optional": false,
-        "file": "lostcities-1.20-7.1.8.jar",
-        "type": "mods",
-        "description": "The Lost Cities is a world generation mod",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 269024,
-        "curseForgeFileId": 5422788,
-        "curseForgeProject": {
-          "id": 269024,
-          "name": "The Lost Cities",
-          "authors": [
-            {
-              "id": 12351286,
-              "name": "McJty",
-              "url": "https://www.curseforge.com/members/mcjty"
-            }
-          ],
-          "gameId": 432,
-          "summary": "The Lost Cities is a world generation mod",
-          "categories": [
-            {
-              "name": "Dimensions",
-              "slug": "world-dimensions",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
-              "dateModified": "2014-05-08T17:37:26.84Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 410,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 410,
-          "classId": 6,
-          "slug": "the-lost-cities",
-          "isFeatured": false,
-          "dateModified": "2024-06-19T08:06:07.403Z",
-          "dateCreated": "2017-06-03T05:29:02.997Z",
-          "dateReleased": "2024-06-19T08:00:45.907Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/the-lost-cities",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/McJty/LostCities/issues",
-            "sourceUrl": "https://github.com/McJty/LostCities"
-          },
-          "logo": {
-            "id": 101102,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/101/102/256/256/636320465430890063.png",
-            "title": "636320465430890063.png",
-            "url": "https://media.forgecdn.net/avatars/101/102/636320465430890063.png",
-            "modId": 269024
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 211495,
-              "description": "A crossing",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/495/310/172/2017-06-18_14.png",
-              "title": "A crossing",
-              "url": "https://media.forgecdn.net/attachments/211/495/2017-06-18_14.png",
-              "modId": 269024
-            },
-            {
-              "id": 211324,
-              "description": "Into the mountain",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/324/310/172/2017-06-16_20.png",
-              "title": "Into the mountain",
-              "url": "https://media.forgecdn.net/attachments/211/324/2017-06-16_20.png",
-              "modId": 269024
-            },
-            {
-              "id": 211291,
-              "description": "Tunnel",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/291/310/172/2017-06-15_19.png",
-              "title": "Tunnel",
-              "url": "https://media.forgecdn.net/attachments/211/291/2017-06-15_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 211323,
-              "description": "In the city",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/323/310/172/2017-06-16_20.png",
-              "title": "In the city",
-              "url": "https://media.forgecdn.net/attachments/211/323/2017-06-16_20.png",
-              "modId": 269024
-            },
-            {
-              "id": 211322,
-              "description": "Tall bridge",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/322/310/172/2017-06-16_20.png",
-              "title": "Tall bridge",
-              "url": "https://media.forgecdn.net/attachments/211/322/2017-06-16_20.png",
-              "modId": 269024
-            },
-            {
-              "id": 211294,
-              "description": "Very tall bridge",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/294/310/172/2017-06-15_20.png",
-              "title": "Very tall bridge",
-              "url": "https://media.forgecdn.net/attachments/211/294/2017-06-15_20.png",
-              "modId": 269024
-            },
-            {
-              "id": 211327,
-              "description": "In the Desert",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/327/310/172/2017-06-16_19.png",
-              "title": "In the Desert",
-              "url": "https://media.forgecdn.net/attachments/211/327/2017-06-16_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 211326,
-              "description": "Country side",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/326/310/172/2017-06-16_20.png",
-              "title": "Country side",
-              "url": "https://media.forgecdn.net/attachments/211/326/2017-06-16_20.png",
-              "modId": 269024
-            },
-            {
-              "id": 210942,
-              "description": "City by night",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/942/310/172/2017-06-10_05.png",
-              "title": "City by night",
-              "url": "https://media.forgecdn.net/attachments/210/942/2017-06-10_05.png",
-              "modId": 269024
-            },
-            {
-              "id": 210511,
-              "description": "City View",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/511/310/172/2017-06-03_19.png",
-              "title": "City View",
-              "url": "https://media.forgecdn.net/attachments/210/511/2017-06-03_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 211328,
-              "description": "The Control Center",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/328/310/172/2017-06-16_19.png",
-              "title": "The Control Center",
-              "url": "https://media.forgecdn.net/attachments/211/328/2017-06-16_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 210945,
-              "description": "BoP",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/945/310/172/2017-06-09_08.png",
-              "title": "BoP",
-              "url": "https://media.forgecdn.net/attachments/210/945/2017-06-09_08.png",
-              "modId": 269024
-            },
-            {
-              "id": 211289,
-              "description": "Highway",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/289/310/172/2017-06-16_09.png",
-              "title": "Highway",
-              "url": "https://media.forgecdn.net/attachments/211/289/2017-06-16_09.png",
-              "modId": 269024
-            },
-            {
-              "id": 210947,
-              "description": "The Jungle",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/947/310/172/2017-06-09_06.png",
-              "title": "The Jungle",
-              "url": "https://media.forgecdn.net/attachments/210/947/2017-06-09_06.png",
-              "modId": 269024
-            },
-            {
-              "id": 212035,
-              "description": "Ruins",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/212/35/310/172/2017-06-28_07.png",
-              "title": "Ruins",
-              "url": "https://media.forgecdn.net/attachments/212/35/2017-06-28_07.png",
-              "modId": 269024
-            },
-            {
-              "id": 212036,
-              "description": "Tunnel in the jungle",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/212/36/310/172/2017-06-28_07.png",
-              "title": "Tunnel in the jungle",
-              "url": "https://media.forgecdn.net/attachments/212/36/2017-06-28_07.png",
-              "modId": 269024
-            },
-            {
-              "id": 211290,
-              "description": "Highway",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/290/310/172/2017-06-16_05.png",
-              "title": "Highway",
-              "url": "https://media.forgecdn.net/attachments/211/290/2017-06-16_05.png",
-              "modId": 269024
-            },
-            {
-              "id": 210514,
-              "description": "Inside",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/514/310/172/2017-06-03_19.png",
-              "title": "Inside",
-              "url": "https://media.forgecdn.net/attachments/210/514/2017-06-03_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 210510,
-              "description": "Crater in ice",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/510/310/172/2017-06-03_19.png",
-              "title": "Crater in ice",
-              "url": "https://media.forgecdn.net/attachments/210/510/2017-06-03_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 211325,
-              "description": "Bridge",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/325/310/172/2017-06-16_19.png",
-              "title": "Bridge",
-              "url": "https://media.forgecdn.net/attachments/211/325/2017-06-16_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 211292,
-              "description": "Crossing",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/292/310/172/2017-06-14_20.png",
-              "title": "Crossing",
-              "url": "https://media.forgecdn.net/attachments/211/292/2017-06-14_20.png",
-              "modId": 269024
-            },
-            {
-              "id": 210512,
-              "description": "A Bridge",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/512/310/172/2017-06-03_19.png",
-              "title": "A Bridge",
-              "url": "https://media.forgecdn.net/attachments/210/512/2017-06-03_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 210941,
-              "description": "Biomes O Plenty support",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/941/310/172/2017-06-10_05.png",
-              "title": "Biomes O Plenty support",
-              "url": "https://media.forgecdn.net/attachments/210/941/2017-06-10_05.png",
-              "modId": 269024
-            },
-            {
-              "id": 210509,
-              "description": "City View in Ice",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/509/310/172/2017-06-03_19.png",
-              "title": "City View in Ice",
-              "url": "https://media.forgecdn.net/attachments/210/509/2017-06-03_19.png",
-              "modId": 269024
-            },
-            {
-              "id": 210508,
-              "description": "City View",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/508/310/172/2017-06-03_06.png",
-              "title": "City View",
-              "url": "https://media.forgecdn.net/attachments/210/508/2017-06-03_06.png",
-              "modId": 269024
-            }
-          ],
-          "mainFileId": 5426550
-        },
-        "curseForgeFile": {
-          "id": 5422788,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "LostCities - 1.20-7.1.8",
-          "fileName": "lostcities-1.20-7.1.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-06-13T03:59:11.56Z",
-          "fileLength": 1114042,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 245211,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 492950833,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1800636430,
-              "name": "mcjty"
-            },
-            {
-              "fingerprint": 2328537421,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2076435758,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3878996785,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "5cd41bc570599071ae75c5e3bf1a458cf8d69fd7",
-              "algo": 1
-            },
-            {
-              "value": "0ee1ea9a4e44abb36e89cbf41d1ef176",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 1510628453,
-          "modId": 269024
         }
       },
       {
@@ -17840,254 +17228,6 @@
           ],
           "fileFingerprint": 407009552,
           "modId": 867818
-        }
-      },
-      {
-        "name": "EMI",
-        "version": "emi-1.1.10+1.20.1+forge",
-        "optional": false,
-        "file": "emi-1.1.10+1.20.1+forge.jar",
-        "type": "mods",
-        "description": "A featureful and accessible item and recipe viewer",
-        "disabled": false,
-        "userAdded": false,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 580555,
-        "curseForgeFileId": 5497473,
-        "curseForgeProject": {
-          "id": 580555,
-          "name": "EMI",
-          "authors": [
-            {
-              "id": 100436320,
-              "name": "EmilyPloszaj",
-              "url": "https://www.curseforge.com/members/emilyploszaj"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Featureful and accessible modern item and recipe viewer with JEI compatibility",
-          "categories": [
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "emi",
-          "isFeatured": false,
-          "dateModified": "2024-07-03T05:23:58.097Z",
-          "dateCreated": "2022-02-16T02:26:33.87Z",
-          "dateReleased": "2024-07-03T05:18:59.543Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi",
-            "wikiUrl": "https://github.com/emilyploszaj/emi/wiki/",
-            "issuesUrl": "",
-            "sourceUrl": "https://github.com/emilyploszaj/emi"
-          },
-          "logo": {
-            "id": 545351,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png",
-            "title": "637878590194850929.png",
-            "url": "https://media.forgecdn.net/avatars/545/351/637878590194850929.png",
-            "modId": 580555
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 633287,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/633/287/310/172/recipe_tree.png",
-              "title": "Recipe Tree",
-              "url": "https://media.forgecdn.net/attachments/633/287/recipe_tree.png",
-              "modId": 580555
-            },
-            {
-              "id": 633276,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/633/276/310/172/emi.png",
-              "title": "EMI",
-              "url": "https://media.forgecdn.net/attachments/633/276/emi.png",
-              "modId": 580555
-            }
-          ],
-          "mainFileId": 5497475
-        },
-        "curseForgeFile": {
-          "id": 5497473,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "emi-1.1.10+1.20.1+forge",
-          "fileName": "emi-1.1.10+1.20.1+forge.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-07-03T05:18:40.027Z",
-          "fileLength": 984939,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3105837350,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 585236480,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 180036089,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 3433348348,
-              "name": "emi-forge.mixins.json"
-            },
-            {
-              "fingerprint": 687636136,
-              "name": "emi-xplat-refmap.json"
-            },
-            {
-              "fingerprint": 3494011006,
-              "name": "emi.mixins.json"
-            },
-            {
-              "fingerprint": 2341449709,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 1926206562,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "042394acefed539bdd5ba0ff978725a5ce35196b",
-              "algo": 1
-            },
-            {
-              "value": "ad035494a5e106c90d52cb666dbb8298",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 4052872653,
-          "modId": 580555
-        },
-        "modrinthProject": {
-          "id": "fRiHVvU7",
-          "slug": "emi",
-          "project_type": "mod",
-          "team": "OqEReJSr",
-          "title": "EMI",
-          "description": "A featureful and accessible item and recipe viewer",
-          "body": "# EMI\nEMI is a featureful and accessible item and recipe viewer. It brings many new features, and optimizes for the user experience. Outside of the standard Fabric/Quilt API, EMI requires **zero** dependencies, and can be launched with the game simply and easily.\n\n![](https://cdn.modrinth.com/data/fRiHVvU7/images/0d3b5b33d0016b21834ce6f3602169f7c48de13f.png)\n\n![](https://cdn.modrinth.com/data/fRiHVvU7/images/f3c8b452eae6dde028c37e3a3e3792459468d865.png)\n\n## Runtime JEI Compat\nFor runtime JEI compat, all you need to do is install JEI alongside EMI and they will work together to share recipes. JEI will be hidden.\n\n## What does EMI bring to the table?\n\nOf course EMI comes with every feature you'd come to expect from the outset, viewing recipes, favoriting items, searching, and the like. But what's new that EMI offers?\n\n* A craftable mode for **quickly crafting** any recipes you're able to make, usable by toggle or as a config for empty searches\n* **Recipes** can be **favorited** with items, and also can be used to quickly craft at a button press\n* A **recipe tree** for breaking down the cost of a complex craft, showing you **every step**, how many **base ingredients** you need, and what you'll have leftover\n* A **recipe tree crafting mode**, counting up the materials and steps you need to be complete to finish a task, including **synthetic favorites** in your sidebar you can use to **craft every step** for exactly as much as you need\n* Smart display of **tags**, with translations, models, and tooltips, showing you ingredients at a glance, such as \"Planks\" instead of slowly rotating through every plank in the game.\n* Smart breakdowns of base costs, letting recipe trees automatically break down to base ingredients, and letting you define **your own defaults** as you play\n* **Tooltips** for recipes, tags, and ingredients showing you what will be crafted, and what makes up an ingredient\n* Binds for quick crafting **straight into your inventory or cursor**, one or many at a time, in conjunction with recipes favorites or the craftable mode\n* A **clean** and **modern** API, built from the ground up to be simple, powerful, and suit all of EMI's features\n* **Zero third party dependencies**. EMI only requires standard, first party Fabric/Quilt APIs\n\n\n## What does EMI stand for?\nIt doesn't, it's not an acronym. Or maybe it's an acronym without a meaning? If it makes you more comfortable, you can pick one from the list below, or make your own up.\n\n* Emi Memy Imi\n* Exhaustively Many Items\n* Explicitly Mandated Items\n* Endless Material Information\n* Expounded Minutia Introspection\n* Earnestly Made Imitation\n* Even More Items\n* Eminence, My Inception\n* Emi's Magic Inventory\n* Efficiently Managed Inventory\n* Exploring Modified: Iridescent\n* Expropriated Matter Insights",
-          "published": "2022-06-08T18:43:43.368416Z",
-          "updated": "2024-07-03T05:18:52.260266Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "library",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp",
-          "issues_url": "https://github.com/emilyploszaj/emi/issues/",
-          "source_url": "https://github.com/emilyploszaj/emi/",
-          "wiki_url": "https://github.com/emilyploszaj/emi/wiki/",
-          "discord_url": "https://discord.gg/T2PuD9RTWV",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/fRiHVvU7/images/0d3b5b33d0016b21834ce6f3602169f7c48de13f.png",
-              "featured": false,
-              "title": "EMI",
-              "description": "EMI's recipe screen and interface",
-              "created": "2023-03-12T06:27:47.113202Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/fRiHVvU7/images/f3c8b452eae6dde028c37e3a3e3792459468d865.png",
-              "featured": false,
-              "title": "Recipe Tree",
-              "description": "Several instances of EMI's recipe tree",
-              "created": "2023-03-12T06:46:01.741792Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "HhQ69HxF",
-          "project_id": "fRiHVvU7",
-          "author_id": "R6WsWKy9",
-          "name": "1.1.10+1.20.1+forge",
-          "version_number": "1.1.10+1.20.1+forge",
-          "changelog": "### Fixes\n* Fixed certain recipe ingredients having incorrect amounts starting in 1.1.8 properly #609 #610\n* Fixed registry adapters for dynamic registries in older versions #527\n",
-          "date_published": "2024-07-03T05:18:33.357474Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "9eeecb444f875533ab026990a9a6fb32a7ea4bfb18f0e65dad756fae1ac0d434318a4592a663fca38ee080fe054aa6a456bcae88e8c9d836c66c5a76c8e47ab3",
-                "sha1": "042394acefed539bdd5ba0ff978725a5ce35196b"
-              },
-              "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/HhQ69HxF/emi-1.1.10%2B1.20.1%2Bforge.jar",
-              "filename": "emi-1.1.10+1.20.1+forge.jar",
-              "primary": true,
-              "size": 984939
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
         }
       },
       {
@@ -51162,1013 +50302,6 @@
         }
       },
       {
-        "name": "Mini-boss Boss Bars",
-        "version": "Mini-boss Boss Bars.jar",
-        "optional": true,
-        "file": "Mini-boss Boss Bars.jar",
-        "type": "mods",
-        "description": "Adds boss bars to different mini-bosses (or bosses that lack their own) from numerous different Minecraft mods, including vanilla's Elder Guardian and Warden.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 1001151,
-        "curseForgeFileId": 5571016,
-        "curseForgeProject": {
-          "id": 1001151,
-          "name": "Mini-boss Boss Bars",
-          "authors": [
-            {
-              "id": 100861829,
-              "name": "theexiiedfeiiow_",
-              "url": "https://www.curseforge.com/members/theexiiedfeiiow_"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Adds boss bars to different mini-bosses (or bosses that lack their own) from numerous different Minecraft mods, including vanilla's Elder Guardian and Warden.",
-          "categories": [
-            {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 426,
-          "classId": 6,
-          "slug": "mini-boss-boss-bars",
-          "isFeatured": false,
-          "dateModified": "2024-07-27T13:24:32.463Z",
-          "dateCreated": "2024-04-10T10:49:22.74Z",
-          "dateReleased": "2024-07-27T13:21:25.373Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mini-boss-boss-bars",
-            "wikiUrl": ""
-          },
-          "logo": {
-            "id": 978426,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/978/426/256/256/638483429627614615.png",
-            "title": "638483429627614615.png",
-            "url": "https://media.forgecdn.net/avatars/978/426/638483429627614615.png",
-            "modId": 1001151
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 844842,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/842/310/172/2024-04-12_15.png",
-              "title": "Galosphere's Berserker with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/844/842/2024-04-12_15.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843699,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/699/310/172/2024-04-10_22.png",
-              "title": "Mutant Monsters' Mutant Zombie with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/699/2024-04-10_22.png",
-              "modId": 1001151
-            },
-            {
-              "id": 844825,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/825/310/172/2024-04-12_03.png",
-              "title": "Ice and Fire's Fire Dragon with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/844/825/2024-04-12_03.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843704,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/704/310/172/2024-04-11_00.png",
-              "title": "L_Ender's Cataclysm's Amethyst Crab with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/704/2024-04-11_00.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843703,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/703/310/172/2024-04-10_23.png",
-              "title": "Alex's Caves' Hullbreaker with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/703/2024-04-10_23.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843831,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/831/310/172/2024-04-11_04.png",
-              "title": "Vanilla Mob Minibosses' Withered Cultist with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/831/2024-04-11_04.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843706,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/706/310/172/2024-04-11_00.png",
-              "title": "Aquamirae's Mother of the Maze with her boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/706/2024-04-11_00.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843701,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/701/310/172/2024-04-10_23.png",
-              "title": "Alex's Caves' Forsaken with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/701/2024-04-10_23.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843700,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/700/310/172/2024-04-10_23.png",
-              "title": "The Conjurer with his boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/700/2024-04-10_23.png",
-              "modId": 1001151
-            },
-            {
-              "id": 843830,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/843/830/310/172/2024-04-11_03.png",
-              "title": "The Undergarden's Forgotten Guardian with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/843/830/2024-04-11_03.png",
-              "modId": 1001151
-            },
-            {
-              "id": 844843,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/843/310/172/2024-04-12_16.png",
-              "title": "Legendary Monsters' Withered Abomination with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/844/843/2024-04-12_16.png",
-              "modId": 1001151
-            },
-            {
-              "id": 844826,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/844/826/310/172/2024-04-12_03.png",
-              "title": "Alex's Mobs' Warped Mosco with its boss bar",
-              "url": "https://media.forgecdn.net/attachments/844/826/2024-04-12_03.png",
-              "modId": 1001151
-            }
-          ],
-          "mainFileId": 5571016
-        },
-        "curseForgeFile": {
-          "id": 5571016,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Mini-boss Boss Bars.jar",
-          "fileName": "Mini-boss Boss Bars.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-07-27T13:21:25.373Z",
-          "fileLength": 585781,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 989333,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 855414,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 1028734,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 1022612,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 379849,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 631098,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 972273,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 264231,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 862098,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 551586,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 536254,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 947258,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 686437,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 913840,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 377798,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 967672,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 602059,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 986907,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 945686,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 890127,
-              "relationType": 4
-            },
-            {
-              "fileId": 0,
-              "modId": 538529,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 921600,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 936922,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 715248,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 965601,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 896969,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 634942,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 944035,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 966410,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 1021702,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 924854,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 426558,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 323596,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 962250,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 852665,
-              "relationType": 2
-            },
-            {
-              "fileId": 0,
-              "modId": 967045,
-              "relationType": 2
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1022950640,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1083420942,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3832002172,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2311985668,
-              "name": "net"
-            },
-            {
-              "fingerprint": 3888393594,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "32f5aa958e7145c2590e639f8529b8f6e11e9fa6",
-              "algo": 1
-            },
-            {
-              "value": "a0c1fa62ea96327cfb49f96620d67882",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 3403401680,
-          "modId": 1001151
-        },
-        "modrinthProject": {
-          "id": "A8rzsSSb",
-          "slug": "mini-boss-boss-bars",
-          "project_type": "mod",
-          "team": "2bpTdfuz",
-          "title": "Mini-boss Boss Bars",
-          "description": "Adds boss bars to different mini-bosses (or bosses that lack their own) from numerous different Minecraft mods, including vanilla's Elder Guardian and Warden.",
-          "body": "### **NOTE:** While the mod specifically runs on the (Neo)Forge modloader(s), it also includes added support for Fabric mods with the help of the [Sinytra Connector](https://modrinth.com/mod/connector) mod. The lists provided below will indicate when a mod this mod supports necessitates it.\n\n\n\n\nThis mod serves as an addon to any mod featuring conspicuously resilient foes that don't quite qualify as true bosses and thus lack boss bars of their own, and does basically what the title of the mod says, by granting them their very own boss bars that track their health (like any other boss should)! This also includes vanilla's Elder Guardian and Warden. Additionally, true bosses that for whatever reason also lack a boss bar of their own have also been granted one to finally bequeath them that more appropriate and clear facade to their boss status that they so deserve.\n\n_It is also worth noting that the boss bars added by this mod do not necessarily work the same way as regular boss bars do, as they won't actually appear right off the bat as when any of these mini-bosses spawn. Rather, the mini-bosses have to receive at least a single strike of damage from a player in order for the bars to show up. Should the player stray off into the distance at a minimum of 60 blocks away from a mini-boss, their health bar will then vanish and require another blow of damage in order for them to reappear once more. These measures serve to prevent the redundancy of boss bars on a player's screen from enemies they aren't anywhere near inclined to provoking, thus rendering the bars obsolete by default._\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wXujtxAVJ6o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\nYou can disable boss bars from showing up for certain bosses through datapacks and giving them the tag **#minibossbossbars:boss_exception.** For bosses that exist through datapacks (like Ultris or Vanilla Mob Minibosses), instead run the command **/tag @e[whatever goes in here] add minibossbossbars.boss_exception** through a ticking function in a datapack. As to find out whatever goes between those square brackets, feel free to pry open the mod with WinRAR, navigate to **_data > miniboss_boss_bars > functions_** and scour through whichever function has their designated mod names to look for the desired boss.\n\n**The mod doesn't mandate the installation of every listed mod within each version simultaneously; rather, it adjusts to accommodate the ones that are currently installed.**\n\n\n### The lists shown below detail what mods and their respective bosses are supported by this mod.\n\n\n<details>\n<summary>1.20.1</summary>\n\n**[Alex's Caves](https://modrinth.com/mod/alexs-caves)**\n• Forsaken\n• Hullbreaker\n• Tremorzilla (if untamed, boss bar disappears and will no longer appear again once tamed)\n\n**[Alex's Mobs](https://modrinth.com/mod/alexs-mobs)**\n• Warped Mosco\n\n**[Aquamirae](https://modrinth.com/mod/aquamirae)**\n• Eel\n• Mother of the Maze\n\n**[Arthropod Phobia Expansions](https://modrinth.com/mod/arphex)**\n• Spider Widow\n• Spider Prowler\n• Centipede Evictor\n• Spider Moth\n• Scorpioid Bloodluster\n• Draconic Voidlasher\n\n**[Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)**\n• Missionary\n• Supreme Bonescaller\n• Sir Pumpkinhead\n\n**[Choup's Drakvyrn Mod](https://www.curseforge.com/minecraft/mc-mods/choups-drakvyrn-mod)**\n• All Drakvyrn variants (if wild/untamed, boss bar disappears and will no longer appear again once tamed)\n\n**[Creation and Adventure](https://www.curseforge.com/minecraft/mc-mods/creation-and-adventure)**\n• Shaman Monkey (Mono chamán)\n• Nether King (Rey del nether)\n\n**[Creature Compendium](https://modrinth.com/mod/creature-compendium)**\n• Netherite Forge (when first awoken and hostile)\n\n**[EEEAB's Mobs](https://modrinth.com/mod/eeeab-s-mobs)**\n• Corpse Warlock\n• Guling Sentinel-Heavy\n\n**[Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)**\n• Wildfire\n\n**[From The Shadows Reborn](https://www.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn)**\n• Nehemoth\n• Bulldrogioth\n\n**[Frostiful](https://modrinth.com/mod/frostiful)** _([Sinytra Connector required](https://modrinth.com/mod/connector))_\n• Frostologer\n\n**[Galosphere](https://modrinth.com/mod/galosphere)**\n• Berserker\n\n**[Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons)**\n• Fire Dragon (if wild/untamed, disappears when asleep)\n• Ice Dragon (if wild/untamed, disappears when asleep)\n• Lightning Dragon (if wild/untamed, disappears when asleep)\n• Cyclops\n• Gorgon\n• Hydra\n\n**[Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)**\n• Archevoker\n• Cryomancer\n\n**[L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)**\n• Amethyst Crab\n• Coral Golem\n• Coralssus\n• The Prowler\n• Ignited Revenant\n• Ignited Berserker\n• Wadjet\n• Kobolediator\n• Ender Golem\n\n**[Land of Goblins](https://modrinth.com/mod/land-of-goblins)**\n• Creeptus\n• Crabtilus\n• Wither Fungus\n\n**[Legendary Monsters](https://modrinth.com/mod/legendary-monsters)**\n• Overgrown Colossus\n• Frostbitten Golem\n• Skeletosaurus\n• Warped Fungussus\n• Lava Eater\n• Withered Abomination\n• Shulker Mimic\n• Endersent\n• Cloud Golem\n• Ancient Guardian\n• Possessed Paladin\n• Dune Sentinel\n\n**[LUNACY: The World of RPG](https://www.curseforge.com/minecraft/mc-mods/lunacy-the-world-of-rpg)**\n• Ender Monstrosity\n\n**[Mokels RPG](https://www.curseforge.com/minecraft/mc-mods/mokels-rpg)**\n• Elemental\n• Tainted Flame\n• Guardian of the First Flame\n\n**[Mutant Iceologer Mod](https://modrinth.com/mod/mutant-iceologer-mod)**\n• Mutant Iceologer\n\n**[Mutant Monsters](https://modrinth.com/mod/mutant-monsters)**\n• Mutant Zombie\n• Mutant Skeleton\n• Mutant Creeper\n• Mutant Endeman\n\n**[Rats](https://modrinth.com/mod/rats)**\n• Rat King\n\n**[Sky Lands](https://modrinth.com/mod/sky-lands)**\n• Sky Automaton Boss\n• Glaciated Dragon\n• Igneo Robo Feline\n\n**[Sons of Sins](https://modrinth.com/mod/sons-of-sins)**\n• Prowler\n• Kelvin\n• Curse\n• Blüd\n• Butcher\n• Walking Bed\n• Wistiver\n\n**[Tax' Big Boss](https://www.curseforge.com/minecraft/mc-mods/taxbigboss)**\n• Enforcer\n\n**[The Awakening of the Elder Souls](https://www.curseforge.com/minecraft/mc-mods/the-awakening-of-the-elder-souls)**\n• The Guardian of the Eclipse\n\n**[The Cardinal Sins](https://modrinth.com/mod/the-cardinal-sins)**\n• Stone Warrior\n• Drakara, Eternal Mourner\n• Cursed Knight\n\n**[The Conjurer](https://modrinth.com/mod/the-conjurer)**\n• The Conjurer\n\n**[The Quackening](https://www.curseforge.com/minecraft/mc-mods/the-quackening)**\n• Axethrower\n\n**[The Stellar Conquest](https://www.curseforge.com/minecraft/mc-mods/the-stellar-conquest)**\n• Mekkron\n\n**[The Undergarden](https://modrinth.com/mod/the-undergarden)**\n• Forgotten Guardian\n\n**[TOWERS OF CHAOS](https://www.curseforge.com/minecraft/mc-mods/towers-of-chaos)**\n• Nether Obelisk\n\n**[Ultris: Boss Expansion](https://modrinth.com/datapack/ultris)**\n• Illusioner\n\n**[Vanilla Mob Minibosses](https://www.curseforge.com/minecraft/mc-mods/vanilla-minibosses)**\n• Natureologer\n• Knightlander\n• Withered Cultist\n\n</details>\n\n",
-          "published": "2024-04-10T12:39:47.098063Z",
-          "updated": "2024-07-27T13:26:32.225934Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-All-Rights-Reserved",
-            "name": ""
-          },
-          "client_side": "unsupported",
-          "server_side": "required",
-          "categories": [
-            "game-mechanics"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/A8rzsSSb/8756ee9ccf3af2b7b3875ad44e0663ff4c91ec12.png",
-          "donation_urls": [],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/183128c832739eb6820aa16d091d8d16a5240ea3.png",
-              "featured": false,
-              "title": "Alex's Mobs' Warped Mosco with its boss bar",
-              "created": "2024-04-12T07:16:38.052310Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/1a9715c01ff571b528f207b813f0dad0159b7ecc.png",
-              "featured": false,
-              "title": "Legendary Monsters' Withered Abomination with its boss bar",
-              "created": "2024-04-12T08:28:04.549507Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/21ffd92aa2850d16a89c7a56b1fdbe08dcf3c54a.png",
-              "featured": false,
-              "title": "L_Ender's Cataclysm's Amethyst Crab with its boss bar",
-              "created": "2024-04-10T17:00:11.094263Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/48a08fdbd0d991e99d02fd53daad0a4a14e26676.png",
-              "featured": false,
-              "title": "The Undergarden's Forgotten Guardian with its boss bar",
-              "created": "2024-04-10T20:03:35.754376Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/5601562deb0977b935fab1dc313fa5a014820c1c.png",
-              "featured": false,
-              "title": "The Conjurer with its boss bar",
-              "created": "2024-04-10T16:59:30.935144Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/736ed2b67853fc74776e5563fc71e439f2960061.png",
-              "featured": false,
-              "title": "Galosphere's Berserker with its boss bar",
-              "created": "2024-04-12T08:27:44.496901Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/9949fc61066a21dffaafd14cd9738ed9dbacdd48.png",
-              "featured": false,
-              "title": "Alex's Caves' Hullbreaker with its boss bar",
-              "created": "2024-04-10T16:59:54.641136Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/af94e3706f2eff28b7a56cd090daf9ac40541e35.png",
-              "featured": false,
-              "title": "Ice and Fire's Fire Dragon with its boss bar",
-              "created": "2024-04-12T07:16:18.355412Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/c3d22b884978421874ff1240b614b56bee414e56.png",
-              "featured": false,
-              "title": "Mutant Monsters' Mutant Zombie with its boss bar",
-              "created": "2024-04-10T16:59:15.365867Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/cda9a555dc4b636f127ec7d25048bef6f90dae51.png",
-              "featured": false,
-              "title": "Vanilla Mob Minibosses' Withered Cultist with its boss bar",
-              "created": "2024-04-10T20:03:50.797764Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/e20fbbce5ef94c1af77c10913e444e7df4bf7641.png",
-              "featured": false,
-              "title": "Aquamirae's Mother of the Maze with its boss bar",
-              "created": "2024-04-10T17:00:24.468691Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/images/eae8a0ae6626450157b4bac4561a0d379b94d3e4.png",
-              "featured": false,
-              "title": "Alex's Caves' Forsaken with its boss bar",
-              "created": "2024-04-10T16:59:43.478465Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "Oethul2a",
-          "project_id": "A8rzsSSb",
-          "author_id": "NccmrgBt",
-          "name": "Mini-boss Boss Bars 1.20.1",
-          "version_number": "1.0.36",
-          "changelog": "Added **Arthropod Phobia Expansions'** _Spider Prowler_ and _Draconic Voidlasher_",
-          "date_published": "2024-07-27T13:26:32.670058Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "c3a24378d5d26bc254a8ca90935906ee60e682323984c598773fd456782a5d01f24fc9670c97caab00727b84964e50ba700e99a11521a482fba327bbf06de8f2",
-                "sha1": "32f5aa958e7145c2590e639f8529b8f6e11e9fa6"
-              },
-              "url": "https://cdn.modrinth.com/data/A8rzsSSb/versions/Oethul2a/Mini-boss%20Boss%20Bars.jar",
-              "filename": "Mini-boss Boss Bars.jar",
-              "primary": true,
-              "size": 585781
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "2cMuAZAp",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "46KJle7n",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "9d9Bkqva",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "9lbfIPsl",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "Ae6qoBj3",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "CETpiisl",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "Ejfl5qDL",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "Kn7xyQ1v",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "LVnvHVBp",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "N8MNCv66",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "POQ2i9zu",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "U6GY0xp0",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "WP5prCOu",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "XYgKw0vI",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "derP0ten",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "hvaVU41U",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "k0RPP4IO",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "k23mNPhZ",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "l7YxzukZ",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "n9qawiAe",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "s4OWxYQQ",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "sPhqHDEb",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "tA7mQv7R",
-              "dependency_type": "optional"
-            },
-            {
-              "project_id": "u58R1TMW"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge",
-            "neoforge"
-          ]
-        }
-      },
-      {
-        "name": "Enhanced Boss Bars",
-        "version": "enhanced_boss_bars-1.20.1-1.0.0.jar",
-        "optional": true,
-        "file": "enhanced_boss_bars-1.20.1-1.0.0.jar",
-        "type": "mods",
-        "description": "New improved boss bars!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 1063296,
-        "curseForgeFileId": 5529869,
-        "curseForgeProject": {
-          "id": 1063296,
-          "name": "Enhanced Boss Bars",
-          "authors": [
-            {
-              "id": 103071936,
-              "name": "Nakuring",
-              "url": "https://www.curseforge.com/members/nakuring"
-            }
-          ],
-          "gameId": 432,
-          "summary": "New improved boss bars!",
-          "categories": [
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Mobs",
-              "slug": "world-mobs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
-              "dateModified": "2014-05-08T17:46:59.507Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 411,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            },
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "enhanced-boss-bars",
-          "isFeatured": false,
-          "dateModified": "2024-07-14T15:53:25.25Z",
-          "dateCreated": "2024-07-13T20:10:21.167Z",
-          "dateReleased": "2024-07-13T20:36:59.377Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/enhanced-boss-bars"
-          },
-          "logo": {
-            "id": 1039449,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1039/449/256/256/638564982213431593.png",
-            "title": "638564982213431593.png",
-            "url": "https://media.forgecdn.net/avatars/1039/449/638564982213431593.png",
-            "modId": 1063296
-          },
-          "allowModDistribution": false,
-          "screenshots": [
-            {
-              "id": 915539,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/539/310/172/enderguardian-update.png",
-              "title": "Ender Guardian",
-              "url": "https://media.forgecdn.net/attachments/915/539/enderguardian-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915544,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/544/310/172/sun-spirit-update.png",
-              "title": "Sun Spirit",
-              "url": "https://media.forgecdn.net/attachments/915/544/sun-spirit-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915549,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/549/310/172/obsidilith-update.png",
-              "title": "Obsidilith",
-              "url": "https://media.forgecdn.net/attachments/915/549/obsidilith-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915543,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/543/310/172/slider-update.png",
-              "title": "Slider",
-              "url": "https://media.forgecdn.net/attachments/915/543/slider-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915536,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/536/310/172/frostmaw-update2.png",
-              "title": "Frostmaw",
-              "url": "https://media.forgecdn.net/attachments/915/536/frostmaw-update2.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915552,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/552/310/172/bellringer-update.png",
-              "title": "Bellringer",
-              "url": "https://media.forgecdn.net/attachments/915/552/bellringer-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915541,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/541/310/172/leviathan-update.png",
-              "title": "Leviathan",
-              "url": "https://media.forgecdn.net/attachments/915/541/leviathan-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915547,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/547/310/172/nethergauntlet-update.png",
-              "title": "Nether Gauntlet",
-              "url": "https://media.forgecdn.net/attachments/915/547/nethergauntlet-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915534,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/534/310/172/ferrous-update2.png",
-              "title": "Ferrous Wroughtnaut",
-              "url": "https://media.forgecdn.net/attachments/915/534/ferrous-update2.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915551,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/551/310/172/void-update.png",
-              "title": "Void Worm",
-              "url": "https://media.forgecdn.net/attachments/915/551/void-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915546,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/546/310/172/nightlich-update.png",
-              "title": "Night Lich",
-              "url": "https://media.forgecdn.net/attachments/915/546/nightlich-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915540,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/540/310/172/harbinger-update.png",
-              "title": "Harbinger",
-              "url": "https://media.forgecdn.net/attachments/915/540/harbinger-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915537,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/537/310/172/ignis-update.png",
-              "title": "Ignis",
-              "url": "https://media.forgecdn.net/attachments/915/537/ignis-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915518,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/518/310/172/enderdragon-update3.png",
-              "title": "Ender Dragon",
-              "url": "https://media.forgecdn.net/attachments/915/518/enderdragon-update3.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915548,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/548/310/172/voidblossom-update.png",
-              "title": "Void Blossom",
-              "url": "https://media.forgecdn.net/attachments/915/548/voidblossom-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915550,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/550/310/172/witherstorm-update.png",
-              "title": "Wither Storm",
-              "url": "https://media.forgecdn.net/attachments/915/550/witherstorm-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915519,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/519/310/172/wither-update2.png",
-              "title": "Wither",
-              "url": "https://media.forgecdn.net/attachments/915/519/wither-update2.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915545,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/545/310/172/valkyrie-queen-update.png",
-              "title": "Valkyrie Queen",
-              "url": "https://media.forgecdn.net/attachments/915/545/valkyrie-queen-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915555,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/555/310/172/swampjaw-update.png",
-              "title": "Swampjaw",
-              "url": "https://media.forgecdn.net/attachments/915/555/swampjaw-update.png",
-              "modId": 1063296
-            },
-            {
-              "id": 915538,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/915/538/310/172/netherite-monstrosoity-update.png",
-              "title": "Netherite Monstrosity",
-              "url": "https://media.forgecdn.net/attachments/915/538/netherite-monstrosoity-update.png",
-              "modId": 1063296
-            }
-          ],
-          "mainFileId": 5529872
-        },
-        "curseForgeFile": {
-          "id": 5529869,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "enhanced_boss_bars-1.20.1-1.0.0.jar",
-          "fileName": "enhanced_boss_bars-1.20.1-1.0.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-07-13T20:36:26.017Z",
-          "fileLength": 254629,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1135526322,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1858295994,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2430116609,
-              "name": "com"
-            },
-            {
-              "fingerprint": 1742288278,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 2036008725,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "8a709553a1eb98792b5db787dc57d132bc5b3971",
-              "algo": 1
-            },
-            {
-              "value": "26cdbb61d5d8b0d91584f5f4ca233237",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            }
-          ],
-          "gameVersions": [
-            "1.20.1",
-            "Forge"
-          ],
-          "fileFingerprint": 3809100949,
-          "modId": 1063296
-        }
-      },
-      {
         "name": "REI Plugin Compatibilities (REIPC)",
         "version": "[Forge 1.20.1] v12.0.93",
         "optional": true,
@@ -54246,6 +52379,274 @@
             "1.20.5",
             "1.20.6",
             "1.21"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "lostcities-custom.jar",
+        "version": "Unknown",
+        "optional": true,
+        "file": "lostcities-custom.jar",
+        "type": "mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "LootJS: KubeJS Addon",
+        "version": "Unknown",
+        "optional": true,
+        "file": "lootjs-forge-1.20.1-2.12.0.jar",
+        "type": "mods",
+        "description": "Add functionality for packdevs to modify global loot modifications through KubeJS",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 570630,
+        "curseForgeFileId": 5404565,
+        "curseForgeProject": {
+          "id": 570630,
+          "name": "LootJS: KubeJS Addon",
+          "authors": [
+            {
+              "id": 101829614,
+              "name": "Lytho",
+              "url": "https://www.curseforge.com/members/lytho"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Add functionality for packdevs to modify global loot modifications through KubeJS",
+          "categories": [
+            {
+              "name": "KubeJS",
+              "slug": "kubejs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/kubejs",
+              "dateModified": "2022-04-24T06:59:45.66Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5314,
+              "iconUrl": "https://media.forgecdn.net/avatars/538/559/637863803856518049.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5314,
+          "classId": 6,
+          "slug": "lootjs",
+          "isFeatured": false,
+          "dateModified": "2024-07-25T09:33:30.423Z",
+          "dateCreated": "2022-01-20T23:10:05.483Z",
+          "dateReleased": "2024-07-25T09:27:55.747Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lootjs",
+            "wikiUrl": "https://docs.almostreliable.com/lootjs/",
+            "issuesUrl": "https://github.com/AlmostReliable/lootjs/issues",
+            "sourceUrl": "https://github.com/AlmostReliable/lootjs"
+          },
+          "logo": {
+            "id": 510924,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/510/924/256/256/637828637727949352.png",
+            "title": "637828637727949352.png",
+            "url": "https://media.forgecdn.net/avatars/510/924/637828637727949352.png",
+            "modId": 570630
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5564136
+        },
+        "curseForgeFile": {
+          "id": 5404565,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "LootJS-Forge-1.20.1-2.12.0",
+          "fileName": "lootjs-forge-1.20.1-2.12.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-06T20:16:06.95Z",
+          "fileLength": 241907,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3479041511,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1593166766,
+              "name": "kubejs.plugins.txt"
+            },
+            {
+              "fingerprint": 2542672354,
+              "name": "lootjs-common.mixins.json"
+            },
+            {
+              "fingerprint": 1784427643,
+              "name": "lootjs-common-Common-refmap.json"
+            },
+            {
+              "fingerprint": 3273339920,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3424779575,
+              "name": "lootjs-forge.mixins.json"
+            },
+            {
+              "fingerprint": 2312894697,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "lootjs-forge-Forge-refmap.json"
+            },
+            {
+              "fingerprint": 2374087953,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "5e0d8b4d398780946f295b31b7b65bf201d7dcc7",
+              "algo": 1
+            },
+            {
+              "value": "6f74c321a57853a86e674bae5d019c3b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2883632433,
+          "modId": 570630
+        },
+        "modrinthProject": {
+          "id": "fJFETWDN",
+          "slug": "lootjs",
+          "project_type": "mod",
+          "team": "PMRuK7v3",
+          "title": "LootJS: KubeJS Addon",
+          "description": "A Minecraft mod for packdevs to easily modify the loot system with KubeJS.",
+          "body": "## **📑 Overview**\nThis is a mod for Forge or Fabric and needs [KubeJS](https://modrinth.com/mod/kubejs).<br>\n\n\n## **✏️ Your first loot modification**\nLoot modifications are handled server side. So all your scripts will go into your `your_minecraft_instance/kubejs/server_scripts` directory. Just create a `.js` file and let's get started.\n\nHere's simple example which adds a gunpowder for creepers:\n```js\nonEvent(\"lootjs\", (event) => {\n    event\n        .addEntityLootModifier(\"minecraft:creeper\")\n        .randomChance(0.3) // 30% chance\n        .thenAdd(\"minecraft:gunpowder\");\n});\n```\n\nInstead of using a loot table for reference, you can also apply the modification to all entities:\n```js\nonEvent(\"lootjs\", (event) => {\n    event\n        .addLootTypeModifier(LootType.ENTITY) // you also can use multiple types\n        .logName(\"It's raining loot\") // you can set a custom name for logging\n        .weatherCheck({\n            raining: true,\n        })\n        .thenModify(Ingredient.getAll(), (itemStack) => {\n            // you have to return an item!\n            return itemStack.withCount(itemStack.getCount() * 2);\n        });\n});\n```\n\nNext, let's check if the player holds a specific item:\n```js\nonEvent(\"lootjs\", (event) => {\n    event\n        .addBlockLootModifier(\"#forge:ores\") // keep in mind this is a block tag not an item tag\n        .matchEquip(EquipmentSlot.MAINHAND, Item.of(\"minecraft:netherite_pickaxe\").ignoreNBT())\n        .thenAdd(\"minecraft:gravel\");\n\n    // for MainHand and OffHand you can also use:\n    // matchMainHand(Item.of(\"minecraft:netherite_pickaxe\").ignoreNBT())\n    // matchOffHand(Item.of(\"minecraft:netherite_pickaxe\").ignoreNBT())\n});\n```\n\n## **⚙️ More Information**\nFor more information about the usage and the functionality of the mod, please\nvisit our [wiki](https://github.com/AlmostReliable/lootjs/wiki) or explore the [examples](https://github.com/AlmostReliable/lootjs/tree/1.18/examples/server_scripts).\n\n ",
+          "published": "2022-06-27T18:05:23.475024Z",
+          "updated": "2024-07-25T09:27:59.881114Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fJFETWDN/icon.png",
+          "issues_url": "https://github.com/AlmostReliable/lootjs/issues",
+          "source_url": "https://github.com/AlmostReliable/lootjs",
+          "wiki_url": "https://github.com/AlmostReliable/lootjs/wiki",
+          "discord_url": "https://discord.com/invite/ThFnwZCyYY",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "72Tq9bfK",
+          "project_id": "fJFETWDN",
+          "author_id": "W7UYQWZT",
+          "name": "LootJS-Forge-1.20.1-2.12.0",
+          "version_number": "1.20.1-2.12.0+forge",
+          "changelog": "### Added\n\n- Added `randomTableBonus(enchantment, chances)` for vanillas `table_bonus` condition\n",
+          "date_published": "2024-06-06T20:16:05.907987Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "5e0d8b4d398780946f295b31b7b65bf201d7dcc7",
+                "sha512": "50d79869601a81375fcb5d60635abbb901770107c675e07a0d5aade4c235bb3ff6879310b821583df856fa034b839045ae5f5fe7d543280195c4c2405b83dc4f"
+              },
+              "url": "https://cdn.modrinth.com/data/fJFETWDN/versions/72Tq9bfK/lootjs-forge-1.20.1-2.12.0.jar",
+              "filename": "lootjs-forge-1.20.1-2.12.0.jar",
+              "primary": true,
+              "size": 241907
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nfn13YXA",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
           ],
           "loaders": [
             "forge",

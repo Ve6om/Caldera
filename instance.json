@@ -52386,13 +52386,1066 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Better chunk loading[Forge/Fabric]",
+        "version": "betterchunkloading-1.20.1-4.3.jar",
+        "optional": true,
+        "file": "betterchunkloading-1.20.1-4.3.jar",
+        "type": "mods",
+        "description": "Predicts player movement to pre-load chunks and increases chunk load speed",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 899487,
+        "curseForgeFileId": 5393775,
+        "curseForgeProject": {
+          "id": 899487,
+          "name": "Better chunk loading[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Predicts player movement to pre-load chunks and increases chunk load speed",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 407,
+          "classId": 6,
+          "slug": "better-chunk-loading-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-07-12T21:24:09.003Z",
+          "dateCreated": "2023-08-06T13:30:47.903Z",
+          "dateReleased": "2024-07-12T21:16:08.957Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/betterchunkloading/issues",
+            "sourceUrl": "https://github.com/someaddons/betterchunkloading"
+          },
+          "logo": {
+            "id": 861519,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/861/519/256/256/638269254479355298.png",
+            "title": "638269254479355298.png",
+            "url": "https://media.forgecdn.net/avatars/861/519/638269254479355298.png",
+            "modId": 899487
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5527058
+        },
+        "curseForgeFile": {
+          "id": 5393775,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "betterchunkloading-1.20.1-4.3.jar",
+          "fileName": "betterchunkloading-1.20.1-4.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-02T22:58:42.463Z",
+          "fileLength": 38246,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1297381726,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2483882347,
+              "name": "betterchunkloading.mixins.json"
+            },
+            {
+              "fingerprint": 4123146200,
+              "name": "betterchunkloading.refmap.json"
+            },
+            {
+              "fingerprint": 4192724187,
+              "name": "com"
+            },
+            {
+              "fingerprint": 46899950,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e39efb5c0e89ea07fa3c75a0c89549aa9529564c",
+              "algo": 1
+            },
+            {
+              "value": "0e02fab419270a40099f0bc290bc0529",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1283971646,
+          "modId": 899487
+        }
+      },
+      {
+        "name": "Chunk Sending[Forge/Fabric]",
+        "version": "chunksending-1.20.1-2.8.jar",
+        "optional": true,
+        "file": "chunksending-1.20.1-2.8.jar",
+        "type": "mods",
+        "description": "Optimizes chunk packet delivery",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 831663,
+        "curseForgeFileId": 4894789,
+        "curseForgeProject": {
+          "id": 831663,
+          "name": "Chunk Sending[Forge/Fabric]",
+          "authors": [
+            {
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Optimizes chunk packet delivery",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "chunk-sending-forge-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-07-17T17:27:58.76Z",
+          "dateCreated": "2023-02-26T09:47:42.83Z",
+          "dateReleased": "2024-07-17T17:23:20.913Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/someaddons/chunksending/issues",
+            "sourceUrl": "https://github.com/someaddons/chunksending"
+          },
+          "logo": {
+            "id": 782744,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/782/744/256/256/638130016628532924.png",
+            "title": "638130016628532924.png",
+            "url": "https://media.forgecdn.net/avatars/782/744/638130016628532924.png",
+            "modId": 831663
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5540775
+        },
+        "curseForgeFile": {
+          "id": 4894789,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "chunksending-1.20.1-2.8.jar",
+          "fileName": "chunksending-1.20.1-2.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-23T20:23:20.963Z",
+          "fileLength": 11734,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1275391362,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4288801447,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3412049133,
+              "name": "chunksending.mixins.json"
+            },
+            {
+              "fingerprint": 3174262377,
+              "name": "chunksending.refmap.json"
+            },
+            {
+              "fingerprint": 551994492,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe",
+              "algo": 1
+            },
+            {
+              "value": "550fcf675d0039e7da8336e001db3732",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 2023370360,
+          "modId": 831663
+        }
+      },
+      {
+        "name": "Better Ping Display",
+        "version": "BetterPingDisplay-1.20.1-1.1.jar",
+        "optional": true,
+        "file": "BetterPingDisplay-1.20.1-1.1.jar",
+        "type": "mods",
+        "description": "Displays ping in milliseconds in the player list in a configurable way",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 292038,
+        "curseForgeFileId": 4594106,
+        "curseForgeProject": {
+          "id": 292038,
+          "name": "Better Ping Display",
+          "authors": [
+            {
+              "id": 6943215,
+              "name": "Quintinity",
+              "url": "https://www.curseforge.com/members/quintinity"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Displays ping in milliseconds in the player list in a configurable way",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "better-ping-display",
+          "isFeatured": false,
+          "dateModified": "2024-01-21T03:24:29.243Z",
+          "dateCreated": "2018-04-12T03:33:28.77Z",
+          "dateReleased": "2024-01-21T03:13:14.437Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-ping-display",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/vladmarica/better-ping-display/issues",
+            "sourceUrl": "https://github.com/vladmarica/better-ping-display"
+          },
+          "logo": {
+            "id": 477083,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/477/83/256/256/637771296028904958.png",
+            "title": "637771296028904958.png",
+            "url": "https://media.forgecdn.net/avatars/477/83/637771296028904958.png",
+            "modId": 292038
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5048840
+        },
+        "curseForgeFile": {
+          "id": 4594106,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "BetterPingDisplay-1.20.1-1.1.jar",
+          "fileName": "BetterPingDisplay-1.20.1-1.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-18T02:10:24.983Z",
+          "fileLength": 15889,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3692742053,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3894045483,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1657651617,
+              "name": "betterpingdisplay.mixins.json"
+            },
+            {
+              "fingerprint": 1472438386,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3380797652,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2513173712,
+              "name": "betterpingdisplay.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6347a5bff9405c59ec7d428e5e24115f5b17a90b",
+              "algo": 1
+            },
+            {
+              "value": "2a331e8f5a7cc2609d67f7975fba7d7e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2297727680,
+          "modId": 292038
+        },
+        "modrinthProject": {
+          "id": "ZvaHbwoZ",
+          "slug": "better-ping-display",
+          "project_type": "mod",
+          "team": "ZXyOgana",
+          "title": "Better Ping Display [Forge]",
+          "description": "Adds a configurable numerical ping display to the player list",
+          "body": "# Better Ping Display - Forge Edition\n\n_This is a Forge mod. For the Fabric version of this mod, click [here](https://modrinth.com/mod/better-ping-display-fabric)._\n\n\nA mod for Minecraft to display each player's ping in the player list as a number. There is also a config file\nfor changing the text color and format (available for Minecraft 1.12+ only).\n\n![](https://camo.githubusercontent.com/db870df3e5e663d9a7ca5e6dafc0d72c68fd31d909ab623378a778ee9289719c/68747470733a2f2f692e696d6775722e636f6d2f485472483069322e706e67)\n\nThis is a client-side mod. The server doesn't need to have it installed. It works even when playing on vanilla servers.\n\n### Configuration\n\nSee https://github.com/vladmarica/better-ping-display#configuration for an explanation of what the various config options do.\n\n",
+          "published": "2022-05-24T17:41:53.606744Z",
+          "updated": "2024-01-21T03:16:45.280416Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ZvaHbwoZ/icon.png",
+          "issues_url": "https://github.com/vladmarica/better-ping-display/issues",
+          "source_url": "https://github.com/vladmarica/better-ping-display",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "jXuIS25Y",
+          "project_id": "ZvaHbwoZ",
+          "author_id": "ogKipPGN",
+          "name": "BetterPingDisplay-1.20.1-1.1",
+          "version_number": "1.20.1-1.1",
+          "changelog": "- Port this mod to Minecraft 1.20.1",
+          "date_published": "2023-06-18T02:08:33.816718Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6347a5bff9405c59ec7d428e5e24115f5b17a90b",
+                "sha512": "dce676dd2ad95dc0ed1d4d5ebdbdc65880d8654a457c8e9e37c560ee985806b12f7f7503fb332a6873bc69059be6587635d037cb9160838e8f93218e1e7c6e20"
+              },
+              "url": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/jXuIS25Y/BetterPingDisplay-1.20.1-1.1.jar",
+              "filename": "BetterPingDisplay-1.20.1-1.1.jar",
+              "primary": true,
+              "size": 15889
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Dimensional Sync Fixes",
+        "version": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+        "optional": true,
+        "file": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+        "type": "mods",
+        "description": "Fix potion/experience sync issue when players change dimension.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 829521,
+        "curseForgeFileId": 4960343,
+        "curseForgeProject": {
+          "id": 829521,
+          "name": "Dimensional Sync Fixes",
+          "authors": [
+            {
+              "id": 103851582,
+              "name": "pOtAto__bOy",
+              "url": "https://www.curseforge.com/members/potato__boy"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fix potion/experience sync issue when players change dimension.",
+          "categories": [
+            {
+              "name": "Bug Fixes",
+              "slug": "bug-fixes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/bug-fixes",
+              "dateModified": "2024-01-17T06:56:01.62Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6821,
+              "iconUrl": "https://media.forgecdn.net/avatars/934/473/638410713616155958.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "dimensional-sync-fixes",
+          "isFeatured": false,
+          "dateModified": "2024-02-29T06:55:14.83Z",
+          "dateCreated": "2023-02-21T02:00:10.277Z",
+          "dateReleased": "2024-02-29T06:43:35.14Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dimensional-sync-fixes",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/MCTeamPotato/Kasualix-Issue-Tracker",
+            "sourceUrl": "https://github.com/MCTeamPotato/DimensionalSyncFixes"
+          },
+          "logo": {
+            "id": 920047,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/920/47/256/256/638383115262123180.png",
+            "title": "638383115262123180.png",
+            "url": "https://media.forgecdn.net/avatars/920/47/638383115262123180.png",
+            "modId": 829521
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5145265
+        },
+        "curseForgeFile": {
+          "id": 4960343,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+          "fileName": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-16T07:23:27.893Z",
+          "fileLength": 3081,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 789499485,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3414506243,
+              "name": "com"
+            },
+            {
+              "fingerprint": 933629990,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9912745e0ec510cad4211ffc0c21eb2b81a51e9d",
+              "algo": 1
+            },
+            {
+              "value": "b960de4daf0e9e2908ac7ca9b6fdbfb3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2687774497,
+          "modId": 829521
+        },
+        "modrinthProject": {
+          "id": "445bpKSe",
+          "slug": "dimensional-sync-fixes",
+          "project_type": "mod",
+          "team": "cUoLaOIV",
+          "title": "Dimensional Sync Fixes",
+          "description": "Fix potion/experience sync issue when players change dimension.",
+          "body": "## Dimensional Sync Fixes\nThis mod fixes two bugs.\n\n- Player's potion effects icons disappear for a bit of time after teleporting to a modded dimension.\n\n- Player's experiences in client bar disappear after teleporting to a modded dimension.\n## Misc\n[![image](https://www.bisecthosting.com/partners/custom-banners/75401fe6-76e7-471c-89e5-1edd37a950ad.webp)](https://bisecthosting.com/kasualix)",
+          "published": "2023-12-16T08:21:02.369653Z",
+          "updated": "2023-12-16T08:25:52.553853Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-or-later",
+            "name": "GNU Lesser General Public License v3.0 only",
+            "url": "https://github.com/MCTeamPotato/DimensionalSyncFixes/blob/1.19.2/LICENSE"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "management",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/445bpKSe/0b7c2c9c394af9dfa0bb077b736721490987220e.png",
+          "issues_url": "https://github.com/MCTeamPotato/Kasualix-Issue-Tracker",
+          "source_url": "https://github.com/MCTeamPotato/DimensionalSyncFixes",
+          "discord_url": "https://discord.gg/g8q3UHTpCP",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/kasualix"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Czaob9r1",
+          "project_id": "445bpKSe",
+          "author_id": "yoApeVOc",
+          "name": "Dimensional Sync Fixes 1.20.1-0.0.1",
+          "version_number": "1.20.1-0.0.1",
+          "changelog": "",
+          "date_published": "2023-12-16T08:24:38.137922Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "3a6d103aee7af3d4cbcf04c62620cc494f86a904af5e1b3469d429e41831a4e35ce1ec252d6fd96a5cda3c97a73165b9dda4fad1baabf9da471c3cd3f8f84f95",
+                "sha1": "9912745e0ec510cad4211ffc0c21eb2b81a51e9d"
+              },
+              "url": "https://cdn.modrinth.com/data/445bpKSe/versions/Czaob9r1/dimensionalsycnfixes-1.20.1-0.0.1.jar",
+              "filename": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+              "primary": true,
+              "size": 3081
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Dimension Viewer",
+        "version": "[1.20 - 1.20.1] Dimension Viewer (1.4.0)",
+        "optional": true,
+        "file": "dimensionviewer-1.20-1.4.0.jar",
+        "type": "mods",
+        "description": "A highly customisable server-side mod for viewing which dimension each player is currently in.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 857799,
+        "curseForgeFileId": 4632484,
+        "curseForgeProject": {
+          "id": 857799,
+          "name": "Dimension Viewer",
+          "authors": [
+            {
+              "id": 11955289,
+              "name": "Sick_Stick_10",
+              "url": "https://www.curseforge.com/members/sick_stick_10"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A highly customisable server-side mod for viewing which dimension each player is currently in.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "dimension-viewer",
+          "isFeatured": false,
+          "dateModified": "2024-04-05T02:13:30.597Z",
+          "dateCreated": "2023-05-04T00:28:55.767Z",
+          "dateReleased": "2024-04-05T02:08:43.893Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dimension-viewer",
+            "issuesUrl": "https://github.com/Ewan-Selkirk/Dimension-Viewer/issues",
+            "sourceUrl": "https://github.com/Ewan-Selkirk/Dimension-Viewer"
+          },
+          "logo": {
+            "id": 813271,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/813/271/256/256/638187569357961714.png",
+            "title": "638187569357961714.png",
+            "url": "https://media.forgecdn.net/avatars/813/271/638187569357961714.png",
+            "modId": 857799
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4632482
+        },
+        "curseForgeFile": {
+          "id": 4632484,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20 - 1.20.1] Dimension Viewer (1.4.0)",
+          "fileName": "dimensionviewer-1.20-1.4.0.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-07-09T00:06:23.373Z",
+          "fileLength": 18705,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4089688583,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2914255893,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1223539968,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ad69ac50b0d808f530e55b688a07136fc5381ab5",
+              "algo": 1
+            },
+            {
+              "value": "e377650d2f71659f0ec1e3bc2f588917",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 114722631,
+          "modId": 857799
+        },
+        "modrinthProject": {
+          "id": "3aeFezQk",
+          "slug": "dimension-viewer",
+          "project_type": "mod",
+          "team": "7UGCGz20",
+          "title": "Dimension Viewer",
+          "description": "A highly customisable server-side mod for viewing which dimension each player is currently in.",
+          "body": "# Dimension Viewer\nA highly customizable server-side Minecraft Forge/NeoForge mod for viewing what dimension players are currently in.\n\n\n<img src=\"https://raw.githubusercontent.com/Ewan-Selkirk/Dimension-Viewer/main/img/DimensionViewer.png\" width=\"100%\" style=\"margin: 0px 1rem;\">\n\n## Configuration\nBy modifying the config file, you can change the colour* of the text on a per-dimension basis, allow showing the dimension in chat messages and change the overall format of the dimension with the ability to use Minecraft text formatting such as underlining, bold and italic fonts.\n\nThe config file is located in `[world name]/serverconfig/dimensionviewer-server.toml`. Any changes made will be applied as soon as the config file is saved.\n\n## Compatibility\nDimension Viewer should be compatible with all dimensions. There may be some cases where the mod name shown on hover is not formatted correctly due to the use of the modid to get which mod a dimension is from.\n\nMods that make changes to the tab list name format (or even the regular display name) will likely cause issues with this mod but at the moment I cannot think of any to test with. If you find any issues, [leave an issue](https://github.com/Ewan-Selkirk/Dimension-Viewer/issues/new).\n\nIf there are any issues encountered (no dimension being shown for a player) either have someone change dimension once or use the command `/refreshPlayerList` to try and manually update the player list.\n\n<img src=\"https://raw.githubusercontent.com/Ewan-Selkirk/Dimension-Viewer/main/img/DimensionViewerCompatibility.png\" alt=\"A screenshot showing the names of multiple modded dimensions. From top to bottom: Compact Machines, Ad Astra, Mahou Tsukai, Deeper and Darker, Blue Skies\" width=\"75%\" style=\"margin: 0px 4.5vw;\">\n\n\n## Features\n### New in 1.3\nModded dimensions are now able to be coloured independently.\n<img src=\"https://raw.githubusercontent.com/Ewan-Selkirk/Dimension-Viewer/main/img/ModdedDimensionColor.png\">\n\n### New in 1.4\nDimension names can now be aliased to something else, allowing you to modify the name displayed per dimension.\n<img src=\"https://raw.githubusercontent.com/Ewan-Selkirk/Dimension-Viewer/main/img/DimensionAliasing.png\">\n\n\n## To-Do\n- [ ] Implement custom font colors. (Possible but will take some re-architecting)\n\n\n*Only default Minecraft text colours are currently available. <br>",
+          "published": "2023-05-01T05:17:12.489001Z",
+          "updated": "2024-04-05T02:10:36.124010Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/Ewan-Selkirk/Dimension-Viewer/blob/main/LICENSE"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "social",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3aeFezQk/2fbf4a5ffbb736595902621acb999f981ef062c2.png",
+          "issues_url": "https://github.com/Ewan-Selkirk/Dimension-Viewer/issues",
+          "source_url": "https://github.com/Ewan-Selkirk/Dimension-Viewer",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/3aeFezQk/images/424604a117e719f85ebf4b949d2840e6b3ba38b2.png",
+              "featured": false,
+              "title": "Dimension Viewer",
+              "description": "A demonstration of the mod. Showcasing three different players in the three vanilla dimensions. This screenshot also demonstrates adding the dimension to a players' name in chat.",
+              "created": "2023-05-03T04:51:30.958616Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3aeFezQk/images/6ae5cd055b7ad8ba55038dec26d7c369237ff8ae.png",
+              "featured": false,
+              "title": "Dimension Viewer - Mod Compatibility",
+              "description": "A screenshot showing the names of multiple modded dimensions.\nFrom top to bottom:\nCompact Machines,\nAd Astra,\nMahou Tsukai,\nDeeper and Darker,\nBlue Skies",
+              "created": "2023-05-03T03:11:02.351160Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3aeFezQk/images/b4471c3780b19c89b99f9810876c981cc0351fde.png",
+              "featured": false,
+              "title": "Dimension Viewer - Chat Hover Effect",
+              "description": "When enabled and a dimension is hovered in chat, the mod that the dimension is from will be displayed. This uses an approximation from the modid so it may sometimes be formatted incorrectly.",
+              "created": "2023-05-03T06:34:43.933241Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "9t3mhqTS",
+          "project_id": "3aeFezQk",
+          "author_id": "YaIpmsKt",
+          "name": "[Forge] Dimension Viewer 1.20-1.4.0",
+          "version_number": "1.4.0",
+          "changelog": "\n\nAdded a token for the player name, allowing you to put the dimension before the player name.\n\n - (Will require you to modify your config file to include the player name if the mod was used before)\n\nAdded the ability to alias dimension names, allowing you to change what is displayed per dimension.\n",
+          "date_published": "2023-07-09T00:10:51.699407Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "ad69ac50b0d808f530e55b688a07136fc5381ab5",
+                "sha512": "8076fe218b8a3c64a3d41a96be89475f9fc95692e76351434990efcbb3c1dc6fc8b81804f6a9e6a455b998d4635688e5acfdf2abc89f2cc4f6aff837eea05723"
+              },
+              "url": "https://cdn.modrinth.com/data/3aeFezQk/versions/9t3mhqTS/dimensionviewer-1.20-1.4.0.jar",
+              "filename": "dimensionviewer-1.20-1.4.0.jar",
+              "primary": true,
+              "size": 18705
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1722198524630,
-    "numPlays": 81,
+    "lastPlayed": 1722226822380,
+    "numPlays": 84,
     "lastExportName": "RL20",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "kiwiphoenix364",

@@ -77,7 +77,8 @@ ServerEvents.recipes(event => {
         'spartanfire:lightning_dragonsteel_scythe',
         'scalinghealth:power_crystal',
         'cataclysm:bone_reptile_helmet',
-        'cataclysm:bone_reptile_chestplate'
+        'cataclysm:bone_reptile_chestplate',
+        'the_flesh_that_hates:flesh_sword'
 
     ].forEach((itemID) => event.remove({output: itemID}))
     /*
@@ -107,5 +108,11 @@ ServerEvents.recipes(event => {
       { output: 'tan__a_curios_expansion:regulation_crystal' }, 
       'minecraft:prismarine_crystals',
       'minecraft:quartz'
+    )
+    event.smithing(
+      'the_flesh_that_hates:flesh_sword',  // arg 1: output
+      'cataclysm:ignitium_ingot', // arg 2: the item to be upgraded
+      'the_flesh_that_hates:hysterizer_revenge',   // arg 3: the upgrade item
+      'cataclysm:ignitium_upgrade_smithing_template'
     )
 })

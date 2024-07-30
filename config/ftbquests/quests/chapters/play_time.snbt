@@ -17,6 +17,7 @@
 	quests: [
 		{
 			id: "7C96031E560DF366"
+			optional: true
 			rewards: [{
 				id: "4304A35C75553B2F"
 				type: "xp"
@@ -43,6 +44,7 @@
 		{
 			dependencies: ["00253043204D4F9D"]
 			id: "7E73F42BA8256B4F"
+			optional: true
 			rewards: [{
 				id: "500A0071F1610B8B"
 				type: "xp"
@@ -68,6 +70,7 @@
 		}
 		{
 			id: "0C15ADE2A8A2B967"
+			optional: true
 			rewards: [{
 				id: "449509EE2E1E8210"
 				type: "xp"
@@ -86,6 +89,7 @@
 		}
 		{
 			id: "35B46CE88C6329C5"
+			optional: true
 			rewards: [{
 				id: "413D04FDC5B6D044"
 				type: "xp"
@@ -111,6 +115,7 @@
 		}
 		{
 			id: "356089F9089E87DB"
+			optional: true
 			rewards: [{
 				id: "7BA365783EA10C6A"
 				type: "xp"
@@ -137,6 +142,7 @@
 		{
 			description: ["WOW! That's some serious dedication! To play for a year on one world, in my modpack, I can't thank you enough."]
 			id: "01A9D87E03D5B12F"
+			optional: true
 			rewards: [{
 				id: "0C27162F1CF2A0AC"
 				type: "xp"
@@ -161,5 +167,5 @@
 			y: 0.0d
 		}
 	]
-	title: "Play Time"
+	title: "Time Played"
 }

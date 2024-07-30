@@ -1,10 +1,8 @@
 ItemEvents.modification(event => {
-
-   event.modify('the_flesh_that_hates:scalpel', item => {
-       item.attackDamage = 8
-    })
-    event.modify('the_flesh_that_hates:flesh_sword', item => {
-       item.attackDamage = 8
+   event.modify('the_flesh_that_hates:flesh_sword', item => {
+      item.attackSpeed = -2.4
+      item.attackDamage = 15
+      item.rarity = "EPIC"
     })
     event.modify('the_flesh_that_hates:flesh_mask_helmet', item => {
        item.armorProtection = 5.0

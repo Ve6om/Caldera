@@ -1,0 +1,164 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "helpful_items"
+	group: "635489FCD239408C"
+	icon: "sophisticatedbackpacks:backpack"
+	id: "265932776AF156FE"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4799FCC6B527AD93"
+			rewards: [{
+				id: "5A5A91067A6E7A45"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Use this to heal"
+			tasks: [{
+				id: "708F9106721DF645"
+				item: "firstaid:plaster"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			id: "53D08CC5373CC9DA"
+			rewards: [{
+				id: "38B5DCDBC73FC74C"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Move around the world more easily"
+			tasks: [{
+				id: "47F964CB9E4F764C"
+				item: {
+					Count: 1
+					id: "grapplemod:grapplinghook"
+					tag: {
+						Damage: 0
+						custom: {
+							angle: 20.0d
+							attract: 0b
+							attractradius: 3.0d
+							crc32: 2252267022L
+							detachonkeyrelease: 0b
+							doublehook: 0b
+							enderstaff: 0b
+							hookgravity: 1.0d
+							maxlen: 30.0d
+							motor: 0b
+							motoracceleration: 0.2d
+							motordampener: 0b
+							motormaxspeed: 4.0d
+							motorwhencrouching: 0b
+							motorwhennotcrouching: 1b
+							oneropepull: 0b
+							phaserope: 0b
+							playermovementmult: 1.0d
+							pullbackwards: 1b
+							reelin: 1b
+							repel: 0b
+							repelforce: 1.0d
+							rocket: 0b
+							rocket_active_time: 0.5d
+							rocket_force: 1.0d
+							rocket_refuel_ratio: 15.0d
+							rocket_vertical_angle: 0.0d
+							smartdoublemotor: 1b
+							smartmotor: 0b
+							sneakingangle: 10.0d
+							sneakingverticalthrowangle: 0.0d
+							sticky: 0b
+							throwspeed: 2.0d
+							verticalthrowangle: 0.0d
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			id: "4500C36BA7BB0ADF"
+			rewards: [{
+				id: "7B6FDC6E1B749FEC"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Cool down"
+			tasks: [{
+				id: "2BA3EB7C457D4630"
+				item: {
+					Count: 1
+					id: "toughasnails:leaf_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.5d
+		}
+		{
+			id: "6367D47BD5699213"
+			rewards: [{
+				id: "4DCC9664FEA7D594"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Warm up"
+			tasks: [{
+				id: "6139ECB63CFA0C73"
+				item: {
+					Count: 1
+					id: "toughasnails:wool_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			id: "23E05DE5A9ACDA09"
+			rewards: [{
+				id: "47B99635A8349D4E"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get your first backpack"
+			tasks: [{
+				id: "4EF38423E23C3714"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			id: "6A72B513017A367A"
+			rewards: [{
+				id: "45E52C951574E520"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "The basis for a storage network"
+			tasks: [{
+				id: "50E5963BFA743742"
+				item: "toms_storage:ts.inventory_connector"
+				type: "item"
+			}]
+			title: "Tom's Simple Storage"
+			x: -5.0d
+			y: 2.0d
+		}
+	]
+	title: "Other"
+}

@@ -1,0 +1,290 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "late_game"
+	group: "6CE638C020BA25D4"
+	icon: "iceandfire:dragonscales_red"
+	id: "547331380FAFD439"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "268C72EA9F061DB1"
+			rewards: [{
+				id: "2279678C4B64031F"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "The most common type"
+			tasks: [{
+				entity: "iceandfire:fire_dragon"
+				icon: "iceandfire:fire_dragon_blood"
+				id: "446FA0CF064A19E8"
+				title: "Kill Fire Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "64529B4AA4B53CB3"
+			subtitle: "A rarer variation"
+			tasks: [{
+				entity: "iceandfire:ice_dragon"
+				icon: "iceandfire:ice_dragon_blood"
+				id: "26CDAC8F91CEEDA2"
+				title: "Kill Ice Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			id: "46363DBF822B1EBD"
+			subtitle: "A shiny new type"
+			tasks: [{
+				entity: "iceandfire:lightning_dragon"
+				icon: "iceandfire:lightning_dragon_blood"
+				id: "5867AB64729A3F7F"
+				title: "Kill Lightning Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"268C72EA9F061DB1"
+				"64529B4AA4B53CB3"
+				"46363DBF822B1EBD"
+				"221844B380B44225"
+			]
+			dependency_requirement: "one_completed"
+			description: ["Right-click a dead dragon with an empty hand to recieve scales. Right-click a dragon skeleton with an empty to recieve dragon bones and eventually a skull. Use a bottle on a dead dragon to pick up its blood."]
+			id: "316D6FFF222D848F"
+			rewards: [{
+				id: "70EBE33FE58929B6"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Loot dragon scales, bones, and blood"
+			tasks: [{
+				id: "417F9D0EC869BC38"
+				title: "Get dragon loot"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["316D6FFF222D848F"]
+			description: ["Dragon armor is very strong, one of the strongest in the game. Dragon weapons are very strong. There are many dragon weapons, including ones from Spartan Weaponry. Pick the one you like the best!"]
+			id: "2963C9DE7E1F965F"
+			subtitle: "Make dragon weapons and armor"
+			tasks: [{
+				id: "0F04E54CF666B2B1"
+				title: "Get dragon gear"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "221844B380B44225"
+			rewards: [{
+				id: "73753E4EAF200C12"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "A water dragon"
+			tasks: [{
+				entity: "iceandfire:sea_serpent"
+				icon: "iceandfire:sea_serpent_fang"
+				id: "67FDEE8508BA252F"
+				title: "Kill Sea Serpent"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 4.5d
+		}
+		{
+			id: "1CB4CEDD032B9435"
+			rewards: [{
+				id: "24CAC2CB91593027"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Take bro's eye"
+			tasks: [{
+				entity: "iceandfire:cyclops"
+				icon: {
+					Count: 1
+					id: "iceandfire:cyclops_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "62F87387DB09D13C"
+				title: "Kill Cyclops"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2963C9DE7E1F965F"]
+			description: ["Surround the fire dragonforge aperture with fire dragonforge bricks, and have a fire dragon breathe into it!"]
+			icon: "iceandfire:dragonforge_fire_input"
+			id: "77B2F7F1DC120867"
+			rewards: [{
+				id: "14812E9F17778802"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Get started with fire dragonsteel!"
+			tasks: [
+				{
+					id: "760A03D7EACE4F59"
+					item: "iceandfire:dragonforge_fire_input"
+					type: "item"
+				}
+				{
+					id: "3B0C02E07ABF540D"
+					item: "iceandfire:dragonforge_fire_brick"
+					type: "item"
+				}
+			]
+			title: "Make a fire dragonforge"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2963C9DE7E1F965F"]
+			description: ["Surround the ice dragonforge aperture with ice dragonforge bricks, and have a ice dragon breathe into it!"]
+			icon: "iceandfire:dragonforge_ice_input"
+			id: "4A445DE0B754C38A"
+			rewards: [{
+				id: "2C490F9C58D6AE4B"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Get started with ice dragonsteel!"
+			tasks: [
+				{
+					id: "2A4D6B73B2B8CA28"
+					item: "iceandfire:dragonforge_ice_input"
+					type: "item"
+				}
+				{
+					id: "5F13DF0DD7710B51"
+					item: "iceandfire:dragonforge_ice_brick"
+					type: "item"
+				}
+			]
+			title: "Make an ice dragonforge"
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2963C9DE7E1F965F"]
+			description: ["Surround the lightning dragonforge aperture with lightning dragonforge bricks, and have a lightning dragon breathe into it!"]
+			icon: "iceandfire:dragonforge_lightning_input"
+			id: "76DCBE1C79852ACD"
+			rewards: [{
+				id: "395C8687227D10A0"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Get started with lightning dragonsteel!"
+			tasks: [
+				{
+					id: "33C6AB960E4E3563"
+					item: "iceandfire:dragonforge_lightning_input"
+					type: "item"
+				}
+				{
+					id: "19FE6CCE97DBDD7C"
+					item: "iceandfire:dragonforge_lightning_brick"
+					type: "item"
+				}
+			]
+			title: "Make a lightning dragonforge"
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["77B2F7F1DC120867"]
+			id: "3FE126D685FB1109"
+			rewards: [{
+				id: "5EAA8855269D607D"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Very powerful steel"
+			tasks: [{
+				id: "3D68CCFC7BF52C21"
+				item: "iceandfire:dragonsteel_fire_ingot"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4A445DE0B754C38A"]
+			id: "754FA563319DC4B5"
+			rewards: [{
+				id: "05B92D0D63B47CCF"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Very powerful steel"
+			tasks: [{
+				id: "110330A958A0762A"
+				item: "iceandfire:dragonsteel_ice_ingot"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["76DCBE1C79852ACD"]
+			id: "61A4FA840851EB3E"
+			rewards: [{
+				id: "395D94C54F822845"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Very powerful steel"
+			tasks: [{
+				id: "74FB074D828AAA7A"
+				item: "iceandfire:dragonsteel_lightning_ingot"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"3FE126D685FB1109"
+				"754FA563319DC4B5"
+				"61A4FA840851EB3E"
+			]
+			description: ["Dragonsteel armor and weapons have the highest damage and protection stats."]
+			id: "580A8D17046D99E5"
+			subtitle: "Very powerful gear"
+			tasks: [{
+				id: "4050C89A638002E5"
+				title: "Get Dragonsteel Gear"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+	]
+	title: "Ice and Fire"
+}

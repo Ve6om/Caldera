@@ -796,7 +796,7 @@
     "alexscaves:diving_boots": ["defense:8"],
     "the_flesh_that_hates:flesh_mask_helmet": ["defense:32"],
     "the_flesh_that_hates:flesh_chest_chestplate": ["defense:32"],
-    "the_flesh_that_hates:flesh_pants_leggings]": ["defense:32"],
+    "the_flesh_that_hates:flesh_pants_leggings": ["defense:32"],
     "the_flesh_that_hates:flesh_boot_boots": ["defense:32"],
     "the_flesh_that_hates:skeletal_helmet_helmet": ["defense:8"],
     "the_flesh_that_hates:skeletal_chestplate_chestplate": ["defense:8"],
@@ -879,8 +879,10 @@
     "bygonenether:gilded_netherite_shield": ["defense:24"],
     "spartanshields:netherite_basic_shield": ["defense:24"],
     "spartanshields:netherite_tower_shield": ["defense:24"],
+    "the_flesh_that_hates:scalpel": ["attack:16"],
     "the_flesh_that_hates:flesh_sword": ["attack:16"],
     "the_flesh_that_hates:hysterizer_revenge": ["attack:32"],
+    "the_flesh_that_hates:flesh_axe": ["attack:16"],
     "cataclysm:the_incinerator": ["attack:32"],
     "cataclysm:bulwark_of_the_flame": ["defense:32"],
     "cataclysm:coral_spear": ["attack:32"],
@@ -889,7 +891,7 @@
     "cataclysm:khopesh": ["attack:32"],
     "cataclysm:gauntlet_of_guard": ["attack:32"],
     "cataclysm:gauntlet_of_bulwark": ["attack:32"],
-    "cataclysm:meat_sheredder": ["attack:32"],
+    "cataclysm:meat_shredder": ["attack:32"],
     "cataclysm:laser_gatling": ["attack:32"],
     "cataclysm:wither_assault_shoulder_weapon": ["attack:32"],
     "cataclysm:void_assault_shoulder_weapon": ["attack:32"],
@@ -897,6 +899,8 @@
     "cataclysm:tidal_claws": ["attack:32"],
     "cataclysm:infernal_forge": ["attack:32"],
     "cataclysm:monstrous_helm": ["attack:32"],
-    "cataclysm:bloom_stone_pauldrons": ["attack:32"]
+    "cataclysm:bloom_stone_pauldrons": ["attack:32"],
+    "cataclysm:final_fractal": ["attack:32"],
+    "cataclysm:zweiender": ["attack:32"]
   }
 }

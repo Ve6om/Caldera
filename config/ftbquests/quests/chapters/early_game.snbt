@@ -1,0 +1,212 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "early_game"
+	group: "6CE638C020BA25D4"
+	icon: "minecraft:oak_log"
+	id: "75600B825F1FCE3F"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"757A7E58F9815008"
+				"43ABFDF95C46AAEC"
+			]
+			description: ["Combine a flint shard and a stick to get a flint knife!"]
+			id: "527A63476D96BF1F"
+			rewards: [{
+				id: "7B45CC03408A41F1"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Your first tool"
+			tasks: [{
+				id: "2AC6A055A8E84955"
+				item: {
+					Count: 1
+					id: "notreepunching:flint_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Flint Knife"
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5670B547CA4D7967"]
+			description: ["Use the flint knife to get plant fibers, convert those to string, then combine with a flint shard and a stick to make the flint axe!"]
+			id: "7D49F8D9D6234F95"
+			rewards: [{
+				id: "6DE1328F37FEAB04"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Finally chop a tree"
+			tasks: [{
+				id: "56778803815792D3"
+				item: {
+					Count: 1
+					id: "notreepunching:flint_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["44AB4ABD90B17090"]
+			id: "757A7E58F9815008"
+			rewards: [{
+				id: "194A18A898A22ED3"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Crush flint into flint shards for tools"
+			tasks: [{
+				id: "4D1CEC6F8E3E87EB"
+				item: "notreepunching:flint_shard"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "44AB4ABD90B17090"
+			rewards: [{
+				id: "355C4E9C4A58677C"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "You'll need flint tools"
+			tasks: [{
+				id: "4F17BED1978B839B"
+				item: "minecraft:flint"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			id: "43ABFDF95C46AAEC"
+			rewards: [{
+				id: "4FFAA6CA8A4682AC"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Break leaves to get sticks"
+			tasks: [{
+				id: "4B85D55100A648B7"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2DAFF1B02CAB5122"]
+			id: "5670B547CA4D7967"
+			rewards: [{
+				id: "28A99EAA12D81693"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Combine plant fibers into plant string"
+			tasks: [{
+				id: "6CE07700D2E2800A"
+				item: "notreepunching:plant_string"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["527A63476D96BF1F"]
+			hide_text_until_complete: false
+			id: "2DAFF1B02CAB5122"
+			rewards: [{
+				id: "3F275DD6BD181932"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Use your flint knife to chop grass"
+			tasks: [{
+				id: "6ABF68D8D0396E20"
+				item: "notreepunching:plant_fiber"
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7D49F8D9D6234F95"]
+			id: "400E8F48C52FDB45"
+			rewards: [{
+				id: "1937A95A02FB2BEB"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Get your first wood from a tree"
+			tasks: [{
+				id: "2D357BB09D17F768"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["400E8F48C52FDB45"]
+			id: "7306B82F38BEB1A5"
+			rewards: [{
+				id: "499069AD4AF47F67"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Right-click a log with your axe"
+			tasks: [{
+				id: "5AC6A0F3C53F2007"
+				item: "minecraft:oak_planks"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7306B82F38BEB1A5"]
+			id: "7D44323D09CC07C9"
+			subtitle: "Right-click a plank with your axe"
+			tasks: [{
+				id: "3099287E56B11303"
+				item: "minecraft:stick"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7306B82F38BEB1A5"]
+			id: "5632A44E8CBA84CE"
+			rewards: [{
+				id: "1F81AADB70B58F32"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Make a crafting table"
+			tasks: [{
+				id: "6CAF242451F9C479"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+	]
+	title: "Getting Wood"
+}

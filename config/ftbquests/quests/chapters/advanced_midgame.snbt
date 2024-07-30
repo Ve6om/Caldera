@@ -1,0 +1,194 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "advanced_midgame"
+	group: "6CE638C020BA25D4"
+	icon: "minecraft:diamond"
+	id: "337B28B3914490B3"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0D77B25473CBC71C"
+			rewards: [{
+				id: "351ABE627DE0F3AE"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Get a diamond pick"
+			tasks: [{
+				id: "06F0AA7B491FBA80"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D77B25473CBC71C"]
+			id: "4FA8F0F5C03B1A3B"
+			rewards: [{
+				id: "54CE8D09581B4D45"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Mine obsidian"
+			tasks: [{
+				id: "362943515E5F7D20"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4FA8F0F5C03B1A3B"]
+			description: ["Enchantments are a big part of this modpack."]
+			id: "63B9464DC258D5FE"
+			rewards: [{
+				id: "54F63DF958E6BDF9"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Get an enchanting table"
+			tasks: [{
+				id: "280480024D927252"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4FA8F0F5C03B1A3B"]
+			id: "6D2C70F130F7B091"
+			rewards: [{
+				id: "7ACCF52C5AF26ECA"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Visit the nether"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				icon: "minecraft:netherrack"
+				id: "31493CEA353360CC"
+				title: "Visit the nether"
+				type: "dimension"
+			}]
+			title: "Nether"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["63B9464DC258D5FE"]
+			id: "373CC6037024C7B8"
+			rewards: [{
+				id: "3893966A821D80F0"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Assists with enchanting"
+			tasks: [{
+				id: "4CE9B6AF50B9F97B"
+				item: "minecraft:anvil"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["63B9464DC258D5FE"]
+			id: "0EF88ED1D13EAF4E"
+			rewards: [{
+				id: "4A6C6FC08A9B898D"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Disenchant items for levels"
+			tasks: [{
+				id: "3E757D24DA820654"
+				item: "minecraft:grindstone"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["63B9464DC258D5FE"]
+			id: "51015D9385014C6F"
+			rewards: [{
+				id: "4448055DF79ADA1A"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Take enchantments off of items"
+			tasks: [{
+				id: "3D23FE4FDA670517"
+				item: "disenchanting:disenchanter"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["78446DA51A1A2A0A"]
+			id: "56C685F219865C87"
+			rewards: [{
+				id: "0391956FCD75BCE8"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Essential for going ot the end"
+			tasks: [{
+				id: "187F2115A2C6637C"
+				item: "minecraft:blaze_rod"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6D2C70F130F7B091"]
+			icon: "minecraft:nether_bricks"
+			id: "78446DA51A1A2A0A"
+			rewards: [{
+				id: "4CB1A2D3C49DC21C"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Find a nether fortress"
+			tasks: [{
+				id: "060C6B7232D1868E"
+				structure: "minecraft:fortress"
+				title: "Nether Fortress"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4FA8F0F5C03B1A3B"]
+			id: "63AE2D1712B69500"
+			rewards: [{
+				id: "6ECD0A416369CF88"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Retrieve your items from anywhere"
+			tasks: [{
+				id: "6113940AB21A2A51"
+				item: "minecraft:ender_chest"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+	]
+	title: "Midgame"
+}

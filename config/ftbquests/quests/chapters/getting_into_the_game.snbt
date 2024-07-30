@@ -1,0 +1,300 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_into_the_game"
+	group: "6CE638C020BA25D4"
+	icon: "minecraft:iron_ingot"
+	id: "00B0F5B0F874513B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["78C732F3EAE49017"]
+			id: "0AA5EC03900AB083"
+			rewards: [{
+				id: "76E6C0B9809DCCC9"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Convert rocks into cobble"
+			tasks: [{
+				id: "004E63AFB610B747"
+				item: "minecraft:cobblestone"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			id: "78C732F3EAE49017"
+			rewards: [{
+				id: "7DAE597D21644EBA"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Mine stone to get rocks"
+			tasks: [{
+				id: "705DE42189311103"
+				item: "notreepunching:stone_loose_rock"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0AA5EC03900AB083"]
+			id: "6B3DCCD1CB3C6197"
+			rewards: [{
+				id: "3CB5DAAF8105D445"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Your first step in upgrading tools"
+			tasks: [{
+				id: "7667EE4FBC259D5F"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6B3DCCD1CB3C6197"]
+			id: "4E1A602C158AAED2"
+			rewards: [{
+				id: "356ED7AE31810F7C"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get a bucket"
+			tasks: [{
+				id: "38C314C37D2415E3"
+				item: "minecraft:bucket"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "4799FCC6B527AD93"
+			rewards: [{
+				id: "5A5A91067A6E7A45"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Use this to heal"
+			tasks: [{
+				id: "708F9106721DF645"
+				item: "firstaid:plaster"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.5d
+		}
+		{
+			id: "6367D47BD5699213"
+			rewards: [{
+				id: "4DCC9664FEA7D594"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Warm up"
+			tasks: [{
+				id: "6139ECB63CFA0C73"
+				item: {
+					Count: 1
+					id: "toughasnails:wool_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			id: "4500C36BA7BB0ADF"
+			rewards: [{
+				id: "7B6FDC6E1B749FEC"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Cool down"
+			tasks: [{
+				id: "2BA3EB7C457D4630"
+				item: {
+					Count: 1
+					id: "toughasnails:leaf_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			id: "53D08CC5373CC9DA"
+			rewards: [{
+				id: "38B5DCDBC73FC74C"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Move around the world more easily"
+			tasks: [{
+				id: "47F964CB9E4F764C"
+				item: {
+					Count: 1
+					id: "grapplemod:grapplinghook"
+					tag: {
+						Damage: 0
+						custom: {
+							angle: 20.0d
+							attract: 0b
+							attractradius: 3.0d
+							crc32: 2252267022L
+							detachonkeyrelease: 0b
+							doublehook: 0b
+							enderstaff: 0b
+							hookgravity: 1.0d
+							maxlen: 30.0d
+							motor: 0b
+							motoracceleration: 0.2d
+							motordampener: 0b
+							motormaxspeed: 4.0d
+							motorwhencrouching: 0b
+							motorwhennotcrouching: 1b
+							oneropepull: 0b
+							phaserope: 0b
+							playermovementmult: 1.0d
+							pullbackwards: 1b
+							reelin: 1b
+							repel: 0b
+							repelforce: 1.0d
+							rocket: 0b
+							rocket_active_time: 0.5d
+							rocket_force: 1.0d
+							rocket_refuel_ratio: 15.0d
+							rocket_vertical_angle: 0.0d
+							smartdoublemotor: 1b
+							smartmotor: 0b
+							sneakingangle: 10.0d
+							sneakingverticalthrowangle: 0.0d
+							sticky: 0b
+							throwspeed: 2.0d
+							verticalthrowangle: 0.0d
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			id: "23E05DE5A9ACDA09"
+			rewards: [{
+				id: "47B99635A8349D4E"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get your first backpack"
+			tasks: [{
+				id: "4EF38423E23C3714"
+				item: "sophisticatedbackpacks:backpack"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6B3DCCD1CB3C6197"]
+			id: "72059A6897EC9DDD"
+			rewards: [{
+				id: "36A47CAC48035C45"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Iron armor is a great midgame asset"
+			tasks: [{
+				id: "18A580B3BEEEA807"
+				item: {
+					Count: 1
+					id: "minecraft:iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6B3DCCD1CB3C6197"]
+			id: "25BFC6751A755FCA"
+			rewards: [{
+				id: "0C0A6D75E786F337"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Start getting stronger iron weaponry"
+			tasks: [{
+				id: "79774C51193A5F84"
+				item: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6B3DCCD1CB3C6197"]
+			id: "5F0B373F15CE55A1"
+			rewards: [{
+				id: "282CE5BBF85CD324"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get ready to mine diamonds!"
+			tasks: [{
+				id: "2FF4162194E87E01"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5F0B373F15CE55A1"]
+			id: "1F139876A43F6DFE"
+			rewards: [{
+				id: "245F5EE6B873ACF9"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get your first diamond!"
+			tasks: [{
+				id: "2D466B897FCB9C3B"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+	]
+	title: "Starting Out"
+}

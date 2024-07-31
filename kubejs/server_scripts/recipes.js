@@ -111,7 +111,7 @@ ServerEvents.recipes(event => {
     )
     event.remove({ 
       input: 'eldritch_end:primordial_planks',
-      not: {input:'#notreepunching:saws'},
+      not: {input:['#notreepunching:saws','#notreepunching:weak_saws']},
       output: 'minecraft:stick'
     })
     event.remove({ 

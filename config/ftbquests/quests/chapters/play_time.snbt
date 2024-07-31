@@ -42,7 +42,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["00253043204D4F9D"]
+			dependencies: ["7C96031E560DF366"]
 			id: "7E73F42BA8256B4F"
 			optional: true
 			rewards: [{
@@ -69,6 +69,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7E73F42BA8256B4F"]
 			id: "0C15ADE2A8A2B967"
 			optional: true
 			rewards: [{
@@ -88,6 +89,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["0C15ADE2A8A2B967"]
 			id: "35B46CE88C6329C5"
 			optional: true
 			rewards: [{
@@ -114,6 +116,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["35B46CE88C6329C5"]
 			id: "356089F9089E87DB"
 			optional: true
 			rewards: [{
@@ -140,6 +143,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["356089F9089E87DB"]
 			description: ["WOW! That's some serious dedication! To play for a year on one world, in my modpack, I can't thank you enough."]
 			id: "01A9D87E03D5B12F"
 			optional: true

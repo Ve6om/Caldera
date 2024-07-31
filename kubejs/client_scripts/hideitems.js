@@ -1,5 +1,30 @@
-let dragonsteelweapon = [
-   'spartanfire:fire_dragonsteel_dagger',
+REIEvents.hide('item', event => {
+    event.hide([
+        'cataclysm:ignitium_helmet',
+        'cataclysm:ignitium_chestplate',
+        'cataclysm:ignitium_leggings',
+        'cataclysm:ignitium_boots',
+        'cataclysm:ignitium_elytra_chestplate',
+        'angelring:energetic_angel_ring',
+        'angelring:angel_ring',
+        'sophisticatedbackpacks:battery_upgrade',
+        'scalinghealth:power_crystal',
+        'cataclysm:bone_reptile_helmet',
+        'cataclysm:bone_reptile_chestplate',
+        'spartanfire:lightning_dragonsteel_boomerang',
+        'spartanfire:lightning_dragonsteel_javelin',
+        'spartanfire:lightning_dragonsteel_tomahawk',
+        'spartanfire:lightning_dragonsteel_throwing_knife',
+        'spartanfire:fire_dragonsteel_boomerang',
+        'spartanfire:fire_dragonsteel_javelin',
+        'spartanfire:fire_dragonsteel_tomahawk',
+        'spartanfire:fire_dragonsteel_throwing_knife',
+        'spartanfire:ice_dragonsteel_boomerang',
+        'spartanfire:ice_dragonsteel_javelin',
+        'spartanfire:ice_dragonsteel_tomahawk',
+        'spartanfire:ice_dragonsteel_throwing_knife',
+        'spartanfire:fire_dragonsteel_dagger',
+        
    'spartanfire:ice_dragonsteel_dagger',
    'spartanfire:lightning_dragonsteel_dagger',
    'spartanfire:fire_dragonsteel_parrying_dagger',
@@ -53,47 +78,6 @@ let dragonsteelweapon = [
    'spartanfire:fire_dragonsteel_scythe',
    'spartanfire:ice_dragonsteel_scythe',
    'spartanfire:lightning_dragonsteel_scythe'
-]
-let dragonsteelweaponvalues = [
- .94,
- .94,
- 1.44,
- .56,
- .56,
- .5,
- 1.42,
- 1.88,
- 1.42,
- .64,
- 1.46,
- 1,
- 1,
- 1.84,
- 1.38,
- 1.42,
- 1.38,
- 1.04
-]
-ItemEvents.modification(event => {
    
-   event.modify('the_flesh_that_hates:flesh_sword', item => {
-      item.attackSpeed = -2.4
-      item.attackDamage = 7
-   })
-   event.modify('the_flesh_that_hates:flesh_mask_helmet', item => {
-      item.armorProtection = 5.0
-      item.armorToughness = 4.0
-   })
-   event.modify('the_flesh_that_hates:flesh_chest_chestplate', item => {
-      item.armorProtection = 10.0
-      item.armorToughness = 4.0
-   })
-   event.modify('the_flesh_that_hates:flesh_pants_leggings', item => {
-      item.armorProtection = 7.0
-      item.armorToughness = 4.0
-    })
-   event.modify('the_flesh_that_hates:flesh_boot_boots', item => {
-      item.armorProtection = 5.0
-      item.armorToughness = 4.0
-   })
+    ])
 })

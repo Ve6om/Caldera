@@ -53578,13 +53578,242 @@
           "fileFingerprint": 3956401071,
           "modId": 831817
         }
+      },
+      {
+        "name": "Not Enough Animations",
+        "version": "1.7.4-1.20.1 - Forge",
+        "optional": true,
+        "file": "notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+        "type": "mods",
+        "description": "Bringing first-person animations to the third-person",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 433760,
+        "curseForgeFileId": 5429265,
+        "curseForgeProject": {
+          "id": 433760,
+          "name": "Not Enough Animations",
+          "authors": [
+            {
+              "id": 100212189,
+              "name": "tr7zw",
+              "url": "https://www.curseforge.com/members/tr7zw"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Bringing first-person animations to the third-person",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "not-enough-animations",
+          "isFeatured": false,
+          "dateModified": "2024-06-14T21:46:21.733Z",
+          "dateCreated": "2021-01-04T23:50:54.253Z",
+          "dateReleased": "2024-06-14T21:32:45.157Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/tr7zw/NotEnoughAnimations/issues",
+            "sourceUrl": "https://github.com/tr7zw/NotEnoughAnimations"
+          },
+          "logo": {
+            "id": 329074,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/329/74/256/256/637454010542845990.png",
+            "title": "637454010542845990.png",
+            "url": "https://media.forgecdn.net/avatars/329/74/637454010542845990.png",
+            "modId": 433760
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 5429287
+        },
+        "curseForgeFile": {
+          "id": 5429265,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.7.4-1.20.1 - Forge",
+          "fileName": "notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-06-14T21:31:28.617Z",
+          "fileLength": 429049,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3877145228,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2866947374,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 300540102,
+              "name": "notenoughanimations.refmap.mixins.json"
+            },
+            {
+              "fingerprint": 4105253223,
+              "name": "notenoughanimations.mixins.json"
+            },
+            {
+              "fingerprint": 3668166654,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3751776742,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 1359077515,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3421239066,
+              "name": "LICENSE"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "022e79d95a0f36aa585f4a33fc7c934b425950e5",
+              "algo": 1
+            },
+            {
+              "value": "9de90e8cbc89b514c0f1dcf234814ba2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 793948776,
+          "modId": 433760
+        },
+        "modrinthProject": {
+          "id": "MPCX6s5C",
+          "slug": "not-enough-animations",
+          "project_type": "mod",
+          "team": "Eayl8ao3",
+          "title": "Not Enough Animations",
+          "description": "Bringing first-person animations to the third-person",
+          "body": "[![Logo](https://github.com/uBlockOrigin/uAssets/assets/5133936/3e386bb2-36ce-477c-8d5f-3103e9058cf0)](http://bit.ly/4bczSJY)\n\n#### Not Enough Animations is an official partner of Shockbyte. Click the banner or [here](http://bit.ly/4bczSJY) and use code 'tr7zw' to get a 25% discount for your Minecraft Server and to support future development of the mod.\n\nThis mod brings a lot of missing third-person animations from the first-person or modifies them to be better representative to how they should look like or look like in the first-person. This mod was created as an expansion for the [First-Person Mod](https://www.curseforge.com/minecraft/mc-mods/first-person-model), but works completely on its own and is fully vanilla/3rd party server compatible(since it's all just visual).\n\n### All features can be enabled/disabled individually in an ingame config screen! (Accessible via the ModList/ModMenu)\n\nAdded/fixed animations:\n\n- Eating/Drinking\n\n![](https://tr7zw.dev/nea/eating.png)\n![](https://tr7zw.dev/nea/drinking.png)\n\n- Maps(Yes you can see the map content if your client has been sent the map by holding it once/seeing it in an item frame)\n\n![](https://tr7zw.dev/nea/maps1.PNG)\n![](https://tr7zw.dev/nea/maps2.PNG)\n\n- Shield placement(you block where you look, not where the body is rotated to. So this will rotate the body with the head while blocking)\n\n![](https://tr7zw.dev/nea/shield.png)\n\n- Don't show items during two-handed animations(Hide the offhand item while using a bow/crossbow)\n\n![](https://tr7zw.dev/nea/twoHands.PNG)\n\n- Boat rowing(No longer sitting there and staring at the self-moving Paddles)\n\n![](https://tr7zw.dev/nea/boat.png)\n\n- Horses(at least act like you're holding the reins)\n\n![](https://tr7zw.dev/nea/horse.png)\n\n- Looking at a compass/clock(this one is actually more eye candy for the First-person Mod to make the compass better usable, but won't hurt outside of that, can be modified in the config file to extend to more items)\n\n![](https://tr7zw.dev/nea/compass.PNG)\n\n- Ladder/climbing animation\n\n![](https://tr7zw.dev/nea/ladder.gif)\n\n- Crawling animation, replacing the swimming one while out of water\n\n![](https://tr7zw.dev/nea/crawling.gif)\n\n- Smooth arm movement and transitions\n\n![](https://tr7zw.dev/nea/smootharms.gif)\n",
+          "published": "2022-05-25T10:21:03.610236Z",
+          "updated": "2024-06-14T21:32:46.695593Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-tr7zw-Protective-License",
+            "name": "",
+            "url": "https://github.com/tr7zw/NotEnoughAnimations/blob/1.18/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "decoration"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/MPCX6s5C/icon.png",
+          "issues_url": "https://github.com/tr7zw/NotEnoughAnimations/issues",
+          "source_url": "https://github.com/tr7zw/NotEnoughAnimations",
+          "discord_url": "https://discord.gg/55zrqwHA9C",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/tr7zw"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/MPCX6s5C/images/3b9ca72d7e6099ef67496a4b210d887d85254d80.gif",
+              "featured": true,
+              "title": "Crawling example",
+              "description": "Replaces the swimming animation that Minecraft uses otherwise.",
+              "created": "2023-01-23T00:01:12.392611Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Wse7FiBl",
+          "project_id": "MPCX6s5C",
+          "author_id": "Qnt13hO8",
+          "name": "1.7.4-1.20.1 - Forge",
+          "version_number": "1.7.4",
+          "changelog": "## What's Changed\r\n* Update to 1.21\r\n* Add Simplified Chinese by @EastCation in https://github.com/tr7zw/NotEnoughAnimations/pull/194\r\n\r\n## New Contributors\r\n* @EastCation made their first contribution in https://github.com/tr7zw/NotEnoughAnimations/pull/194\r\n\r\n**Full Changelog**: https://github.com/tr7zw/NotEnoughAnimations/compare/1.7.3...1.7.4",
+          "date_published": "2024-06-14T21:31:31.320647Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ad8b2f37bc6abe82274f000ae827cf806fb0798cb05f8d3066a7130452d9af99c5dd061e2930079777f4c4fd4d1d1923878c78af0b28569d4215b6bd3a4d7787",
+                "sha1": "022e79d95a0f36aa585f4a33fc7c934b425950e5"
+              },
+              "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/Wse7FiBl/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+              "filename": "notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+              "primary": true,
+              "size": 429049
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1722393924755,
-    "numPlays": 154,
+    "lastPlayed": 1722395977786,
+    "numPlays": 158,
     "lastExportName": "RL20",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "kiwiphoenix364",

@@ -110,9 +110,6 @@ ServerEvents.recipes(event => {
       'minecraft:quartz'
     )
     event.remove({ 
-      input: ['#minecraft:logs','#notreepunching:weak_saws']
-    })
-    event.remove({ 
       input: 'eldritch_end:primordial_planks',
       not: {input:'#notreepunching:saws'},
       output: 'minecraft:stick'

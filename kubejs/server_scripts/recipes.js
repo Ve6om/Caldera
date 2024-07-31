@@ -1,8 +1,4 @@
 ItemEvents.modification(event => {
-event.modify('iceandfire:dragonsteel_fire_sword', item => {
-  item.attackSpeed = -2.4
-  item.attackDamage = 7
-})
 ServerEvents.recipes(event => {
 })
     [

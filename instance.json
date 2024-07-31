@@ -52388,381 +52388,6 @@
         }
       },
       {
-        "name": "Better chunk loading[Forge/Fabric]",
-        "version": "betterchunkloading-1.20.1-4.3.jar",
-        "optional": true,
-        "file": "betterchunkloading-1.20.1-4.3.jar",
-        "type": "mods",
-        "description": "Predicts player movement to pre-load chunks and increases chunk load speed",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 899487,
-        "curseForgeFileId": 5393775,
-        "curseForgeProject": {
-          "id": 899487,
-          "name": "Better chunk loading[Forge/Fabric]",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Predicts player movement to pre-load chunks and increases chunk load speed",
-          "categories": [
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Utility & QoL",
-              "slug": "utility-qol",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
-              "dateModified": "2021-11-17T11:45:09.143Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 5191,
-              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Biomes",
-              "slug": "world-biomes",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
-              "dateModified": "2014-05-08T17:34:59.587Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 407,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 407,
-          "classId": 6,
-          "slug": "better-chunk-loading-forge-fabric",
-          "isFeatured": false,
-          "dateModified": "2024-07-12T21:24:09.003Z",
-          "dateCreated": "2023-08-06T13:30:47.903Z",
-          "dateReleased": "2024-07-12T21:16:08.957Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/betterchunkloading/issues",
-            "sourceUrl": "https://github.com/someaddons/betterchunkloading"
-          },
-          "logo": {
-            "id": 861519,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/861/519/256/256/638269254479355298.png",
-            "title": "638269254479355298.png",
-            "url": "https://media.forgecdn.net/avatars/861/519/638269254479355298.png",
-            "modId": 899487
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5527058
-        },
-        "curseForgeFile": {
-          "id": 5393775,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "betterchunkloading-1.20.1-4.3.jar",
-          "fileName": "betterchunkloading-1.20.1-4.3.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-06-02T22:58:42.463Z",
-          "fileLength": 38246,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 326652,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1297381726,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2483882347,
-              "name": "betterchunkloading.mixins.json"
-            },
-            {
-              "fingerprint": 4123146200,
-              "name": "betterchunkloading.refmap.json"
-            },
-            {
-              "fingerprint": 4192724187,
-              "name": "com"
-            },
-            {
-              "fingerprint": 46899950,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "e39efb5c0e89ea07fa3c75a0c89549aa9529564c",
-              "algo": 1
-            },
-            {
-              "value": "0e02fab419270a40099f0bc290bc0529",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge",
-            "Server"
-          ],
-          "fileFingerprint": 1283971646,
-          "modId": 899487
-        }
-      },
-      {
-        "name": "Chunk Sending[Forge/Fabric]",
-        "version": "chunksending-1.20.1-2.8.jar",
-        "optional": true,
-        "file": "chunksending-1.20.1-2.8.jar",
-        "type": "mods",
-        "description": "Optimizes chunk packet delivery",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 831663,
-        "curseForgeFileId": 4894789,
-        "curseForgeProject": {
-          "id": 831663,
-          "name": "Chunk Sending[Forge/Fabric]",
-          "authors": [
-            {
-              "id": 100114338,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Optimizes chunk packet delivery",
-          "categories": [
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 435,
-          "classId": 6,
-          "slug": "chunk-sending-forge-fabric",
-          "isFeatured": false,
-          "dateModified": "2024-07-17T17:27:58.76Z",
-          "dateCreated": "2023-02-26T09:47:42.83Z",
-          "dateReleased": "2024-07-17T17:23:20.913Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/chunksending/issues",
-            "sourceUrl": "https://github.com/someaddons/chunksending"
-          },
-          "logo": {
-            "id": 782744,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/782/744/256/256/638130016628532924.png",
-            "title": "638130016628532924.png",
-            "url": "https://media.forgecdn.net/avatars/782/744/638130016628532924.png",
-            "modId": 831663
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5540775
-        },
-        "curseForgeFile": {
-          "id": 4894789,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "chunksending-1.20.1-2.8.jar",
-          "fileName": "chunksending-1.20.1-2.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-11-23T20:23:20.963Z",
-          "fileLength": 11734,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 326652,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1275391362,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 4288801447,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3412049133,
-              "name": "chunksending.mixins.json"
-            },
-            {
-              "fingerprint": 3174262377,
-              "name": "chunksending.refmap.json"
-            },
-            {
-              "fingerprint": 551994492,
-              "name": "com"
-            },
-            {
-              "fingerprint": 1438559181,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe",
-              "algo": 1
-            },
-            {
-              "value": "550fcf675d0039e7da8336e001db3732",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
-              "gameVersionName": "NeoForge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020",
-              "gameVersion": "1.20",
-              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
-              "gameVersionName": "1.20"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "NeoForge",
-            "1.20.1",
-            "Forge",
-            "1.20",
-            "Server"
-          ],
-          "fileFingerprint": 2023370360,
-          "modId": 831663
-        }
-      },
-      {
         "name": "Better Ping Display",
         "version": "BetterPingDisplay-1.20.1-1.1.jar",
         "optional": true,
@@ -53441,119 +53066,331 @@
         }
       },
       {
-        "name": "KubeJS REI Runtime",
-        "version": "KubeJSREIRuntime-1.0.jar",
+        "name": "The Lost Cities",
+        "version": "LostCities - 1.20-7.1.8",
         "optional": true,
-        "file": "KubeJSREIRuntime-1.0.jar",
+        "file": "lostcities-1.20-7.1.8.jar",
         "type": "mods",
-        "description": "Allows KubeJS to hide and show items from REI dynamically",
+        "description": "The Lost Cities is a world generation mod",
         "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
-        "curseForgeProjectId": 831817,
-        "curseForgeFileId": 4920392,
+        "curseForgeProjectId": 269024,
+        "curseForgeFileId": 5422788,
         "curseForgeProject": {
-          "id": 831817,
-          "name": "KubeJS REI Runtime",
+          "id": 269024,
+          "name": "The Lost Cities",
           "authors": [
             {
-              "id": 100554127,
-              "name": "BobVarioa",
-              "url": "https://www.curseforge.com/members/bobvarioa"
+              "id": 12351286,
+              "name": "McJty",
+              "url": "https://www.curseforge.com/members/mcjty"
             }
           ],
           "gameId": 432,
-          "summary": "Allows KubeJS to hide and show items from REI dynamically",
+          "summary": "The Lost Cities is a world generation mod",
           "categories": [
             {
-              "name": "KubeJS",
-              "slug": "kubejs",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/kubejs",
-              "dateModified": "2022-04-24T06:59:45.66Z",
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
               "gameId": 432,
               "isClass": false,
-              "id": 5314,
-              "iconUrl": "https://media.forgecdn.net/avatars/538/559/637863803856518049.png",
-              "parentCategoryId": 426,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
               "classId": 6
             }
           ],
           "status": 4,
-          "primaryCategoryId": 5314,
+          "primaryCategoryId": 410,
           "classId": 6,
-          "slug": "kubejs-rei-runtime",
+          "slug": "the-lost-cities",
           "isFeatured": false,
-          "dateModified": "2023-12-02T17:01:20.737Z",
-          "dateCreated": "2023-02-26T17:27:52.92Z",
-          "dateReleased": "2023-12-02T16:48:42.863Z",
+          "dateModified": "2024-06-19T08:06:07.403Z",
+          "dateCreated": "2017-06-03T05:29:02.997Z",
+          "dateReleased": "2024-06-19T08:00:45.907Z",
           "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/kubejs-rei-runtime",
-            "wikiUrl": "https://mods.latvian.dev/books/kubejs/page/kubejs-rei-runtime",
-            "issuesUrl": "https://github.com/MasterOfBob777/kjsrei/issues",
-            "sourceUrl": "https://github.com/MasterOfBob777/kjsrei"
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/the-lost-cities",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/McJty/LostCities/issues",
+            "sourceUrl": "https://github.com/McJty/LostCities"
           },
           "logo": {
-            "id": 782932,
+            "id": 101102,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/782/932/256/256/638130292729455326.png",
-            "title": "638130292729455326.png",
-            "url": "https://media.forgecdn.net/avatars/782/932/638130292729455326.png",
-            "modId": 831817
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/101/102/256/256/636320465430890063.png",
+            "title": "636320465430890063.png",
+            "url": "https://media.forgecdn.net/avatars/101/102/636320465430890063.png",
+            "modId": 269024
           },
           "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4920392
+          "screenshots": [
+            {
+              "id": 211495,
+              "description": "A crossing",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/495/310/172/2017-06-18_14.png",
+              "title": "A crossing",
+              "url": "https://media.forgecdn.net/attachments/211/495/2017-06-18_14.png",
+              "modId": 269024
+            },
+            {
+              "id": 211324,
+              "description": "Into the mountain",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/324/310/172/2017-06-16_20.png",
+              "title": "Into the mountain",
+              "url": "https://media.forgecdn.net/attachments/211/324/2017-06-16_20.png",
+              "modId": 269024
+            },
+            {
+              "id": 211291,
+              "description": "Tunnel",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/291/310/172/2017-06-15_19.png",
+              "title": "Tunnel",
+              "url": "https://media.forgecdn.net/attachments/211/291/2017-06-15_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 211323,
+              "description": "In the city",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/323/310/172/2017-06-16_20.png",
+              "title": "In the city",
+              "url": "https://media.forgecdn.net/attachments/211/323/2017-06-16_20.png",
+              "modId": 269024
+            },
+            {
+              "id": 211322,
+              "description": "Tall bridge",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/322/310/172/2017-06-16_20.png",
+              "title": "Tall bridge",
+              "url": "https://media.forgecdn.net/attachments/211/322/2017-06-16_20.png",
+              "modId": 269024
+            },
+            {
+              "id": 211294,
+              "description": "Very tall bridge",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/294/310/172/2017-06-15_20.png",
+              "title": "Very tall bridge",
+              "url": "https://media.forgecdn.net/attachments/211/294/2017-06-15_20.png",
+              "modId": 269024
+            },
+            {
+              "id": 211327,
+              "description": "In the Desert",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/327/310/172/2017-06-16_19.png",
+              "title": "In the Desert",
+              "url": "https://media.forgecdn.net/attachments/211/327/2017-06-16_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 211326,
+              "description": "Country side",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/326/310/172/2017-06-16_20.png",
+              "title": "Country side",
+              "url": "https://media.forgecdn.net/attachments/211/326/2017-06-16_20.png",
+              "modId": 269024
+            },
+            {
+              "id": 210942,
+              "description": "City by night",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/942/310/172/2017-06-10_05.png",
+              "title": "City by night",
+              "url": "https://media.forgecdn.net/attachments/210/942/2017-06-10_05.png",
+              "modId": 269024
+            },
+            {
+              "id": 210511,
+              "description": "City View",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/511/310/172/2017-06-03_19.png",
+              "title": "City View",
+              "url": "https://media.forgecdn.net/attachments/210/511/2017-06-03_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 211328,
+              "description": "The Control Center",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/328/310/172/2017-06-16_19.png",
+              "title": "The Control Center",
+              "url": "https://media.forgecdn.net/attachments/211/328/2017-06-16_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 210945,
+              "description": "BoP",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/945/310/172/2017-06-09_08.png",
+              "title": "BoP",
+              "url": "https://media.forgecdn.net/attachments/210/945/2017-06-09_08.png",
+              "modId": 269024
+            },
+            {
+              "id": 211289,
+              "description": "Highway",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/289/310/172/2017-06-16_09.png",
+              "title": "Highway",
+              "url": "https://media.forgecdn.net/attachments/211/289/2017-06-16_09.png",
+              "modId": 269024
+            },
+            {
+              "id": 210947,
+              "description": "The Jungle",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/947/310/172/2017-06-09_06.png",
+              "title": "The Jungle",
+              "url": "https://media.forgecdn.net/attachments/210/947/2017-06-09_06.png",
+              "modId": 269024
+            },
+            {
+              "id": 212035,
+              "description": "Ruins",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/212/35/310/172/2017-06-28_07.png",
+              "title": "Ruins",
+              "url": "https://media.forgecdn.net/attachments/212/35/2017-06-28_07.png",
+              "modId": 269024
+            },
+            {
+              "id": 212036,
+              "description": "Tunnel in the jungle",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/212/36/310/172/2017-06-28_07.png",
+              "title": "Tunnel in the jungle",
+              "url": "https://media.forgecdn.net/attachments/212/36/2017-06-28_07.png",
+              "modId": 269024
+            },
+            {
+              "id": 211290,
+              "description": "Highway",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/290/310/172/2017-06-16_05.png",
+              "title": "Highway",
+              "url": "https://media.forgecdn.net/attachments/211/290/2017-06-16_05.png",
+              "modId": 269024
+            },
+            {
+              "id": 210514,
+              "description": "Inside",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/514/310/172/2017-06-03_19.png",
+              "title": "Inside",
+              "url": "https://media.forgecdn.net/attachments/210/514/2017-06-03_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 210510,
+              "description": "Crater in ice",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/510/310/172/2017-06-03_19.png",
+              "title": "Crater in ice",
+              "url": "https://media.forgecdn.net/attachments/210/510/2017-06-03_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 211325,
+              "description": "Bridge",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/325/310/172/2017-06-16_19.png",
+              "title": "Bridge",
+              "url": "https://media.forgecdn.net/attachments/211/325/2017-06-16_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 211292,
+              "description": "Crossing",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/211/292/310/172/2017-06-14_20.png",
+              "title": "Crossing",
+              "url": "https://media.forgecdn.net/attachments/211/292/2017-06-14_20.png",
+              "modId": 269024
+            },
+            {
+              "id": 210512,
+              "description": "A Bridge",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/512/310/172/2017-06-03_19.png",
+              "title": "A Bridge",
+              "url": "https://media.forgecdn.net/attachments/210/512/2017-06-03_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 210941,
+              "description": "Biomes O Plenty support",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/941/310/172/2017-06-10_05.png",
+              "title": "Biomes O Plenty support",
+              "url": "https://media.forgecdn.net/attachments/210/941/2017-06-10_05.png",
+              "modId": 269024
+            },
+            {
+              "id": 210509,
+              "description": "City View in Ice",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/509/310/172/2017-06-03_19.png",
+              "title": "City View in Ice",
+              "url": "https://media.forgecdn.net/attachments/210/509/2017-06-03_19.png",
+              "modId": 269024
+            },
+            {
+              "id": 210508,
+              "description": "City View",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/210/508/310/172/2017-06-03_06.png",
+              "title": "City View",
+              "url": "https://media.forgecdn.net/attachments/210/508/2017-06-03_06.png",
+              "modId": 269024
+            }
+          ],
+          "mainFileId": 5426550
         },
         "curseForgeFile": {
-          "id": 4920392,
+          "id": 5422788,
           "gameId": 432,
           "isAvailable": true,
-          "displayName": "KubeJSREIRuntime-1.0.jar",
-          "fileName": "KubeJSREIRuntime-1.0.jar",
+          "displayName": "LostCities - 1.20-7.1.8",
+          "fileName": "lostcities-1.20-7.1.8.jar",
           "releaseType": 1,
           "fileStatus": 4,
-          "fileDate": "2023-12-02T16:48:42.863Z",
-          "fileLength": 6920,
+          "fileDate": "2024-06-13T03:59:11.56Z",
+          "fileLength": 1114042,
           "dependencies": [
             {
               "fileId": 0,
-              "modId": 310111,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 238086,
-              "relationType": 3
+              "modId": 245211,
+              "relationType": 2
             }
           ],
           "alternateFileId": 0,
           "modules": [
             {
-              "fingerprint": 4263338616,
+              "fingerprint": 492950833,
               "name": "META-INF"
             },
             {
-              "fingerprint": 496150327,
-              "name": "com"
+              "fingerprint": 1800636430,
+              "name": "mcjty"
             },
             {
-              "fingerprint": 3961411332,
-              "name": "kubejs.plugins.txt"
+              "fingerprint": 2328537421,
+              "name": "assets"
             },
             {
-              "fingerprint": 2396566811,
+              "fingerprint": 2076435758,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3878996785,
               "name": "pack.mcmeta"
             }
           ],
           "isServerPack": false,
           "hashes": [
             {
-              "value": "7e4443dc81ab03cfe9b20b3e25416ebf30b584db",
+              "value": "5cd41bc570599071ae75c5e3bf1a458cf8d69fd7",
               "algo": 1
             },
             {
-              "value": "1fc5c21244446f67a0a2e87ba6d16142",
+              "value": "0ee1ea9a4e44abb36e89cbf41d1ef176",
               "algo": 2
             }
           ],
@@ -53575,36 +53412,48 @@
             "1.20.1",
             "Forge"
           ],
-          "fileFingerprint": 3956401071,
-          "modId": 831817
+          "fileFingerprint": 1510628453,
+          "modId": 269024
         }
       },
       {
-        "name": "Not Enough Animations",
-        "version": "1.7.4-1.20.1 - Forge",
+        "name": "Chunk Sending[Forge/Fabric]",
+        "version": "chunksending-1.20.1-2.8.jar",
         "optional": true,
-        "file": "notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+        "file": "chunksending-1.20.1-2.8.jar",
         "type": "mods",
-        "description": "Bringing first-person animations to the third-person",
+        "description": "Optimizes chunk packet delivery",
         "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
-        "curseForgeProjectId": 433760,
-        "curseForgeFileId": 5429265,
+        "curseForgeProjectId": 831663,
+        "curseForgeFileId": 4894789,
         "curseForgeProject": {
-          "id": 433760,
-          "name": "Not Enough Animations",
+          "id": 831663,
+          "name": "Chunk Sending[Forge/Fabric]",
           "authors": [
             {
-              "id": 100212189,
-              "name": "tr7zw",
-              "url": "https://www.curseforge.com/members/tr7zw"
+              "id": 100114338,
+              "name": "someaddon",
+              "url": "https://www.curseforge.com/members/someaddon"
             }
           ],
           "gameId": 432,
-          "summary": "Bringing first-person animations to the third-person",
+          "summary": "Optimizes chunk packet delivery",
           "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
             {
               "name": "Map and Information",
               "slug": "map-information",
@@ -53616,104 +53465,96 @@
               "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
               "parentCategoryId": 6,
               "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
             }
           ],
           "status": 4,
-          "primaryCategoryId": 424,
+          "primaryCategoryId": 435,
           "classId": 6,
-          "slug": "not-enough-animations",
+          "slug": "chunk-sending-forge-fabric",
           "isFeatured": false,
-          "dateModified": "2024-06-14T21:46:21.733Z",
-          "dateCreated": "2021-01-04T23:50:54.253Z",
-          "dateReleased": "2024-06-14T21:32:45.157Z",
+          "dateModified": "2024-07-17T17:27:58.76Z",
+          "dateCreated": "2023-02-26T09:47:42.83Z",
+          "dateReleased": "2024-07-17T17:23:20.913Z",
           "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
             "wikiUrl": "",
-            "issuesUrl": "https://github.com/tr7zw/NotEnoughAnimations/issues",
-            "sourceUrl": "https://github.com/tr7zw/NotEnoughAnimations"
+            "issuesUrl": "https://github.com/someaddons/chunksending/issues",
+            "sourceUrl": "https://github.com/someaddons/chunksending"
           },
           "logo": {
-            "id": 329074,
+            "id": 782744,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/329/74/256/256/637454010542845990.png",
-            "title": "637454010542845990.png",
-            "url": "https://media.forgecdn.net/avatars/329/74/637454010542845990.png",
-            "modId": 433760
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/782/744/256/256/638130016628532924.png",
+            "title": "638130016628532924.png",
+            "url": "https://media.forgecdn.net/avatars/782/744/638130016628532924.png",
+            "modId": 831663
           },
-          "allowModDistribution": false,
+          "allowModDistribution": true,
           "screenshots": [],
-          "mainFileId": 5429287
+          "mainFileId": 5540775
         },
         "curseForgeFile": {
-          "id": 5429265,
+          "id": 4894789,
           "gameId": 432,
           "isAvailable": true,
-          "displayName": "1.7.4-1.20.1 - Forge",
-          "fileName": "notenoughanimations-forge-1.7.4-mc1.20.1.jar",
-          "releaseType": 2,
+          "displayName": "chunksending-1.20.1-2.8.jar",
+          "fileName": "chunksending-1.20.1-2.8.jar",
+          "releaseType": 1,
           "fileStatus": 4,
-          "fileDate": "2024-06-14T21:31:28.617Z",
-          "fileLength": 429049,
-          "dependencies": [],
+          "fileDate": "2023-11-23T20:23:20.963Z",
+          "fileLength": 11734,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 326652,
+              "relationType": 3
+            }
+          ],
           "alternateFileId": 0,
           "modules": [
             {
-              "fingerprint": 3877145228,
+              "fingerprint": 1275391362,
               "name": "META-INF"
             },
             {
-              "fingerprint": 2866947374,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 300540102,
-              "name": "notenoughanimations.refmap.mixins.json"
-            },
-            {
-              "fingerprint": 4105253223,
-              "name": "notenoughanimations.mixins.json"
-            },
-            {
-              "fingerprint": 3668166654,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 3751776742,
-              "name": "dev"
-            },
-            {
-              "fingerprint": 1359077515,
+              "fingerprint": 4288801447,
               "name": "assets"
             },
             {
-              "fingerprint": 3421239066,
-              "name": "LICENSE"
+              "fingerprint": 3412049133,
+              "name": "chunksending.mixins.json"
+            },
+            {
+              "fingerprint": 3174262377,
+              "name": "chunksending.refmap.json"
+            },
+            {
+              "fingerprint": 551994492,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1438559181,
+              "name": "pack.mcmeta"
             }
           ],
           "isServerPack": false,
           "hashes": [
             {
-              "value": "022e79d95a0f36aa585f4a33fc7c934b425950e5",
+              "value": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe",
               "algo": 1
             },
             {
-              "value": "9de90e8cbc89b514c0f1dcf234814ba2",
+              "value": "550fcf675d0039e7da8336e001db3732",
               "algo": 2
             }
           ],
           "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
             {
               "gameVersionPadded": "0000000001.0000000020.0000000001",
               "gameVersion": "1.20.1",
@@ -53725,95 +53566,37 @@
               "gameVersion": "",
               "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
               "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
             }
           ],
           "gameVersions": [
+            "NeoForge",
             "1.20.1",
-            "Forge"
+            "Forge",
+            "1.20",
+            "Server"
           ],
-          "fileFingerprint": 793948776,
-          "modId": 433760
-        },
-        "modrinthProject": {
-          "id": "MPCX6s5C",
-          "slug": "not-enough-animations",
-          "project_type": "mod",
-          "team": "Eayl8ao3",
-          "title": "Not Enough Animations",
-          "description": "Bringing first-person animations to the third-person",
-          "body": "[![Logo](https://github.com/uBlockOrigin/uAssets/assets/5133936/3e386bb2-36ce-477c-8d5f-3103e9058cf0)](http://bit.ly/4bczSJY)\n\n#### Not Enough Animations is an official partner of Shockbyte. Click the banner or [here](http://bit.ly/4bczSJY) and use code 'tr7zw' to get a 25% discount for your Minecraft Server and to support future development of the mod.\n\nThis mod brings a lot of missing third-person animations from the first-person or modifies them to be better representative to how they should look like or look like in the first-person. This mod was created as an expansion for the [First-Person Mod](https://www.curseforge.com/minecraft/mc-mods/first-person-model), but works completely on its own and is fully vanilla/3rd party server compatible(since it's all just visual).\n\n### All features can be enabled/disabled individually in an ingame config screen! (Accessible via the ModList/ModMenu)\n\nAdded/fixed animations:\n\n- Eating/Drinking\n\n![](https://tr7zw.dev/nea/eating.png)\n![](https://tr7zw.dev/nea/drinking.png)\n\n- Maps(Yes you can see the map content if your client has been sent the map by holding it once/seeing it in an item frame)\n\n![](https://tr7zw.dev/nea/maps1.PNG)\n![](https://tr7zw.dev/nea/maps2.PNG)\n\n- Shield placement(you block where you look, not where the body is rotated to. So this will rotate the body with the head while blocking)\n\n![](https://tr7zw.dev/nea/shield.png)\n\n- Don't show items during two-handed animations(Hide the offhand item while using a bow/crossbow)\n\n![](https://tr7zw.dev/nea/twoHands.PNG)\n\n- Boat rowing(No longer sitting there and staring at the self-moving Paddles)\n\n![](https://tr7zw.dev/nea/boat.png)\n\n- Horses(at least act like you're holding the reins)\n\n![](https://tr7zw.dev/nea/horse.png)\n\n- Looking at a compass/clock(this one is actually more eye candy for the First-person Mod to make the compass better usable, but won't hurt outside of that, can be modified in the config file to extend to more items)\n\n![](https://tr7zw.dev/nea/compass.PNG)\n\n- Ladder/climbing animation\n\n![](https://tr7zw.dev/nea/ladder.gif)\n\n- Crawling animation, replacing the swimming one while out of water\n\n![](https://tr7zw.dev/nea/crawling.gif)\n\n- Smooth arm movement and transitions\n\n![](https://tr7zw.dev/nea/smootharms.gif)\n",
-          "published": "2022-05-25T10:21:03.610236Z",
-          "updated": "2024-06-14T21:32:46.695593Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-tr7zw-Protective-License",
-            "name": "",
-            "url": "https://github.com/tr7zw/NotEnoughAnimations/blob/1.18/LICENSE"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "adventure",
-            "decoration"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/MPCX6s5C/icon.png",
-          "issues_url": "https://github.com/tr7zw/NotEnoughAnimations/issues",
-          "source_url": "https://github.com/tr7zw/NotEnoughAnimations",
-          "discord_url": "https://discord.gg/55zrqwHA9C",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/tr7zw"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/MPCX6s5C/images/3b9ca72d7e6099ef67496a4b210d887d85254d80.gif",
-              "featured": true,
-              "title": "Crawling example",
-              "description": "Replaces the swimming animation that Minecraft uses otherwise.",
-              "created": "2023-01-23T00:01:12.392611Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "Wse7FiBl",
-          "project_id": "MPCX6s5C",
-          "author_id": "Qnt13hO8",
-          "name": "1.7.4-1.20.1 - Forge",
-          "version_number": "1.7.4",
-          "changelog": "## What's Changed\r\n* Update to 1.21\r\n* Add Simplified Chinese by @EastCation in https://github.com/tr7zw/NotEnoughAnimations/pull/194\r\n\r\n## New Contributors\r\n* @EastCation made their first contribution in https://github.com/tr7zw/NotEnoughAnimations/pull/194\r\n\r\n**Full Changelog**: https://github.com/tr7zw/NotEnoughAnimations/compare/1.7.3...1.7.4",
-          "date_published": "2024-06-14T21:31:31.320647Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "ad8b2f37bc6abe82274f000ae827cf806fb0798cb05f8d3066a7130452d9af99c5dd061e2930079777f4c4fd4d1d1923878c78af0b28569d4215b6bd3a4d7787",
-                "sha1": "022e79d95a0f36aa585f4a33fc7c934b425950e5"
-              },
-              "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/Wse7FiBl/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
-              "filename": "notenoughanimations-forge-1.7.4-mc1.20.1.jar",
-              "primary": true,
-              "size": 429049
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "forge"
-          ]
+          "fileFingerprint": 2023370360,
+          "modId": 831663
         }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 1722395977786,
-    "numPlays": 158,
+    "lastPlayed": 1722400999434,
+    "numPlays": 130,
     "lastExportName": "RL20",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "kiwiphoenix364",

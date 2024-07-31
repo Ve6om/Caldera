@@ -1,6 +1,5 @@
-ItemEvents.modification(event => {
 ServerEvents.recipes(event => {
-})
+
     [
         'cataclysm:ignitium_helmet',
         'cataclysm:ignitium_chestplate',
@@ -110,4 +109,16 @@ ServerEvents.recipes(event => {
       'minecraft:prismarine_crystals',
       'minecraft:quartz'
     )
+    event.remove({ 
+      input: ['#minecraft:logs','#notreepunching:weak_saws']
+    })
+    event.remove({ 
+      input: 'eldritch_end:primordial_planks',
+      not: {input:'#notreepunching:saws'},
+      output: 'minecraft:stick'
+    })
+    event.remove({ 
+      input: 'minecraft:gravel',
+      output: 'minecraft:flint'
+    })
 })

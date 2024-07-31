@@ -97,9 +97,12 @@ REIEvents.hide('item', event => {
    'spartanshields:elite_mekanists_basic_shield',
    'spartanshields:ultimate_mekanists_basic_shield',
    'spartanshields:dark_steel_riot_basic_shield',
-   'spartanshields:signalium_basic_shield',
+   'spartanshields:signalum_basic_shield',
    'spartanshields:lumium_basic_shield',
    'spartanshields:enderium_basic_shield',
+   'spartanshields:bronze_basic_shield',
+   'spartanshields:steel_basic_shield',
+   'spartanshields:tin_basic_shield',
 
    'spartanshields:electrum_tower_shield',
    'spartanshields:lead_tower_shield',
@@ -120,8 +123,11 @@ REIEvents.hide('item', event => {
    'spartanshields:elite_mekanists_tower_shield',
    'spartanshields:ultimate_mekanists_tower_shield',
    'spartanshields:dark_steel_riot_tower_shield',
-   'spartanshields:signalium_tower_shield',
+   'spartanshields:signalum_tower_shield',
    'spartanshields:lumium_tower_shield',
-   'spartanshields:enderium_tower_shield'
+   'spartanshields:enderium_tower_shield',
+   'spartanshields:bronze_tower_shield',
+   'spartanshields:steel_tower_shield',
+   'spartanshields:tin_tower_shield'
     ])
 })

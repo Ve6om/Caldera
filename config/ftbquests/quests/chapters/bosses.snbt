@@ -1,0 +1,210 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses"
+	group: "635489FCD239408C"
+	icon: "cataclysm:the_incinerator"
+	id: "253CDFE9288132A4"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Get rid of that pesky bossbar already!"]
+			id: "5442207A85AB290B"
+			rewards: [{
+				id: "3FF5810019A31C51"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "Defeat a battle tower's guardian"
+			tasks: [{
+				entity: "new_classic_battle_towers:golem_guardian"
+				icon: "minecraft:mossy_cobblestone"
+				id: "5388354A35BA6998"
+				title: "Battle tower"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			id: "5647C785DA916469"
+			rewards: [{
+				id: "5EEC7116A2D52CEE"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Somewhere in a cave"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:mech_eye"
+				id: "457021A4D2C04A03"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat The Harbinger"
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			id: "087D0CD1A3A3B9F6"
+			rewards: [{
+				id: "4D4BA10E03705240"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Deep underwater"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:abyss_eye"
+				id: "09C58741B2129F78"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat The Leviathan"
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			id: "5939A16BEE4BB9EE"
+			rewards: [{
+				id: "3C2526787D39BFE6"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Far into the outer end islands"
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:void_eye"
+				id: "2C9937F71C8B54D5"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Ender Guardian"
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "48B4AB80409A580F"
+			rewards: [{
+				id: "5AC92B309A26402C"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Deep in the nether"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "cataclysm:flame_eye"
+				id: "20A3AD79E9E36DEE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat Ignis"
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			id: "0530702A9AB4C5E6"
+			rewards: [{
+				id: "5206FB28E30B223D"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "A terrifying forge"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: "cataclysm:monstrous_eye"
+				id: "37E622F5074F18FD"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Netherite Monstrosity"
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "7281A12AD161582F"
+			rewards: [{
+				id: "14C0A0313704E666"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "A big desert pyramid"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: "cataclysm:desert_eye"
+				id: "1A3E8FBB1C3031E3"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the Ancient Remnant"
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			id: "0E766228E919D450"
+			rewards: [{
+				id: "7C837B0AB6F064A7"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Big axe man deep underground"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: "mowziesmobs:wrought_axe"
+				id: "674344289FA7B325"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat a Ferrous Wroughtnaut"
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			id: "7E1A3EDF50BBA81F"
+			rewards: [{
+				id: "079E60F92F0C8BBE"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Weird lookin' bird"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: "mowziesmobs:grant_suns_blessing"
+				id: "331D3FE8BD2698C5"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat Umbuthi, the Sunbird"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "772A4B197016FFC3"
+			rewards: [{
+				id: "5FBDBAC088C2047B"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "A yeti?"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "4C8EA6E424A979E8"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat a Frostmaw"
+			x: -3.0d
+			y: -0.5d
+		}
+	]
+	title: "Bosses"
+}

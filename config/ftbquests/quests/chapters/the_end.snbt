@@ -1,0 +1,145 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_end"
+	group: "6CE638C020BA25D4"
+	icon: "minecraft:ender_eye"
+	id: "7452BF0A735C2E7B"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2630336B16D445A1"]
+			id: "16323048254FB579"
+			rewards: [{
+				id: "2F6F7E486E269132"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Into the end!"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_stone_bricks"
+				id: "495756E03C5CA64B"
+				title: "Visit the end"
+				type: "dimension"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["16323048254FB579"]
+			id: "7BD34791E4E595C1"
+			rewards: [{
+				id: "63595FC15E5E0451"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "he ded"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "361685AF562575D8"
+				title: "Slay the Ender Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7BD34791E4E595C1"]
+			id: "0B473F6E0D49C45C"
+			rewards: [{
+				id: "61E722D2583C50AF"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Visit an End City"
+			tasks: [{
+				icon: "minecraft:purpur_block"
+				id: "23280CB91C3CB2F6"
+				structure: "minecraft:end_city"
+				title: "End City"
+				type: "structure"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0B473F6E0D49C45C"]
+			id: "606649AF21F592C4"
+			rewards: [{
+				id: "14060D3001C189CA"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Finally fly!"
+			tasks: [{
+				id: "6D12CEF1413D8BAD"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["16323048254FB579"]
+			id: "27E065D857F21B03"
+			rewards: [{
+				id: "1506DC6DBE523CD0"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Teleport into your friend's base!"
+			tasks: [{
+				id: "5E0CF11A684C5828"
+				item: "minecraft:chorus_fruit"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			id: "002A691499A85078"
+			rewards: [{
+				id: "519862AA64A55A33"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Use this to find a stronghold"
+			tasks: [{
+				id: "171DC471A27D7C61"
+				item: "minecraft:ender_eye"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["002A691499A85078"]
+			id: "2630336B16D445A1"
+			rewards: [{
+				id: "1F79D24EC60FD64D"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "The end portal"
+			tasks: [{
+				id: "2C63332E6F2C0F4A"
+				structure: "minecraft:stronghold"
+				title: "Find a stronghold"
+				type: "structure"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+	]
+	title: "The End"
+}

@@ -21,8 +21,8 @@
 				item: "firstaid:plaster"
 				type: "item"
 			}]
-			x: -5.0d
-			y: 0.5d
+			x: -9.5d
+			y: -3.0d
 		}
 		{
 			id: "53D08CC5373CC9DA"
@@ -79,8 +79,8 @@
 				}
 				type: "item"
 			}]
-			x: -6.5d
-			y: 0.5d
+			x: -9.5d
+			y: -2.0d
 		}
 		{
 			id: "4500C36BA7BB0ADF"
@@ -101,8 +101,8 @@
 				}
 				type: "item"
 			}]
-			x: -8.0d
-			y: 0.5d
+			x: -9.0d
+			y: -1.0d
 		}
 		{
 			id: "6367D47BD5699213"
@@ -124,7 +124,7 @@
 				type: "item"
 			}]
 			x: -8.0d
-			y: 2.0d
+			y: -0.5d
 		}
 		{
 			id: "23E05DE5A9ACDA09"
@@ -139,8 +139,8 @@
 				item: "sophisticatedbackpacks:backpack"
 				type: "item"
 			}]
-			x: -6.5d
-			y: 2.0d
+			x: -7.0d
+			y: -0.5d
 		}
 		{
 			id: "6A72B513017A367A"
@@ -156,8 +156,110 @@
 				type: "item"
 			}]
 			title: "Tom's Simple Storage"
-			x: -5.0d
-			y: 2.0d
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			id: "5738ABBA35997865"
+			rewards: [{
+				id: "757E50A56E3C8036"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get a trumpet"
+			tasks: [{
+				id: "62D7A570CD6B40EB"
+				item: "doot:trumpet"
+				type: "item"
+			}]
+			title: "DOOT!"
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			id: "2DFA033BCC1C36D6"
+			rewards: [{
+				id: "2887A0909E29757A"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "The strongest mob?"
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: "apotheosis:warden_tendril"
+				id: "6A397B52A89C7010"
+				title: "Kill the warden"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			description: ["It's good in this game, just don't try it in real life."]
+			id: "69FAB70B657906F7"
+			rewards: [{
+				id: "4C05E41EC30D7EE2"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Start making wine!"
+			tasks: [{
+				id: "73DE586D3F12554E"
+				item: "vinery:fermentation_barrel"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			description: ["TECHNOBLADE NEVER DIES!!! <3"]
+			id: "4C9BAF515C767A6A"
+			rewards: [{
+				id: "45507ABA55506D5F"
+				type: "xp"
+				xp: 500
+			}]
+			subtitle: "Never die"
+			tasks: [{
+				id: "2CBDFABC6DB958EA"
+				item: "minecraft:totem_of_undying"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			id: "65CEDD58AF21B1CC"
+			rewards: [{
+				id: "7234CF2411B4CCCD"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Deep underwater excavation!"
+			tasks: [{
+				id: "312D4B59F6131661"
+				item: "minecraft:sniffer_egg"
+				type: "item"
+			}]
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			id: "000C3C334B5858F6"
+			rewards: [{
+				id: "2657E6D8ACDD054A"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "SO KAWAII!"
+			tasks: [{
+				id: "674365173668D693"
+				item: "minecraft:cherry_log"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -4.5d
 		}
 	]
 	title: "Other"

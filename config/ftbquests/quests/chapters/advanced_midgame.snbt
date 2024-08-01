@@ -13,7 +13,7 @@
 			rewards: [{
 				id: "351ABE627DE0F3AE"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Get a diamond pick"
 			tasks: [{
@@ -36,7 +36,7 @@
 			rewards: [{
 				id: "54CE8D09581B4D45"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Mine obsidian"
 			tasks: [{
@@ -54,7 +54,7 @@
 			rewards: [{
 				id: "54F63DF958E6BDF9"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Get an enchanting table"
 			tasks: [{
@@ -71,7 +71,7 @@
 			rewards: [{
 				id: "7ACCF52C5AF26ECA"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Visit the nether"
 			tasks: [{
@@ -91,7 +91,7 @@
 			rewards: [{
 				id: "3893966A821D80F0"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Assists with enchanting"
 			tasks: [{
@@ -108,7 +108,7 @@
 			rewards: [{
 				id: "4A6C6FC08A9B898D"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Disenchant items for levels"
 			tasks: [{
@@ -125,7 +125,7 @@
 			rewards: [{
 				id: "4448055DF79ADA1A"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Take enchantments off of items"
 			tasks: [{
@@ -142,7 +142,7 @@
 			rewards: [{
 				id: "0391956FCD75BCE8"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Essential for going ot the end"
 			tasks: [{
@@ -160,7 +160,7 @@
 			rewards: [{
 				id: "4CB1A2D3C49DC21C"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Find a nether fortress"
 			tasks: [{
@@ -178,7 +178,7 @@
 			rewards: [{
 				id: "6ECD0A416369CF88"
 				type: "xp"
-				xp: 500
+				xp: 250
 			}]
 			subtitle: "Retrieve your items from anywhere"
 			tasks: [{

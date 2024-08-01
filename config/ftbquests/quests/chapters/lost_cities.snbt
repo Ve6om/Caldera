@@ -1,0 +1,158 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lost_cities"
+	group: "6CE638C020BA25D4"
+	icon: "the_flesh_that_hates:flesh_spike_grass"
+	id: "73D8FC615C26147A"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "11B003611035C2DF"
+			rewards: [{
+				id: "72699624AB40166C"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "A scary place filled with infected flesh"
+			tasks: [{
+				dimension: "lostcities:lostcity"
+				icon: "the_flesh_that_hates:flesh_block"
+				id: "39F4F72C3CDD4AB9"
+				title: "Enter the lost cities"
+				type: "dimension"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11B003611035C2DF"]
+			id: "3A85B5F9FCD69635"
+			rewards: [{
+				id: "293C9FDABE65AA7E"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "A very powerful weapon"
+			tasks: [{
+				id: "681EAE4886CAE59A"
+				item: {
+					Count: 1
+					id: "the_flesh_that_hates:hysterizer_revenge"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11B003611035C2DF"]
+			icon: "the_flesh_that_hates:plaqueincubatorone_spawn_egg"
+			id: "57CA77DA7B541E75"
+			rewards: [{
+				id: "52A8C54EF7A2A068"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Kill an incubator while it is in biogenesis"
+			tasks: [{
+				entity: "the_flesh_that_hates:plaqueincubatorone"
+				id: "03297DE131F6ACC6"
+				title: "Kill flesh incubator"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["11B003611035C2DF"]
+			description: ["An angel ring grants creative flight; however it is only found very rarely in above-ground lost city chests."]
+			id: "12D7C243F85A12E7"
+			rewards: [{
+				id: "574092A67D7670FA"
+				type: "xp"
+				xp: 50000
+			}]
+			subtitle: "The rarest item"
+			tasks: [{
+				id: "57C2AE38E388DBBF"
+				item: "angelring:angel_ring"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["11B003611035C2DF"]
+			description: ["Though not the most powerful in the game, flesh armor gives a powerful Regeneration 2 effect as a full-set bonus."]
+			icon: {
+				Count: 1
+				id: "the_flesh_that_hates:flesh_chest_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5D67A16D7E9F68A1"
+			rewards: [{
+				id: "4FD588411706B56E"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "Very strong gear"
+			tasks: [
+				{
+					id: "6C3FC934214EB317"
+					item: {
+						Count: 1
+						id: "the_flesh_that_hates:flesh_mask_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E4B486D337DF076"
+					item: {
+						Count: 1
+						id: "the_flesh_that_hates:flesh_chest_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54BCF9FE7C2990E9"
+					item: {
+						Count: 1
+						id: "the_flesh_that_hates:flesh_pants_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5953C68527C8FD86"
+					item: {
+						Count: 1
+						id: "the_flesh_that_hates:flesh_boot_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -1.5d
+		}
+	]
+	title: "Lost Cities"
+}

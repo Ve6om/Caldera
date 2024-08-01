@@ -13,7 +13,7 @@
 			rewards: [{
 				id: "2279678C4B64031F"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "The most common type"
 			tasks: [{
@@ -29,6 +29,11 @@
 		}
 		{
 			id: "64529B4AA4B53CB3"
+			rewards: [{
+				id: "54BCE5C6098DAB5B"
+				type: "xp"
+				xp: 500
+			}]
 			subtitle: "A rarer variation"
 			tasks: [{
 				entity: "iceandfire:ice_dragon"
@@ -43,6 +48,11 @@
 		}
 		{
 			id: "46363DBF822B1EBD"
+			rewards: [{
+				id: "6DB5332AF423D519"
+				type: "xp"
+				xp: 500
+			}]
 			subtitle: "A shiny new type"
 			tasks: [{
 				entity: "iceandfire:lightning_dragon"
@@ -68,7 +78,7 @@
 			rewards: [{
 				id: "70EBE33FE58929B6"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Loot dragon scales, bones, and blood"
 			tasks: [{
@@ -83,6 +93,11 @@
 			dependencies: ["316D6FFF222D848F"]
 			description: ["Dragon armor is very strong, one of the strongest in the game. Dragon weapons are very strong. There are many dragon weapons, including ones from Spartan Weaponry. Pick the one you like the best!"]
 			id: "2963C9DE7E1F965F"
+			rewards: [{
+				id: "0101C32ECA0B1874"
+				type: "xp"
+				xp: 500
+			}]
 			subtitle: "Make dragon weapons and armor"
 			tasks: [{
 				id: "0F04E54CF666B2B1"
@@ -97,7 +112,7 @@
 			rewards: [{
 				id: "73753E4EAF200C12"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "A water dragon"
 			tasks: [{
@@ -116,7 +131,7 @@
 			rewards: [{
 				id: "24CAC2CB91593027"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Take bro's eye"
 			tasks: [{
@@ -144,7 +159,7 @@
 			rewards: [{
 				id: "14812E9F17778802"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Get started with fire dragonsteel!"
 			tasks: [
@@ -171,7 +186,7 @@
 			rewards: [{
 				id: "2C490F9C58D6AE4B"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Get started with ice dragonsteel!"
 			tasks: [
@@ -198,7 +213,7 @@
 			rewards: [{
 				id: "395C8687227D10A0"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Get started with lightning dragonsteel!"
 			tasks: [
@@ -223,7 +238,7 @@
 			rewards: [{
 				id: "5EAA8855269D607D"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Very powerful steel"
 			tasks: [{
@@ -240,7 +255,7 @@
 			rewards: [{
 				id: "05B92D0D63B47CCF"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Very powerful steel"
 			tasks: [{
@@ -257,7 +272,7 @@
 			rewards: [{
 				id: "395D94C54F822845"
 				type: "xp"
-				xp: 5000
+				xp: 500
 			}]
 			subtitle: "Very powerful steel"
 			tasks: [{
@@ -274,8 +289,14 @@
 				"754FA563319DC4B5"
 				"61A4FA840851EB3E"
 			]
+			dependency_requirement: "one_completed"
 			description: ["Dragonsteel armor and weapons have the highest damage and protection stats."]
 			id: "580A8D17046D99E5"
+			rewards: [{
+				id: "4B22A64C1E924392"
+				type: "xp"
+				xp: 500
+			}]
 			subtitle: "Very powerful gear"
 			tasks: [{
 				id: "4050C89A638002E5"

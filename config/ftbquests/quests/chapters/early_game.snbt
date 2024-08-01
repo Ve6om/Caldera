@@ -78,6 +78,7 @@
 			y: -4.0d
 		}
 		{
+			dependencies: ["27886BEDB7EE2387"]
 			id: "44AB4ABD90B17090"
 			rewards: [{
 				id: "355C4E9C4A58677C"
@@ -206,6 +207,54 @@
 			}]
 			x: 0.0d
 			y: -4.0d
+		}
+		{
+			dependencies: ["27886BEDB7EE2387"]
+			dependency_requirement: "one_completed"
+			id: "4CEBD445E86598BA"
+			rewards: [{
+				id: "189299F2A0F5A7DC"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "47CE7A0975918E65"
+				item: "toughasnails:empty_canteen"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			description: ["These quests aim to show the main route of progression through the game, so you don't get lost! "]
+			id: "27886BEDB7EE2387"
+			rewards: [{
+				id: "3DA89F7232EE60EF"
+				type: "xp"
+				xp: 5
+			}]
+			subtitle: "Welcome to RL20!"
+			tasks: [{
+				id: "0D40F7E376057CE9"
+				title: "Welcome!"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["27886BEDB7EE2387"]
+			id: "1B65919954A92A42"
+			subtitle: "Get a head start by finding a village"
+			tasks: [{
+				icon: "minecraft:bell"
+				id: "0355FE8ADAFC8B38"
+				structure: "#minecraft:village"
+				title: "Find a village"
+				type: "structure"
+			}]
+			x: -7.5d
+			y: -2.5d
 		}
 	]
 	title: "Getting Wood"

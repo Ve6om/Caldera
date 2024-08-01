@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
         'cataclysm:ignitium_elytra_chestplate',
         'angelring:energetic_angel_ring',
         'angelring:angel_ring',
+        'angelring:diamond_ring',
         'sophisticatedbackpacks:battery_upgrade',
         'scalinghealth:power_crystal',
         'cataclysm:bone_reptile_helmet',

@@ -127,22 +127,6 @@
 			y: -0.5d
 		}
 		{
-			id: "23E05DE5A9ACDA09"
-			rewards: [{
-				id: "47B99635A8349D4E"
-				type: "xp"
-				xp: 50
-			}]
-			subtitle: "Get your first backpack"
-			tasks: [{
-				id: "4EF38423E23C3714"
-				item: "sophisticatedbackpacks:backpack"
-				type: "item"
-			}]
-			x: -7.0d
-			y: -0.5d
-		}
-		{
 			id: "6A72B513017A367A"
 			rewards: [{
 				id: "45E52C951574E520"
@@ -260,6 +244,22 @@
 			}]
 			x: -7.0d
 			y: -4.5d
+		}
+		{
+			id: "23E7277BF25404B4"
+			rewards: [{
+				id: "0B75A31B80E6B864"
+				type: "xp"
+				xp: 50
+			}]
+			subtitle: "Get your first backpack"
+			tasks: [{
+				id: "7B6074944D6E1CBF"
+				item: "backpacked:backpack"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -0.5d
 		}
 	]
 	title: "Other"

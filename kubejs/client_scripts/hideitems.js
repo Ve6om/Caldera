@@ -1,5 +1,7 @@
 REIEvents.hide('item', event => {
     event.hide([
+        'quark:backpack',
+        'quark:matrix_enchanter',
         'cataclysm:ignitium_helmet',
         'cataclysm:ignitium_chestplate',
         'cataclysm:ignitium_leggings',

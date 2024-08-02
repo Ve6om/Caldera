@@ -1,5 +1,6 @@
 REIEvents.hide('item', event => {
     event.hide([
+        'cataclysm:ignitium_upgrade_smithing_template',
         'quark:backpack',
         'quark:matrix_enchanter',
         'cataclysm:ignitium_helmet',

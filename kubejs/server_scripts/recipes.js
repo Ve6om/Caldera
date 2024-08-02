@@ -1,6 +1,7 @@
 ServerEvents.recipes(event => {
 
     [
+        'cataclysm:ignitium_upgrade_smithing_template',
         'cataclysm:ignitium_helmet',
         'cataclysm:ignitium_chestplate',
         'cataclysm:ignitium_leggings',

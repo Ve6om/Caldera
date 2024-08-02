@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "helpful_items"
 	group: "635489FCD239408C"
-	icon: "sophisticatedbackpacks:backpack"
+	icon: "backpacked:backpack"
 	id: "265932776AF156FE"
 	order_index: 1
 	quest_links: [ ]

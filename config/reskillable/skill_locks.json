@@ -51,6 +51,8 @@
     "minecraft:skull1": ["building:8", "magic:8"],
     "minecraft:firework_rocket": ["agility:4"],
     "minecraft:anvil": ["building:12"],
+    "minecraft:chipped_anvil": ["building:12"],
+    "minecraft:damaged_anvil": ["building:12"],
     "minecraft:brewing_stand": ["building:8", "magic:8"],
     "minecraft:enchanting_table": ["magic:12"],
     "notreepunching:gold_knife": ["gathering:4", "magic:4"],

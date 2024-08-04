@@ -1,5 +1,5 @@
 {
-  "default_spawner_range": 8,
+  "default_spawner_range": 16,
   "default_spawner_range_enabled": 1,
   "disable_count": 0,
   "disable_egg_removal_from_spawner": 1,

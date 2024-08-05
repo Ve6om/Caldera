@@ -1,6 +1,7 @@
 ServerEvents.recipes(event => {
 
     [
+      'spawnermod:spawner_key',
         'cataclysm:ignitium_upgrade_smithing_template',
         'cataclysm:ignitium_helmet',
         'cataclysm:ignitium_chestplate',

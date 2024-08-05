@@ -9,7 +9,7 @@
   "disable_speed": 0,
   "display_item_id_from_right_click_in_log": 0,
   "limited_spawns_amount": 11,
-  "limited_spawns_enabled": 1,
+  "limited_spawns_enabled": 0,
   "monster_egg_drop_chance": 0,
   "monster_egg_only_drop_when_killed_by_player": 0,
   "spawner_hardness": 5,

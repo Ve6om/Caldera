@@ -44,8 +44,8 @@
 				value: 1L
 			}]
 			title: "Defeat The Harbinger"
-			x: -4.5d
-			y: 1.0d
+			x: -3.0d
+			y: -0.5d
 		}
 		{
 			id: "087D0CD1A3A3B9F6"
@@ -63,7 +63,7 @@
 				value: 1L
 			}]
 			title: "Defeat The Leviathan"
-			x: -3.0d
+			x: -4.5d
 			y: 1.0d
 		}
 		{
@@ -82,7 +82,7 @@
 				value: 1L
 			}]
 			title: "Defeat the Ender Guardian"
-			x: -1.5d
+			x: -3.0d
 			y: 1.0d
 		}
 		{
@@ -102,7 +102,7 @@
 			}]
 			title: "Defeat Ignis"
 			x: -4.5d
-			y: 2.5d
+			y: -0.5d
 		}
 		{
 			id: "0530702A9AB4C5E6"
@@ -120,7 +120,7 @@
 				value: 1L
 			}]
 			title: "Defeat the Netherite Monstrosity"
-			x: -3.0d
+			x: -4.5d
 			y: 2.5d
 		}
 		{
@@ -139,10 +139,11 @@
 				value: 1L
 			}]
 			title: "Defeat the Ancient Remnant"
-			x: -1.5d
+			x: -3.0d
 			y: 2.5d
 		}
 		{
+			description: ["Found in The World Beyond"]
 			id: "0E766228E919D450"
 			rewards: [{
 				id: "7C837B0AB6F064A7"
@@ -158,10 +159,11 @@
 				value: 1L
 			}]
 			title: "Defeat a Ferrous Wroughtnaut"
-			x: -4.5d
-			y: -0.5d
+			x: -1.5d
+			y: 1.0d
 		}
 		{
+			description: ["Found in The World Beyond"]
 			id: "7E1A3EDF50BBA81F"
 			rewards: [{
 				id: "079E60F92F0C8BBE"
@@ -178,9 +180,10 @@
 			}]
 			title: "Defeat Umbuthi, the Sunbird"
 			x: -1.5d
-			y: -0.5d
+			y: 2.5d
 		}
 		{
+			description: ["Found in The World Beyond"]
 			id: "772A4B197016FFC3"
 			rewards: [{
 				id: "5FBDBAC088C2047B"
@@ -202,7 +205,7 @@
 				value: 1L
 			}]
 			title: "Defeat a Frostmaw"
-			x: -3.0d
+			x: -1.5d
 			y: -0.5d
 		}
 	]

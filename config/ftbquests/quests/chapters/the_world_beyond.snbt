@@ -1,0 +1,262 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_world_beyond"
+	group: "6CE638C020BA25D4"
+	icon: "endlessexpansion:arbor_sapling"
+	id: "2404E417698C8016"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Make a portal with glacial bricks and light it with a luminite staff"]
+			id: "32FCE877A98ADA4A"
+			rewards: [{
+				id: "3A336AB1015CFE95"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "A mysterious dimension..."
+			tasks: [{
+				dimension: "endlessexpansion:world_beyond"
+				icon: "endlessexpansion:titanum_grass_block"
+				id: "17F2DC62A39BD4DA"
+				title: "Enter The World Beyond"
+				type: "dimension"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "6A6AD35FE3AD5DC8"
+			rewards: [{
+				id: "37DF1AAA9FF6422A"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "A new metal?"
+			tasks: [{
+				id: "42DAF3CE5F75148A"
+				item: "endlessexpansion:cobalt_ingot"
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"6A6AD35FE3AD5DC8"
+				"150EDAF16D90ACCD"
+			]
+			id: "035017BB09456A00"
+			rewards: [{
+				id: "01FD7F7252632BF4"
+				type: "xp"
+				xp: 1500
+			}]
+			subtitle: "A more valuable material"
+			tasks: [{
+				id: "2AAA55717BE5037A"
+				item: "endlessexpansion:celestial_ingot"
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77DA3593181A87DF"]
+			icon: "endlessexpansion:shadowsteel_ingot"
+			id: "4CD7D21B44B00B25"
+			rewards: [{
+				id: "4CB3286A97EC30F0"
+				type: "xp"
+				xp: 5000
+			}]
+			subtitle: "A very rare and powerful ingot"
+			tasks: [{
+				id: "76D25080D6864BD1"
+				item: "endlessexpansion:shadowsteel_ingot"
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"035017BB09456A00"
+				"689E3D63F6285401"
+			]
+			id: "77DA3593181A87DF"
+			rewards: [{
+				id: "29BF26D260FF3796"
+				type: "xp"
+				xp: 1500
+			}]
+			subtitle: "Make new materials"
+			tasks: [{
+				id: "24C89265A8339440"
+				item: "endlessexpansion:infuser"
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			id: "150EDAF16D90ACCD"
+			rewards: [{
+				id: "4F401CDED5136F28"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "Get your first luminite"
+			tasks: [{
+				id: "585946E7F34A0118"
+				item: "endlessexpansion:luminite"
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "689E3D63F6285401"
+			rewards: [{
+				id: "340D08660B12CAD9"
+				type: "xp"
+				xp: 1000
+			}]
+			subtitle: "A valuable material"
+			tasks: [{
+				id: "28C9AD13B265CA1F"
+				item: "endlessexpansion:black_opal"
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4CD7D21B44B00B25"]
+			id: "73BB8E39B9FCDF38"
+			rewards: [{
+				id: "5017044015C5C68D"
+				type: "xp"
+				xp: 7500
+			}]
+			subtitle: "A quick and powerful sword"
+			tasks: [{
+				id: "7C624F43EB86E0C0"
+				item: {
+					Count: 1
+					id: "endlessexpansion:shadowsteel_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4CD7D21B44B00B25"]
+			id: "1D08197602F68A01"
+			rewards: [{
+				id: "63C11577981F5C36"
+				type: "xp"
+				xp: 7500
+			}]
+			subtitle: "One of the best tools in the game"
+			tasks: [{
+				id: "085733AF9F42C05B"
+				item: {
+					Count: 1
+					id: "endlessexpansion:shadowsteel_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4CD7D21B44B00B25"]
+			description: [""]
+			icon: {
+				Count: 1
+				id: "endlessexpansion:shadowsteel_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "58DB7015D3C80A82"
+			rewards: [{
+				id: "6A74851B785DD342"
+				type: "xp"
+				xp: 7500
+			}]
+			subtitle: "Very protective armor"
+			tasks: [
+				{
+					id: "13A6A0FA66806ABB"
+					item: {
+						Count: 1
+						id: "endlessexpansion:shadowsteel_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					id: "01E04A069ECBCA02"
+					item: {
+						Count: 1
+						id: "endlessexpansion:shadowsteel_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					id: "387447E99B56AFDD"
+					item: {
+						Count: 1
+						id: "endlessexpansion:shadowsteel_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					type: "item"
+				}
+				{
+					id: "0216F3D6F63B8A32"
+					item: {
+						Count: 1
+						id: "endlessexpansion:shadowsteel_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					only_from_crafting: false
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 2.5d
+		}
+	]
+	title: "The World Beyond"
+}

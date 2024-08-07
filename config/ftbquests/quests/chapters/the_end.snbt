@@ -16,12 +16,12 @@
 				type: "xp"
 				xp: 500
 			}]
-			subtitle: "Into the end!"
+			subtitle: "Enter the End!"
 			tasks: [{
 				dimension: "minecraft:the_end"
 				icon: "minecraft:end_stone_bricks"
 				id: "495756E03C5CA64B"
-				title: "Visit the end"
+				title: "Visit the End"
 				type: "dimension"
 			}]
 			x: -7.5d

@@ -263,7 +263,7 @@
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome tag settings
-			biome_blacklist = ["endlessexpansion:sunken_wastes"]
+			biome_blacklist = ['endlessexpansion:sunken_wastes']
 
 		#Controls for spawning structure/mob with world generation
 		[mobs.ferrous_wroughtnaut.generation_config]

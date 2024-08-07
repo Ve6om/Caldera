@@ -121,4 +121,15 @@ ServerEvents.recipes(event => {
       input: 'minecraft:gravel',
       output: 'minecraft:flint'
     })
+    event.shaped(
+      Item.of('#minecraft:planks', 2), // arg 1: output
+      [
+        'A',
+        'B', // arg 2: the shape (array of strings)
+      ],
+      {
+        A: '#notreepunching:weak_saws',
+        B: '#minecraft:logs',  //arg 3: the mapping object
+      }
+  )
 })

@@ -149,9 +149,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["forge:is_snowy,!minecraft:is_ocean,!minecraft:is_river,!minecraft:is_beach,!minecraft:is_forest,!minecraft:is_taiga"]
+			biome_tags = ["!mowziesmobs:has_structure/has_mowzie_structure"]
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = []
+			biome_whitelist = ["endlessexpansion:frozen_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -207,9 +207,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["minecraft:is_savanna"]
+			biome_tags = ["!mowziesmobs:has_structure/has_mowzie_structure"]
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = []
+			biome_whitelist = ["endlessexpansion:scorched_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -259,11 +259,11 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["!minecraft:is_ocean"]
+			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome tag settings
-			biome_blacklist = []
+			biome_blacklist = ["endlessexpansion:sunken_wastes"]
 
 		#Controls for spawning structure/mob with world generation
 		[mobs.ferrous_wroughtnaut.generation_config]
@@ -307,7 +307,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["minecraft:is_mountain"]
+			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -353,7 +353,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["!forge:is_mushroom"]
+			biome_tags = ["mowziesmobs:is_magical"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -374,11 +374,11 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["endlessexpansion:world_beyond"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
-			allowed_blocks = []
+			allowed_blocks = ["endlessexpansion:titanum_grass_block"]
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
-			allowed_block_tags = ["minecraft:base_stone_overworld"]
+			allowed_block_tags = []
 			#Maximum height for this spawn. -65 to ignore.
 			#Range: -65 ~ 256
 			height_max = 16
@@ -412,7 +412,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["minecraft:is_forest,mowziesmobs:is_magical,!forge:is_snowy"]
+			biome_tags = ["mowziesmobs:is_magical"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = []
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -433,7 +433,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["endlessexpansion:world_beyond"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
@@ -474,9 +474,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["minecraft:is_savanna"]
+			biome_tags = ["!mowziesmobs:has_structure/has_mowzie_structure"]
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = []
+			biome_whitelist = ["endlessexpansion:scorched_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -495,7 +495,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["endlessexpansion:world_beyond"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
@@ -533,9 +533,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["minecraft:is_beach,minecraft:is_mountain", "minecraft:is_beach,minecraft:is_hill"]
+			biome_tags = ["!mowziesmobs:has_structure/has_mowzie_structure"]
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["minecraft:stony_shore"]
+			biome_whitelist = ["endlessexpansion:volcanic_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -554,7 +554,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["endlessexpansion:world_beyond"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
@@ -592,9 +592,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = ["minecraft:is_jungle"]
+			biome_tags = ["!mowziesmobs:has_structure/has_mowzie_structure"]
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = []
+			biome_whitelist = ["endlessexpansion:sunken_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -613,7 +613,7 @@
 			#Range: 0.0 ~ 1.0
 			extra_rarity = 1.0
 			#Names of dimensions this mob can spawn in
-			dimensions = ["minecraft:overworld"]
+			dimensions = ["endlessexpansion:world_beyond"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.

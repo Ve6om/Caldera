@@ -96,4 +96,59 @@ ItemEvents.modification(event => {
       item.armorProtection = 5.0
       item.armorToughness = 4.0
    })
+   event.modify('endlessexpansion:shadowsteel_sword', item => {
+      item.attackDamage = 14
+   })
+
+
+   event.modify('endlessexpansion:shadowsteel_helmet', item => {
+      item.armorProtection = 5.0
+      item.armorToughness = 4.5
+   })
+   event.modify('endlessexpansion:shadowsteel_chestplate', item => {
+      item.armorProtection = 10.0
+      item.armorToughness = 4.5
+   })
+   event.modify('endlessexpansion:shadowsteel_leggings', item => {
+      item.armorProtection = 7.0
+      item.armorToughness = 4.5
+   })
+   event.modify('endlessexpansion:shadowsteel_boots', item => {
+      item.armorProtection = 5.0
+      item.armorToughness = 4.5
+   })
+
+   event.modify('endlessexpansion:celestial_helmet', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 2.5
+   })
+   event.modify('endlessexpansion:celestial_chestplate', item => {
+      item.armorProtection = 8.0
+      item.armorToughness = 2.5
+   })
+   event.modify('endlessexpansion:celestial_leggings', item => {
+      item.armorProtection = 7.0
+      item.armorToughness = 2.5
+   })
+   event.modify('endlessexpansion:celestial_boots', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 2.5
+   })
+
+   event.modify('endlessexpansion:cobalt_helmet', item => {
+      item.armorProtection = 3.0
+      item.armorToughness = 2
+   })
+   event.modify('endlessexpansion:cobalt_chestplate', item => {
+      item.armorProtection = 7.0
+      item.armorToughness = 2
+   })
+   event.modify('endlessexpansion:cobalt_leggings', item => {
+      item.armorProtection = 5.0
+      item.armorToughness = 2
+   })
+   event.modify('endlessexpansion:cobalt_boots', item => {
+      item.armorProtection = 3.0
+      item.armorToughness = 2
+   })
 })

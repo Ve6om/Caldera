@@ -82,7 +82,7 @@
 		#Whether the player should keep items and experience in their inventory after death .
 		keep_inventory = false
 		#Whether the player can regenerate health naturally if their hunger is full enough (doesn't affect external healing, such as golden apples, the Regeneration effect, etc.)
-		natural_regeneration = true
+		natural_regeneration = false
 		#What percentage of players must sleep to skip the night.
 		#Range: > 0
 		players_sleeping_percentage = 100

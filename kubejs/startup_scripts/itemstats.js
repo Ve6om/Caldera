@@ -97,7 +97,8 @@ ItemEvents.modification(event => {
       item.armorToughness = 4.0
    })
    event.modify('endlessexpansion:shadowsteel_sword', item => {
-      item.attackDamage = 14
+      item.attackSpeed = -2.4
+      item.attackDamage = 17
    })
 
 

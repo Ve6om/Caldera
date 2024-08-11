@@ -26,7 +26,7 @@
 		#Range: > 1
 		maxDogsAllowed = 4
 		#Default values MaxHealth:25|AttackDamage:6|Armor:0
-		dogAttributes = "MaxHealth:25|AttackDamage:24|Armor:0"
+		dogAttributes = "MaxHealth:25|AttackDamage:12|Armor:0"
 
 	["MOB SETTINGS"."Flesh Cocoon"]
 		#Default values MaxHealth:10|AttackDamage:0|Armor:0
@@ -34,15 +34,15 @@
 
 	["MOB SETTINGS"."Flesh Vindicator"]
 		#Default values MaxHealth:30|AttackDamage:6|Armor:4
-		"Flesh Vindicator Attributes" = "MaxHealth:30|AttackDamage:24|Armor:4"
+		"Flesh Vindicator Attributes" = "MaxHealth:30|AttackDamage:12|Armor:4"
 
 	["MOB SETTINGS"."Flesh Servant"]
 		#Default values MaxHealth:35|AttackDamage:7|Armor:3
-		"Flesh Servant Attributes" = "MaxHealth:35|AttackDamage:28|Armor:3"
+		"Flesh Servant Attributes" = "MaxHealth:35|AttackDamage:14|Armor:3"
 
 	["MOB SETTINGS"."Flesh Human Head"]
 		#Default values MaxHealth:10|AttackDamage:3|Armor:0
-		"Flesh Human Head Attributes" = "MaxHealth:10|AttackDamage:12|Armor:0"
+		"Flesh Human Head Attributes" = "MaxHealth:10|AttackDamage:6|Armor:0"
 
 	["MOB SETTINGS"."Flesh Howler"]
 		#Default values MaxHealth:30|AttackDamage:0|Armor:2
@@ -58,7 +58,7 @@
 
 	["MOB SETTINGS"."Flesh Cow"]
 		#Default values MaxHealth:25|AttackDamage:5|Armor:1
-		"Flesh Cow Attributes" = "MaxHealth:25|AttackDamage:20|Armor:1"
+		"Flesh Cow Attributes" = "MaxHealth:25|AttackDamage:10|Armor:1"
 
 	["MOB SETTINGS"."Enlightenment Incubator"]
 		#Default values MaxHealth:100|AttackDamage:0|Armor:8
@@ -86,15 +86,15 @@
 
 	["MOB SETTINGS"."Flesh Villager"]
 		#Default values MaxHealth:22|AttackDamage:4|Armor:1
-		"Flesh Villager Attributes" = "MaxHealth:22|AttackDamage:16|Armor:1"
+		"Flesh Villager Attributes" = "MaxHealth:22|AttackDamage:8|Armor:1"
 
 	["MOB SETTINGS"."Flesh Mutant"]
 		#Default values MaxHealth:30|AttackDamage:6|Armor:4
-		"Flesh Mutant Attributes" = "MaxHealth:30|AttackDamage:24|Armor:4"
+		"Flesh Mutant Attributes" = "MaxHealth:30|AttackDamage:12|Armor:4"
 
 	["MOB SETTINGS"."Flesh Unseen"]
 		#Default values MaxHealth:100|AttackDamage:14|Armor:10
-		"Flesh Unseen Attributes" = "MaxHealth:100|AttackDamage:56|Armor:10"
+		"Flesh Unseen Attributes" = "MaxHealth:100|AttackDamage:28|Armor:10"
 
 	["MOB SETTINGS"."Flesh Justice"]
 		#Enable or disable Flesh Justice spawn
@@ -126,7 +126,7 @@
 
 	["MOB SETTINGS"."Flesh Community"]
 		#Default values MaxHealth:50|AttackDamage:8|Armor:0
-		"Flesh Community Attributes" = "MaxHealth:50|AttackDamage:32|Armor:0"
+		"Flesh Community Attributes" = "MaxHealth:50|AttackDamage:16|Armor:0"
 
 		["MOB SETTINGS"."Flesh Community"."FIRE DAMAGE MULTIPLIERS BY STAGE"]
 			#Fire damage multiplier for Fetal Stage
@@ -150,11 +150,11 @@
 
 	["MOB SETTINGS"."Flesh Pillager"]
 		#Default values MaxHealth:25|AttackDamage:3|Armor:0
-		"Flesh Pillager Attributes" = "MaxHealth:25|AttackDamage:12|Armor:0"
+		"Flesh Pillager Attributes" = "MaxHealth:25|AttackDamage:6|Armor:0"
 
 	["MOB SETTINGS"."Flesh Hunter I"]
 		#Default values MaxHealth:50|AttackDamage:7|Armor:6
-		"Flesh Hunter I Attributes" = "MaxHealth:50|AttackDamage:28|Armor:6"
+		"Flesh Hunter I Attributes" = "MaxHealth:50|AttackDamage:14|Armor:6"
 
 	["MOB SETTINGS"."Flesh Piece"]
 		#Default values MaxHealth:10|AttackDamage:0|Armor:0
@@ -167,11 +167,11 @@
 
 	["MOB SETTINGS"."Flesh Hunter II"]
 		#Default values MaxHealth:45|AttackDamage:6|Armor:4
-		"Flesh Hunter II Attributes" = "MaxHealth:45|AttackDamage:24|Armor:4"
+		"Flesh Hunter II Attributes" = "MaxHealth:45|AttackDamage:12|Armor:4"
 
 	["MOB SETTINGS"."Flesh Brute I"]
 		#Default values MaxHealth:45|AttackDamage:4|Armor:5
-		"Flesh Brute I Attributes" = "MaxHealth:45|AttackDamage:16|Armor:5"
+		"Flesh Brute I Attributes" = "MaxHealth:45|AttackDamage:8|Armor:5"
 
 	["MOB SETTINGS"."DESPAWN MOBS"]
 		#Maximum Embryo Mobs
@@ -229,11 +229,11 @@
 
 	["MOB SETTINGS"."Flesh Suffer"]
 		#Default values MaxHealth:40|AttackDamage:25|Armor:4
-		"Flesh Suffer Attributes" = "MaxHealth:40|AttackDamage:100|Armor:4"
+		"Flesh Suffer Attributes" = "MaxHealth:40|AttackDamage:50|Armor:4"
 
 	["MOB SETTINGS"."Flesh Pig"]
 		#Default values MaxHealth:22|AttackDamage:4|Armor:0
-		"Flesh Pig Attributes" = "MaxHealth:22|AttackDamage:16|Armor:0"
+		"Flesh Pig Attributes" = "MaxHealth:22|AttackDamage:8|Armor:0"
 
 	["MOB SETTINGS"."Flesh Boomer"]
 		#Default values MaxHealth:20|AttackDamage:0|Armor:0
@@ -241,7 +241,7 @@
 
 	["MOB SETTINGS"."Flesh Hysterizer"]
 		#Default values MaxHealth:55|AttackDamage:7|Armor:4
-		"Flesh Hysterizer Attributes" = "MaxHealth:55|AttackDamage:28|Armor:4"
+		"Flesh Hysterizer Attributes" = "MaxHealth:55|AttackDamage:14|Armor:4"
 		#Number of kills before transformation into Flesh Community
 		#Default values 7
 		#Range: > 1
@@ -249,7 +249,7 @@
 
 	["MOB SETTINGS"."Flesh Infector"]
 		#Default values MaxHealth:10|AttackDamage:4|Armor:0
-		"Flesh Infector Attributes" = "MaxHealth:10|AttackDamage:16|Armor:0"
+		"Flesh Infector Attributes" = "MaxHealth:10|AttackDamage:8|Armor:0"
 
 	["MOB SETTINGS"."Embryo mobs buffs"]
 		#The minimum points required for a Embryo Mob to replicate
@@ -287,11 +287,11 @@
 
 	["MOB SETTINGS"."Flesh Human"]
 		#Default values MaxHealth:20|AttackDamage:4|Armor:1
-		"Flesh Human Attributes" = "MaxHealth:20|AttackDamage:16|Armor:1"
+		"Flesh Human Attributes" = "MaxHealth:20|AttackDamage:8|Armor:1"
 
 	["MOB SETTINGS"."Flesh Sheep"]
 		#Default values MaxHealth:15|AttackDamage:5|Armor:0
-		"Flesh Sheep Attributes" = "MaxHealth:15|AttackDamage:20|Armor:0"
+		"Flesh Sheep Attributes" = "MaxHealth:15|AttackDamage:10|Armor:0"
 
 #GENERAL SETTINGS FOR THE FLESH THAT HATES MOD
 #1 second = 20 ticks

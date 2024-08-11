@@ -157,30 +157,6 @@ ServerEvents.recipes(event => {
       }
     )
     event.shaped(
-      Item.of('minecraft:wooden_axe', 1), // arg 1: output
-      [
-        'AA',
-        'BA', // arg 2: the shape (array of strings)
-        'B '
-      ],
-      {
-        A: '#minecraft:planks',
-        B: 'minecraft:stick',  //arg 3: the mapping object
-      }
-    )
-    event.shaped(
-      Item.of('minecraft:wooden_hoe', 1), // arg 1: output
-      [
-        'AA',
-        'B ', // arg 2: the shape (array of strings)
-        'B '
-      ],
-      {
-        A: '#minecraft:planks',
-        B: 'minecraft:stick',  //arg 3: the mapping object
-      }
-    )
-    event.shaped(
       Item.of('minecraft:wooden_hoe', 1), // arg 1: output
       [
         'AA',
@@ -208,7 +184,7 @@ ServerEvents.recipes(event => {
       Item.of('minecraft:wooden_shovel', 1), // arg 1: output
       [
         'A',
-        'B', // arg 2: the shape (array of strings)
+        'A', // arg 2: the shape (array of strings)
         'B'
       ],
       {

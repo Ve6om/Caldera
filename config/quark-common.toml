@@ -365,11 +365,11 @@
 
 	[tools.ancient_tomes]
 		#Format is lootTable,weight. i.e. "minecraft:chests/stronghold_library,30"
-		"Loot Tables" = ["minecraft:chests/stronghold_library,20", "minecraft:chests/simple_dungeon,20", "minecraft:chests/bastion_treasure,25", "minecraft:chests/woodland_mansion,15", "minecraft:chests/nether_bridge,0", "minecraft:chests/underwater_ruin_big,0", "minecraft:chests/underwater_ruin_small,0", "minecraft:chests/ancient_city,4", "quark:misc/monster_box,5", "battletowers:chests/top_floor,20", "battletowers:chests/underground/bottom_floor,20"]
+		"Loot Tables" = ["minecraft:chests/stronghold_library,10", "minecraft:chests/simple_dungeon,10", "minecraft:chests/bastion_treasure,15", "minecraft:chests/woodland_mansion,7", "minecraft:chests/nether_bridge,0", "minecraft:chests/underwater_ruin_big,0", "minecraft:chests/underwater_ruin_small,0", "minecraft:chests/ancient_city,4", "quark:misc/monster_box,5", "battletowers:chests/top_floor,10", "battletowers:chests/underground/bottom_floor,10"]
 		"Item Quality" = 2
 		"Normal Upgrade Cost" = 10
 		"Limit Break Upgrade Cost" = 30
-		"Valid Enchantments" = ["minecraft:unbreaking", "minecraft:mending"]
+		"Valid Enchantments" = ["minecraft:unbreaking"]
 		"Overleveled Books Glow Rainbow" = true
 		#When enabled, Efficiency VI Diamond and Netherite pickaxes can instamine Deepslate when under Haste 2
 		"Deepslate Tweak" = true

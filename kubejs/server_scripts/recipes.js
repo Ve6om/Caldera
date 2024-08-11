@@ -184,7 +184,7 @@ ServerEvents.recipes(event => {
       Item.of('minecraft:wooden_shovel', 1), // arg 1: output
       [
         'A',
-        'A', // arg 2: the shape (array of strings)
+        'B', // arg 2: the shape (array of strings)
         'B'
       ],
       {

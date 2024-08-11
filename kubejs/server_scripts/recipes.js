@@ -131,5 +131,89 @@ ServerEvents.recipes(event => {
         A: '#notreepunching:weak_saws',
         B: '#minecraft:logs',  //arg 3: the mapping object
       }
-  )
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_pickaxe', 1), // arg 1: output
+      [
+        'AAA',
+        ' B ', // arg 2: the shape (array of strings)
+        ' B '
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_axe', 1), // arg 1: output
+      [
+        'AA',
+        'AB', // arg 2: the shape (array of strings)
+        ' B'
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_axe', 1), // arg 1: output
+      [
+        'AA',
+        'BA', // arg 2: the shape (array of strings)
+        'B '
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_hoe', 1), // arg 1: output
+      [
+        'AA',
+        'B ', // arg 2: the shape (array of strings)
+        'B '
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_hoe', 1), // arg 1: output
+      [
+        'AA',
+        ' B', // arg 2: the shape (array of strings)
+        ' B'
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_sword', 1), // arg 1: output
+      [
+        'A',
+        'A', // arg 2: the shape (array of strings)
+        'B'
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('minecraft:wooden_shovel', 1), // arg 1: output
+      [
+        'A',
+        'B', // arg 2: the shape (array of strings)
+        'B'
+      ],
+      {
+        A: '#minecraft:planks',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
 })

@@ -120,28 +120,28 @@ ItemEvents.modification(event => {
    })
 
    event.modify('endlessexpansion:celestial_helmet', item => {
-      item.armorProtection = 4.0
-      item.armorToughness = 2.5
-   })
-   event.modify('endlessexpansion:celestial_chestplate', item => {
-      item.armorProtection = 8.0
-      item.armorToughness = 2.5
-   })
-   event.modify('endlessexpansion:celestial_leggings', item => {
-      item.armorProtection = 7.0
-      item.armorToughness = 2.5
-   })
-   event.modify('endlessexpansion:celestial_boots', item => {
-      item.armorProtection = 4.0
-      item.armorToughness = 2.5
-   })
-
-   event.modify('endlessexpansion:cobalt_helmet', item => {
       item.armorProtection = 3.0
       item.armorToughness = 2
    })
+   event.modify('endlessexpansion:celestial_chestplate', item => {
+      item.armorProtection = 8.0
+      item.armorToughness = 2
+   })
+   event.modify('endlessexpansion:celestial_leggings', item => {
+      item.armorProtection = 6.0
+      item.armorToughness = 2
+   })
+   event.modify('endlessexpansion:celestial_boots', item => {
+      item.armorProtection = 3.0
+      item.armorToughness = 2
+   })
+
+   event.modify('endlessexpansion:cobalt_helmet', item => {
+      item.armorProtection = 2.0
+      item.armorToughness = 2
+   })
    event.modify('endlessexpansion:cobalt_chestplate', item => {
-      item.armorProtection = 7.0
+      item.armorProtection = 6.0
       item.armorToughness = 2
    })
    event.modify('endlessexpansion:cobalt_leggings', item => {
@@ -149,7 +149,28 @@ ItemEvents.modification(event => {
       item.armorToughness = 2
    })
    event.modify('endlessexpansion:cobalt_boots', item => {
-      item.armorProtection = 3.0
+      item.armorProtection = 2.0
       item.armorToughness = 2
+   })
+
+   event.modify('cataclysm:ignitium_helmet', item => {
+      item.armorProtection = 3.0
+      item.armorToughness = 3
+   })
+   event.modify('cataclysm:ignitium_chestplate', item => {
+      item.armorProtection = 8.0
+      item.armorToughness = 3
+   })
+   event.modify('cataclysm:ignitium_elytra_chestplate', item => {
+      item.armorProtection = 8.0
+      item.armorToughness = 3
+   })
+   event.modify('cataclysm:ignitium_leggings', item => {
+      item.armorProtection = 6.0
+      item.armorToughness = 3
+   })
+   event.modify('cataclysm:ignitium_boots', item => {
+      item.armorProtection = 3.0
+      item.armorToughness = 3
    })
 })

@@ -1,13 +1,6 @@
 ServerEvents.recipes(event => {
-
     [
       'spawnermod:spawner_key',
-        'cataclysm:ignitium_upgrade_smithing_template',
-        'cataclysm:ignitium_helmet',
-        'cataclysm:ignitium_chestplate',
-        'cataclysm:ignitium_leggings',
-        'cataclysm:ignitium_boots',
-        'cataclysm:ignitium_elytra_chestplate',
         'angelring:energetic_angel_ring',
         'angelring:angel_ring',
         'angelring:diamond_ring',

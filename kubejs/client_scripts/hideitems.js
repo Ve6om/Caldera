@@ -1,14 +1,8 @@
 REIEvents.hide('item', event => {
     event.hide([
         'spawnermod:spawner_key',
-        'cataclysm:ignitium_upgrade_smithing_template',
         'quark:backpack',
         'quark:matrix_enchanter',
-        'cataclysm:ignitium_helmet',
-        'cataclysm:ignitium_chestplate',
-        'cataclysm:ignitium_leggings',
-        'cataclysm:ignitium_boots',
-        'cataclysm:ignitium_elytra_chestplate',
         'angelring:energetic_angel_ring',
         'angelring:leadstone_angel_ring',
         'angelring:hardened_angel_ring',

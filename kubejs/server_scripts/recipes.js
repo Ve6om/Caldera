@@ -114,17 +114,14 @@ ServerEvents.recipes(event => {
       input: 'minecraft:gravel',
       output: 'minecraft:flint'
     })
-    event.shaped(
-      Item.of('#minecraft:planks', 2), // arg 1: output
-      [
-        'A',
-        'B', // arg 2: the shape (array of strings)
-      ],
-      {
-        A: '#notreepunching:weak_saws',
-        B: '#minecraft:logs',  //arg 3: the mapping object
-      }
-    )
+    event.remove({ 
+      input: ['vinery:apple_log','vinery:apple_wood'],
+      output: 'minecraft:oak_planks'
+    })
+    event.remove({ 
+      input: '#minecraft:logs',
+      output: 'minecraft:stick'
+    })
     event.shaped(
       Item.of('minecraft:wooden_pickaxe', 1), // arg 1: output
       [

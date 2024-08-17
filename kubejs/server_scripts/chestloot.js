@@ -10,3 +10,10 @@ LootJS.modifiers((event) => {
             ])
             
 })
+LootJS.modifiers((event) => {
+    event
+        .addLootTableModifier("lostcities:chests/lostcitychest")
+        .randomChance(0.2)
+        .addLoot("angelring:angel_ring")
+            
+})

@@ -17,3 +17,7 @@ LootJS.modifiers((event) => {
         .addLoot("angelring:angel_ring")
             
 })
+LootJS.modifiers(event => {
+    event.addLootTableModifier(/.*/)
+        .removeLoot(['scalinghealth:power_crystal','scalinghealth:power_crystal_shard','scalinghealth:cursed_heart','scalinghealth:enchanted_heart','scalinghealth:chance_heart'])
+})

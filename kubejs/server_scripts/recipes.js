@@ -120,6 +120,7 @@ ServerEvents.recipes(event => {
     })
     event.remove({ 
       input: '#minecraft:logs',
+      not: {input:['#notreepunching:saws','#notreepunching:weak_saws']},
       output: 'minecraft:stick'
     })
     event.shaped(

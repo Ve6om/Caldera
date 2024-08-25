@@ -149,7 +149,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:frozen_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -207,7 +207,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:scorched_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -259,9 +259,9 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["endlessexpansion:abyssal_ocean","endlessexpansion:basalt_beach","endlessexpansion:beach","endlessexpansion:frozen_beach","endlessexpansion:frozen_wastes","endlessexpansion:gravel_beach","endlessexpansion:rocky_beach","endlessexpansion:scorched_wastes","endlessexpansion:titanic_forest","endlessexpansion:volcanic_wastes","endlessexpansion:zerzura"]
+			biome_whitelist = ["endlessexpansion:abyssal_ocean", "endlessexpansion:basalt_beach", "endlessexpansion:beach", "endlessexpansion:frozen_beach", "endlessexpansion:frozen_wastes", "endlessexpansion:gravel_beach", "endlessexpansion:rocky_beach", "endlessexpansion:scorched_wastes", "endlessexpansion:titanic_forest", "endlessexpansion:volcanic_wastes", "endlessexpansion:zerzura"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -307,7 +307,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:titanic_forest"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -353,7 +353,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:titanic_forest"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -412,7 +412,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:titanic_forest"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -474,7 +474,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:scorched_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -533,7 +533,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:volcanic_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
@@ -592,7 +592,7 @@
 			#A blank entry means all biomes. No entries means no biomes.
 			#For example, 'minecraft:is_forest,forge:is_spooky,!forge:is_snowy' would mean all biomes that are spooky forests but not snowy forests
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
-			biome_tags = [!forge:is_overworld"]
+			biome_tags = ["!forge:is_overworld"]
 			#Allow spawns in these biomes regardless of the biome tag settings
 			biome_whitelist = ["endlessexpansion:sunken_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings

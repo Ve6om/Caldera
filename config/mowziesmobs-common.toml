@@ -175,7 +175,7 @@
 			height_min = 50.0
 			#Names of structures this mob/structure will avoid when generating.
 			#NO LONGER USED! USE DATAPACK INSTEAD
-			avoid_structures = ["minecraft:villages,minecraft:pillager_outposts"]
+			avoid_structures = []
 
 		[mobs.frostmaw.combat_config]
 			#Scale mob health by this value
@@ -233,7 +233,7 @@
 			height_min = 50.0
 			#Names of structures this mob/structure will avoid when generating.
 			#NO LONGER USED! USE DATAPACK INSTEAD
-			avoid_structures = ["minecraft:villages,minecraft:pillager_outposts"]
+			avoid_structures = []
 
 		[mobs.umvuthi.combat_config]
 			#Scale mob health by this value
@@ -261,7 +261,7 @@
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
 			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["endlessexpansion:abyssal_ocean", "endlessexpansion:basalt_beach", "endlessexpansion:beach", "endlessexpansion:frozen_beach", "endlessexpansion:frozen_wastes", "endlessexpansion:gravel_beach", "endlessexpansion:rocky_beach", "endlessexpansion:scorched_wastes", "endlessexpansion:titanic_forest", "endlessexpansion:volcanic_wastes", "endlessexpansion:zerzura"]
+			biome_whitelist = ["endlessexpansion:frozen_wastes", "endlessexpansion:scorched_wastes", "endlessexpansion:sunken_wastes", "endlessexpansion:titanic_forest", "endlessexpansion:volcanic_wastes", "endlessexpansion:zerzura"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -309,7 +309,7 @@
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
 			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["endlessexpansion:titanic_forest"]
+			biome_whitelist = ["endlessexpansion:frozen_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -355,7 +355,7 @@
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
 			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["endlessexpansion:titanic_forest"]
+			biome_whitelist = ["endlessexpansion:zerzura"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -376,7 +376,7 @@
 			#Names of dimensions this mob can spawn in
 			dimensions = ["endlessexpansion:world_beyond"]
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
-			allowed_blocks = ["endlessexpansion:titanum_grass_block"]
+			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
 			allowed_block_tags = []
 			#Maximum height for this spawn. -65 to ignore.
@@ -437,7 +437,7 @@
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
-			allowed_block_tags = ["minecraft:valid_spawn,minecraft:leaves,minecraft:logs"]
+			allowed_block_tags = []
 			#Maximum height for this spawn. -65 to ignore.
 			#Range: -65 ~ 256
 			height_max = -65
@@ -499,7 +499,7 @@
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
-			allowed_block_tags = ["minecraft:valid_spawn,minecraft:sand"]
+			allowed_block_tags = []
 			#Maximum height for this spawn. -65 to ignore.
 			#Range: -65 ~ 256
 			height_max = -65
@@ -513,7 +513,7 @@
 			#Set to true to only spawn mob if it can't see the sky.
 			needs_cant_see_sky = false
 			#Names of structures this mob will avoid spawning near.
-			avoid_structures = ["minecraft:villages,minecraft:pillager_outposts,mowziesmobs:umvuthana_groves"]
+			avoid_structures = ["mowziesmobs:umvuthana_groves"]
 
 		[mobs.umvuthana.combat_config]
 			#Scale mob health by this value
@@ -572,7 +572,7 @@
 			#Set to true to only spawn mob if it can't see the sky.
 			needs_cant_see_sky = false
 			#Names of structures this mob will avoid spawning near.
-			avoid_structures = ["minecraft:villages,minecraft:pillager_outposts"]
+			avoid_structures = []
 
 		[mobs.naga.combat_config]
 			#Scale mob health by this value
@@ -594,7 +594,7 @@
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
 			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["endlessexpansion:sunken_wastes"]
+			biome_whitelist = ["endlessexpansion:titanic_forest"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 
@@ -617,7 +617,7 @@
 			#Names of blocks this mob is allowed to spawn on. Leave blank to ignore block names.
 			allowed_blocks = []
 			#Tags of blocks this mob is allowed to spawn on. Leave blank to ignore block tags.
-			allowed_block_tags = ["minecraft:valid_spawn,minecraft:leaves,minecraft:logs"]
+			allowed_block_tags = []
 			#Maximum height for this spawn. -65 to ignore.
 			#Range: -65 ~ 256
 			height_max = -65
@@ -631,7 +631,7 @@
 			#Set to true to only spawn mob if it can't see the sky.
 			needs_cant_see_sky = false
 			#Names of structures this mob will avoid spawning near.
-			avoid_structures = ["minecraft:villages,minecraft:pillager_outposts"]
+			avoid_structures = []
 
 		[mobs.foliaath.combat_config]
 			#Scale mob health by this value

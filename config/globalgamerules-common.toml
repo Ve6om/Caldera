@@ -9,8 +9,6 @@
 		do_daylight_cycle = true
 		#Whether fire should spread and naturally extinguish
 		do_fire_tick = true
-		#Non Vanilla gamerule: 'doSeasonCycle'
-		do_season_cycle = true
 		#Whether vines can spread to other blocks. Cave vines, weeping vines, and twisting vines are not affected.
 		do_vines_spread = true
 		#Whether the weather can change naturally. The /weather command can still change weather.
@@ -25,6 +23,8 @@
 		snow_accumulation_height = 1
 		#Whether new sources of water are allowed to form.
 		water_source_conversion = true
+		#Non Vanilla gamerule: 'doSeasonCycle'
+		do_season_cycle = true
 
 	[gamerules.chat]
 		#Whether advancements should be announced in chat.

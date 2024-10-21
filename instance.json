@@ -1,7 +1,7 @@
 {
   "uuid": "beeca321-f0f7-47fc-8d9b-8cf167330c3c",
   "launcher": {
-    "name": "CALDERA1",
+    "name": "CALDERAGIT",
     "pack": "CALDERA",
     "description": "A challenging 1.20.1 modpack that combines realistic and fantasy elements, featuring skills, powerful bosses, a wide range of curios, and unique lands to explore!",
     "packId": 0,
@@ -65031,8 +65031,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 0,
-    "numPlays": 0
+    "lastPlayed": 1729481762583,
+    "numPlays": 1
   },
   "id": "1.20.1",
   "complianceLevel": 1,
@@ -65248,8 +65248,6 @@
   },
   "libraries": [
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:securejarhandler:2.1.10",
       "downloads": {
         "artifact": {
@@ -65261,8 +65259,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm:9.7",
       "downloads": {
         "artifact": {
@@ -65274,8 +65270,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-commons:9.7",
       "downloads": {
         "artifact": {
@@ -65287,8 +65281,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-tree:9.7",
       "downloads": {
         "artifact": {
@@ -65300,8 +65292,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-util:9.7",
       "downloads": {
         "artifact": {
@@ -65313,8 +65303,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-analysis:9.7",
       "downloads": {
         "artifact": {
@@ -65326,8 +65314,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:accesstransformers:8.0.4",
       "downloads": {
         "artifact": {
@@ -65339,8 +65325,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.antlr:antlr4-runtime:4.9.1",
       "downloads": {
         "artifact": {
@@ -65352,8 +65336,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:eventbus:6.0.5",
       "downloads": {
         "artifact": {
@@ -65365,8 +65347,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forgespi:7.0.1",
       "downloads": {
         "artifact": {
@@ -65378,8 +65358,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:coremods:5.1.6",
       "downloads": {
         "artifact": {
@@ -65391,8 +65369,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:modlauncher:10.0.9",
       "downloads": {
         "artifact": {
@@ -65404,8 +65380,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:unsafe:0.2.0",
       "downloads": {
         "artifact": {
@@ -65417,8 +65391,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:mergetool:1.1.5:api",
       "downloads": {
         "artifact": {
@@ -65430,8 +65402,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:core:3.6.4",
       "downloads": {
         "artifact": {
@@ -65443,8 +65413,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:toml:3.6.4",
       "downloads": {
         "artifact": {
@@ -65456,8 +65424,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.maven:maven-artifact:3.8.5",
       "downloads": {
         "artifact": {
@@ -65469,8 +65435,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.jodah:typetools:0.6.3",
       "downloads": {
         "artifact": {
@@ -65482,8 +65446,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecrell:terminalconsoleappender:1.2.0",
       "downloads": {
         "artifact": {
@@ -65495,8 +65457,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-reader:3.12.1",
       "downloads": {
         "artifact": {
@@ -65508,8 +65468,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-terminal:3.12.1",
       "downloads": {
         "artifact": {
@@ -65521,8 +65479,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.spongepowered:mixin:0.8.5",
       "downloads": {
         "artifact": {
@@ -65534,8 +65490,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.openjdk.nashorn:nashorn-core:15.3",
       "downloads": {
         "artifact": {
@@ -65547,8 +65501,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarSelector:0.3.19",
       "downloads": {
         "artifact": {
@@ -65560,8 +65512,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarMetadata:0.3.19",
       "downloads": {
         "artifact": {
@@ -65573,8 +65523,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:bootstraplauncher:1.1.2",
       "downloads": {
         "artifact": {
@@ -65586,8 +65534,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarFileSystems:0.3.19",
       "downloads": {
         "artifact": {
@@ -65599,8 +65545,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlloader:1.20.1-47.3.5",
       "downloads": {
         "artifact": {
@@ -65612,8 +65556,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.5",
       "downloads": {
         "artifact": {

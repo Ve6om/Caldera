@@ -165,6 +165,17 @@
         "value": 1024
       }
     },
+    "quality_equipment:dig_speed": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "confluence:mining_speed": {
       "enabled": false,
       "min": {
@@ -207,6 +218,17 @@
       "max": {
         "default": 64,
         "value": 64
+      }
+    },
+    "quality_equipment:projectile_damage": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "attributeslib:dodge_chance": {
@@ -504,6 +526,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "quality_equipment:jump_height": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "minecraft:generic.max_health": {

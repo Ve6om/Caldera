@@ -1,7 +1,7 @@
 {
   "uuid": "91a2e149-8ba2-4763-b26c-7519a5df80e2",
   "launcher": {
-    "name": "CALDERA",
+    "name": "CALDERAGIT",
     "pack": "CALDERA",
     "description": "A challenging 1.20.1 modpack that combines realistic and fantasy elements, featuring skills, powerful bosses, a wide range of curios, and unique lands to explore!",
     "packId": 0,
@@ -18,6 +18,7 @@
     },
     "requiredMemory": 0,
     "requiredPermGen": 0,
+    "maximumMemory": 8192,
     "quickPlay": {},
     "isDev": false,
     "isPlayable": true,
@@ -65823,13 +65824,1733 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Quality Equipment",
+        "version": "quality_equipment-1.6-forge_neoforge-1.20.1.jar",
+        "optional": true,
+        "file": "quality_equipment-1.6-forge_neoforge-1.20.1.jar",
+        "type": "mods",
+        "description": "Introduces a wide variety of reforges for all types of equipment",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 667174,
+        "curseForgeFileId": 5523943,
+        "curseForgeProject": {
+          "id": 667174,
+          "name": "Quality Equipment",
+          "authors": [
+            {
+              "id": 102004561,
+              "name": "PooPmeep",
+              "url": "https://www.curseforge.com/members/poopmeep"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Introduces a wide variety of reforges for all types of equipment",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "quality-equipment",
+          "isFeatured": false,
+          "dateModified": "2024-07-11T19:22:26.857Z",
+          "dateCreated": "2022-09-01T21:59:08.44Z",
+          "dateReleased": "2024-07-11T19:18:19.423Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/quality-equipment",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 600598,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/600/598/256/256/637978901741426714.png",
+            "title": "637978901741426714.png",
+            "url": "https://media.forgecdn.net/avatars/600/598/637978901741426714.png",
+            "modId": 667174
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5523943
+        },
+        "curseForgeFile": {
+          "id": 5523943,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "quality_equipment-1.6-forge_neoforge-1.20.1.jar",
+          "fileName": "quality_equipment-1.6-forge_neoforge-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-11T19:18:19.423Z",
+          "fileLength": 139530,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1661077546,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2675954063,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3767885574,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2212671211,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3888393594,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "eb6ac3a707e8bb5d2c87ef24e9c3fc6ded106170",
+              "algo": 1
+            },
+            {
+              "value": "d5f934b5a2c0e5e25214b4988011e635",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Client",
+            "NeoForge",
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 3901659012,
+          "modId": 667174
+        },
+        "modrinthProject": {
+          "id": "mAvAL1oG",
+          "slug": "quality-equipment",
+          "project_type": "mod",
+          "team": "PGNcaQG0",
+          "title": "Quality Equipment",
+          "description": "Introduces a wide variety of reforges for all types of equipment",
+          "body": "![a](https://imgur.com/zjsTXd5.png)\n\n---\n\n### **<center>Quality Equipment introduces the reforging station into the game, which allows for granting qualities to all your equipment, all of which amplify various attributes.</center>**\n<center>\n<p align=\"center\">\n  <img src=\"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g2OXp4bjN3NWg5dng1NnR0end5Y2EzcnVseWZ6NzcxNnF6bTNvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zO655zGWT0Y4CrwCDQ/giphy.gif\" alt=\"animated\" />\n</p>\n</center>\n<center>To reforge your tools, you will need a reforging station, In which you will combine equipment with Its repair item. If a repair item does not exist for the equipment, It will use the default material set in the config. Repair items can be overriden and equipment without repair items can have items defined in the config aswell.</center>\n\n## Tool qualities\n![a](https://imgur.com/WEeEdAd.png)![a](https://imgur.com/JVStw6b.png)![a](https://imgur.com/HTxy3md.png)![a](https://imgur.com/tssA9SZ.png)![a](https://imgur.com/cQ2TQGS.png)![a](https://imgur.com/t1khbFF.png)![a](https://imgur.com/A6JstSg.png)![a](https://imgur.com/MFNdI2k.png)![a](https://imgur.com/m1LHIup.png)![a](https://imgur.com/ksphzZE.png)![a](https://imgur.com/vld8dve.png)![a](https://imgur.com/sJfZKd0.png)![a](https://imgur.com/ndL0bhi.png)![a](https://imgur.com/2RGaIXM.png)![a](https://imgur.com/pPn5Oec.png)![a](https://imgur.com/CkCWs37.png)![a](https://imgur.com/6iIyIxe.png)\n## Bow/Crossbow qualities\n![a](https://imgur.com/du1Qydb.png)![a](https://imgur.com/3OPxlM0.png)![a](https://imgur.com/GlmnbmW.png)![a](https://imgur.com/eeNxGmw.png)![a](https://imgur.com/1wc8mRy.png)\n## Armor qualities\n![a](https://imgur.com/xEZi4aS.png)![a](https://imgur.com/6J6ilcJ.png)![a](https://imgur.com/44dag8D.png)![a](https://imgur.com/cn7ebxY.png)![a](https://imgur.com/9z3Ro04.png)![a](https://imgur.com/j1CGSNb.png)![a](https://imgur.com/McNW83t.png)![a](https://imgur.com/nOFhYmo.png)![a](https://imgur.com/num2PeZ.png)![a](https://imgur.com/GGIyKVu.png)![a](https://imgur.com/7EPPyMG.png)![a](https://imgur.com/iBFtI1E.png)![a](https://imgur.com/hftKp9m.png)\n## Shield qualities\n![a](https://imgur.com/vEyJWI7.png)![a](https://imgur.com/0UxsqC0.png)![a](https://imgur.com/cAttw0Y.png)\n\n---\n**<center>\nAll qualities are fully customizable in the mod's config. Attributes can be tweaked, added or removed, qualities can be renamed, removed, and completely custom ones can be created.**\n</center>",
+          "published": "2024-06-16T09:16:08.882270Z",
+          "updated": "2024-07-11T19:17:45.043743Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/mAvAL1oG/2b6ac2f15d10e2d7fd8b70b97b40e6404d0fdab5_96.webp",
+          "issues_url": "https://legacy.curseforge.com/minecraft/mc-mods/quality-equipment/issues",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "qiT7PUyO",
+          "project_id": "mAvAL1oG",
+          "author_id": "UpxOFfrN",
+          "name": "Quality Equipment 1.6",
+          "version_number": "1.6",
+          "changelog": "-Fixed armor qualities granting the same attributes not working together properly\n\n(Delete your config for the changes to apply)",
+          "date_published": "2024-07-11T19:17:46.128384Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "eb6ac3a707e8bb5d2c87ef24e9c3fc6ded106170",
+                "sha512": "77ce6384deab079e333c85363c623e998261d3421e281d02a14e9b0bacb6c3b95c7fad9b7e2f8c748e84288ada0588e650f1936ea393f9f6966617161a64a2e9"
+              },
+              "url": "https://cdn.modrinth.com/data/mAvAL1oG/versions/qiT7PUyO/quality_equipment-1.6-forge_neoforge-1.20.1.jar",
+              "filename": "quality_equipment-1.6-forge_neoforge-1.20.1.jar",
+              "primary": true,
+              "size": 139530
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge",
+            "neoforge"
+          ]
+        }
+      },
+      {
+        "name": "Trials Chambers [1.20.1 Backport]",
+        "version": "Trials Chambers [Backport] V2.2.1",
+        "optional": true,
+        "file": "Trials-2.2.1.jar",
+        "type": "mods",
+        "description": "Blocks & Items backported from the Tricky Trials update for 1.20.1 where Trials Chambers are reimagined by me.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1012027,
+        "curseForgeFileId": 5647948,
+        "curseForgeProject": {
+          "id": 1012027,
+          "name": "Trials Chambers [1.20.1 Backport]",
+          "authors": [
+            {
+              "id": 100312682,
+              "name": "Jusey1z",
+              "url": "https://www.curseforge.com/members/jusey1z"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Blocks & Items backported from the Tricky Trials update for 1.20.1 where Trials Chambers are reimagined by me.",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "trials-chambers-backport",
+          "isFeatured": false,
+          "dateModified": "2024-08-20T19:43:29.85Z",
+          "dateCreated": "2024-05-01T22:08:36.02Z",
+          "dateReleased": "2024-08-20T19:38:08.103Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/trials-chambers-backport",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Jusey1/TrialsChambersBackport/issues",
+            "sourceUrl": "https://github.com/Jusey1/TrialsChambersBackport"
+          },
+          "logo": {
+            "id": 1035682,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1035/682/256/256/638559922873987400.png",
+            "title": "638559922873987400.png",
+            "url": "https://media.forgecdn.net/avatars/1035/682/638559922873987400.png",
+            "modId": 1012027
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 917635,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/917/635/310/172/creativemenu.png",
+              "title": "Creative Menu",
+              "url": "https://media.forgecdn.net/attachments/917/635/creativemenu.png",
+              "modId": 1012027
+            },
+            {
+              "id": 910737,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/910/737/310/172/hallwaychamber.png",
+              "title": "Hallway Chamber",
+              "url": "https://media.forgecdn.net/attachments/910/737/hallwaychamber.png",
+              "modId": 1012027
+            },
+            {
+              "id": 910735,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/910/735/310/172/frontdoor.png",
+              "title": "Front Door",
+              "url": "https://media.forgecdn.net/attachments/910/735/frontdoor.png",
+              "modId": 1012027
+            },
+            {
+              "id": 910740,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/910/740/310/172/centralchambercherry.png",
+              "title": "Central Chamber - Cherry Variation",
+              "url": "https://media.forgecdn.net/attachments/910/740/centralchambercherry.png",
+              "modId": 1012027
+            },
+            {
+              "id": 910738,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/910/738/310/172/snowchamber.png",
+              "title": "Snowy Chamber",
+              "url": "https://media.forgecdn.net/attachments/910/738/snowchamber.png",
+              "modId": 1012027
+            },
+            {
+              "id": 910736,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/910/736/310/172/centralchamber.png",
+              "title": "Central Chamber - Geode Variation",
+              "url": "https://media.forgecdn.net/attachments/910/736/centralchamber.png",
+              "modId": 1012027
+            },
+            {
+              "id": 917637,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/917/637/310/172/copperblockscm.png",
+              "title": "Copper Blocks Creative Menu",
+              "url": "https://media.forgecdn.net/attachments/917/637/copperblockscm.png",
+              "modId": 1012027
+            },
+            {
+              "id": 917636,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/917/636/310/172/bogged.png",
+              "title": "Boggo",
+              "url": "https://media.forgecdn.net/attachments/917/636/bogged.png",
+              "modId": 1012027
+            },
+            {
+              "id": 910739,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/910/739/310/172/towerchamber.png",
+              "title": "Tower Chamber",
+              "url": "https://media.forgecdn.net/attachments/910/739/towerchamber.png",
+              "modId": 1012027
+            }
+          ],
+          "mainFileId": 5647948
+        },
+        "curseForgeFile": {
+          "id": 5647948,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Trials Chambers [Backport] V2.2.1",
+          "fileName": "Trials-2.2.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-20T19:38:08.103Z",
+          "fileLength": 8344933,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 602059,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 250498,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 847583,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3139918738,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2904011506,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2930639540,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2678997612,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2406657801,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "110ee02adcf4237a7f24f60c43fa3f0aace2b186",
+              "algo": 1
+            },
+            {
+              "value": "f1b42891efa45a488b07f8b1014e477b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 2981078524,
+          "modId": 1012027
+        },
+        "modrinthProject": {
+          "id": "s5Igmyc6",
+          "slug": "trials-chambers-backport",
+          "project_type": "mod",
+          "team": "HQzrghVw",
+          "title": "Trials Chambers [1.20.1 Backport]",
+          "description": "Blocks & Items backported from 1.21 to Forge 1.20.1 to make Trials Chambers reimagined by me.",
+          "body": "This mod adds the content from the Tricky Trials update to Neo/Forge 1.20.1 to reimagined the Trials Chambers in my own image. However, I didn't do the Breeze & Armadillo.\n\nThese Trials Chambers spawns with a Central Chamber, which automatically connects to an Entrance/Exit Hallway and a large Hallway Chamber. From there, there is a \"Boss Chamber\" at the end of the Large Hallway Chamber, which houses either an Evoker, Illusion, or Iceologer (from Friends & Foes) with Illager specific Trial Spawners alongside with them. There is even a small chance for a Boss Room dedicated to Wroughtnaut from Mowzie's Mobs as well.\n\nBeyond the main rooms though, everything else on the side path is completely randomized by generating from a large selection of chambers connected by hallways. A Trials Chamber could have anywhere from 6 additional Chambers to 20+ base on generation, and these Trials Chambers spawn anywhere undergroud in the Overworld starting at Deepslate level.\n\nTrial Spawners & Trial Vaults work as intended, with the Spawners being randomly picked based on the room type from a selection of options, and can be optionally increased in difficulty by using the Bad Omen effect. Vaults will pick between 3 to 6 rewards from a loot table, with the key items being new cosmeitcs & the Heavy Core, which can be used to craft the Mace weapon, as expected.\n\nOn top of the new Trial related stuff, all new Tuff & Copper variations are actually craftable, with one new addition which is simply put a Polished Tuff variation of the Copper Bulb which is crafted first but can be turned into Copper Bulbs by adding copper ingots to them afterwards. Also, additional changes has been made, such as Raid Captains dropping Ominous Bottles, and no longer granting Bad Omen directly, brand new potion effects, and more.\n\nNote: Any versions of this mod below v2.0.0 is from the old concept of \"Trials Towers\", which is a similar backport mod but made little battle towers instead of massive Trials Chambers, and also very outdated selection of blocks, and code, in comparison to v2.0.0.",
+          "published": "2024-05-02T03:49:47.339368Z",
+          "updated": "2024-08-20T19:39:24.862767Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/s5Igmyc6/3ed50eb58eca43753cb5b7fb75076cb9fd7bcb74_96.webp",
+          "issues_url": "https://github.com/Jusey1/TrialsChambersBackport/issues",
+          "source_url": "https://github.com/Jusey1/TrialsChambersBackport",
+          "discord_url": "https://discord.gg/s7QaYGUzZU",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/093fcbc598812af2c2620b04dc86b38d315fec1f_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/093fcbc598812af2c2620b04dc86b38d315fec1f.png",
+              "featured": false,
+              "title": "Front Door",
+              "description": "3x3 Piston Door into a Trial Chamber",
+              "created": "2024-07-07T23:57:02.425052Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/465a3ee378055cbaf5f6b5f4d2685d6708feda71_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/465a3ee378055cbaf5f6b5f4d2685d6708feda71.png",
+              "featured": false,
+              "title": "Central Chamber",
+              "description": "Geode Variation of the Central Chamber",
+              "created": "2024-07-07T23:57:34.653037Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/b831695401b15c1db7261648302e4a243442af7e_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/b831695401b15c1db7261648302e4a243442af7e.png",
+              "featured": false,
+              "title": "Hallway Chamber",
+              "description": "The large Central Hallway of the Trials Chambers",
+              "created": "2024-07-07T23:58:12.729020Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/d782879f273a4d2064f9954b033b4410d67b8c33_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/d782879f273a4d2064f9954b033b4410d67b8c33.png",
+              "featured": false,
+              "title": "Snowy Chamber",
+              "description": "Chilly!",
+              "created": "2024-07-07T23:58:32.327015Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/d7c18c4c0707d198e46c719fbfa68762ec407640_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/d7c18c4c0707d198e46c719fbfa68762ec407640.png",
+              "featured": false,
+              "title": "Tower Chamber",
+              "description": "Don't Slip!",
+              "created": "2024-07-07T23:58:50.502373Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/dfc33e76bc2b022776997db2afa0266df9e4a5a3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/08885380dda686e43cba0c9ccf599d7804205262.png",
+              "featured": true,
+              "title": "Central Chamber",
+              "description": "Cherry Tree Variation!",
+              "created": "2024-07-07T23:59:14.405380Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/a5ed71e906f3edfe84d3b6530937aac8ad315f80_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/a5ed71e906f3edfe84d3b6530937aac8ad315f80.png",
+              "featured": false,
+              "title": "Creative Menu",
+              "description": "Main selection of blocks & items.",
+              "created": "2024-07-16T20:18:33.188581Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/52f20d5cba3508dcda64c8186aa449bfc6dafb63_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/52f20d5cba3508dcda64c8186aa449bfc6dafb63.png",
+              "featured": false,
+              "title": "Bogged",
+              "description": "Boggo Boi!~",
+              "created": "2024-07-08T00:00:04.795034Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/images/f958f870e0a82152794ef512365a7cdb296096f2_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/s5Igmyc6/images/f958f870e0a82152794ef512365a7cdb296096f2.png",
+              "featured": false,
+              "title": "Copper Blocks Creative Tab",
+              "description": "Creative Tab of all Copper Blocks in vanilla & this backport in one spot.",
+              "created": "2024-07-08T00:00:29.473931Z",
+              "ordering": 8.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "HY38dRp3",
+          "project_id": "s5Igmyc6",
+          "author_id": "1EVQAWmC",
+          "name": "Trials Chambers [Backport] V2.2.1",
+          "version_number": "2.2.1",
+          "changelog": "* Trials Spawners & Vaults can now have custom loot tables.\n* Updated Wind Burst mechanics.",
+          "date_published": "2024-08-20T19:39:26.299387Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "110ee02adcf4237a7f24f60c43fa3f0aace2b186",
+                "sha512": "16ccd7238cfe691250aae76daeb22ed3206f33dd7a4199b2224139d512c37a4e41b51335d5f9a19d2b68af5106b854755e0c5349557c513c14131c12dc9ef4a5"
+              },
+              "url": "https://cdn.modrinth.com/data/s5Igmyc6/versions/HY38dRp3/Trials-2.2.1.jar",
+              "filename": "Trials-2.2.1.jar",
+              "primary": true,
+              "size": 8344933
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "BOCJKD49",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "nOUYhAZV",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "EarlyUpdate: Pale Garden",
+        "version": "EarlyUpdate Two: Pale Garden Final",
+        "optional": true,
+        "file": "earlyupdate_pale_garden_final.jar",
+        "type": "mods",
+        "description": "Adding Things from the Next Updates,Blocks,Items and Mobs.Updating Each Minecraft Live!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 924442,
+        "curseForgeFileId": 5779642,
+        "curseForgeProject": {
+          "id": 924442,
+          "name": "EarlyUpdate: Pale Garden",
+          "authors": [
+            {
+              "id": 101552181,
+              "name": "LinFoxGamer",
+              "url": "https://www.curseforge.com/members/linfoxgamer"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adding Things from the Next Updates,Blocks,Items and Mobs.Updating Each Minecraft Live!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 411,
+          "classId": 6,
+          "slug": "earlyupdate",
+          "isFeatured": false,
+          "dateModified": "2024-10-03T13:59:01.513Z",
+          "dateCreated": "2023-10-18T02:25:06.207Z",
+          "dateReleased": "2024-10-03T13:46:19.043Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/earlyupdate",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 1088803,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1088/803/256/256/638631697566184369.png",
+            "title": "638631697566184369.png",
+            "url": "https://media.forgecdn.net/avatars/1088/803/638631697566184369.png",
+            "modId": 924442
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 747264,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/747/264/310/172/2023-10-23_11.png",
+              "title": "Another Trial Chamber",
+              "url": "https://media.forgecdn.net/attachments/747/264/2023-10-23_11.png",
+              "modId": 924442
+            },
+            {
+              "id": 744732,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/732/310/172/2023-10-18_10.png",
+              "title": "Trial Spawner",
+              "url": "https://media.forgecdn.net/attachments/744/732/2023-10-18_10.png",
+              "modId": 924442
+            },
+            {
+              "id": 744730,
+              "description": "and \"her\"",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/730/310/172/2023-10-18_10.png",
+              "title": "The Breeze",
+              "url": "https://media.forgecdn.net/attachments/744/730/2023-10-18_10.png",
+              "modId": 924442
+            },
+            {
+              "id": 744723,
+              "description": "new building blocks",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/723/310/172/2023-10-17_23.png",
+              "title": "Trial Chamber Blocks",
+              "url": "https://media.forgecdn.net/attachments/744/723/2023-10-17_23.png",
+              "modId": 924442
+            },
+            {
+              "id": 744729,
+              "description": "lava is real",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/729/310/172/2023-10-18_10.png",
+              "title": "Another Builded Trial Chambers",
+              "url": "https://media.forgecdn.net/attachments/744/729/2023-10-18_10.png",
+              "modId": 924442
+            },
+            {
+              "id": 747263,
+              "description": "its the wind blaze!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/747/263/310/172/2023-10-23_11.png",
+              "title": "The Breeze on a Trial Chamber",
+              "url": "https://media.forgecdn.net/attachments/747/263/2023-10-23_11.png",
+              "modId": 924442
+            },
+            {
+              "id": 744721,
+              "description": "the corridor",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/721/310/172/2023-10-17_22.png",
+              "title": "Trial Chamber Blocks",
+              "url": "https://media.forgecdn.net/attachments/744/721/2023-10-17_22.png",
+              "modId": 924442
+            },
+            {
+              "id": 747262,
+              "description": "i love pomni",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/747/262/310/172/2023-10-23_11.png",
+              "title": "her",
+              "url": "https://media.forgecdn.net/attachments/747/262/2023-10-23_11.png",
+              "modId": 924442
+            },
+            {
+              "id": 744722,
+              "description": "small",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/722/310/172/2023-10-17_23.png",
+              "title": "Armadillo (and baby armadillo)",
+              "url": "https://media.forgecdn.net/attachments/744/722/2023-10-17_23.png",
+              "modId": 924442
+            },
+            {
+              "id": 744731,
+              "description": "cool mob :D",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/744/731/310/172/2023-10-18_10.png",
+              "title": "The Breeze",
+              "url": "https://media.forgecdn.net/attachments/744/731/2023-10-18_10.png",
+              "modId": 924442
+            },
+            {
+              "id": 747276,
+              "description": "its HIM",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/747/276/310/172/2023-10-23_11.png",
+              "title": "Armadillos on Savanna Biome",
+              "url": "https://media.forgecdn.net/attachments/747/276/2023-10-23_11.png",
+              "modId": 924442
+            },
+            {
+              "id": 981322,
+              "description": "the vanilla textures huh",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/981/322/310/172/2024-10-03_10.png",
+              "title": "Pale Oak WoodSet",
+              "url": "https://media.forgecdn.net/attachments/981/322/2024-10-03_10.png",
+              "modId": 924442
+            },
+            {
+              "id": 978030,
+              "description": "yeaj",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/978/30/310/172/2024-09-28_22.png",
+              "title": "The Pale Garden Up View",
+              "url": "https://media.forgecdn.net/attachments/978/30/2024-09-28_22.png",
+              "modId": 924442
+            },
+            {
+              "id": 981325,
+              "description": "scaryyyyyyyy",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/981/325/310/172/2024-10-03_10.png",
+              "title": "glowing eyes",
+              "url": "https://media.forgecdn.net/attachments/981/325/2024-10-03_10.png",
+              "modId": 924442
+            },
+            {
+              "id": 978029,
+              "description": "the creaking ooooOOOoOoOoOoOoOoOoOO",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/978/29/310/172/2024-09-28_22.png",
+              "title": "the new mob yeah",
+              "url": "https://media.forgecdn.net/attachments/978/29/2024-09-28_22.png",
+              "modId": 924442
+            },
+            {
+              "id": 978031,
+              "description": "creaking heart blocks",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/978/31/310/172/2024-09-28_22.png",
+              "title": "the light",
+              "url": "https://media.forgecdn.net/attachments/978/31/2024-09-28_22.png",
+              "modId": 924442
+            },
+            {
+              "id": 978033,
+              "description": "Pale Moss Carpet Growing on Walls",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/978/33/310/172/2024-09-28_22.png",
+              "title": "Pale Moss Carpet Growing on Walls",
+              "url": "https://media.forgecdn.net/attachments/978/33/2024-09-28_22.png",
+              "modId": 924442
+            },
+            {
+              "id": 978032,
+              "description": "yeah",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/978/32/310/172/2024-09-28_22.png",
+              "title": "The Pale Garden",
+              "url": "https://media.forgecdn.net/attachments/978/32/2024-09-28_22.png",
+              "modId": 924442
+            },
+            {
+              "id": 981323,
+              "description": "its like the vanilla one (without the hanging moss)",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/981/323/310/172/2024-10-03_10.png",
+              "title": "Pale garden on the newer version",
+              "url": "https://media.forgecdn.net/attachments/981/323/2024-10-03_10.png",
+              "modId": 924442
+            }
+          ],
+          "mainFileId": 5779642
+        },
+        "curseForgeFile": {
+          "id": 5779642,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "EarlyUpdate Two: Pale Garden Final",
+          "fileName": "earlyupdate_pale_garden_final.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-10-03T13:46:19.043Z",
+          "fileLength": 402910,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3723282757,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3644854018,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1988873585,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1806160383,
+              "name": "linfox"
+            },
+            {
+              "fingerprint": 461329946,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 984971123,
+              "name": "mixins.earlyupdate_two.json"
+            },
+            {
+              "fingerprint": 2711666867,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e0b1bd421f460e44a6007f91a1ce138a4a42727e",
+              "algo": 1
+            },
+            {
+              "value": "12239179c67b2bba31353bc078d3057c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "Server"
+          ],
+          "fileFingerprint": 1763378358,
+          "modId": 924442
+        },
+        "modrinthProject": {
+          "id": "QlOwIMC6",
+          "slug": "earlyupdate",
+          "project_type": "mod",
+          "team": "QRmFeg1U",
+          "title": "EarlyUpdate: Pale Garden",
+          "description": "Adding Things from the Next Updates,Blocks,Items and Mobs.Updating Each Minecraft Live!",
+          "body": "<p><img src=\"https://i.postimg.cc/jjBKCFM8/egg-plus-separation.png\" width=\"1280\" height=\"45\" />&nbsp;<img src=\"https://media.forgecdn.net/attachments/978/29/2024-09-28_22.png\" width=\"1366\" height=\"669\" /></p>\n<p>&nbsp;</p>\n<p><img src=\"https://i.postimg.cc/jjBKCFM8/egg-plus-separation.png\" width=\"1025\" height=\"36\" /><span style=\"font-size: 24px;\">a mod that adds things from the next update showcased in minecraft live!<br /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px;\"><strong>THIS IS NOT A BACKPORT MOD!!!</strong></span></p>\n<p><span style=\"font-size: 24px;\">for the trial chambers, use this mod <a href=\"https://www.curseforge.com/minecraft/mc-mods/trials-chambers-backport\" rel=\"nofollow\">{trial chambers 1.20.1 backport}</a></span></p>\n<p><span style=\"font-size: 24px;\"><img src=\"https://i.postimg.cc/jjBKCFM8/egg-plus-separation.png\" width=\"1025\" height=\"36\" /><strong>This Mod Currently Adds </strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px;\"><strong>Pale Garden Version:</strong></span></p>\n<p><span style=\"font-size: 18px;\">- Pale Garden</span><br /><span style=\"font-size: 18px;\">A Desaturated forest with a grayscaled oak wood and pale moss, that nearly spawns hostile mobs and no peaceful mob, creakings spawn here at night next to creaking hearts<br /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- Pale Oak Wood</span><br /><span style=\"font-size: 18px;\">A Grayscaled wood with all things you can make with wood (except signs and boats) also includes the creaking heart</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- Creaking Heart</span></p>\n<p><span style=\"font-size: 18px;\">a block that generates in small blobs in trees of the pale garden, spawns creakings only when its night time and a pale oak log is below and above, breaking it kills all creakings in a 15 blocks area (controlled by config). only drops itself with a silk touch axe, else it will drop a normal pale oak log.<br /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- Creaking</span><br /><span style=\"font-size: 18px;\">A New ScArYyYyYyYyYy mob that spawns in the pale garden at night, moves fast when you dont look at it, and can be killed by breaking the creaking heart or using potions, drowning, explosion, and fire.<br /></span></p>\n<p><span style=\"font-size: 18px;\">Deals 6 damage, haves 35 health, xp and drops can be enabled by config.<br /></span></p>\n<p><span style=\"font-size: 18px;\">It also kill villagers and illagers.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- Pale Moss and Pale Moss Block</span><br /><span style=\"font-size: 18px;\">two grayscaled moss blocks that spawns in the pale garden, the pale moss grows itself to the nearest block when placed<br /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px;\"><strong>Trial Version:</strong></span></p>\n<p><span style=\"font-size: 18px;\">- Copper and Tuff Blocks!<br /></span></p>\n<p><span style=\"font-size: 18px;\">Tuff Bricks,Copper Bulbs,Trial Spawners, Copper Trapdoors,Copper Grids,Polished Tuff, and all variants like waxed and oxidized for example.<br /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- Armadillo</span></p>\n<p><span style=\"font-size: 18px;\">the winner mob vote mob,Found in Savanna Biome. it haves a scute item, the scute drops when you hit it with hand or when the armadillo is killed<br /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- The Breeze</span></p>\n<p><span style=\"font-size: 18px;\">a new mob from the minecraft live,that shoots wind into the player,found in trial chambers into trial spawners.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\">- Trial Chambers</span></p>\n<p><span style=\"font-size: 18px;\">Dungeons made of copper and tuff, with loot,spawners and the breeze, you can find trial chambers into the caves of forests,birch forests,dark forests,sunflower plains,flower forests,and plains.<br /></span></p>\n<p><span style=\"font-size: 24px;\"><img src=\"https://i.postimg.cc/jjBKCFM8/egg-plus-separation.png\" width=\"1025\" height=\"36\" /></span></p>\n<p><span style=\"font-size: 24px;\">Videos Section</span></p>\n<p><span style=\"font-size: 24px;\"><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/-JP9gngeNUM\" height=\"375\" width=\"638\"></iframe></span></p>\n<p><span style=\"font-size: 24px;\"><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/KYuxVk3QWO8\" height=\"376\" width=\"638\"></iframe></span></p>\n<p><span style=\"font-size: 24px;\"><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/hRcBsHf6SEY?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span></p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/35569j5pGAI?wmode=transparent\" height=\"358\" width=\"638\"></iframe>&nbsp;</p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/4PkMBQqu8TM?wmode=transparent\" height=\"358\" width=\"638\"></iframe></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px;\"><img src=\"https://i.postimg.cc/jjBKCFM8/egg-plus-separation.png\" width=\"1025\" height=\"36\" /></span></p>",
+          "published": "2024-10-01T13:52:43.709356Z",
+          "updated": "2024-10-03T13:56:46.895385Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "mobs",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/QlOwIMC6/0ddecbc48849f47206850b1b91368e82237b8119_96.webp",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/cgi-bin/webscr?return=https://legacy.curseforge.com/projects/924442&cn=Add+special+instructions+to+the+addon+author()&business=linfoxmods%40gmail.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://legacy.curseforge.com/projects/924442&lc=US&item_name=EarlyUpdate%3a+Pale+Garden+(from+curseforge.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/ca4bcc02c40b53c4b385e72569ccd9eaca34f930_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/ca4bcc02c40b53c4b385e72569ccd9eaca34f930.png",
+              "featured": true,
+              "title": "Creaking",
+              "description": "The Mob from the Pale Garden",
+              "created": "2024-10-01T13:58:37.281611Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/ac975c973def0550dd0411d41be2b1956b9bc94d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/ac975c973def0550dd0411d41be2b1956b9bc94d.png",
+              "featured": false,
+              "title": "Pale Garden",
+              "description": "The New Biome",
+              "created": "2024-10-01T13:59:00.850255Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/68504d701f9cb968f84916aae4ddf066991267ca_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/68504d701f9cb968f84916aae4ddf066991267ca.png",
+              "featured": false,
+              "title": "Pale Garden 2",
+              "description": "Another Biome Image",
+              "created": "2024-10-01T13:59:28.123252Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/d15adb155b3d919ae46b4458f6cb03356f5307ca_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/d15adb155b3d919ae46b4458f6cb03356f5307ca.png",
+              "featured": false,
+              "title": "Newer Version Pale Woodset",
+              "description": "with vanilla textures",
+              "created": "2024-10-03T13:54:44.479445Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/1dffbd3095d92ffd25a704ee0d4e6ca3ed803c0b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/1dffbd3095d92ffd25a704ee0d4e6ca3ed803c0b.png",
+              "featured": false,
+              "title": "Armadillos",
+              "description": "On Trial Chambers Version",
+              "created": "2024-10-01T14:00:42.594280Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/734cc09c18aae987ee9c02909937125cd0d07e06_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/734cc09c18aae987ee9c02909937125cd0d07e06.png",
+              "featured": false,
+              "title": "Breeze",
+              "description": "On Trial Chambers Version",
+              "created": "2024-10-01T14:01:03.001008Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/f059ff7e0c99ed5ac476123f66a41c548f80c546_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/f059ff7e0c99ed5ac476123f66a41c548f80c546.png",
+              "featured": false,
+              "title": "Trial Chambers",
+              "description": "On Trial Chambers Version",
+              "created": "2024-10-01T14:01:22.174030Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/images/e07dfcf4b23b65ae89ff7d6ee8421ce83ee20c3e_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QlOwIMC6/images/e07dfcf4b23b65ae89ff7d6ee8421ce83ee20c3e.png",
+              "featured": false,
+              "title": "uh",
+              "description": "On Trial Chambers Version",
+              "created": "2024-10-01T14:01:48.262802Z",
+              "ordering": 8.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "GZw0QkC5",
+          "project_id": "QlOwIMC6",
+          "author_id": "cbUjXddX",
+          "name": "EarlyUpdate: Pale Garden Final",
+          "version_number": "5.0",
+          "changelog": "THE FINAL UPDATE WOOOOOOOO (i think)\n\n- Added the \"Advanced AI\" option on the config, makes the creaking really only moves when you look at it, exactly like minecraft live, but may lag your game, so the default variable is false (putting the default variable as false might be a error)\n\n- Added the \"Creaking Generates only at night\" option at config, makes it only generates at night time, needs the normal mob spawn to be true\n\n- Replaced all recreated pale wood textures with vanilla textures from the new snapshot\n\n- Updated the description of the mod\n\nAnd if you asking, the hanging pale moss will NOT BE ADDED, i cannot figure out how i put this thing to generate in trees, so it will be not added, SORRYYYY.\n",
+          "date_published": "2024-10-03T13:56:47.540716Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "e0b1bd421f460e44a6007f91a1ce138a4a42727e",
+                "sha512": "cfc45f89d508785149df91d2750cb03962138583027b1fb549f22a80e59d5553f2a26d5947bd8c57297f1b68cef0b10c56e0e0ec2e7c750b7a344deffc161632"
+              },
+              "url": "https://cdn.modrinth.com/data/QlOwIMC6/versions/GZw0QkC5/earlyupdate_pale_garden_final.jar",
+              "filename": "earlyupdate_pale_garden_final.jar",
+              "primary": true,
+              "size": 402910
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "8BmcQJ2H",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Friends & Foes (Forge/NeoForge) (Copper Golem,Crab,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner)",
+        "version": "Friends & Foes 3.0.5",
+        "optional": true,
+        "file": "friendsandfoes-forge-mc1.20.1-3.0.5.jar",
+        "type": "mods",
+        "description": "Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. (Copper Golem,Crab,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 602059,
+        "curseForgeFileId": 5808997,
+        "curseForgeProject": {
+          "id": 602059,
+          "name": "Friends & Foes (Forge/NeoForge) (Copper Golem,Crab,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner)",
+          "authors": [
+            {
+              "id": 102166932,
+              "name": "Faboslav",
+              "url": "https://www.curseforge.com/members/faboslav"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds outvoted and forgotten mobs from the mob vote, expanding on their original concepts and adding new vanilla-like features. (Copper Golem,Crab,Glare,Moobloom,Iceologer,Rascal,Tuff Golem,Wildfire,Illusioner)",
+          "categories": [
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 411,
+          "classId": 6,
+          "slug": "friends-and-foes-forge",
+          "isFeatured": false,
+          "dateModified": "2024-10-13T15:23:58.363Z",
+          "dateCreated": "2022-03-29T13:57:26.1Z",
+          "dateReleased": "2024-10-13T15:20:28.437Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge",
+            "wikiUrl": "https://github.com/Faboslav/friends-and-foes/wiki",
+            "issuesUrl": "https://github.com/Faboslav/friends-and-foes/issues",
+            "sourceUrl": "https://github.com/Faboslav/friends-and-foes"
+          },
+          "logo": {
+            "id": 1086543,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1086/543/256/256/638628774374246751.png",
+            "title": "638628774374246751.png",
+            "url": "https://media.forgecdn.net/avatars/1086/543/638628774374246751.png",
+            "modId": 602059
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 975872,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/872/310/172/crab_1.webp",
+              "title": "Waving Crab",
+              "url": "https://media.forgecdn.net/attachments/975/872/crab_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975873,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/873/310/172/crab_2.webp",
+              "title": "Climbing Crab",
+              "url": "https://media.forgecdn.net/attachments/975/873/crab_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975886,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/886/310/172/tuff_golem_1.webp",
+              "title": "Tuff Golem",
+              "url": "https://media.forgecdn.net/attachments/975/886/tuff_golem_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975887,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/887/310/172/tuff_golem_2.webp",
+              "title": "Sleeping Tuff Golems",
+              "url": "https://media.forgecdn.net/attachments/975/887/tuff_golem_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975884,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/884/310/172/rascal_1.webp",
+              "title": "Rascal",
+              "url": "https://media.forgecdn.net/attachments/975/884/rascal_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975885,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/885/310/172/rascal_2.webp",
+              "title": "Rascal rewarding the bundle",
+              "url": "https://media.forgecdn.net/attachments/975/885/rascal_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975870,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/870/310/172/copper_golem_2.webp",
+              "title": "Copper Golems",
+              "url": "https://media.forgecdn.net/attachments/975/870/copper_golem_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975869,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/869/310/172/copper_golem_1.webp",
+              "title": "Copper Golem Workstation",
+              "url": "https://media.forgecdn.net/attachments/975/869/copper_golem_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975874,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/874/310/172/glare_1.webp",
+              "title": "Glare with a baby Glare",
+              "url": "https://media.forgecdn.net/attachments/975/874/glare_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975875,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/875/310/172/glare_2.webp",
+              "title": "Glare",
+              "url": "https://media.forgecdn.net/attachments/975/875/glare_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975876,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/876/310/172/iceologer_1.webp",
+              "title": "Iceologer with his cabin",
+              "url": "https://media.forgecdn.net/attachments/975/876/iceologer_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975877,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/877/310/172/iceologer_2.webp",
+              "title": "Iceologer attacking villager",
+              "url": "https://media.forgecdn.net/attachments/975/877/iceologer_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975882,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/882/310/172/moobloom_1.webp",
+              "title": "Moobloom",
+              "url": "https://media.forgecdn.net/attachments/975/882/moobloom_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975883,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/883/310/172/moobloom_2.webp",
+              "title": "Moobloom variants",
+              "url": "https://media.forgecdn.net/attachments/975/883/moobloom_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975889,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/889/310/172/wildfire_2.webp",
+              "title": "Wildfire",
+              "url": "https://media.forgecdn.net/attachments/975/889/wildfire_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975888,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/888/310/172/wildfire_1.webp",
+              "title": "Citadel structure",
+              "url": "https://media.forgecdn.net/attachments/975/888/wildfire_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975880,
+              "description": "Multiple Maulers hunting down the chicken",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/880/310/172/mauler_1.webp",
+              "title": "Maulers",
+              "url": "https://media.forgecdn.net/attachments/975/880/mauler_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975881,
+              "description": "Desert variant of the Mauler",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/881/310/172/mauler_2.webp",
+              "title": "Mauler",
+              "url": "https://media.forgecdn.net/attachments/975/881/mauler_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975879,
+              "description": "Illusioner standing in the Illusioner training grounds structure",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/879/310/172/illusioner_2.webp",
+              "title": "Illusioner",
+              "url": "https://media.forgecdn.net/attachments/975/879/illusioner_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975878,
+              "description": "Illusioner Shack structure in the taiga biome",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/878/310/172/illusioner_1.webp",
+              "title": "Illusioner Shack",
+              "url": "https://media.forgecdn.net/attachments/975/878/illusioner_1.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975891,
+              "description": "Four Zombie Horsemans spawned from the zombie horse trap",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/891/310/172/zombie_horse_2.webp",
+              "title": "Four Zombie Horsemans",
+              "url": "https://media.forgecdn.net/attachments/975/891/zombie_horse_2.webp",
+              "modId": 602059
+            },
+            {
+              "id": 975890,
+              "description": "Zombie Horse trap",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/975/890/310/172/zombie_horse_1.webp",
+              "title": "Zombie Horse",
+              "url": "https://media.forgecdn.net/attachments/975/890/zombie_horse_1.webp",
+              "modId": 602059
+            }
+          ],
+          "mainFileId": 5809014
+        },
+        "curseForgeFile": {
+          "id": 5808997,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Friends & Foes 3.0.5",
+          "fileName": "friendsandfoes-forge-mc1.20.1-3.0.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-10-13T15:16:03.13Z",
+          "fileLength": 3619846,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2964985243,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1762916402,
+              "name": "architectury_inject_friendsandfoes_common_1ae842fbbf154c1a995dd0a4e03e4334_5d2916230fb1f2e165bbf9f00596b8b4ece0fcffc2aabc9004723ab2a63dca60friendsandfoesmc1201305devjar"
+            },
+            {
+              "fingerprint": 3067992005,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1718517295,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 1300520879,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 2790339116,
+              "name": "catalogue_logo.png"
+            },
+            {
+              "fingerprint": 875456977,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2945897130,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1455597449,
+              "name": "friendsandfoes-common.mixins.json"
+            },
+            {
+              "fingerprint": 212197542,
+              "name": "friendsandfoes-forge-mc1.20.1-forge-refmap.json"
+            },
+            {
+              "fingerprint": 546817726,
+              "name": "friendsandfoes-forge.mixins.json"
+            },
+            {
+              "fingerprint": 1613747554,
+              "name": "friendsandfoes-mc1.20.1-common-refmap.json"
+            },
+            {
+              "fingerprint": 1300520879,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3418270396,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d89a10017326feff47211d1c715a66605ab56417",
+              "algo": 1
+            },
+            {
+              "value": "7950f375cd9b8965982c404b18369489",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge",
+            "1.20"
+          ],
+          "fileFingerprint": 702002449,
+          "modId": 602059
+        },
+        "modrinthProject": {
+          "id": "BOCJKD49",
+          "slug": "friends-and-foes-forge",
+          "project_type": "mod",
+          "team": "MHW3Xqt5",
+          "title": "Friends & Foes (Forge/NeoForge)",
+          "description": "Adds outvoted and forgotten mobs from the mob votes in a believable vanilla plus style. (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Illusioner, Rascal, Tuff Golem)",
+          "body": "<br>\n\n<center>\n\t<img title=\"Friends&amp;Foes\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/page/logo.png\" alt=\"Friends&amp;Foes\" width=\"743\" height=\"110\">\n</center>\n\n<br>\n\n<center>\n\t<a style=\"text-decoration: none;\" href=\"https://ko-fi.com/faboslav\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=Support me on&message=Ko-fi&color=5b9c51&labelColor=5b9c51&logoColor=ffffff&style=for-the-badge&logo=ko-fi\" alt=\"Support me on Ko-fi\" title=\"Support me on Ko-fi\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://www.patreon.com/Faboslav\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=Support me on&message=Patreon&color=5b9c51&labelColor=5b9c51&logoColor=ffffff&style=for-the-badge&logo=patreon\" alt=\"Support me on Patreon\" title=\"Support me on Patreon\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://discord.gg/QGwFvvMQCn\">\n\t\t<img src=\"https://img.shields.io/discord/924964658169913404?style=for-the-badge&logo=discord&logoColor=ffffff&label=Join discord&labelColor=5b9c51&color=5b9c51\" alt=\"Discord\">\n\t</a>\n\t<a style=\"text-decoration: none;\" href=\"https://github.com/Faboslav/friends-and-foes/wiki\">\n\t\t<img src=\"https://img.shields.io/static/v1?label=&message=Wiki&logoColor=ffffff&style=for-the-badge&logo=github&labelColor=5b9c51&color=5b9c51\" alt=\"Wiki\">\n\t</a>\n</center>\n\n<br>\n\n<p style=\"font-size: 18px;\">\n\tFriends&amp;Foes adds outvoted and forgotten mobs from the mob vote. One of the main goals is to further expand upon original concepts and add new vanilla-like features related to all the mobs.\n</p>\n\n<p style=\"font-size: 18px;\">\n\tYou can check <a title=\"wiki\" href=\"https://github.com/Faboslav/friends-and-foes/wiki\">wiki</a> for a detailed overview of implemented mobs and features.\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Crab\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab.gif\" alt=\"Crab\" width=\"60\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Crab</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Crab\">Crab</a>, a friendly creature wandering the mangrove swamps and beaches.\n\tLooking to extend your reach? The crab claw can be used to craft a potion that increases your reach, giving you a valuable advantage in your adventures.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Crab#breeding\">breed</a> this little fella, you’ll need kelp and patience, as crabs need to \"bury\" their eggs in a safe place.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_1.webp\" width=\"49.4%\" alt=\"Waving Crab\" title=\"Waving Crab\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/crab_2.webp\" width=\"49.4%\" alt=\"Crab climbing a mangrove tree\" title=\"Crab climbing a mangrove tree\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the crab:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Craw-Claw\">Crab Claw</a> item</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Reaching\">Reaching</a> status effect</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Tuff Golem\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem.gif\" alt=\"Tuff Golem\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Tuff Golem</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t<a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem\">Tuff Golem</a>, a statuesque mob, which can hold and display any item you give it, but be careful when it is not sleeping it loves to take spontaneous strolls.\n\tWant your tuff golem to stay put? Stick it in place with a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#glueing\">honeycomb</a>. If you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#creation\">build</a> this sleeping beauty, gather a tuff block, a wool block of any <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Tuff-Golem#dyeing\">color</a>, and a pumpkin.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_1.webp\" width=\"49.4%\" alt=\"Tuff Golem holding enchanted book\" title=\"Tuff Golem holding enchanted book\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/tuff_golem_2.webp\" width=\"49.4%\" alt=\"Sleeping Tuff Golems\" title=\"Sleeping Tuff Golems\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Rascal\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal.gif\" alt=\"Rascal\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Rascal</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tDiscover <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Rascal\">Rascal</a>, a mischievous little creature located in the mines, that finds joy in the game of hide-and-seek.\n\tIt’s both playful and helpful, giving you hints as you search for it.\n\tFind it three times and it will reward you with the bundle of your dreams!\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_1.webp\" width=\"49.4%\" alt=\"Rascal in the mines\" title=\"Rascal in the mines\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/rascal_2.webp\" width=\"49.4%\" alt=\"Rascal throwing out the bundle\" title=\"Rascal throwing out the bundle\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Copper Golem\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem.gif\" alt=\"Copper Golem\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Copper Golem</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tMeet the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem\">Copper Golem</a>, a pocket-sized, comedic marvel that finds joy in randomly pressing copper buttons.\n\tLike any other copper creations it will <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#oxidation\">oxidize</a> over time, but do not worry, maintenance is a breeze! For a quick makeover, grab an <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#scraping\">axe</a> or a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#waxing\">honeycomb</a>.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem#creation\">build</a> this little creature, gather a copper block, a pumpkin, and a lightning rod.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_1.webp\" width=\"49.4%\" alt=\"Copper Golem Workstation structure in the village\" title=\"Copper Golem Workstation structure in the village\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/copper_golem_2.webp\" width=\"49.4%\" alt=\"Copper Golems\" title=\"Copper Golems\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the copper golem:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Golem-Workstation\">Copper Golem Workstation</a> village structure</li>\n\t<li>All copper variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Copper-Button\">Copper Buttons</a></li>\n\t<li>All copper variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Lightning-Rod\">Lightning Rods</a></li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img style=\"height: 40px; margin-bottom: 0px;\" title=\"Glare\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare.webp\" alt=\"Glare\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Glare</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare\">Glare</a>, grumpy and cute mossy companion living in the lush caves that hates the darkness.\n\tDo you share a disdain for the dark? In that case glare can show you areas that are dark enough for monsters to spawn.\n\tIf you want to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare#taming\">tame</a> or <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Glare#breeding\">breed</a> this little cutie, you will need the glow berries, but be careful, glares tends to snack on them regularly, leaving no leftovers.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_1.webp\" width=\"49.4%\" alt=\"Baby and adult Glare\" title=\"Baby and adult Glare\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/glare_2.webp\" width=\"49.4%\" alt=\"Flying Glare in the lush caves\" title=\"Flying Glare in the lush caves\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Iceologer\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer.webp\" alt=\"Iceologer\" width=\"25\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Iceologer</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEncounter the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer\">Iceologer</a>, a lonely illager who lives deep in the snows.\n\tYou can find him by searching for a small spruce <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">cabin</a> among the trees.\n\tBut be careful on your adventure though, as years of living in the wild has made his heart colder than the ice around him. If he spots you, brace for <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">icy attacks</a>, turning your adventure into a frosty challenge.\n</p>\t\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_1.webp\" width=\"49.4%\" alt=\"Iceologer Cabin in the snows\" title=\"Iceologer Cabin in the snows\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/iceologer_2.webp\" width=\"49.4%\" alt=\"Iceologer attacking the villager\" title=\"Iceologer attacking the villager\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the iceologer:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Iceologer-Cabin\">Iceologer Cabin</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Totem-of-Freezing\">Totem of Freezing</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Moobloom\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom.webp\" alt=\"Moobloom\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Moobloom</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t\tPresenting the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Moobloom\">Moobloom</a>, sun-kissed cow, covered with a beautiful flowers, living mostly in the flower forests.\n\t\tThese flower-covered companions are not only a sight to behold, but also engage in a harmonious synergy with bees.\n\t\tAs they traverse, the mooblooms leave a trail of blooming flora, turning each step into a mesmerizing journey through nature's wonders.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_1.webp\" width=\"49.4%\" alt=\"Buttercup Mooblooms\" title=\"Buttercup Mooblooms\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/moobloom_2.webp\" width=\"49.4%\" alt=\"Flowery Mooblooms\" title=\"Flowery Mooblooms\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the moobloom:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Buttercup\">Buttercup</a> flower</li>\n\t<li>All wood variants of <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beehives\">Beehives</a></li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beekeeper-Area\">Beekeeper Area</a> village structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Beekeeper\">Beekeeper</a> villager profession</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Wildfire\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire.webp\" alt=\"Wildfire\" width=\"50\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Wildfire</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\t<a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire\">Wildfire</a>, the master of blazes, which is protected by four shields.\n\tThis encounter is not a friendly one, watch out for its shield debris barrage and ground-shaking shockwave attack.\n\tWhen cornered, it summons blazes for reinforcement. Conquer the challenge, wield strategy against this fiery sentinel in it's <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Citadel\">citadel</a> domain.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_1.webp\" width=\"49.4%\" alt=\"Citadel structure in the nether\" title=\"Citadel structure in the nether\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/wildfire_2.webp\" width=\"49.4%\" alt=\"Wildfire in the citadel\" title=\"Wildfire in the citadel\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the wildfire:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Citadel\">Citadel</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire-Crown\">Wildfire Crown</a> item</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Wildfire-Crown-Fragment\">Wildfire Crown Fragment</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Mauler (The Great Hunger)\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler.webp\" alt=\"Mauler\" width=\"40\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Mauler (The Great Hunger)</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tIntroducing the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Mauler-(The-Great-Hunger)\">Mauler</a>, pint-sized predator roaming savannas, badlands, and deserts. They are on a quest for chickens, rabbits, and more.\n\tYou can feed them enchanted goodies to <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Mauler-(The-Great-Hunger)#storing-and-extracting-experience-points\">store experience points</a> and later extract them using bottles. But beware the more experience points, the bigger and hungrier the Mauler!\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_1.webp\" width=\"49.4%\" alt=\"Maulers hunting the chicken\" title=\"Maulers hunting the chicken\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/mauler_2.webp\" width=\"49.4%\"  alt=\"Fed Mauler\" title=\"Fed Mauler\" title=\"Fed Mauler\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Illusioner\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner.webp\" alt=\"Illusioner\" width=\"25\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Illusioner</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEncounter the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner\">Illusioner</a>, a cunning trickster armed with a bow who lives in the taiga. You can find him by searching for a small shack or his training grounds.\n\tApproach with caution, for the <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner#casting-blindness\">blinding spell</a> may leave you in the dark, making it challenging to distinguish between <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner#summoning-illusions\">illusion</a> and reality.\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_1.webp\" width=\"49.4%\" alt=\"Illusioner Shack in the taiga\" title=\"Illusioner Shack in the taiga\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/illusioner_2.webp\" width=\"49.4%\" alt=\"Illusioner in the training grounds\" title=\"Illusioner in the training grounds\">\n\t</a>\n</p>\n\n<p style=\"font-size: 18px;\">\n\tOther features related to the illusioner:\n</p>\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Illusioner-Shack\">Illusioner Shack</a> structure</li>\n\t<li><a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Totem-of-Illusion\">Totem of Illusion</a> item</li>\n</ul>\n\n<br>\n<br>\n\n<h1>\n\t<img title=\"Zombie Horse (Trap)\" src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse.webp\" alt=\"Zombie Horse (Trap)\" width=\"50\">\n\t<span>&nbsp;&nbsp;</span>\n\t<span>Zombie Horse (Trap)</span>\n</h1>\n\n<p style=\"font-size: 18px;\">\n\tEver wanted to ride a <a href=\"https://github.com/Faboslav/friends-and-foes/wiki/Zombie-Horse-(Trap)\">Zombie Horse</a>? If so, approach one during a thunderstorm, and magic may happen – you might even catch a glimpse of the four horsemen.\"\n</p>\n\n<p align=\"center\" style=\"text-align: center;\">\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_1.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_1.webp\" width=\"49.4%\" alt=\"Zombie Horse during thunderstorm\" title=\"Zombie Horse during thunderstorm\">\n\t</a>\n\t<a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_2.webp\" style=\"text-decoration: none;\">\n\t\t<img src=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/.github/assets/media/images/zombie_horse_2.webp\" width=\"49.4%\" alt=\"Four Horsemen during thunderstorm\" title=\"Four Horsemen during thunderstorm\">\n\t</a>\n</p>\n\n<br>\n<br>\n\n<h1>⚙️ Compatibility / addons</h1>\n\n<p style=\"font-size: 18px;\">\n\tFriends&Foes is designed to be fully compatible with all other mods, and it currently offers few addons and datapacks:\n</p>\n\n<ul style=\"font-size: 18px;\">\n\t<li><a href=\"https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-forge\">Friends&Foes - Flowery Mooblooms</a></li>\n\t<li><a href=\"https://modrinth.com/mod/friends-and-foes-beekeeper-hut-forge\">Friends&Foes - Beekeeper Hut</a></li>\n\t<li><a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-friends-and-foes-datapack\">Repurposed Structures - Friends and Foes Compat Datapack</a></li>\n\t<li><a href=\"https://modrinth.com/datapack/ctov-friends-and-foes-compat\">CTOV - Friends and Foes Compat Datapack</a></li>\n</ul>\n\n<br>\n<br>\n\n<h1>💬 Community</h1>\n\n<p style=\"font-size: 18px;\">\n\tFeel free to <a href=\"https://discord.gg/QGwFvvMQCn\">join our community at the discord server</a> to chat, share your creations, ask any question or to simply be updated about the latest development of the mod and notified when the new release is out.\n\tAlso don't hesitate to <a href=\"https://github.com/Faboslav/friends-and-foes/issues\">report any crash or bug via GitHub issues</a>.\n</p>\n\n<br>\n<br>\n\n<h1>👋 Support</h1>\n\n<p style=\"font-size: 18px;\">\n\tI will continue developing my mods as a hobby because I truly enjoy it. If you'd like to support me, you can do so on <a href=\"https://www.patreon.com/Faboslav\">Patreon</a> or <a href=\"https://ko-fi.com/faboslav\">Ko-fi</a>. Your support is greatly appreciated.\n</p>\n\n<br>\n<br>\n\n<h1>📜 License</h1>\n\n<p style=\"font-size: 18px;\">\n\tThe mod is licensed with <a href=\"https://raw.githubusercontent.com/Faboslav/friends-and-foes/master/LICENSE.txt\">CC BY-NC-ND 4.0</a> license.\n</p>\n\n<p style=\"font-size: 18px;\">\n\tPlease feel free to explore my code for examples of how I've tackled and solved various challenges while developing this mod. You're welcome to incorporate code snippets into your own projects. Also feel free to use this mod in any modpack (although credit/link back to this page will be greatly appreciated).\n</p>\n\n<p style=\"font-size: 18px;\">\n\tYou can also look into the <a href=\"https://github.com/Faboslav/friends-and-foes/tree/master/blockbench\">blockbench directory</a> which contains all the models &amp; palettes and into the <a href=\"https://github.com/Faboslav/friends-and-foes/tree/master/common/src/main/resources/assets/friendsandfoes/textures\">textures directory</a> for textures. Get inspired, but please don't just copy &amp; paste any of it as your own.\n</p>",
+          "published": "2022-03-29T18:23:52.828133Z",
+          "updated": "2024-10-13T15:20:30.716987Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-ND-4.0",
+            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "mobs",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/BOCJKD49/21fc204176fc381b20482365c3a36574e706b4d0_96.webp",
+          "issues_url": "https://github.com/Faboslav/friends-and-foes/issues",
+          "source_url": "https://github.com/Faboslav/friends-and-foes",
+          "wiki_url": "https://github.com/Faboslav/friends-and-foes/wiki",
+          "discord_url": "https://discord.com/invite/QGwFvvMQCn",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/faboslav"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Faboslav"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/e82a9ac0080130093b637ebcf6d754c684103eb0_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/e82a9ac0080130093b637ebcf6d754c684103eb0.webp",
+              "featured": true,
+              "title": "Waving Crab",
+              "description": "Waving Crab in the magrove swamp biome",
+              "created": "2024-09-29T12:35:27.577020Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/ac3ed2d429a4b300c0f7892f88ce7e5b141e95f3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/ac3ed2d429a4b300c0f7892f88ce7e5b141e95f3.webp",
+              "featured": false,
+              "title": "Climbing Crab",
+              "description": "Crab climbing the mangrove roots in the mangrove swamp biome",
+              "created": "2024-09-29T12:35:42.798857Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/abe4e1b7e600dd637e1155c8e0c97b64ff18ffe1_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/abe4e1b7e600dd637e1155c8e0c97b64ff18ffe1.webp",
+              "featured": false,
+              "title": "Tuff Golem",
+              "description": "Tuff Golem standing with the enchanted book in the stronghold",
+              "created": "2024-09-29T12:36:01.839771Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/9480c1a0056b068a2199e14cf21b788d27a8edc5_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/9480c1a0056b068a2199e14cf21b788d27a8edc5.webp",
+              "featured": false,
+              "title": "Sleeping Tuff Golems",
+              "description": "Sleeping Tuff Golems in the stronghold",
+              "created": "2024-09-29T12:36:19.641431Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/43fc1817bcb96a975ad8d3d7ac5fcae0cfd7eadc_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/43fc1817bcb96a975ad8d3d7ac5fcae0cfd7eadc.webp",
+              "featured": false,
+              "title": "Rascal giving the reward",
+              "description": "Rascal rewarding the bundle after completing a hide and seek game",
+              "created": "2024-09-29T12:36:57.009173Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/b255834dc5a5a55c24f3ff08562bc428c8d746c1_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/b255834dc5a5a55c24f3ff08562bc428c8d746c1.webp",
+              "featured": false,
+              "title": "Rascal",
+              "description": "Rascal in the mineshaft structure",
+              "created": "2024-09-29T12:36:36.465374Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/a94a5b935a43e3a5be607155f8f6afbe944b65f9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/a94a5b935a43e3a5be607155f8f6afbe944b65f9.webp",
+              "featured": false,
+              "title": "Copper Golems",
+              "description": "Copper Golems standing in the plains biome",
+              "created": "2024-09-29T12:37:18.986765Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/ff071dcbb0ec6f197fd6f77621d2ae7b6dc8dcb6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/ff071dcbb0ec6f197fd6f77621d2ae7b6dc8dcb6.webp",
+              "featured": false,
+              "title": "Copper Golem Workstation",
+              "description": "Copper Golems in the workstation part of the village",
+              "created": "2024-09-29T12:37:37.880782Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/502921357d6656042c6537b616254f0dabb203cd_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/502921357d6656042c6537b616254f0dabb203cd.webp",
+              "featured": false,
+              "title": "Glare with a baby Glare",
+              "description": "Glares flying in the lush cave",
+              "created": "2024-09-29T12:39:03.811743Z",
+              "ordering": 8.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/87bab43aadea35f943ece5e0e6e06e229542279d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/87bab43aadea35f943ece5e0e6e06e229542279d.webp",
+              "featured": false,
+              "title": "Glare",
+              "description": "Glare flying in the lush cave",
+              "created": "2024-09-29T12:39:30.994831Z",
+              "ordering": 9.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/a2a2df46670e0fa2643e08d076ea02bfcd9d4ddb_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/a2a2df46670e0fa2643e08d076ea02bfcd9d4ddb.webp",
+              "featured": false,
+              "title": "Iceologer",
+              "description": "Iceologer standing in front of the iceologer cabin structure",
+              "created": "2024-09-29T12:39:54.266183Z",
+              "ordering": 10.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/9c5d640ee5070ac9eb2dd7a01a06201288e158f3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/9c5d640ee5070ac9eb2dd7a01a06201288e158f3.webp",
+              "featured": false,
+              "title": "Casting Iceologer",
+              "description": "Iceologer attacking villager with a ice chunk spell",
+              "created": "2024-09-29T12:40:13.442629Z",
+              "ordering": 11.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/7a05c06f92f5a75994449139670686b593d3c3a9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/7a05c06f92f5a75994449139670686b593d3c3a9.webp",
+              "featured": false,
+              "title": "Buttercup Moobloom",
+              "description": "Buttercup Moobloom in the meadow biome",
+              "created": "2024-09-29T12:40:43.036895Z",
+              "ordering": 12.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/4c06e17444bee6f0a23e56451a5788f889cf4f28_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/4c06e17444bee6f0a23e56451a5788f889cf4f28.webp",
+              "featured": false,
+              "title": "Moobloom variants",
+              "description": "Different Moobloom variants from the Flowery Mooblooms addon",
+              "created": "2024-09-29T12:42:14.423289Z",
+              "ordering": 13.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/3265740c52749c655071ec4b7662431a9cfebb9e_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/3265740c52749c655071ec4b7662431a9cfebb9e.webp",
+              "featured": false,
+              "title": "Wildfire",
+              "description": "Wildfire in the Citadel structure in the nether",
+              "created": "2024-09-29T12:45:05.571910Z",
+              "ordering": 14.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/ce46d285ff3fa704bbb3bd338b9957ead5bfa0d6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/ce46d285ff3fa704bbb3bd338b9957ead5bfa0d6.webp",
+              "featured": false,
+              "title": "Citadel",
+              "description": "Citadel structure in the nether",
+              "created": "2024-09-29T12:45:34.472053Z",
+              "ordering": 15.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/c4dfe7ce331935e8a2de1b54788d1737b3d632d2_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/c4dfe7ce331935e8a2de1b54788d1737b3d632d2.webp",
+              "featured": false,
+              "title": "Hunting Maulers",
+              "description": "Multiple Maulers hunting down the chicken",
+              "created": "2024-09-29T12:45:57.000989Z",
+              "ordering": 16.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/1a159b48d78bc2701d63a827dc8b69f3cbdda0b4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/1a159b48d78bc2701d63a827dc8b69f3cbdda0b4.webp",
+              "featured": false,
+              "title": "Desert Mauler",
+              "description": "Desert variant of the Mauler in the desert biome",
+              "created": "2024-09-29T12:46:23.498083Z",
+              "ordering": 17.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/35db7af08d7d094c92460f86543871e25a4dd141_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/35db7af08d7d094c92460f86543871e25a4dd141.webp",
+              "featured": false,
+              "title": "Illusioner",
+              "description": "Illusioner standing in the Illusioner Training Grounds structure in the taiga biome",
+              "created": "2024-09-29T12:46:45.831960Z",
+              "ordering": 18.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/4844b313794b10ef83c6b696c9715a664248c4ea_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/4844b313794b10ef83c6b696c9715a664248c4ea.webp",
+              "featured": false,
+              "title": "Illusioner Shack",
+              "description": "Illusioner Shack structure in the taiga biome",
+              "created": "2024-09-29T12:47:12.263927Z",
+              "ordering": 19.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/53bbdd36824dfce9d3aa526d0ed921d67b9eeb31_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/53bbdd36824dfce9d3aa526d0ed921d67b9eeb31.webp",
+              "featured": false,
+              "title": "Zombie Horse",
+              "description": "Zombie Horse trap",
+              "created": "2024-09-29T12:47:32.071814Z",
+              "ordering": 20.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/images/5d893d17419fbc4562f99e80bb0f569ecbbbb493_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/BOCJKD49/images/5d893d17419fbc4562f99e80bb0f569ecbbbb493.webp",
+              "featured": false,
+              "title": "Four Zombie Horsemans",
+              "description": "Four Zombie Horsemans spawned from the zombie horse trap",
+              "created": "2024-09-29T12:47:53.054397Z",
+              "ordering": 21.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "sqXAuhFf",
+          "project_id": "BOCJKD49",
+          "author_id": "CGl7vZ8J",
+          "name": "Friends & Foes 3.0.5",
+          "version_number": "forge-mc1.20.1-3.0.5",
+          "changelog": "- Fixed server crash\n",
+          "date_published": "2024-10-13T15:16:07.928376Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d89a10017326feff47211d1c715a66605ab56417",
+                "sha512": "785763dc5ddbf3fdfe913785968889c917695dcad64295df8cb934516186570f59ad054a032768d6056b9dc96d57d80c9bdcbe045b9dc05b141dcd4d9a34865f"
+              },
+              "url": "https://cdn.modrinth.com/data/BOCJKD49/versions/sqXAuhFf/friendsandfoes-forge-mc1.20.1-3.0.5.jar",
+              "filename": "friendsandfoes-forge-mc1.20.1-3.0.5.jar",
+              "primary": true,
+              "size": 3619846
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": false,
-    "lastPlayed": 0,
-    "numPlays": 0
+    "lastPlayed": 1729571760454,
+    "numPlays": 5
   },
   "id": "1.20.1",
   "complianceLevel": 1,
@@ -66013,10 +67734,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "d613ef2c854cd3d6a2beb9aa4f06e1f73621f3aa",
+    "sha1": "429f001df6a09850e07eec9f961fe2036cdfb6d3",
     "size": 411980,
-    "url": "https://piston-meta.mojang.com/v1/packages/d613ef2c854cd3d6a2beb9aa4f06e1f73621f3aa/5.json",
-    "totalSize": 627388373
+    "url": "https://piston-meta.mojang.com/v1/packages/429f001df6a09850e07eec9f961fe2036cdfb6d3/5.json",
+    "totalSize": 627399727
   },
   "assets": "5",
   "downloads": {
@@ -66045,8 +67766,6 @@
   },
   "libraries": [
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:securejarhandler:2.1.10",
       "downloads": {
         "artifact": {
@@ -66058,8 +67777,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm:9.7",
       "downloads": {
         "artifact": {
@@ -66071,8 +67788,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-commons:9.7",
       "downloads": {
         "artifact": {
@@ -66084,8 +67799,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-tree:9.7",
       "downloads": {
         "artifact": {
@@ -66097,8 +67810,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-util:9.7",
       "downloads": {
         "artifact": {
@@ -66110,8 +67821,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-analysis:9.7",
       "downloads": {
         "artifact": {
@@ -66123,8 +67832,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:accesstransformers:8.0.4",
       "downloads": {
         "artifact": {
@@ -66136,8 +67843,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.antlr:antlr4-runtime:4.9.1",
       "downloads": {
         "artifact": {
@@ -66149,8 +67854,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:eventbus:6.0.5",
       "downloads": {
         "artifact": {
@@ -66162,8 +67865,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forgespi:7.0.1",
       "downloads": {
         "artifact": {
@@ -66175,8 +67876,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:coremods:5.1.6",
       "downloads": {
         "artifact": {
@@ -66188,8 +67887,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:modlauncher:10.0.9",
       "downloads": {
         "artifact": {
@@ -66201,8 +67898,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:unsafe:0.2.0",
       "downloads": {
         "artifact": {
@@ -66214,8 +67909,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:mergetool:1.1.5:api",
       "downloads": {
         "artifact": {
@@ -66227,8 +67920,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:core:3.6.4",
       "downloads": {
         "artifact": {
@@ -66240,8 +67931,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:toml:3.6.4",
       "downloads": {
         "artifact": {
@@ -66253,8 +67942,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.maven:maven-artifact:3.8.5",
       "downloads": {
         "artifact": {
@@ -66266,8 +67953,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.jodah:typetools:0.6.3",
       "downloads": {
         "artifact": {
@@ -66279,8 +67964,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecrell:terminalconsoleappender:1.2.0",
       "downloads": {
         "artifact": {
@@ -66292,8 +67975,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-reader:3.12.1",
       "downloads": {
         "artifact": {
@@ -66305,8 +67986,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline-terminal:3.12.1",
       "downloads": {
         "artifact": {
@@ -66318,8 +67997,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.spongepowered:mixin:0.8.5",
       "downloads": {
         "artifact": {
@@ -66331,8 +68008,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.openjdk.nashorn:nashorn-core:15.3",
       "downloads": {
         "artifact": {
@@ -66344,8 +68019,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarSelector:0.3.19",
       "downloads": {
         "artifact": {
@@ -66357,8 +68030,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarMetadata:0.3.19",
       "downloads": {
         "artifact": {
@@ -66370,8 +68041,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:bootstraplauncher:1.1.2",
       "downloads": {
         "artifact": {
@@ -66383,8 +68052,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:JarJarFileSystems:0.3.19",
       "downloads": {
         "artifact": {
@@ -66396,8 +68063,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlloader:1.20.1-47.3.5",
       "downloads": {
         "artifact": {
@@ -66409,8 +68074,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.5",
       "downloads": {
         "artifact": {

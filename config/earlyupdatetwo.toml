@@ -1,0 +1,17 @@
+
+["Creaking Configurations"]
+	#sets the number of steps, max 5, each step, one second and 5 blocks distance. if only one step, the range will be 15
+	"Kills creakings slower when breaking a creaking heart?" = 3.0
+	#Enable this for the creaking to drop some pale wood
+	"Creaking Drops Stuff?" = true
+	#Enable this for the creaking to drop some xp
+	"Creaking Drops XP?" = true
+	#The better option is to leave this true, else it will spawn very rarely because of the minecraft tickrate stuff, but if it is true, even with all creaking hearts destroyed it will remain spawning on the biome. leaving it true dont stop creaking spawn around creaking heart blocks
+	"Creaking Use Normal Mob Spawn instead of depending on creaking hearts?" = true
+	#controls any axe damage on the creaking, can be infinite, default is 3
+	"Damage a axe does on a Creaking" = 3.0
+	#Adds a more realistic way of the creaking AI, makes really it only moves when you dont look at it, but may lag your game, so the default is false
+	"Advanced Creaking AI" = false
+	#Only works if the Creaking Use Normal Mob Spawn is enabled, makes the creaking only generates at night, else it will spawn below trees
+	"Creakings only generate at night?" = true
+

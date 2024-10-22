@@ -1,5 +1,6 @@
 {
   "skillLocks": {
+    "trials:mace": ["attack:16"],
     "betterend:thallasium_shovel": ["gathering:8"],
     "betterend:thallasium_axe": ["gathering:8"],
     "betterend:thallasium_sword": ["attack:8"],

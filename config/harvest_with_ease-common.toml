@@ -9,7 +9,7 @@ blacklist = []
 "damage on harvest" = 0
 # Amount of experience to grant on harvest (0 to disable, must be an integer).
 #Range: > 0
-"exp on harvest" = 0
+"exp on harvest" = 3
 # Tool tier starting from which it is possible to harvest multiple crops at once.
 # All tiers that cannot multi-harvest will have a 1x1 square area of effect (a single crop).
 # If [starting harvest area size] is set to "single" and [area increment step] to "none" multi-harvest will be effectively disabled, regardless of this config option value.

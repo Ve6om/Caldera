@@ -170,7 +170,7 @@
 				type: "xp"
 				xp: 5
 			}]
-			subtitle: "Right-click a log with your axe"
+			subtitle: "Craft a log with an axe"
 			tasks: [{
 				id: "5AC6A0F3C53F2007"
 				item: "minecraft:oak_planks"

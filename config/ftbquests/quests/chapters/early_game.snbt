@@ -181,18 +181,6 @@
 		}
 		{
 			dependencies: ["7306B82F38BEB1A5"]
-			id: "7D44323D09CC07C9"
-			subtitle: "Right-click a plank with your axe"
-			tasks: [{
-				id: "3099287E56B11303"
-				item: "minecraft:stick"
-				type: "item"
-			}]
-			x: 0.0d
-			y: -2.5d
-		}
-		{
-			dependencies: ["7306B82F38BEB1A5"]
 			id: "5632A44E8CBA84CE"
 			rewards: [{
 				id: "1F81AADB70B58F32"
@@ -245,6 +233,11 @@
 		{
 			dependencies: ["27886BEDB7EE2387"]
 			id: "1B65919954A92A42"
+			rewards: [{
+				id: "30ED4C5CB9BC91F7"
+				type: "xp"
+				xp: 5
+			}]
 			subtitle: "Get a head start by finding a village"
 			tasks: [{
 				icon: "minecraft:bell"

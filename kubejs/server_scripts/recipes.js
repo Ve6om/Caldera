@@ -96,6 +96,11 @@ ServerEvents.recipes(event => {
     )
     */
     event.replaceInput(
+      { output: 'backpacked:backpack' }, 
+      'minecraft:rabbit_hide',
+      'minecraft:leather'
+    )
+    event.replaceInput(
       { output: 'tan__a_curios_expansion:regulation_circuit_shard' }, 
       'minecraft:prismarine_crystals',
       'minecraft:quartz'

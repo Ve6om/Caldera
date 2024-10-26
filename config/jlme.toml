@@ -96,7 +96,7 @@
 
 ["Advanced Looting"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 	#Max level of enchantment
 	"Max Level" = 3
 
@@ -118,17 +118,17 @@
 
 ["Advanced Protection"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 	#Max level of enchantment
 	"Max Level" = 4
 
 ["Advanced Sharpness"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 
 ["Supreme Sharpness"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 
 ["Lethal Cadence"]
 	#Activates or disables enchantment
@@ -144,7 +144,7 @@
 
 ["Advanced Power"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 	#Max level of enchantment
 	"Max Level" = 5
 
@@ -182,19 +182,19 @@
 
 ["Advanced Smite"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 
 ["Supreme Smite"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 
 ["Advanced Bane of Arthropods"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 
 ["Supreme Bane of Arthropods"]
 	#Activates or disables enchantment
-	Active = true
+	Active = false
 
 ["Armor Piercing"]
 	#Activates or disables enchantment

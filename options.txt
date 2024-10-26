@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -31,12 +31,12 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:12
-simulationDistance:12
+renderDistance:16
+simulationDistance:5
 entityDistanceScaling:1.0
 guiScale:3
-particles:0
-maxFps:120
+particles:2
+maxFps:60
 graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
@@ -76,7 +76,7 @@ skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
-hideBundleTutorial:false
+hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -141,6 +141,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.toms_storage.open_terminal:key.keyboard.b
+key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.confluence.metal_detector:key.keyboard.right.control
 key_key.confluence.step_stool:key.keyboard.up
 key_key.rereskillable.open_skills:key.keyboard.g
@@ -201,6 +202,7 @@ key_key.cataclysm.ability:key.keyboard.x
 key_key.cataclysm.helmet_ability:key.keyboard.c
 key_key.cataclysm.chestplate_ability:key.keyboard.y
 key_key.cataclysm.boots_ability:key.keyboard.v
+key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.spartanweaponry.access_quiver:key.keyboard.i
 key_key.ftbteams.open_gui:key.keyboard.unknown
 key_key.ftbchunks.map:key.keyboard.m
@@ -262,9 +264,9 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.delete
+key_quark.keybind.sort_player:key.mouse.middle
+key_quark.keybind.sort_container:key.mouse.middle
 key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown

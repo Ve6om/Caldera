@@ -104,19 +104,19 @@ ItemEvents.modification(event => {
 
    event.modify('endlessexpansion:shadowsteel_helmet', item => {
       item.armorProtection = 5.0
-      item.armorToughness = 4.5
+      item.armorToughness = 5
    })
    event.modify('endlessexpansion:shadowsteel_chestplate', item => {
       item.armorProtection = 10.0
-      item.armorToughness = 4.5
+      item.armorToughness = 5
    })
    event.modify('endlessexpansion:shadowsteel_leggings', item => {
       item.armorProtection = 7.0
-      item.armorToughness = 4.5
+      item.armorToughness = 5
    })
    event.modify('endlessexpansion:shadowsteel_boots', item => {
       item.armorProtection = 5.0
-      item.armorToughness = 4.5
+      item.armorToughness = 5
    })
 
    event.modify('endlessexpansion:celestial_helmet', item => {

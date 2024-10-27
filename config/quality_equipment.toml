@@ -14,7 +14,7 @@
 	AutoReforge = true
 	#The chance an item has of being automatically reforged.
 	#Max is 1.0 (100%) and minimum is 0.1 (10%).
-	AutoReforgeChance = 0.5
+	AutoReforgeChance = 1.0
 
 [Qualities]
 	#A list of json objects assigned to a translation key.

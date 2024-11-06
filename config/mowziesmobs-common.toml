@@ -1,7 +1,7 @@
 
 [tools_and_abilities]
 	#Range: 0.0 ~ 1.7976931348623157E308
-	geomancy_attack_multiplier = 1.0
+	geomancy_attack_multiplier = 2.0
 	#Cost in minutes of using the supernova ability.
 	#Range: > 0
 	supernova_cost = 60
@@ -11,7 +11,7 @@
 		#Range: > 0
 		suns_blessing_duration = 60
 		#Range: 0.0 ~ 1.7976931348623157E308
-		suns_blessing_attack_multiplier = 1.0
+		suns_blessing_attack_multiplier = 2.0
 		#Cost in minutes of using the solar beam ability.
 		#Range: > 0
 		solar_beam_cost = 5
@@ -58,7 +58,7 @@
 	[tools_and_abilities.ice_crystal]
 		#Multiply all damage done with the ice crystal by this amount.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		attack_multiplier = 1.0
+		attack_multiplier = 2.0
 		#Set to true for the ice crystal to have limited durability.
 		#Prevents regeneration in inventory.
 		breakable = false
@@ -113,7 +113,7 @@
 	[tools_and_abilities.earthbore_gauntlet]
 		#Multiply all damage done with the Earthbore Gauntlet by this amount.
 		#Range: 0.0 ~ 1.7976931348623157E308
-		attack_multiplier = 1.0
+		attack_multiplier = 2.0
 		#Set to true for the Earthbore Gauntlet to have limited durability.
 		#Prevents regeneration in inventory.
 		breakable = false
@@ -180,10 +180,10 @@
 		[mobs.frostmaw.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.umvuthi]
 		#Disable/enable Umvuthi's boss health bar
@@ -238,10 +238,10 @@
 		[mobs.umvuthi.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.ferrous_wroughtnaut]
 		#Disable/enable Ferrous Wroughtnaut's boss health bar
@@ -290,10 +290,10 @@
 		[mobs.ferrous_wroughtnaut.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.sculptor]
 		#Disable/enable the Sculptor healing while not in combat
@@ -338,10 +338,10 @@
 		[mobs.sculptor.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.grottol]
 
@@ -397,10 +397,10 @@
 		[mobs.grottol.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.lantern]
 
@@ -456,10 +456,10 @@
 		[mobs.lantern.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.umvuthana]
 
@@ -518,10 +518,10 @@
 		[mobs.umvuthana.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.naga]
 
@@ -577,10 +577,10 @@
 		[mobs.naga.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 
 	[mobs.foliaath]
 
@@ -636,8 +636,8 @@
 		[mobs.foliaath.combat_config]
 			#Scale mob health by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 1.0
+			health_multiplier = 2.0
 			#Scale mob attack damage by this value
 			#Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.0
+			attack_multiplier = 2.0
 

@@ -74,7 +74,8 @@ ServerEvents.recipes(event => {
    'spartanfire:lightning_dragonsteel_quarterstaff',
    'spartanfire:fire_dragonsteel_scythe',
    'spartanfire:ice_dragonsteel_scythe',
-   'spartanfire:lightning_dragonsteel_scythe'
+   'spartanfire:lightning_dragonsteel_scythe',
+   
 
     ].forEach((itemID) => event.remove({output: itemID}))
     /*

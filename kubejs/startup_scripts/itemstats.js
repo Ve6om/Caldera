@@ -96,12 +96,31 @@ ItemEvents.modification(event => {
       item.armorProtection = 5.0
       item.armorToughness = 4.0
    })
+   event.modify('enigmaticlegacy:etherium_sword', item => {
+      item.attackSpeed = -2.4
+      item.attackDamage = 15
+   })
+   event.modify('enigmaticlegacy:etherium_helmet', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 4
+   })
+   event.modify('enigmaticlegacy:etherium_chestplate', item => {
+      item.armorProtection = 7.0
+      item.armorToughness = 4
+   })
+   event.modify('enigmaticlegacy:etherium_leggings', item => {
+      item.armorProtection = 9.0
+      item.armorToughness = 4
+   })
+   event.modify('enigmaticlegacy:etherium_boots', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 4
+   })
+
    event.modify('endlessexpansion:shadowsteel_sword', item => {
       item.attackSpeed = -2.4
       item.attackDamage = 17
    })
-
-
    event.modify('endlessexpansion:shadowsteel_helmet', item => {
       item.armorProtection = 5.0
       item.armorToughness = 5

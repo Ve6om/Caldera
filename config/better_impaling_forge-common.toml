@@ -1,0 +1,5 @@
+
+["Better Impaling Forge Config"]
+	#Whether the Impaling enchantment is always also effctive to aquatic mobs.
+	"Aquatic Effctive" = false
+

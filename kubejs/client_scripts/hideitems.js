@@ -133,6 +133,6 @@ REIEvents.hide('item', event => {
    'spartanshields:enderium_tower_shield',
    'spartanshields:bronze_tower_shield',
    'spartanshields:steel_tower_shield',
-   'spartanshields:tin_tower_shield'
+   'spartanshields:tin_tower_shield',
     ])
 })

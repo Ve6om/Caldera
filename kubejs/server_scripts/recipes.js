@@ -189,4 +189,16 @@ ServerEvents.recipes(event => {
         B: 'minecraft:stick',  //arg 3: the mapping object
       }
     )
+    event.shaped(
+      Item.of('enigmaticlegacy:soul_crystal', 1), // arg 1: output
+      [
+        'AAA',
+        'ABA', // arg 2: the shape (array of strings)
+        'AAA'
+      ],
+      {
+        A: 'minecraft:lapis_lazuli',
+        B: 'minecraft:soul_sand',  //arg 3: the mapping object
+      }
+    )
 })

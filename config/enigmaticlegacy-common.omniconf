@@ -743,7 +743,7 @@
      >
 
     # Maximum amount of Soul Crystals a player can lose before they won't drop anymore. If set to 10 - player can loose all of them, and doing so will result in permadeath. Each crystal lost subtracts 10% of from their maximum possible health value. [range: 1 ~ 10, default: 9, synchronized: no]
-    I:MaxSoulCrystalLoss=0
+    I:MaxSoulCrystalLoss=3
 
     # Soul Crystals mechanic mode. 0 - disabled unless enforced by specific in-game items; 1 - also enabled when keepInventory is true; 2 - always enabled. [range: 0 ~ 2, default: 0, synchronized: no]
     I:SoulCrystalsMode=0

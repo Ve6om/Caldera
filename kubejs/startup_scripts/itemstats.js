@@ -101,7 +101,7 @@ ItemEvents.modification(event => {
       item.attackDamage = 15
    })
    event.modify('enigmaticlegacy:etherium_helmet', item => {
-      item.armorProtection = 4.0
+      item.armorProtection = 5.0
       item.armorToughness = 4
    })
    event.modify('enigmaticlegacy:etherium_chestplate', item => {
@@ -109,11 +109,11 @@ ItemEvents.modification(event => {
       item.armorToughness = 4
    })
    event.modify('enigmaticlegacy:etherium_leggings', item => {
-      item.armorProtection = 9.0
+      item.armorProtection = 10.0
       item.armorToughness = 4
    })
    event.modify('enigmaticlegacy:etherium_boots', item => {
-      item.armorProtection = 4.0
+      item.armorProtection = 5.0
       item.armorToughness = 4
    })
 

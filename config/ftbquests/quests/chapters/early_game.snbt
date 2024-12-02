@@ -205,7 +205,7 @@
 				type: "xp"
 				xp: 5
 			}]
-			subtitle: "Get a canteen!"
+			subtitle: "Get your first canteen!"
 			tasks: [{
 				id: "47CE7A0975918E65"
 				item: {

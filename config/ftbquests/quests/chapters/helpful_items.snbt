@@ -261,6 +261,24 @@
 			x: -7.0d
 			y: -0.5d
 		}
+		{
+			description: ["Upon being equipped, you have seven curses applied to you, so read it carefully. The game becomes significantly more difficult, and you cannot remove it once equipped. It is highly recommended that you do not equip this on your first playthrough."]
+			id: "694296E6325DF515"
+			optional: true
+			rewards: [{
+				id: "22A01940BDCBFAE0"
+				item: "enigmaticlegacy:cursed_ring"
+				type: "item"
+			}]
+			subtitle: "Claim this at your own risk..."
+			tasks: [{
+				id: "793A452BE10EF5B9"
+				title: "&4Ring of Seven Curses"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -2.5d
+		}
 	]
 	title: "Other"
 }

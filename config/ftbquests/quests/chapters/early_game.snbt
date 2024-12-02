@@ -208,7 +208,13 @@
 			subtitle: "Get a canteen!"
 			tasks: [{
 				id: "47CE7A0975918E65"
-				item: "toughasnails:empty_canteen"
+				item: {
+					Count: 1
+					id: "toughasnails:empty_leather_canteen"
+					tag: {
+						Damage: 0
+					}
+				}
 				type: "item"
 			}]
 			x: -9.0d

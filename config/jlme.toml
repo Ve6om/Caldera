@@ -251,8 +251,6 @@
 	"Max Level" = 5
 	#Max amount of absorption per level
 	Absorption = 4.0
-	#Percentual increase in healing per level
-	Increase = 0.04
 
 [Heating]
 	#Activates or disables enchantment
@@ -261,4 +259,52 @@
 [Chilling]
 	#Activates or disables enchantment
 	Active = true
+
+["Advanced Blast Protection"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 4
+
+["Advanced Projectile Protection"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 4
+
+["Advanced Fire Protection"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 4
+
+["Advanced Feather Falling"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 4
+
+["Advanced Efficiency"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 5
+
+["Advanced Lure"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 3
+
+["Advanced Luck of the Sea"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 2
+
+["Advanced Fortune"]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 3
 

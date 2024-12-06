@@ -64,19 +64,19 @@ ItemEvents.modification(event => {
 
    event.modify('endlessexpansion:celestial_helmet', item => {
       item.armorProtection = 3.0
-      item.armorToughness = 2
+      item.armorToughness = 2.5
    })
    event.modify('endlessexpansion:celestial_chestplate', item => {
       item.armorProtection = 8.0
-      item.armorToughness = 2
+      item.armorToughness = 2.5
    })
    event.modify('endlessexpansion:celestial_leggings', item => {
       item.armorProtection = 6.0
-      item.armorToughness = 2
+      item.armorToughness = 2.5
    })
    event.modify('endlessexpansion:celestial_boots', item => {
       item.armorProtection = 3.0
-      item.armorToughness = 2
+      item.armorToughness = 2.5
    })
 
    event.modify('endlessexpansion:cobalt_helmet', item => {

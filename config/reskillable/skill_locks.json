@@ -361,6 +361,7 @@
     "minecraft:diamond_leggings": ["defense:16"],
     "minecraft:diamond_boots": ["defense:16"],
     "minecraft:shears": ["gathering:2"],
+    "betternether:cincinnasite_shears": ["gathering:2"],
     "minecraft:bow": ["agility:2"],
     "minecraft:shield": ["defense:12"],
     "minecraft:ender_pearl": ["magic:8"],

@@ -97,24 +97,45 @@ ItemEvents.modification(event => {
    })
 
    event.modify('cataclysm:ignitium_helmet', item => {
-      item.armorProtection = 3.0
-      item.armorToughness = 3
+      item.armorProtection = 4.0
+      item.armorToughness = 4
    })
    event.modify('cataclysm:ignitium_chestplate', item => {
       item.armorProtection = 9.0
-      item.armorToughness = 3
+      item.armorToughness = 4
    })
    event.modify('cataclysm:ignitium_elytra_chestplate', item => {
-      item.armorProtection = 8.0
-      item.armorToughness = 3
+      item.armorProtection = 9.0
+      item.armorToughness = 4
    })
    event.modify('cataclysm:ignitium_leggings', item => {
-      item.armorProtection = 6.0
-      item.armorToughness = 3
+      item.armorProtection = 7.0
+      item.armorToughness = 4
    })
    event.modify('cataclysm:ignitium_boots', item => {
-      item.armorProtection = 3.0
-      item.armorToughness = 3
+      item.armorProtection = 4.0
+      item.armorToughness = 4
+   })
+   
+   event.modify('cataclysm:cursium_helmet', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 4
+   })
+   event.modify('cataclysm:cursium_chestplate', item => {
+      item.armorProtection = 9.0
+      item.armorToughness = 4
+   })
+   event.modify('cataclysm:cursium_elytra_chestplate', item => {
+      item.armorProtection = 9.0
+      item.armorToughness = 4
+   })
+   event.modify('cataclysm:cursium_leggings', item => {
+      item.armorProtection = 7.0
+      item.armorToughness = 4
+   })
+   event.modify('cataclysm:cursium_boots', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 4
    })
 
    event.modify('l2complements:skulkium_sword', item => {

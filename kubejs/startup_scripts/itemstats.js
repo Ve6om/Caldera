@@ -116,16 +116,12 @@ ItemEvents.modification(event => {
       item.armorProtection = 4.0
       item.armorToughness = 4
    })
-   
+
    event.modify('cataclysm:cursium_helmet', item => {
       item.armorProtection = 4.0
       item.armorToughness = 4
    })
    event.modify('cataclysm:cursium_chestplate', item => {
-      item.armorProtection = 9.0
-      item.armorToughness = 4
-   })
-   event.modify('cataclysm:cursium_elytra_chestplate', item => {
       item.armorProtection = 9.0
       item.armorToughness = 4
    })

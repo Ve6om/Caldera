@@ -14,5 +14,5 @@
 	#If true, disables the expensive 3x3x3 hazard scanning that is constantly running every tick while path following, for monsters only, your pets are safe
 	optimizationMonsterHazardAvoidingPathfollowing = true
 	#If true, wander pathfinding and enemy targeting attempts will be further reduced when far away from players
-	playerProximityReducedRate = true
+	playerProximityReducedRate = false
 

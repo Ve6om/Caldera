@@ -2,12 +2,15 @@
 #Please be advised that certain thirst-related options are world-specific and are located in <Path to your world folder>/serverconfig/toughasnails-server.toml.
 [general]
 	#The threshold at which exhaustion causes a reduction in hydration and the thirst bar.
+	#Range: 0.0 ~ 1.7976931348623157E308
 	exhaustion_threshold = 8.0
 
 [drink_options]
 	#Thirst restored from drinking with hands.
+	#Range: 0 ~ 20
 	hand_drinking_thirst = 1
 	#Hydration restored from drinking with hands.
+	#Range: 0.0 ~ 1.7976931348623157E308
 	hand_drinking_hydration = 0.1
 
 [biome_options]
@@ -72,16 +75,4 @@
 	[[biome_options.biome_water_entries]]
 		location = "biomesoplenty:rainbow_hills"
 		type = "PURIFIED"
-
-[toggles]
-	#Enable or disable thirst.
-	enable_thirst = true
-	#Enable or disable hand drinking.
-	enable_hand_drinking = true
-	#Remove source blocks when filling the canteen.
-	remove_source_blocks = false
-	#Prevent sprinting when thirsty.
-	thirst_prevent_sprint = true
-	#Prevent health regeneration when thirsty.
-	thirst_prevent_health_regen = true
 

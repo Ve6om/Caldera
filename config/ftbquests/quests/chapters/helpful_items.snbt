@@ -94,7 +94,7 @@
 				id: "2BA3EB7C457D4630"
 				item: {
 					Count: 1
-					id: "toughasnails:leaf_chestplate"
+					id: "legendarysurvivaloverhaul:desert_chestplate"
 					tag: {
 						Damage: 0
 					}
@@ -116,7 +116,7 @@
 				id: "6139ECB63CFA0C73"
 				item: {
 					Count: 1
-					id: "toughasnails:wool_chestplate"
+					id: "legendarysurvivaloverhaul:snow_chestplate"
 					tag: {
 						Damage: 0
 					}

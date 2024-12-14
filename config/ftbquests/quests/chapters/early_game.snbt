@@ -208,13 +208,7 @@
 			subtitle: "Get your first canteen!"
 			tasks: [{
 				id: "47CE7A0975918E65"
-				item: {
-					Count: 1
-					id: "toughasnails:empty_leather_canteen"
-					tag: {
-						Damage: 0
-					}
-				}
+				item: "legendarysurvivaloverhaul:canteen"
 				type: "item"
 			}]
 			x: -9.0d
@@ -222,6 +216,7 @@
 		}
 		{
 			description: ["These quests aim to show the main route of progression through the game, so you don't get lost! "]
+			icon: "minecraft:grass_block"
 			id: "27886BEDB7EE2387"
 			rewards: [{
 				id: "3DA89F7232EE60EF"
@@ -229,11 +224,7 @@
 				xp: 5
 			}]
 			subtitle: "Welcome to CALDERA!"
-			tasks: [{
-				id: "0D40F7E376057CE9"
-				title: "Welcome!"
-				type: "checkmark"
-			}]
+			title: "Welcome!"
 			x: -9.0d
 			y: -4.0d
 		}

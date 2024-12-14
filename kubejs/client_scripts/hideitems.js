@@ -1,5 +1,12 @@
 REIEvents.hide('item', event => {
     event.hide([
+        'legendarysurvivaloverhaul:heart_fruit',
+        'legendarysurvivaloverhaul:healing_herbs',
+        'legendarysurvivaloverhaul:plaster',
+        'legendarysurvivaloverhaul:bandage',
+        'legendarysurvivaloverhaul:tonic',
+        'legendarysurvivaloverhaul:medikit',
+        'legendarysurvivaloverhaul:morphine',
         'spawnermod:spawner_key',
         'quark:backpack',
         'quark:matrix_enchanter',

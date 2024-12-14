@@ -103,5 +103,12 @@ LootJS.modifiers((event) => {
 })
 LootJS.modifiers(event => {
     event.addLootTableModifier(/.*/)
-        .removeLoot(['scalinghealth:power_crystal','scalinghealth:power_crystal_shard','scalinghealth:cursed_heart','scalinghealth:enchanted_heart','scalinghealth:chance_heart','enigmaticaddons:earth_heart_fragment'])
+        .removeLoot([
+            'scalinghealth:power_crystal',
+            'scalinghealth:power_crystal_shard',
+            'scalinghealth:cursed_heart',
+            'scalinghealth:enchanted_heart',
+            'scalinghealth:chance_heart',
+            'enigmaticaddons:earth_heart_fragment'
+        ])
 })

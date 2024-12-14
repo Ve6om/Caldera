@@ -8,6 +8,12 @@ ServerEvents.recipes(event => {
         'scalinghealth:power_crystal',
         'cataclysm:bone_reptile_helmet',
         'cataclysm:bone_reptile_chestplate',
+        'legendarysurvivaloverhaul:healing_herbs',
+        'legendarysurvivaloverhaul:plaster',
+        'legendarysurvivaloverhaul:bandage',
+        'legendarysurvivaloverhaul:tonic',
+        'legendarysurvivaloverhaul:medikit',
+        'legendarysurvivaloverhaul:morphine',
     ].forEach((itemID) => event.remove({output: itemID}))
     /*
     event.shaped(

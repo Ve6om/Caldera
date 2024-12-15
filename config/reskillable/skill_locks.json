@@ -1158,7 +1158,6 @@
     "the_flesh_that_hates:skeletal_chestplate_chestplate": ["defense:8"],
     "the_flesh_that_hates:skeletal_pants_leggings": ["defense:8"],
     "the_flesh_that_hates:skeletal_boots_boots": ["defense:8"],
-    "mimic:mimic_sword": ["attack:24"],
     "spartanfire:fire_dragonsteel_longbow": ["attack:24", "agility:18"],
     "spartanfire:ice_dragonsteel_longbow": ["attack:24", "agility:18"],
     "spartanfire:lightning_dragonsteel_longbow": ["attack:24", "agility:18"],

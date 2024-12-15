@@ -117,7 +117,7 @@
 		# Affects only dry (minecraft down fall <0.2) and hot biome.
 		# 0 means no dryness effect; 0.5 means the biome temp will be divided by 2 at the middle of the night.
 		#Range: 0.0 ~ 1.0
-		"Biome's Dryness Multiplier" = 0.8
+		"Biome's Dryness Multiplier" = 0.2
 
 	# The underground effect starts apply at Start Distance to the world surface.
 	# The underground effect will linearly apply a multiplier on the biome temperature, and averages the time and season temperature effects.
@@ -155,11 +155,11 @@
 		# How much Time has effect on Temperature.
 		# Maximum effect at noon (positive) and midnight (negative), following a sinusoidal
 		#Range: 0.0 ~ Infinity
-		"Time Based Temperature Modifier" = 2.0
+		"Time Based Temperature Modifier" = 2
 		# How strongly time in extreme temperature biomes affect player's temperature.
 		# Extreme temperature biomes (like snowy taiga, deserts, ...) will multiply the time based temperature by this value, while temperate biome won't be affected by this value, following a linear.
 		#Range: 1.0 ~ Infinity
-		"Biome Time Multiplier" = 1.75
+		"Biome Time Multiplier" = 2
 		# Staying in the shade or during cloudy weather will reduce player's temperature by this amount based on time of the day (maximum effect at noon, following sinusoidal).
 		# Only effective in hot biomes and during day time!
 		#Range: -1000.0 ~ 1000.0
@@ -254,35 +254,35 @@
 
 				[temperature.integration.seasons.temperate.spring]
 					#Range: -1000.0 ~ 1000.0
-					"Early Spring Modifier" = -6.0
+					"Early Spring Modifier" = -5.0
 					#Range: -1000.0 ~ 1000.0
-					"Mid Spring Modifier" = 1.0
+					"Mid Spring Modifier" = -1.0
 					#Range: -1000.0 ~ 1000.0
-					"Late Spring Modifier" = 7.0
+					"Late Spring Modifier" = 2.0
 
 				[temperature.integration.seasons.temperate.summer]
 					#Range: -1000.0 ~ 1000.0
-					"Early Summer Modifier" = 16.0
+					"Early Summer Modifier" = 3.5
 					#Range: -1000.0 ~ 1000.0
-					"Mid Summer Modifier" = 22.0
+					"Mid Summer Modifier" = 5.0
 					#Range: -1000.0 ~ 1000.0
-					"Late Summer Modifier" = 15.0
+					"Late Summer Modifier" = 2.5
 
 				[temperature.integration.seasons.temperate.autumn]
 					#Range: -1000.0 ~ 1000.0
-					"Early Autumn Modifier" = 6.0
+					"Early Autumn Modifier" = 1.0
 					#Range: -1000.0 ~ 1000.0
-					"Mid Autumn Modifier" = -1.0
+					"Mid Autumn Modifier" = -3.0
 					#Range: -1000.0 ~ 1000.0
-					"Late Autumn Modifier" = -7.0
+					"Late Autumn Modifier" = -6.0
 
 				[temperature.integration.seasons.temperate.winter]
 					#Range: -1000.0 ~ 1000.0
-					"Early Winter Modifier" = -15.0
+					"Early Winter Modifier" = -9.5
 					#Range: -1000.0 ~ 1000.0
-					"Mid Winter Modifier" = -22.0
+					"Mid Winter Modifier" = -14.0
 					#Range: -1000.0 ~ 1000.0
-					"Late Winter Modifier" = -16.0
+					"Late Winter Modifier" = -10.5
 
 			# Temperature modifiers per season in tropical biomes.
 			[temperature.integration.seasons.tropical]

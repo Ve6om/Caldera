@@ -45,7 +45,7 @@
 	season = "EARLY_SPRING"
 	melt_percent = 6.25
 	melt_rolls = 1
-	biome_temp_adjustment = -0.25
+	biome_temp_adjustment = -0.0
 	min_rain_time = 12000
 	max_rain_time = 96000
 	min_thunder_time = 12000
@@ -85,7 +85,7 @@
 	season = "LATE_AUTUMN"
 	melt_percent = 6.25
 	melt_rolls = 1
-	biome_temp_adjustment = -0.25
+	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
 	max_rain_time = 180000
 	min_thunder_time = 12000
@@ -135,7 +135,7 @@
 	season = "EARLY_WINTER"
 	melt_percent = 0.0
 	melt_rolls = 0
-	biome_temp_adjustment = -0.8
+	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
 	max_rain_time = 36000
 	min_thunder_time = -1
@@ -145,7 +145,7 @@
 	season = "MID_WINTER"
 	melt_percent = 0.0
 	melt_rolls = 0
-	biome_temp_adjustment = -0.8
+	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
 	max_rain_time = 36000
 	min_thunder_time = -1
@@ -155,7 +155,7 @@
 	season = "LATE_WINTER"
 	melt_percent = 0.0
 	melt_rolls = 0
-	biome_temp_adjustment = -0.8
+	biome_temp_adjustment = 0.0
 	min_rain_time = 12000
 	max_rain_time = 36000
 	min_thunder_time = -1

@@ -37,12 +37,12 @@ LootJS.modifiers((event) => {
         .addLootTableModifier("lostcities:chests/lostcitychest")
         .randomChance(0.8)
         .addWeightedLoot(
-            [3,12],
+            [3,8],
             [
                 Item.of("scalinghealth:heart_crystal").withChance(1),
             ])
     event
-        .addLootTableModifier("lostcities:chests/raildungeonchest")
+        .addLootTableModifier("lostcities:chests/lostcitychest")
         .addWeightedLoot(
             [0,1],
             [
@@ -60,12 +60,10 @@ LootJS.modifiers((event) => {
                 Item.of("enigmaticaddons:lost_engine").withChance(1),
                 Item.of("enigmaticaddons:revival_leaf").withChance(1),
             ])
-})
-LootJS.modifiers((event) => {
     event
         .addLootTableModifier("lostcities:chests/raildungeonchest")
         .addWeightedLoot(
-            [0,2],
+            [0,3],
             [
                 Item.of("enigmaticlegacy:angel_blessing").withChance(1),
                 Item.of("enigmaticlegacy:unholy_grail").withChance(1),

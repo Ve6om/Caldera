@@ -74,6 +74,7 @@
 			]
 			dependency_requirement: "one_completed"
 			description: ["Right-click a dead dragon with an empty hand to recieve scales. Right-click a dragon skeleton with an empty to recieve dragon bones and eventually a skull. Use a bottle on a dead dragon to pick up its blood."]
+			icon: "iceandfire:dragonscales_red"
 			id: "316D6FFF222D848F"
 			rewards: [{
 				id: "70EBE33FE58929B6"
@@ -83,7 +84,7 @@
 			subtitle: "Loot dragon scales, bones, and blood"
 			tasks: [{
 				id: "417F9D0EC869BC38"
-				title: "Get dragon loot"
+				title: "Get Dragon Loot"
 				type: "checkmark"
 			}]
 			x: -3.5d
@@ -92,6 +93,13 @@
 		{
 			dependencies: ["316D6FFF222D848F"]
 			description: ["Dragon armor is very strong, one of the strongest in the game. Dragon weapons are very strong. There are many dragon weapons, including ones from Spartan Weaponry. Pick the one you like the best!"]
+			icon: {
+				Count: 1
+				id: "iceandfire:armor_red_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "2963C9DE7E1F965F"
 			rewards: [{
 				id: "0101C32ECA0B1874"
@@ -101,7 +109,7 @@
 			subtitle: "Make dragon weapons and armor"
 			tasks: [{
 				id: "0F04E54CF666B2B1"
-				title: "Get dragon gear"
+				title: "Get Dragon Gear"
 				type: "checkmark"
 			}]
 			x: -2.0d
@@ -174,7 +182,7 @@
 					type: "item"
 				}
 			]
-			title: "Make a fire dragonforge"
+			title: "Make a Fire Dragonforge"
 			x: -0.5d
 			y: 0.0d
 		}
@@ -201,7 +209,7 @@
 					type: "item"
 				}
 			]
-			title: "Make an ice dragonforge"
+			title: "Make an Ice Dragonforge"
 			x: -0.5d
 			y: 1.5d
 		}
@@ -228,7 +236,7 @@
 					type: "item"
 				}
 			]
-			title: "Make a lightning dragonforge"
+			title: "Make a Lightning Dragonforge"
 			x: -0.5d
 			y: 3.0d
 		}
@@ -291,6 +299,13 @@
 			]
 			dependency_requirement: "one_completed"
 			description: ["Dragonsteel armor and weapons have the highest damage and protection stats."]
+			icon: {
+				Count: 1
+				id: "iceandfire:dragonsteel_fire_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "580A8D17046D99E5"
 			rewards: [{
 				id: "4B22A64C1E924392"

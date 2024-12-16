@@ -215,7 +215,7 @@
 			y: -2.5d
 		}
 		{
-			description: ["These quests aim to show the main route of progression through the game, so you don't get lost! "]
+			description: ["These quests show some things you can do in CALDERA, providing some helpful XP along the way! This is an exploration-focused modpack though, so feel free to do what you want at your own time; you don't necessarily need to follow the quests!"]
 			icon: "minecraft:grass_block"
 			id: "27886BEDB7EE2387"
 			rewards: [{
@@ -241,7 +241,7 @@
 				icon: "minecraft:bell"
 				id: "0355FE8ADAFC8B38"
 				structure: "#minecraft:village"
-				title: "Find a village"
+				title: "Find a Village"
 				type: "structure"
 			}]
 			x: -7.5d

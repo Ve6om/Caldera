@@ -254,6 +254,7 @@
 					type: "item"
 				}
 			]
+			title: "Shadowsteel Armor"
 			x: 6.5d
 			y: 2.5d
 		}

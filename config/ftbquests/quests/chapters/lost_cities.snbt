@@ -3,7 +3,7 @@
 	default_quest_shape: ""
 	filename: "lost_cities"
 	group: "6CE638C020BA25D4"
-	icon: "the_flesh_that_hates:flesh_spike_grass"
+	icon: "spore:living_core"
 	id: "73D8FC615C26147A"
 	order_index: 5
 	quest_links: [ ]
@@ -15,10 +15,10 @@
 				type: "xp"
 				xp: 1000
 			}]
-			subtitle: "A scary place filled with infected flesh"
+			subtitle: "A scary place filled with spores"
 			tasks: [{
 				dimension: "lostcities:lostcity"
-				icon: "the_flesh_that_hates:flesh_block"
+				icon: "spore:living_core"
 				id: "39F4F72C3CDD4AB9"
 				title: "Enter the lost cities"
 				type: "dimension"
@@ -29,18 +29,19 @@
 		}
 		{
 			dependencies: ["11B003611035C2DF"]
+			description: ["Or should I say... &ospord?&r Ok I'll stop"]
 			id: "3A85B5F9FCD69635"
 			rewards: [{
 				id: "293C9FDABE65AA7E"
 				type: "xp"
 				xp: 5000
 			}]
-			subtitle: "A very powerful weapon"
+			subtitle: "A big sword"
 			tasks: [{
 				id: "681EAE4886CAE59A"
 				item: {
 					Count: 1
-					id: "the_flesh_that_hates:hysterizer_revenge"
+					id: "spore:greatsword"
 					tag: {
 						Damage: 0
 					}
@@ -53,18 +54,18 @@
 		}
 		{
 			dependencies: ["11B003611035C2DF"]
-			icon: "the_flesh_that_hates:plaqueincubatorone_spawn_egg"
+			icon: "spore:mound_spawnegg"
 			id: "57CA77DA7B541E75"
 			rewards: [{
 				id: "52A8C54EF7A2A068"
 				type: "xp"
 				xp: 5000
 			}]
-			subtitle: "Kill an incubator while it is in biogenesis"
+			subtitle: "A great center of Spore activity"
 			tasks: [{
-				entity: "the_flesh_that_hates:plaqueincubatorone"
+				entity: "spore:mound"
 				id: "03297DE131F6ACC6"
-				title: "Kill flesh incubator"
+				title: "Defeat a Flesh Mound"
 				type: "kill"
 				value: 1L
 			}]
@@ -80,7 +81,7 @@
 				type: "xp"
 				xp: 50000
 			}]
-			subtitle: "The rarest item"
+			subtitle: "The most valuable item?"
 			tasks: [{
 				id: "57C2AE38E388DBBF"
 				item: "angelring:angel_ring"
@@ -92,10 +93,10 @@
 		}
 		{
 			dependencies: ["11B003611035C2DF"]
-			description: ["Though not the most powerful in the game, flesh armor gives a powerful Regeneration 2 effect as a full-set bonus."]
+			description: [""]
 			icon: {
 				Count: 1
-				id: "the_flesh_that_hates:flesh_chest_chestplate"
+				id: "spore:inf_up_chest"
 				tag: {
 					Damage: 0
 				}
@@ -106,13 +107,13 @@
 				type: "xp"
 				xp: 5000
 			}]
-			subtitle: "Very strong gear"
+			subtitle: "Get a full set of the best Spore gear"
 			tasks: [
 				{
 					id: "6C3FC934214EB317"
 					item: {
 						Count: 1
-						id: "the_flesh_that_hates:flesh_mask_helmet"
+						id: "spore:inf_helmet"
 						tag: {
 							Damage: 0
 						}
@@ -124,7 +125,7 @@
 					id: "3E4B486D337DF076"
 					item: {
 						Count: 1
-						id: "the_flesh_that_hates:flesh_chest_chestplate"
+						id: "spore:inf_up_chest"
 						tag: {
 							Damage: 0
 						}
@@ -136,7 +137,7 @@
 					id: "54BCF9FE7C2990E9"
 					item: {
 						Count: 1
-						id: "the_flesh_that_hates:flesh_pants_leggings"
+						id: "spore:inf_pants"
 						tag: {
 							Damage: 0
 						}
@@ -148,7 +149,7 @@
 					id: "5953C68527C8FD86"
 					item: {
 						Count: 1
-						id: "the_flesh_that_hates:flesh_boot_boots"
+						id: "spore:inf_boots"
 						tag: {
 							Damage: 0
 						}
@@ -157,6 +158,7 @@
 					type: "item"
 				}
 			]
+			title: "Living Armor"
 			x: -5.5d
 			y: -1.5d
 		}

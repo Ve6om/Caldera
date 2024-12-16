@@ -837,30 +837,30 @@
 		Durability = 500
 		#Default 11
 		#Range: > 1
-		"Melee Damage" = 14
+		"Melee Damage" = 18
 		#Default 12
-		"Ranged Damage" = 16
+		"Ranged Damage" = 20
 
 	["Weapons and Tools OwO".Saber]
 		#Default 600
 		Durability = 600
 		#Default 8
 		#Range: > 1
-		Damage = 11
+		Damage = 15
 
 	["Weapons and Tools OwO".Knife]
 		#Default 400
 		Durability = 400
 		#Default 6
 		#Range: > 1
-		Damage = 8
+		Damage = 11
 
 	["Weapons and Tools OwO".GreatSword]
 		#Default 1000
 		Durability = 1000
 		#Default 12
 		#Range: > 1
-		Damage = 16
+		Damage = 22
 
 	["Weapons and Tools OwO".Crossbow]
 		#Default 500
@@ -875,68 +875,68 @@
 		"Bow Range Damage Modifier" = 1.5
 		#Default 5
 		#Range: > 1
-		Damage = 8
+		Damage = 9
 
 	["Weapons and Tools OwO".Armads]
 		#Default 1500
 		Durability = 1500
 		#Default 15
 		#Range: > 1
-		Damage = 18
+		Damage = 28
 
 	["Weapons and Tools OwO".Maul]
 		#Default 2500
 		Durability = 2500
 		#Default 7
 		#Range: > 1
-		Damage = 9
+		Damage = 14
 
 	["Weapons and Tools OwO".Pickaxe]
 		#Default 1500
 		Durability = 1500
 		#Default 10
 		#Range: > 1
-		Damage = 10
+		Damage = 18
 
 	["Weapons and Tools OwO".Sickle]
 		#Default 800
 		Durability = 800
 		#Default 12
 		#Range: > 1
-		Damage = 16
+		Damage = 22
 
 	["Weapons and Tools OwO".Scythe]
 		#Default 800
 		Durability = 800
 		#Default 8
 		#Range: > 1
-		Damage = 12
+		Damage = 15
 
 	["Weapons and Tools OwO"."Combat Shovel"]
 		#Default 1800
 		Durability = 1800
 		#Default 6
 		#Range: > 1
-		Damage = 7
+		Damage = 11
 
 	["Weapons and Tools OwO".Rapier]
 		#Default 800
 		Durability = 800
 		#Default 10
 		#Range: > 1
-		Damage = 12
+		Damage = 18
 
 	["Weapons and Tools OwO".Mace]
 		#Default 800
 		Durability = 800
 		#Default 9
 		#Range: > 1
-		Damage = 12
+		Damage = 17
 
 ["Living Exoskeleton"]
 	#Default 1
 	#Range: > 0
-	"Armor Toughness" = 1
+	"Armor Toughness" = 3.5
 	#Default 1
 	#Range: > 0
 	"Armor Knockback Resistance" = 1
@@ -984,7 +984,7 @@
 ["Plated Exoskeleton"]
 	#Default 1
 	#Range: > 0
-	"Armor Toughness" = 1
+	"Armor Toughness" = 2.5
 	#Default 0
 	#Range: > 0
 	"Armor Knockback Resistance" = 0

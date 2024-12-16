@@ -156,7 +156,7 @@
 				item: "doot:trumpet"
 				type: "item"
 			}]
-			title: "DOOT!"
+			title: "Loud Skele"
 			x: -5.5d
 			y: -2.0d
 		}
@@ -172,7 +172,7 @@
 				entity: "minecraft:warden"
 				icon: "apotheosis:warden_tendril"
 				id: "6A397B52A89C7010"
-				title: "Kill the warden"
+				title: "Kill the Warden"
 				type: "kill"
 				value: 1L
 			}]
@@ -263,6 +263,7 @@
 		}
 		{
 			description: ["Upon being equipped, you have seven curses applied to you, so read it carefully. The game becomes significantly more difficult, and you cannot remove it once equipped. It is highly recommended that you do not equip this on your first playthrough."]
+			icon: "enigmaticlegacy:cursed_ring"
 			id: "694296E6325DF515"
 			optional: true
 			rewards: [{

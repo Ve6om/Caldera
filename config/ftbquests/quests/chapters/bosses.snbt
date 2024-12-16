@@ -18,10 +18,10 @@
 			}]
 			subtitle: "Defeat a battle tower's guardian"
 			tasks: [{
-				entity: "new_classic_battle_towers:golem_guardian"
+				entity: "battletowers:battle_tower_golem"
 				icon: "minecraft:mossy_cobblestone"
 				id: "5388354A35BA6998"
-				title: "Battle tower"
+				title: "Battle Tower"
 				type: "kill"
 				value: 1L
 			}]

@@ -894,7 +894,7 @@
 	["Weapons and Tools OwO".Pickaxe]
 		#Default 1500
 		Durability = 1500
-		#Default 12
+		#Default 10
 		#Range: > 1
 		Damage = 10
 

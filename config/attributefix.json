@@ -627,6 +627,17 @@
         "value": 4
       }
     },
+    "legendarysurvivaloverhaul:broken_heart_resilience": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "confluence:dodge_chance": {
       "enabled": false,
       "min": {
@@ -812,6 +823,17 @@
       "max": {
         "default": 1024,
         "value": 1000000
+      }
+    },
+    "legendarysurvivaloverhaul:permanent_heart": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "attributeslib:arrow_damage": {

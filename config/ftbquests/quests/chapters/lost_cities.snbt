@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["Place a bed on top of thallasium blocks, and place heads all around. Then, click the bed!"]
 			id: "11B003611035C2DF"
 			rewards: [{
 				id: "72699624AB40166C"

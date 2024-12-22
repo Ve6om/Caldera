@@ -55,7 +55,7 @@
 	# How much the effects of the player's altitude on temperature are multiplied starting at Y 64.
 	# Each 64 blocks further from Y 64 will reduce player's temperature by this value.
 	#Range: -1000.0 ~ 1000.0
-	"Altitude Modifier" = -5.0
+	"Altitude Modifier" = -4.0
 
 	[temperature.temperature-immunity]
 		# If enabled, players will be immune to temperature effects after death.
@@ -140,16 +140,16 @@
 	[temperature.weather]
 		# How much of an effect rain has on temperature.
 		#Range: -1000.0 ~ 1000.0
-		"Rain Temperature Modifier" = -2.0
+		"Rain Temperature Modifier" = -3.0
 		# How much of an effect snow has on temperature.
 		#Range: -1000.0 ~ 1000.0
-		"Snow Temperature Modifier" = -6.0
+		"Snow Temperature Modifier" = -12.0
 
 	# Freeze effect increases while inside snow powder.
 	[temperature.freeze]
 		# How much of an effect freeze has on temperature when reaching maximum tick time. Starts at 0 and increases linearly.
 		#Range: -1000.0 ~ 1000.0
-		"Max Freeze Temperature Modifier" = -10.0
+		"Max Freeze Temperature Modifier" = -16.0
 		# How long in tick before freeze modifier reaches its maximum effect.
 		#Range: 0 ~ 100000
 		"Max Freeze Effect Tick" = 400
@@ -245,7 +245,7 @@
 			"Seasons affect Temperature" = true
 			# If the tropical seasons are disabled, the normal summer-autumn-winter-spring seasons are applied.
 			# If disabled, dry and wet seasons are applied for hot biomes.
-			"Tropical Seasons Enabled" = false
+			"Tropical Seasons Enabled" = true
 			# If season cards are enabled, season cards will appear at every season changes.
 			"Season Cards Enabled" = false
 			# If default season is enabled, when serene season defines no season effect in a biome, the normal season temperature will be applied.
@@ -257,9 +257,9 @@
 
 				[temperature.integration.seasons.temperate.spring]
 					#Range: -1000.0 ~ 1000.0
-					"Early Spring Modifier" = -5.0
+					"Early Spring Modifier" = -4.0
 					#Range: -1000.0 ~ 1000.0
-					"Mid Spring Modifier" = -1.0
+					"Mid Spring Modifier" = 1.0
 					#Range: -1000.0 ~ 1000.0
 					"Late Spring Modifier" = 2.0
 
@@ -275,24 +275,24 @@
 					#Range: -1000.0 ~ 1000.0
 					"Early Autumn Modifier" = 1.0
 					#Range: -1000.0 ~ 1000.0
-					"Mid Autumn Modifier" = -3.0
+					"Mid Autumn Modifier" = -1.0
 					#Range: -1000.0 ~ 1000.0
 					"Late Autumn Modifier" = -6.0
 
 				[temperature.integration.seasons.temperate.winter]
 					#Range: -1000.0 ~ 1000.0
-					"Early Winter Modifier" = -9.5
+					"Early Winter Modifier" = -10.5
 					#Range: -1000.0 ~ 1000.0
 					"Mid Winter Modifier" = -14.0
 					#Range: -1000.0 ~ 1000.0
-					"Late Winter Modifier" = -10.5
+					"Late Winter Modifier" = -9.5
 
 			# Temperature modifiers per season in tropical biomes.
 			[temperature.integration.seasons.tropical]
 
 				[temperature.integration.seasons.tropical.wet-season]
 					#Range: -1000.0 ~ 1000.0
-					"Early Wet Season Modifier" = -1.0
+					"Early Wet Season Modifier" = -2.0
 					#Range: -1000.0 ~ 1000.0
 					"Mid Wet Season Modifier" = -5.0
 					#Range: -1000.0 ~ 1000.0
@@ -300,9 +300,9 @@
 
 				[temperature.integration.seasons.tropical.dry-season]
 					#Range: -1000.0 ~ 1000.0
-					"Early Dry Season Modifier" = 3.0
+					"Early Dry Season Modifier" = 4.0
 					#Range: -1000.0 ~ 1000.0
-					"Mid Dry Season Modifier" = 7.0
+					"Mid Dry Season Modifier" = 9.0
 					#Range: -1000.0 ~ 1000.0
 					"Late Dry Season Modifier" = 3.0
 

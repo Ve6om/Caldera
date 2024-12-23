@@ -120,7 +120,7 @@
 		# Affects only dry (minecraft down fall <0.2) and hot biome.
 		# 0 means no dryness effect; 0.5 means the biome temp will be divided by 2 at the middle of the night.
 		#Range: 0.0 ~ 1.0
-		"Biome's Dryness Multiplier" = 0.2
+		"Biome's Dryness Multiplier" = 0.3
 
 	# The underground effect starts apply at Start Distance to the world surface.
 	# The underground effect will linearly apply a multiplier on the biome temperature, and averages the time and season temperature effects.

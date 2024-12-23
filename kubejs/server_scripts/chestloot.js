@@ -1,3 +1,15 @@
+LootJS.modifiers(event => {
+    event.addLootTableModifier(/.*/)
+        .removeLoot([
+            'scalinghealth:power_crystal',
+            'scalinghealth:power_crystal_shard',
+            'scalinghealth:cursed_heart',
+            'scalinghealth:enchanted_heart',
+            'scalinghealth:chance_heart',
+            'enigmaticaddons:earth_heart_fragment',
+            'enigmaticlegacy:enigmatic_eye'
+        ])
+})
 LootJS.modifiers((event) => {
     event
         .addLootTableModifier("scaling_health_loot_chest")
@@ -18,6 +30,13 @@ LootJS.modifiers((event) => {
             [
                 Item.of("enigmaticaddons:astral_dust").withChance(1),
             ])
+            
+})
+LootJS.modifiers((event) => {
+    event
+        .addLootTableModifier("minecraft:chests/simple_dungeon")
+        .randomChance(0.4)
+        .addLoot("enigmaticlegacy:enigmatic_eye")
             
 })
 LootJS.modifiers((event) => {
@@ -98,15 +117,4 @@ LootJS.modifiers((event) => {
     event
         .addEntityLootModifier("mowziesmobs:ferrous_wroughtnaut")
         .addLoot("enigmaticaddons:hell_blade_charm")
-})
-LootJS.modifiers(event => {
-    event.addLootTableModifier(/.*/)
-        .removeLoot([
-            'scalinghealth:power_crystal',
-            'scalinghealth:power_crystal_shard',
-            'scalinghealth:cursed_heart',
-            'scalinghealth:enchanted_heart',
-            'scalinghealth:chance_heart',
-            'enigmaticaddons:earth_heart_fragment'
-        ])
 })

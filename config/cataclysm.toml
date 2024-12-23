@@ -124,12 +124,6 @@
 	"Cursed Sandstorm Damage" = 6.0
 
 ["Ender Guardian"]
-	#EnderGuardian's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	EnderGuardianHealthmultiplier = 1.4
-	#EnderGuardian's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	EnderGuardianDamagemultiplier = 1.4
 	#EnderGuardian's DamageCap
 	#Range: 0.0 ~ 1000000.0
 	EnderGuardianDamageCap = 22.0
@@ -168,6 +162,12 @@
 	#EnderGuardianBlockBreaking radius
 	#Range: 0 ~ 20
 	"EnderGuardianBlockBreaking Z" = 15
+	#EnderGuardian's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	EnderGuardianHealthMultiplier = 1.0
+	#EnderGuardian's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	EnderGuardianDamageMultiplier = 1.0
 
 ["Netherite Monstrosity"]
 	#Monstrosity's Lavabomb magazine.
@@ -176,12 +176,6 @@
 	#Monstrosity's Lavabomb amount
 	#Range: 1 ~ 1000000
 	Lavabombamount = 3
-	#Monstrosity's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealthmultiplier = 1.4
-	#Monstrosity's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamagemultiplier = 1.4
 	#Monstrosity's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityHealingMultiplier = 1.0
@@ -199,6 +193,12 @@
 	#Monstrosity's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Monstrosity's prevent attacks from far away Range" = 18.0
+	#Monstrosity's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	MonstrosityHealthMultiplier = 1.0
+	#Monstrosity's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	MonstrosityDamageMultiplier = 1.0
 
 ["Ender Golem"]
 	#Ender Golem's block breaking ignore the MobGriefing
@@ -208,18 +208,12 @@
 	"Endergolem's prevent attacks from far away Range" = 6.0
 	#Golem's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	GolemHealthmultiplier = 1.4
+	GolemHealthMultiplier = 1.0
 	#Golem's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	GolemDamagemultiplier = 1.4
+	GolemDamageMultiplier = 1.0
 
 [Ignis]
-	#Ignis's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	IgnisHealthmultiplier = 1.4
-	#Ignis's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	IgnisDamagemultiplier = 1.4
 	#Ignis's Healing with out target
 	#Range: 0.0 ~ 1000000.0
 	IgnisNatureHealing = 10.0
@@ -234,14 +228,20 @@
 	IgnisDamageCap = 20.0
 	#Ignis's cracked block breaking ignore the MobGriefing
 	IgnisBlockBreaking = true
+	#Ignis's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	IgnisHealthMultiplier = 1.0
+	#Ignis's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	IgnisDamageMultiplier = 1.0
 
 [revenant]
 	#Revenant's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	RevenantHealthmultiplier = 1.4
+	RevenantHealthMultiplier = 1.0
 	#Revenant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	RevenantDamagemultiplier = 1.4
+	RevenantDamageMultiplier = 1.0
 
 ["The Prowler"]
 	#The Prowler's Immune to Long distance attack range.
@@ -249,18 +249,12 @@
 	"The Prowler's prevent attacks from far away Range" = 16.0
 	#Prowler's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ProwlerHealthmultiplier = 1.4
+	ProwlerHealthMultiplier = 1.0
 	#Prowler's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ProwlerDamagemultiplier = 1.4
+	ProwlerDamageMultiplier = 1.0
 
 ["The Harbinger"]
-	#Harbinger's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	HarbingerHealthmultiplier = 1.4
-	#Harbinger's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	HarbingerDamagemultiplier = 1.4
 	#Harbinger's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	HarbingerHealingMultiplier = 1.0
@@ -281,14 +275,14 @@
 	#The Harbinger's charge attack Hp Damage
 	#Range: 0.0 ~ 1.0
 	"The Harbinger's charge attack Hp Damage" = 0.06
+	#Harbinger's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	HarbingerHealthMultiplier = 1.0
+	#Harbinger's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	HarbingerDamageMultiplier = 1.0
 
 ["The Leviathan"]
-	#Leviathan's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	LeviathanHealthmultiplier = 1.4
-	#Leviathan's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	LeviathanDamagemultiplier = 1.4
 	#Leviathan's Healing with out target
 	#Range: 0.0 ~ 1000000.0
 	LeviathanNatureHealing = 10.0
@@ -314,41 +308,41 @@
 	LeviathanBlockBreaking = true
 	#Leviathan Immune Out of Water
 	LeviathanImmuneOutofWater = true
+	#Leviathan's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	LeviathanHealthMultiplier = 1.0
+	#Leviathan's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	LeviathanDamageMultiplier = 1.0
 
 ["The Baby Leviathan"]
 	#BabyLeviathan's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	BabyLeviathanHealthmultiplier = 1.4
+	BabyLeviathanHealthMultiplier = 1.0
 	#BabyLeviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	BabyLeviathanDamagemultiplier = 1.4
+	BabyLeviathanDamageMultiplier = 1.0
 
 ["Modern Remnant"]
 	#Modern Remnant's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ModernRemnantHealthmultiplier = 1.4
+	ModernRemnantHealthMultiplier = 1.0
 	#Modern Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ModernRemnantDamagemultiplier = 1.4
+	ModernRemnantDamageMultiplier = 1.0
 
 ["Amethyst Crab"]
-	#Amethyst Crab's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	AmethystCrabHealthmultiplier = 1.4
 	#Amethyst Crab's EarthQuake Damage
 	#Range: 0.0 ~ 1000000.0
 	AmethystCrabEarthQuakeDamage = 5.0
+	#Amethyst Crab's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AmethystCrabHealthMultiplier = 1.0
 	#Amethyst Crab's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AmethystCrabDamagemultiplier = 1.4
+	AmethystCrabDamageMultiplier = 1.0
 
 ["Ancient Remnant"]
-	#Ancient Remnant's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	AncientRemnantHealthmultiplier = 1.4
-	#Ancient Remnant's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	AncientRemnantDamagemultiplier = 1.4
 	#AncientRemnant's Healing with out target
 	#Range: 0.0 ~ 1000000.0
 	AncientRemnantNatureHealing = 10.0
@@ -372,6 +366,12 @@
 	#Remnant's EarthQuake Damage
 	#Range: 0.0 ~ 1000000.0
 	"Remnant's EarthQuakeDamage" = 8.0
+	#Ancient Remnant's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantHealthMultiplier = 1.0
+	#Ancient Remnant's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AncientRemnantDamageMultiplier = 1.0
 
 [Koboleton]
 	#Cause Koboleton to Drop Item In Hand Percent
@@ -383,18 +383,12 @@
 	KobolediatorBlockBreaking = false
 	#Kobolediator's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	KobolediatorHealthmultiplier = 1.4
+	KobolediatorHealthMultiplier = 1.0
 	#Kobolediator's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	KobolediatorDamagemultiplier = 1.4
+	KobolediatorDamageMultiplier = 1.0
 
 [Maledictus]
-	#Maledictus's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	MaledictusHealthmultiplier = 1.4
-	#Maledictus's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	MaledictusDamagemultiplier = 1.4
 	#Maledictus's DamageCap
 	#Range: 0.0 ~ 1000000.0
 	MaledictusDamageCap = 20.0
@@ -427,6 +421,12 @@
 	"Maledictus's Phantom Arrow Damage" = 5.0
 	#Maledictus's cracked block breaking ignore the MobGriefing
 	MaledictusBlockBreaking = true
+	#Maledictus's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	MaledictusHealthMultiplier = 1.0
+	#Maledictus's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	MaledictusDamageMultiplier = 1.0
 
 [spawning]
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
@@ -500,19 +500,19 @@
 [Wadjet]
 	#Wadjet's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	WadjetHealthmultiplier = 1.4
+	WadjetHealthMultiplier = 1.0
 	#Wadjet's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	WadjetDamagemultiplier = 1.4
+	WadjetDamageMultiplier = 1.0
 
 [Aptrgangr]
-	#Aptrgangr's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	AptrgangrHealthmultiplier = 1.4
-	#Aptrgangr's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	AptrgangrDamagemultiplier = 1.4
 	#Axe Blade's Damage
 	#Range: 0.0 ~ 1000000.0
 	AptrgangrAxeBladeDamage = 8.0
+	#Aptrgangr's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AptrgangrHealthMultiplier = 1.0
+	#Aptrgangr's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	AptrgangrDamageMultiplier = 1.0
 

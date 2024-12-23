@@ -22,6 +22,9 @@
     # Whether or not Common Potions should be enabled. [default: true, synchronized: yes]
     B:CommonPotionsEnabled=true
 
+    # Whether or not Disaster Broadsword should be enabled. [default: true, synchronized: yes]
+    B:DisasterBroadswordEnabled=true
+
     # Whether or not Dragon Breath Bow should be enabled. [default: true, synchronized: yes]
     B:DragonBreathBowEnabled=true
 
@@ -30,9 +33,6 @@
 
     # Whether or not Etherium Core should be enabled. [default: true, synchronized: yes]
     B:EtheriumCoreEnabled=true
-
-    # Whether or not Evil should be enabled. [default: true, synchronized: yes]
-    B:EvilEnabled=true
 
     # Whether or not False Justice should be enabled. [default: true, synchronized: yes]
     B:FalseJusticeEnabled=true
@@ -51,6 +51,9 @@
 
     # Whether or not Frost Protection Enchantment should be enabled. [default: true, synchronized: yes]
     B:FrostProtectionEnchantmentEnabled=true
+
+    # Whether or not Frost Shattering Enchantment should be enabled. [default: true, synchronized: yes]
+    B:FrostShatteringEnchantmentEnabled=true
 
     # Whether or not Holy Stone should be enabled. [default: true, synchronized: yes]
     B:HolyStoneEnabled=true
@@ -106,11 +109,17 @@
     # Whether or not The Bless should be enabled. [default: true, synchronized: yes]
     B:TheBlessEnabled=true
 
+    # Whether or not The Curse Carver should be enabled. [default: true, synchronized: yes]
+    B:TheCurseCarverEnabled=true
+
     # Whether or not Tome of Divination should be enabled. [default: true, synchronized: yes]
     B:TomeofDivinationEnabled=true
 
     # Whether or not Tome of Void should be enabled. [default: true, synchronized: yes]
     B:TomeofVoidEnabled=true
+
+    # Whether or not Totem of Malice should be enabled. [default: true, synchronized: yes]
+    B:TotemofMaliceEnabled=true
 
     # Whether or not Ultimate Potions should be enabled. [default: true, synchronized: yes]
     B:UltimatePotionsEnabled=true
@@ -143,6 +152,21 @@
     # The kill threshold of Hell Blade Charm to active the skill. [range: 0 ~ 100, default: 75, synchronized: yes]
     I:CharmofHellBladeKillThreshold=75
 
+    # The damage modifier when you has the Bad Omen effect. [range: 0.0 ~ 100.0, default: 0.15, synchronized: yes]
+    D:DisasterBroadswordBadOmenDamageBoost=0.15
+
+    # The damage modifier after you parried with Disaster Broadsword successfully. [range: 0.0 ~ 100.0, default: 0.5, synchronized: yes]
+    D:DisasterBroadswordCounterattackBoost=0.5
+
+    # The crit damage modifier after you parried with Disaster Broadsword successfully. [range: 0.0 ~ 100.0, default: 1.5, synchronized: yes]
+    D:DisasterBroadswordCritBoost=1.5
+
+    # The damage of range attack after you parried the projectiles with Disaster Broadsword successfully. [range: 0.0 ~ 100.0, default: 10.0, synchronized: yes]
+    D:DisasterBroadswordRangeAttackDamage=10.0
+
+    # The max amount of potion effect you can apply on the arrow. [range: 1 ~ 10, default: 4, synchronized: yes]
+    I:DragonBreathBowMaxPotionAmount=4
+
     # The Damage Resistance to your own dragon breath damage. Defined as percentage. [range: 0 ~ 100, default: 60, synchronized: yes]
     I:DragonBreathBowOwnerResistance=60
 
@@ -152,11 +176,17 @@
     # The attack speed multiplier of Emblem of Adventurer. Measures in percentage. [range: 0 ~ 100, default: 10, synchronized: yes]
     I:EmblemofAdventurerAttackSpeedMultiplier=10
 
+    # Whether to enable Shift effect. [default: true, synchronized: yes]
+    B:EmblemofAdventurerShiftEnable=true
+
     # Default amount of armor points provided by Etherium Core. [range: 0.0 ~ 256.0, default: 12.0, synchronized: yes]
     D:EtheriumCoreArmor=12.0
 
     # The multiplier of armor points of Etherium Core. [range: 0 ~ 100, default: 30, synchronized: yes]
     I:EtheriumCoreArmorMultiplier=30
+
+    # The amount of armor toughness provided by Etherium Core when it's bearer has no armor equipped. [range: 0.0 ~ 256.0, default: 10.0, synchronized: yes]
+    D:EtheriumCoreArmorToughness=10.0
 
     # The multiplier of armor toughness of Etherium Core. [range: 0 ~ 100, default: 50, synchronized: yes]
     I:EtheriumCoreArmorToughnessMultiplier=50
@@ -173,14 +203,17 @@
     # Resistance to knockback provided by Etherium Core. Defined as percentage. [range: 0 ~ 100, default: 50, synchronized: yes]
     I:EtheriumCoreKnockbackResistance=50
 
-    # The amount of armor toughness provided by Etherium Core when it's bearer has no armor equipped. [range: 0.0 ~ 256.0, default: 10.0, synchronized: yes]
-    D:EtheriumCorearmorToughness=10.0
-
     # Whether the halving experience by level or value. True for level. [default: false, synchronized: yes]
     B:ForgerGemEXPLevelNotValue=false
 
     # Whether to enable stricter detection for unbreakable forging when equipped the Forger's Gem. True for enable. [default: true, synchronized: yes]
     B:ForgerGemStrictUnbreakableForge=true
+
+    # List of items that will never be unbreakable. Examples: minecraft:iron_sword. Changing this option required game restart to take effect. [default: [enigmaticaddons:totem_of_malice], [twilightforest:glass_sword], synchronized: no]
+    S:ForgerGemUnbreakableBlackList <
+        enigmaticaddons:totem_of_malice
+        twilightforest:glass_sword
+     >
 
     # Active ability cooldown for Forgotten Ice Crystal. Measured in ticks. 20 ticks equal to 1 second. [range: 0 ~ 32768, default: 300, synchronized: yes]
     I:ForgottenIceCrystalCooldown=300
@@ -240,10 +273,10 @@
     # The percentage subtracted from damage redirected by Guide to Feral Hunt, if this is also possessed. [range: 0 ~ 100, default: 75, synchronized: yes]
     I:OdetoLivingBeingsSynergyDamageReduction=75
 
-    # Default amount of armor points provided by Magic Quartz Ring. [range: 0 ~ 100, default: 10, synchronized: yes]
+    # Default amount of armor points provided by Pact of Dark Night. [range: 0 ~ 100, default: 10, synchronized: yes]
     I:PactofDarkNightAbilityBoost=10
 
-    # Resistance to magic damage provided by Magic Quartz Ring. Defined as percentage. [range: 0 ~ 14, default: 5, synchronized: yes]
+    # Resistance to magic damage provided by Pact of Dark Night. Defined as percentage. [range: 0 ~ 14, default: 5, synchronized: yes]
     I:PactofDarkNightDarkCondition=5
 
     # The cooldown of Potion of Cosmic. Measured in ticks. [range: 0 ~ 32000, default: 2400, synchronized: yes]
@@ -291,7 +324,7 @@
     # Amount of ticks for which bearer of the leaf will apply Regeneration effect to entities nearby when ability activated. [range: 0 ~ 32768, default: 180, synchronized: yes]
     I:RevivalLeafRegenerationTime=180
 
-    # The damage boost of the Ring of Redemption. Measured in percentage. [range: 0 ~ 100, default: 20, synchronized: yes]
+    # The damage boost of the Ring of Redemption. Measured in percentage. [range: 0 ~ 500, default: 20, synchronized: yes]
     I:RingofRedemptionDamageBoost=20
 
     # The damage resistance of the Ring of Redemption. Measured in percentage. [range: 0 ~ 100, default: 40, synchronized: yes]
@@ -323,6 +356,28 @@
 
     # The invulnerable time after hit while The Bless in inventory. [range: 40 ~ 200, default: 40, synchronized: yes]
     I:TheBlessInvulnerableTime=40
+
+    # The cooldown of usage. Measured as tick. [range: 20 ~ 32768, default: 240, synchronized: yes]
+    I:TheCurseCarverCooldown=240
+
+    # The hurt damage amount of cursed target. [range: 10 ~ 100, default: 20, synchronized: yes]
+    I:TheCurseCarverCurseDamageRatio=20
+
+    # The hurt damage amount of cursed target. [range: 0.0 ~ 32768.0, default: 2.0, synchronized: yes]
+    D:TheCurseCarverCurseHurtAmount=2.0
+
+    # The hurt interval time of cursed target. Measured as ticks. [range: 1 ~ 40, default: 4, synchronized: yes]
+    I:TheCurseCarverCurseHurtInterval=4
+
+    # List of entities that will be affected as Raider by the Totem of Malice. Examples: minecraft:witch. Changing this option required game restart to take effect. [default: , synchronized: no]
+    S:TotemofMaliceExtraRaiderList <
+     >
+
+    # The damage modifier to the Raiders. [range: 0.0 ~ 400.0, default: 1.5, synchronized: yes]
+    D:TotemofMaliceRaiderDamageBoost=1.5
+
+    # The damage resistance to the Raiders. [range: 0.0 ~ 400.0, default: 0.5, synchronized: yes]
+    D:TotemofMaliceRaiderDamageResistance=0.5
 }
 
 

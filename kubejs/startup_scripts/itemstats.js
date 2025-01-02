@@ -163,19 +163,19 @@ ItemEvents.modification(event => {
    })
    event.modify('l2complements:eternium_helmet', item => {
       item.armorProtection = 3.0
-      item.armorToughness = 8
+      item.armorToughness = 7
    })
    event.modify('l2complements:eternium_chestplate', item => {
       item.armorProtection = 8.0
-      item.armorToughness = 8
+      item.armorToughness = 7
    })
    event.modify('l2complements:eternium_leggings', item => {
       item.armorProtection = 6.0
-      item.armorToughness = 8
+      item.armorToughness = 7
    })
    event.modify('l2complements:eternium_boots', item => {
       item.armorProtection = 3.0
-      item.armorToughness = 8
+      item.armorToughness = 7
    })
 
    event.modify('l2complements:poseidite_sword', item => {

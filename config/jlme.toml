@@ -233,6 +233,8 @@
 	"Level Damage Increase" = 0.01
 	#Base percentage damage
 	"Base Damage Increase" = 0.03
+	#Max damage bonus possible
+	"Max damage" = 10.0
 
 [Executioner]
 	#Activates or disables enchantment
@@ -243,6 +245,8 @@
 	"Level Damage Increase" = 0.1
 	#Base Percentage of missing health as damage
 	"Base Damage Increase" = 0.1
+	#Max damage bonus possible
+	"Max damage" = 10.0
 
 [Shielded]
 	#Activates or disables enchantment
@@ -305,6 +309,18 @@
 ["Advanced Fortune"]
 	#Activates or disables enchantment
 	Active = false
+	#Max level of enchantment
+	"Max Level" = 3
+
+[Butcher]
+	#Activates or disables enchantment
+	Active = true
+	#Max level of enchantment
+	"Max Level" = 3
+
+["Advanced Butcher"]
+	#Activates or disables enchantment
+	Active = true
 	#Max level of enchantment
 	"Max Level" = 3
 

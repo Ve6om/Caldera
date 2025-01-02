@@ -1,0 +1,29 @@
+#Should the spawner be destroyed after a set amount of spawns
+#Range: 1 ~ 32767
+"Spawn Limit" = 14
+#Amount of ticks removed from the delay after the next spawn each time a mob is killed
+#Range: 0 ~ 600
+"Spawn rate decrease" = 100
+#Amount of mobs killed after the spawner starts increasing the amount of mobs spawned
+#Range: 0 ~ 32767
+"Spawn Threshold" = 7
+#Amount of mobs killed after the Spawn Threshold that increase by 1 the amount of mobs spawned
+#Range: 0 ~ 32767
+"Spawn Increase" = 3
+#XP added to mobs spawned by the spawner after the threshold has been reached, this value increases by the amount of mobs spawned
+#Range: 0 ~ 32767
+"XP Increase" = 1
+#Should coordinates in F3 be hidden
+"Hide coordinates" = true
+#Should a compass show your coordinates
+"Compass coordinates" = true
+#Should a map show your coordinates
+"Maps coordinates" = true
+#Should enchantment levels in loot tables have a rarer chance the higher their level
+"Enchantment loot" = false
+#List of enchantments that have increased rarity to find in loot table.
+"Extremely Rare Enchantments" = ["minecraft:mending"]
+#How rare are those enchantments to appear, this chance is further increase for the enchantment rarity.
+#Range: 0.0 ~ 1.0
+"Percentual Chance" = 0.1
+

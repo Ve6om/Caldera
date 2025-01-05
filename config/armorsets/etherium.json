@@ -1,0 +1,32 @@
+{
+    "armorSetName": "etherium",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "enigmaticlegacy:etherium_helmet",
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "enigmaticlegacy:etherium_chestplate",
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "enigmaticlegacy:etherium_leggings",
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "enigmaticlegacy:etherium_boots",
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+      {
+        "type": "effect",
+        "name": "potioncore:cure",
+        "value": 0.0,
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+      }
+    ],
+    "hideGeneratedTooltip": false
+  }

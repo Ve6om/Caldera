@@ -1,0 +1,45 @@
+{
+    "armorSetName": "shadowsteel",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "endlessexpansion:shadowsteel_helmet",
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "endlessexpansion:shadowsteel_chestplate",
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "endlessexpansion:shadowsteel_leggings",
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "endlessexpansion:shadowsteel_boots",
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+    {
+      "type": "attribute",
+      "name": "attributeslib:crit_damage",
+      "value": 1.0,
+      "modifierUUID": "06e65a58-750b-428c-8099-e36078bd47e9",
+      "description": "+100% crit damage",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+    },
+    {
+        "type": "attribute",
+        "name": "attributeslib:crit_chance",
+        "value": 0.2,
+        "modifierUUID": "58096a9f-cd98-4428-9210-2eb6e75694ee",
+        "description": "+20% crit chance",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+      }
+  ],
+  "hideGeneratedTooltip": false
+  }

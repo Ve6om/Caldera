@@ -1,0 +1,4 @@
+#Set to 0 to disable, higher to set the requirements
+#Range: > 0
+magicNumber = 10
+

@@ -7,7 +7,7 @@ additional_chests = []
 #list of mod IDs whose loot tables will decay (default blank, meaning no chests decay, in the format ["modid", "othermodid"])
 decay_modids = []
 #list of modids whose loot tables shouldn't be converted (in the format of ["modid", "other_modid"])
-loot_modid_blacklist = []
+loot_modid_blacklist = ["battletowers"]
 #allows fake players to destroy Lootr chests without having to sneak, overrides the `disable_break` option for fake players
 enable_fake_player_break = false
 #a list of additional trapped chests that should be converted (in the format of ["modid:name", "modid:other_name"], must be a tile entity instance of RandomizableContainerBlockEntity)

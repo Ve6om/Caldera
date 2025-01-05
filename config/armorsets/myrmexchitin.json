@@ -1,0 +1,46 @@
+{
+    "armorSetName": "myrmex",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "iceandfire:myrmex_desert_helmet",
+      "mixAndMatch": [
+      "iceandfire:myrmex_jungle_helmet"
+      ],
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "iceandfire:myrmex_desert_chestplate",
+      "mixAndMatch": [
+      "iceandfire:myrmex_jungle_chestplate"
+      ],
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "iceandfire:myrmex_desert_leggings",
+      "mixAndMatch": [
+      "iceandfire:myrmex_jungle_leggings"
+      ],
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "iceandfire:myrmex_desert_boots",
+      "mixAndMatch": [
+      "iceandfire:myrmex_jungle_boots"
+      ],
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "forge:step_height_addition",
+        "value": 1,
+        "modifierUUID": "e979db9a-7bdb-4366-aa8e-6146e8a84d1e",
+        "description": "+1 step height",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    }
+    ],
+    "hideGeneratedTooltip": false
+  }

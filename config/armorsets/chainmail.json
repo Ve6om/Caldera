@@ -1,0 +1,45 @@
+{
+    "armorSetName": "chainmail",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "minecraft:chainmail_helmet",
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "minecraft:chainmail_chestplate",
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "minecraft:chainmail_leggings",
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "minecraft:chainmail_boots",
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "minecraft:generic.attack_speed",
+        "value": 2,
+        "modifierUUID": "f7c3d237-4cad-4256-a454-2a4aa0f2d0bd",
+        "description": "+2 attack speed",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    },
+    {
+      "type": "attribute",
+      "name": "minecraft:generic.movement_speed",
+      "value": 0.02,
+      "modifierUUID": "5cf4c148-3aea-4820-91a6-3240d8653b36",
+      "description": "+20% movement speed",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+  }
+    ],
+    "hideGeneratedTooltip": false
+  }

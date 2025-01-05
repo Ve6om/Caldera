@@ -23,7 +23,9 @@ REIEvents.hide('item', event => {
         'scalinghealth:power_crystal_shard',
         'cataclysm:bone_reptile_helmet',
         'cataclysm:bone_reptile_chestplate',
-
+        'legendarysurvivaloverhaul:heart_fragment',
+        'legendarysurvivaloverhaul:heart_container',
+        'legendarysurvivaloverhaul:shield_container',
    'spartanshields:electrum_basic_shield',
    'spartanshields:lead_basic_shield',
    'spartanshields:nickel_basic_shield',

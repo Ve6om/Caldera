@@ -1,0 +1,46 @@
+{
+  "armorSetName": "myrmex",
+  "performanceMode": true,
+  "head": {
+    "itemKey": "iceandfire:deathworm_red_helmet",
+    "mixAndMatch": [
+    "iceandfire:deathworm_yellow_helmet","iceandfire:deathworm_white_helmet"
+    ],
+    "mustBeEmpty": false
+  },
+  "chest": {
+    "itemKey": "iceandfire:deathworm_red_chestplate",
+    "mixAndMatch": [
+    "iceandfire:deathworm_yellow_chestplate","iceandfire:deathworm_white_chestplate"
+    ],
+    "mustBeEmpty": false
+  },
+  "legs": {
+    "itemKey": "iceandfire:deathworm_red_leggings",
+    "mixAndMatch": [
+    "iceandfire:deathworm_yellow_leggings","iceandfire:deathworm_white_leggings"
+    ],
+    "mustBeEmpty": false
+  },
+  "boots": {
+    "itemKey": "iceandfire:deathworm_red_boots",
+    "mixAndMatch": [
+    "iceandfire:deathworm_yellow_boots","iceandfire:deathworm_white_boots"
+    ],
+    "mustBeEmpty": false
+  },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "attributeslib:mining_speed",
+        "value": 0.5,
+        "modifierUUID": "7c9a41e4-5747-4227-89db-dd9f634cd1fd",
+        "description": "+50% mining speed",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    }
+    ],
+    "hideGeneratedTooltip": false
+  }

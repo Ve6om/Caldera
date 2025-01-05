@@ -3,8 +3,6 @@
 [gamerules]
 
 	[gamerules.updates]
-		#Non Vanilla gamerule: 'ageingSpawners'
-		ageing_spawners = true
 		#Whether the daylight cycle and moon phases progress.
 		do_daylight_cycle = true
 		#Whether fire should spread and naturally extinguish
@@ -25,6 +23,8 @@
 		water_source_conversion = true
 		#Non Vanilla gamerule: 'doSeasonCycle'
 		do_season_cycle = true
+		#Non Vanilla gamerule: 'ageingSpawners'
+		ageing_spawners = true
 
 	[gamerules.chat]
 		#Whether advancements should be announced in chat.

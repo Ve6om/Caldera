@@ -1,0 +1,45 @@
+{
+    "armorSetName": "terminite",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "betterend:terminite_helmet",
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "betterend:terminite_chestplate",
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "betterend:terminite_leggings",
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "betterend:terminite_boots",
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+    {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 5,
+        "modifierUUID": "b7eadc7e-1d24-44cb-ac7e-c311d8bd147a",
+        "description": "+5 armor",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    },
+    {
+        "type": "attribute",
+        "name": "minecraft:generic.movement_speed",
+        "value": -0.03,
+        "modifierUUID": "9f02d658-2033-4642-93cf-fe4b67517324",
+        "description": "-30% speed",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+  }

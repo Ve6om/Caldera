@@ -1,0 +1,45 @@
+{
+    "armorSetName": "golden",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "minecraft:golden_helmet",
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "minecraft:golden_chestplate",
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "minecraft:golden_leggings",
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "minecraft:golden_boots",
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+      {
+        "type": "attribute",
+        "name": "potioncore:magic_damage",
+        "value": 5,
+        "modifierUUID": "4a578940-1110-45ae-b604-26da3bb53df5",
+        "description": "+5 magic damage",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    },
+    {
+      "type": "attribute",
+      "name": "potioncore:magic_shield",
+      "value": 5,
+      "modifierUUID": "10fb01d5-fbb0-4586-afed-bb913352f791",
+      "description": "+5 magic shield",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+  }
+    ],
+    "hideGeneratedTooltip": false
+  }

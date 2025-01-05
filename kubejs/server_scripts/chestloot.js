@@ -7,7 +7,9 @@ LootJS.modifiers(event => {
             'scalinghealth:enchanted_heart',
             'scalinghealth:chance_heart',
             'enigmaticaddons:earth_heart_fragment',
-            'enigmaticlegacy:enigmatic_eye'
+            'enigmaticlegacy:enigmatic_eye',
+            'legendarysurvivaloverhaul:heart_fragment',
+            'legendarysurvivaloverhaul:heart_container'
         ])
 })
 LootJS.modifiers((event) => {

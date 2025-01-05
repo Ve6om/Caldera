@@ -1,0 +1,45 @@
+{
+    "armorSetName": "aeternium",
+    "performanceMode": true,
+    "head": {
+      "itemKey": "betterend:aeternium_helmet",
+      "mustBeEmpty": false
+    },
+    "chest": {
+      "itemKey": "betterend:aeternium_chestplate",
+      "mustBeEmpty": false
+    },
+    "legs": {
+      "itemKey": "betterend:aeternium_leggings",
+      "mustBeEmpty": false
+    },
+    "boots": {
+      "itemKey": "betterend:aeternium_boots",
+      "mustBeEmpty": false
+    },
+    "fullSetBonuses": [
+    {
+        "type": "attribute",
+        "name": "minecraft:generic.armor",
+        "value": 10,
+        "modifierUUID": "3f05dfa5-590d-4b3f-94ed-afb25290a6cb",
+        "description": "+10 armor",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    },
+    {
+        "type": "attribute",
+        "name": "minecraft:generic.movement_speed",
+        "value": -0.06,
+        "modifierUUID": "982dcfd7-6654-4c3f-b00c-1ce4c8142498",
+        "description": "-60% speed",
+        "interactionType": "self",
+        "interactionDuration": 300,
+        "hideBonusDescription": false,
+        "onlyImmuneToNewEffects": false
+    }
+  ],
+  "hideGeneratedTooltip": false
+  }

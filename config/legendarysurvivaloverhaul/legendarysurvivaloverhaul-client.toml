@@ -88,3 +88,11 @@
 	# If enabled, player's vision will become blurry when running low on hydration.
 	"Low Thirst Effect" = true
 
+[tabs-menu]
+	# The X and Y offset of the tabs menu. Set both to 0 for no offset.
+	# By default, will be rendered above minecraft menus. Set it to 10000 to disable it completely.
+	#Range: -10000 ~ 10000
+	"Season Cards Display X Offset" = 2
+	#Range: -10000 ~ 10000
+	"Season Cards Display Y Offset" = 0
+

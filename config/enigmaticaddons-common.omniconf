@@ -137,6 +137,9 @@
     S:AntiqueBookBagList <
      >
 
+    # The damage modifier when spear is powered. [range: 0.0 ~ 100.0, default: 2.5, synchronized: yes]
+    D:AstralSpearpoweredModifier=2.5
+
     # How much less effective armor will be for those who bear the charm. Measured as percentage. [range: 50 ~ 100, default: 100, synchronized: yes]
     I:CharmofHellBladeArmorDebuff=100
 

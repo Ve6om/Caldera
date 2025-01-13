@@ -75,7 +75,7 @@
 		}
 		{
 			dependencies: ["11B003611035C2DF"]
-			description: ["An angel ring grants creative flight; however it is only found very rarely in above-ground lost city chests."]
+			description: ["An angel ring grants creative flight; however it is only found very rarely in lost city chests."]
 			id: "12D7C243F85A12E7"
 			rewards: [{
 				id: "574092A67D7670FA"

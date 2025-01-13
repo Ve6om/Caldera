@@ -144,7 +144,7 @@
 				type: "xp"
 				xp: 250
 			}]
-			subtitle: "Essential for going ot the end"
+			subtitle: "Essential for going to the end"
 			tasks: [{
 				id: "187F2115A2C6637C"
 				item: "minecraft:blaze_rod"

@@ -54,9 +54,11 @@
 	"Body Damage Indicator X Offset" = 64
 	#Range: -10000 ~ 10000
 	"Body Damage Indicator Y Offset" = 0
-	# If true, the body damage indicator will always be rendered
-	# By default, the body damage indicator disappears when no wounded body limbs.
-	"Body Damage indicator Always Rendered" = false
+	# Limb health threshold below which the body damage indicator is rendered.
+	# If set to 1.1, the body damage indicator is always rendered.
+	# If set to 1.0, the body damage indicator is rendered as soon as a limb is wounded.
+	#Range: 0.0 ~ 1.1
+	"Body Damage Indicator Limb Health Threshold" = 1.0
 
 [season-cards]
 	# The X and Y offset of the season cards. Set both to 0 for no offset.
@@ -87,12 +89,4 @@
 	"Render the thirst saturation" = true
 	# If enabled, player's vision will become blurry when running low on hydration.
 	"Low Thirst Effect" = true
-
-[tabs-menu]
-	# The X and Y offset of the tabs menu. Set both to 0 for no offset.
-	# By default, will be rendered above minecraft menus. Set it to 10000 to disable it completely.
-	#Range: -10000 ~ 10000
-	"Season Cards Display X Offset" = 2
-	#Range: -10000 ~ 10000
-	"Season Cards Display Y Offset" = 0
 

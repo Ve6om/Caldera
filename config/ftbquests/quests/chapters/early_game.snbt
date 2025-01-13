@@ -185,7 +185,7 @@
 			rewards: [{
 				id: "1F81AADB70B58F32"
 				type: "xp"
-				xp: 5
+				xp: 50
 			}]
 			subtitle: "Make a crafting table"
 			tasks: [{

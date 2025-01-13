@@ -167,7 +167,7 @@
 			rewards: [{
 				id: "14812E9F17778802"
 				type: "xp"
-				xp: 500
+				xp: 750
 			}]
 			subtitle: "Get started with fire dragonsteel!"
 			tasks: [
@@ -194,7 +194,7 @@
 			rewards: [{
 				id: "2C490F9C58D6AE4B"
 				type: "xp"
-				xp: 500
+				xp: 750
 			}]
 			subtitle: "Get started with ice dragonsteel!"
 			tasks: [
@@ -221,7 +221,7 @@
 			rewards: [{
 				id: "395C8687227D10A0"
 				type: "xp"
-				xp: 500
+				xp: 750
 			}]
 			subtitle: "Get started with lightning dragonsteel!"
 			tasks: [
@@ -246,7 +246,7 @@
 			rewards: [{
 				id: "5EAA8855269D607D"
 				type: "xp"
-				xp: 500
+				xp: 750
 			}]
 			subtitle: "Very powerful steel"
 			tasks: [{
@@ -263,7 +263,7 @@
 			rewards: [{
 				id: "05B92D0D63B47CCF"
 				type: "xp"
-				xp: 500
+				xp: 750
 			}]
 			subtitle: "Very powerful steel"
 			tasks: [{
@@ -280,7 +280,7 @@
 			rewards: [{
 				id: "395D94C54F822845"
 				type: "xp"
-				xp: 500
+				xp: 750
 			}]
 			subtitle: "Very powerful steel"
 			tasks: [{
@@ -310,7 +310,7 @@
 			rewards: [{
 				id: "4B22A64C1E924392"
 				type: "xp"
-				xp: 500
+				xp: 1000
 			}]
 			subtitle: "Very powerful gear"
 			tasks: [{

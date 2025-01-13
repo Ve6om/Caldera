@@ -14,7 +14,7 @@
 			rewards: [{
 				id: "3A336AB1015CFE95"
 				type: "xp"
-				xp: 1000
+				xp: 750
 			}]
 			subtitle: "A mysterious dimension..."
 			tasks: [{
@@ -32,7 +32,7 @@
 			rewards: [{
 				id: "37DF1AAA9FF6422A"
 				type: "xp"
-				xp: 1000
+				xp: 750
 			}]
 			subtitle: "A new metal?"
 			tasks: [{
@@ -53,7 +53,7 @@
 			rewards: [{
 				id: "01FD7F7252632BF4"
 				type: "xp"
-				xp: 1500
+				xp: 1000
 			}]
 			subtitle: "A more valuable material"
 			tasks: [{
@@ -72,7 +72,7 @@
 			rewards: [{
 				id: "4CB3286A97EC30F0"
 				type: "xp"
-				xp: 5000
+				xp: 1500
 			}]
 			subtitle: "A very rare and powerful ingot"
 			tasks: [{
@@ -93,7 +93,7 @@
 			rewards: [{
 				id: "29BF26D260FF3796"
 				type: "xp"
-				xp: 1500
+				xp: 1000
 			}]
 			subtitle: "Make new materials"
 			tasks: [{
@@ -110,7 +110,7 @@
 			rewards: [{
 				id: "4F401CDED5136F28"
 				type: "xp"
-				xp: 1000
+				xp: 750
 			}]
 			subtitle: "Get your first luminite"
 			tasks: [{
@@ -136,7 +136,7 @@
 				only_from_crafting: false
 				type: "item"
 			}]
-			x: 2.0d
+			x: 3.5d
 			y: 2.5d
 		}
 		{
@@ -145,7 +145,7 @@
 			rewards: [{
 				id: "5017044015C5C68D"
 				type: "xp"
-				xp: 7500
+				xp: 2000
 			}]
 			subtitle: "A quick and powerful sword"
 			tasks: [{
@@ -169,7 +169,7 @@
 			rewards: [{
 				id: "63C11577981F5C36"
 				type: "xp"
-				xp: 7500
+				xp: 2000
 			}]
 			subtitle: "One of the best tools in the game"
 			tasks: [{
@@ -201,7 +201,7 @@
 			rewards: [{
 				id: "6A74851B785DD342"
 				type: "xp"
-				xp: 7500
+				xp: 2000
 			}]
 			subtitle: "Very protective armor"
 			tasks: [

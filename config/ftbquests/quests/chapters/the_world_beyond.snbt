@@ -9,7 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["Make a portal with glacial bricks and light it with a luminite staff"]
+			description: ["Make a portal with glacier bricks and light it with a luminite staff"]
 			id: "32FCE877A98ADA4A"
 			rewards: [{
 				id: "3A336AB1015CFE95"

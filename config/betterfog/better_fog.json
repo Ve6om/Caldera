@@ -5,7 +5,7 @@
   "rain_enabled": true,
   "thunder_enabled": true,
   "cave_enabled": true,
-  "cloud_enabled": true,
+  "cloud_enabled": false,
   "void_enabled": true,
   "water_enabled": true,
   "lava_enabled": true,

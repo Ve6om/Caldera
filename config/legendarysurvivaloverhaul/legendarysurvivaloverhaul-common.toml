@@ -41,6 +41,9 @@
 	# Food exhausted every 10 ticks while sprinting in addition to the sprinting minecraft food exhaustion.
 	#Range: 0.0 ~ 1000.0
 	"Sprinting Food Exhaustion" = 0.1
+	# Food exhausted on every attack in addition to the minecraft attack food exhaustion.
+	#Range: 0.0 ~ 1000.0
+	"On Attack Food Exhaustion" = 0.1
 
 # Options related to the temperature system
 [temperature]

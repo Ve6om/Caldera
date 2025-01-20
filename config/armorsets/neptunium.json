@@ -28,7 +28,18 @@
         "interactionDuration": 300,
         "hideBonusDescription": false,
         "onlyImmuneToNewEffects": false
-    }
+    },
+    {
+      "type": "attribute",
+      "name": "forge:swim_speed",
+      "value": 1.5,
+      "modifierUUID": "db83ac69-312d-450e-9031-32e222188a66",
+      "description": "+150% swim speed",
+      "interactionType": "self",
+      "interactionDuration": 300,
+      "hideBonusDescription": false,
+      "onlyImmuneToNewEffects": false
+  }
   ],
   "hideGeneratedTooltip": false
   }

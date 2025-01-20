@@ -1,37 +1,40 @@
 {
-    "armorSetName": "leath",
+    "armorSetName": "turtle",
     "performanceMode": true,
     "head": {
-      "itemKey": "minecraft:leather_helmet",
+      "itemKey": "minecraft:turtle_helmet",
+      "mixAndMatch": [
+      "alexsmobs:spiked_turtle_shell"
+      ],
       "mustBeEmpty": false
     },
     "chest": {
-      "itemKey": "minecraft:leather_chestplate",
+      "itemKey": "oceanvillagertrader:turtle_armor_chestplate",
       "mustBeEmpty": false
     },
     "legs": {
-      "itemKey": "minecraft:leather_leggings",
+      "itemKey": "oceanvillagertrader:turtle_armor_leggings",
       "mustBeEmpty": false
     },
     "boots": {
-      "itemKey": "minecraft:leather_boots",
+      "itemKey": "oceanvillagertrader:turtle_armor_boots",
       "mustBeEmpty": false
     },
     "fullSetBonuses": [
-    {
+      {
         "type": "attribute",
-        "name": "attributeslib:arrow_velocity",
-        "value": 0.4,
-        "modifierUUID": "1441ff15-f80c-42b1-99da-9777742d307e",
-        "description": "+40% arrow speed/damage",
+        "name": "forge:swim_speed",
+        "value": 0.2,
+        "modifierUUID": "a92c6cbb-5b7a-464d-b55b-067228d067db",
+        "description": "+20% swim speed",
         "interactionType": "self",
         "interactionDuration": 300,
         "hideBonusDescription": false,
         "onlyImmuneToNewEffects": false
-    },
-    {
+      },
+      {
         "type": "effect",
-        "name": "minecraft:health_boost",
+        "name": "minecraft:resistance",
         "value": 0.0,
         "interactionType": "self",
         "interactionDuration": 300,

@@ -1,5 +1,11 @@
 {
   "skillLocks": {
+    "minecraft:turtle_helmet": ["defense:12"],
+    "oceanvillagertrader:turtle_armor_chestplate": ["defense:12"],
+    "oceanvillagertrader:turtle_armor_leggings": ["defense:12"],
+    "oceanvillagertrader:turtle_armor_boots": ["defense:12"],
+    "oceanvillagertrader:turtle_sword": ["attack:12"],
+    "oceanvillagertrader:turtle_axe": ["attack:12"],
     "minecraft:brush": ["gathering:2"],
     "betterarcheology:iron_brush": ["gathering:8"],
     "betterarcheology:diamond_brush": ["gathering:16"],

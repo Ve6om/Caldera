@@ -1,9 +1,15 @@
 ItemEvents.modification(event => {
-   
-   
-   event.modify('enigmaticlegacy:etherium_sword', item => {
-      item.attackSpeed = -2.4
-      item.attackDamage = 15
+   event.modify('alexsmobs:spiked_turtle_shell', item => {
+      item.armorProtection = 4.0
+      item.armorToughness = 2.0
+   })
+   event.modify('minecraft:turtle_helmet', item => {
+      item.armorProtection = 2.0
+      item.armorToughness = 2.0
+   })
+   event.modify('oceanvillagertrader:turtle_sword', item => {
+      item.attackSpeed = -2.8
+      item.attackDamage = 7
    })
    event.modify('enigmaticlegacy:etherium_helmet', item => {
       item.armorProtection = 5.0

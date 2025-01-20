@@ -38,16 +38,6 @@ ServerEvents.recipes(event => {
       'minecraft:rabbit_hide',
       'minecraft:leather'
     )
-    event.replaceInput(
-      { output: 'tan__a_curios_expansion:regulation_circuit_shard' }, 
-      'minecraft:prismarine_crystals',
-      'minecraft:quartz'
-    )
-    event.replaceInput(
-      { output: 'tan__a_curios_expansion:regulation_crystal' }, 
-      'minecraft:prismarine_crystals',
-      'minecraft:quartz'
-    )
     event.remove({ 
       input: 'eldritch_end:primordial_planks',
       not: {input:['#notreepunching:saws','#notreepunching:weak_saws']},
@@ -66,6 +56,62 @@ ServerEvents.recipes(event => {
       not: {input:['#notreepunching:saws','#notreepunching:weak_saws']},
       output: 'minecraft:stick'
     })
+    event.shaped(
+      Item.of('oceanvillagertrader:turtle_armor_chestplate', 1), // arg 1: output
+      [
+        'A A',
+        'AAA', // arg 2: the shape (array of strings)
+        'AAA'
+      ],
+      {
+        A: 'minecraft:scute',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('oceanvillagertrader:turtle_armor_leggings', 1), // arg 1: output
+      [
+        'AAA',
+        'A A', // arg 2: the shape (array of strings)
+        'A A'
+      ],
+      {
+        A: 'minecraft:scute',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('oceanvillagertrader:turtle_armor_boots', 1), // arg 1: output
+      [
+        'A A', // arg 2: the shape (array of strings)
+        'A A'
+      ],
+      {
+        A: 'minecraft:scute',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('oceanvillagertrader:turtle_sword', 1), // arg 1: output
+      [
+        'A', // arg 2: the shape (array of strings)
+        'A',
+        'B'
+      ],
+      {
+        A: 'minecraft:scute',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
+    event.shaped(
+      Item.of('oceanvillagertrader:turtle_axe', 1), // arg 1: output
+      [
+        'AA',
+        'AB', // arg 2: the shape (array of strings)
+        ' B'
+      ],
+      {
+        A: 'minecraft:scute',
+        B: 'minecraft:stick',  //arg 3: the mapping object
+      }
+    )
     event.shaped(
       Item.of('minecraft:wooden_pickaxe', 1), // arg 1: output
       [

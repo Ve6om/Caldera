@@ -173,7 +173,7 @@
 	EnderGuardianHealthMultiplier = 1.0
 	#EnderGuardian's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	EnderGuardianDamageMultiplier = 1.0
+	EnderGuardianDamageMultiplier = 1.5
 
 ["Netherite Monstrosity"]
 	#Monstrosity's Lavabomb magazine.
@@ -204,7 +204,7 @@
 	MonstrosityHealthMultiplier = 1.0
 	#Monstrosity's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityDamageMultiplier = 1.0
+	MonstrosityDamageMultiplier = 1.5
 	#Monstrosity's block breaking ignore the MobGriefing
 	monstrosityBlockBreaking = true
 
@@ -219,7 +219,7 @@
 	GolemHealthMultiplier = 1.0
 	#Golem's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	GolemDamageMultiplier = 1.0
+	GolemDamageMultiplier = 1.5
 
 [Ignis]
 	#Ignis's Healing with out target
@@ -241,7 +241,7 @@
 	IgnisHealthMultiplier = 1.0
 	#Ignis's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	IgnisDamageMultiplier = 1.0
+	IgnisDamageMultiplier = 1.5
 
 [revenant]
 	#Revenant's Health Multiplier
@@ -249,7 +249,7 @@
 	RevenantHealthMultiplier = 1.0
 	#Revenant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	RevenantDamageMultiplier = 1.0
+	RevenantDamageMultiplier = 1.5
 
 ["The Prowler"]
 	#The Prowler's Immune to Long distance attack range.
@@ -260,7 +260,7 @@
 	ProwlerHealthMultiplier = 1.0
 	#Prowler's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ProwlerDamageMultiplier = 1.0
+	ProwlerDamageMultiplier = 1.5
 
 ["The Harbinger"]
 	#Harbinger's Healing Multiplier
@@ -288,7 +288,7 @@
 	HarbingerHealthMultiplier = 1.0
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerDamageMultiplier = 1.0
+	HarbingerDamageMultiplier = 1.5
 
 ["The Leviathan"]
 	#Leviathan's Healing with out target
@@ -321,7 +321,7 @@
 	LeviathanHealthMultiplier = 1.0
 	#Leviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	LeviathanDamageMultiplier = 1.0
+	LeviathanDamageMultiplier = 1.5
 
 ["The Baby Leviathan"]
 	#BabyLeviathan's Health Multiplier
@@ -329,7 +329,7 @@
 	BabyLeviathanHealthMultiplier = 1.0
 	#BabyLeviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	BabyLeviathanDamageMultiplier = 1.0
+	BabyLeviathanDamageMultiplier = 1.5
 
 ["Modern Remnant"]
 	#Modern Remnant's Health Multiplier
@@ -337,7 +337,7 @@
 	ModernRemnantHealthMultiplier = 1.0
 	#Modern Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ModernRemnantDamageMultiplier = 1.0
+	ModernRemnantDamageMultiplier = 1.5
 
 ["Amethyst Crab"]
 	#Amethyst Crab's EarthQuake Damage
@@ -348,7 +348,7 @@
 	AmethystCrabHealthMultiplier = 1.0
 	#Amethyst Crab's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AmethystCrabDamageMultiplier = 1.0
+	AmethystCrabDamageMultiplier = 1.5
 
 ["Ancient Remnant"]
 	#AncientRemnant's Healing with out target
@@ -379,7 +379,7 @@
 	AncientRemnantHealthMultiplier = 1.0
 	#Ancient Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AncientRemnantDamageMultiplier = 1.0
+	AncientRemnantDamageMultiplier = 1.5
 
 [Koboleton]
 	#Cause Koboleton to Drop Item In Hand Percent
@@ -394,7 +394,7 @@
 	KobolediatorHealthMultiplier = 1.0
 	#Kobolediator's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	KobolediatorDamageMultiplier = 1.0
+	KobolediatorDamageMultiplier = 1.5
 
 [Maledictus]
 	#Maledictus's DamageCap
@@ -434,7 +434,7 @@
 	MaledictusHealthMultiplier = 1.0
 	#Maledictus's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MaledictusDamageMultiplier = 1.0
+	MaledictusDamageMultiplier = 1.5
 
 [spawning]
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
@@ -511,7 +511,7 @@
 	WadjetHealthMultiplier = 1.0
 	#Wadjet's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	WadjetDamageMultiplier = 1.0
+	WadjetDamageMultiplier = 1.5
 
 [Aptrgangr]
 	#Axe Blade's Damage
@@ -522,7 +522,7 @@
 	AptrgangrHealthMultiplier = 1.0
 	#Aptrgangr's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AptrgangrDamageMultiplier = 1.0
+	AptrgangrDamageMultiplier = 1.5
 
 ["Netherite Ministrosity"]
 	#Ministrosity's Health Multiplier

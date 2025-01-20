@@ -6,6 +6,7 @@ ItemEvents.modification(event => {
    event.modify('minecraft:turtle_helmet', item => {
       item.armorProtection = 2.0
       item.armorToughness = 2.0
+      item.armorKnockbackResistance = 0.1
    })
    event.modify('oceanvillagertrader:turtle_sword', item => {
       item.attackSpeed = -2.8
@@ -121,46 +122,46 @@ ItemEvents.modification(event => {
       item.armorToughness = 4
    })
 
-   event.modify('l2complements:skulkium_sword', item => {
+   event.modify('l2complements:sculkium_sword', item => {
       item.attackSpeed = -2.4
-      item.attackDamage = 17
+      item.attackDamage = 15
    })
-   event.modify('l2complements:skulkium_helmet', item => {
+   event.modify('l2complements:sculkium_helmet', item => {
       item.armorProtection = 5.0
       item.armorToughness = 4
    })
-   event.modify('l2complements:skulkium_chestplate', item => {
+   event.modify('l2complements:sculkium_chestplate', item => {
       item.armorProtection = 10.0
       item.armorToughness = 4
    })
-   event.modify('l2complements:skulkium_leggings', item => {
+   event.modify('l2complements:sculkium_leggings', item => {
       item.armorProtection = 8.0
       item.armorToughness = 4
    })
-   event.modify('l2complements:skulkium_boots', item => {
+   event.modify('l2complements:sculkium_boots', item => {
       item.armorProtection = 5.0
       item.armorToughness = 4
    })
 
    event.modify('l2complements:shulkerate_sword', item => {
       item.attackSpeed = -2.4
-      item.attackDamage = 10
+      item.attackDamage = 14
    })
    event.modify('l2complements:shulkerate_helmet', item => {
-      item.armorProtection = 4.0
-      item.armorToughness = 3
+      item.armorProtection = 5.0
+      item.armorToughness = 4
    })
    event.modify('l2complements:shulkerate_chestplate', item => {
       item.armorProtection = 8.0
-      item.armorToughness = 3
+      item.armorToughness = 4
    })
    event.modify('l2complements:shulkerate_leggings', item => {
       item.armorProtection = 6.0
-      item.armorToughness = 3
+      item.armorToughness = 4
    })
    event.modify('l2complements:shulkerate_boots', item => {
-      item.armorProtection = 4.0
-      item.armorToughness = 3
+      item.armorProtection = 5.0
+      item.armorToughness = 4
    })
 
    event.modify('l2complements:eternium_sword', item => {
@@ -168,20 +169,20 @@ ItemEvents.modification(event => {
       item.attackDamage = 16
    })
    event.modify('l2complements:eternium_helmet', item => {
-      item.armorProtection = 3.0
-      item.armorToughness = 7
+      item.armorProtection = 4.0
+      item.armorToughness = 10
    })
    event.modify('l2complements:eternium_chestplate', item => {
       item.armorProtection = 8.0
-      item.armorToughness = 7
+      item.armorToughness = 10
    })
    event.modify('l2complements:eternium_leggings', item => {
       item.armorProtection = 6.0
-      item.armorToughness = 7
+      item.armorToughness = 10
    })
    event.modify('l2complements:eternium_boots', item => {
-      item.armorProtection = 3.0
-      item.armorToughness = 7
+      item.armorProtection = 4.0
+      item.armorToughness = 10
    })
 
    event.modify('l2complements:poseidite_sword', item => {

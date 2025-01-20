@@ -20,10 +20,10 @@ font_color_blacklist = ["chat_screen.title", "sign.edit", "hanging_sign.edit", "
 dark_theme = true
 #Percentage of original interface brightness to apply.
 #Range: 0.0 ~ 1.0
-texture_darkness = 0.75
+texture_darkness = 0.9
 #The minimum brightness value of font while dark mode is enabled.
 #Range: 0.0 ~ 1.0
-font_brightness = 0.75
+font_brightness = 0.0
 #Algorithm selector for darkening interface pixels.
 #Allowed Values: GRAYSCALE_AND_HSP, HSP, GRAYSCALE_AND_HSL, HSL, GRAYSCALE_AND_LINEAR, LINEAR
 darkening_algorithm = "GRAYSCALE_AND_HSP"

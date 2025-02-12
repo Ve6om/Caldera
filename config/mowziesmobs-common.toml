@@ -691,7 +691,7 @@
 			#'!minecraft:is_mountain' would mean all non-mountain biomes
 			biome_tags = []
 			#Allow spawns in these biomes regardless of the biome tag settings
-			biome_whitelist = ["endlessexpansion:frozen_beach", "endlessexpansion:frozen_wastes"]
+			biome_whitelist = ["endlessexpansion:frozen_wastes"]
 			#Prevent spawns in these biomes regardless of the biome tag settings
 			biome_blacklist = []
 

@@ -4,9 +4,6 @@ disableWoolDrops = true
 deathSkillReset = false
 #Toggle the visibility of the tab buttons in the inventory.
 showTabButtons = false
-#Starting cost of upgrading to level 2, in experience points.
-#Range: 0 ~ 1000
-startingCost = 7
 #Global scaling multiplier for XP costs.
 #Range: 0.1 ~ 10.0
 xpScalingMultiplier = 1.0

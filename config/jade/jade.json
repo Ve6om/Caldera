@@ -20,11 +20,11 @@
     "previewOverlay": true
   },
   "overlay": {
-    "alpha": 0.7,
+    "alpha": 0.0,
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlaySquare": false,
+    "overlaySquare": true,
     "flipMainHand": false,
     "autoScaleThreshold": 0.4,
     "overlayPosY": 1.0,

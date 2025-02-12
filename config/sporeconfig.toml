@@ -59,6 +59,7 @@
 		"Minimum amount of kills to start the evolution" = 1
 		#Default 7
 		"Minimum amount of kills to start the hyper evolution" = 7
+		"Infected Adventurer Evolutions" = ["spore:nuclea"]
 
 	["Mob Evolutions and Infection System".Infections]
 		#Default true
@@ -241,6 +242,7 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		"Sets Braurei Armor" = 6.0
 		"Braurei buffs" = ["minecraft:speed", "minecraft:strength", "minecraft:resistance", "minecraft:fire_resistance", "minecraft:regeneration", "minecraft:absorption"]
+		"Hazard Braurei debuffs" = ["minecraft:slowness", "minecraft:weakness", "minecraft:wither", "minecraft:poison", "spore:mycelium_ef", "spore:marker"]
 
 	[Mobs.Usurper]
 		#Default 60
@@ -472,7 +474,7 @@
 		#Default 30
 		#Range: > 1
 		"Sets the time before the Womb gains one biomass" = 30
-		#Default 10
+		#Default 5
 		#Range: > 1
 		"How much biomass does it get from consuming infected" = 10
 		#Default 100
@@ -801,6 +803,28 @@
 		#Default true
 		"Should explosion break blocks ?" = true
 
+	[Mobs.Nuckelave]
+		#Default 55
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Nuckelave Max health" = 55.0
+		#Default 8
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Nuckelave Damage" = 8.0
+		#Default 6
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Sets Nuckelave Armor" = 6.0
+
+	[Mobs.Hexenmeister]
+		#Default 80
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Infected Hexenmeister Max health" = 80.0
+		#Default 15
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Infected Hexenmeister Damage" = 15.0
+		#Default 10
+		#Range: 1.0 ~ 1.7976931348623157E308
+		"Infected Hexenmeister Armor" = 10.0
+
 [Spawns]
 	#Default false
 	"Should mobs spawn after a few days?" = false
@@ -932,6 +956,23 @@
 		#Default 9
 		#Range: > 1
 		Damage = 17
+
+	["Weapons and Tools OwO"."Weapon Agents data"]
+		#Durability increase 60%
+		#Range: > 2
+		"Durability increase 60%" = 60
+		#Damage increase 40%
+		#Range: > 2
+		"Damage increase 40%" = 40
+		#Protection increase 30%
+		#Range: > 2
+		"Protection increase 30%" = 30
+		#Toughness increase 3
+		#Range: > 0
+		"Toughness increase 3" = 3
+		#Enchantability increase 6
+		#Range: > 1
+		"Enchantability increase 6" = 6
 
 ["Living Exoskeleton"]
 	#Default 1

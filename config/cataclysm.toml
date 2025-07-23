@@ -174,9 +174,6 @@
 	#EnderGuardian's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	EnderGuardianDamageMultiplier = 1.5
-	#EnderGuardian's DamageTime
-	#Range: 0 ~ 100
-	EnderGuardianDamageTime = 30
 
 ["Netherite Monstrosity"]
 	#Monstrosity's Lavabomb magazine.
@@ -210,9 +207,6 @@
 	MonstrosityDamageMultiplier = 1.5
 	#Monstrosity's block breaking ignore the MobGriefing
 	monstrosityBlockBreaking = true
-	#Monstrosity's DamageTime
-	#Range: 0 ~ 100
-	MonstrosityDamageTime = 10
 
 ["Ender Golem"]
 	#Ender Golem's block breaking ignore the MobGriefing
@@ -248,9 +242,6 @@
 	#Ignis's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	IgnisDamageMultiplier = 1.5
-	#Ignis's DamageTime
-	#Range: 0 ~ 100
-	IgnisDamageTime = 15
 
 [revenant]
 	#Revenant's Health Multiplier
@@ -298,9 +289,6 @@
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	HarbingerDamageMultiplier = 1.5
-	#Harbinger's DamageTime
-	#Range: 0 ~ 100
-	"The Harbinger DamageTime" = 12
 
 ["The Leviathan"]
 	#Leviathan's Healing with out target
@@ -334,9 +322,6 @@
 	#Leviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	LeviathanDamageMultiplier = 1.5
-	#Leviathan's DamageTime
-	#Range: 0 ~ 100
-	"Leviathan DamageTime" = 15
 
 ["The Baby Leviathan"]
 	#BabyLeviathan's Health Multiplier
@@ -395,9 +380,6 @@
 	#Ancient Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	AncientRemnantDamageMultiplier = 1.5
-	#Ancient Remnant's DamageTime
-	#Range: 0 ~ 100
-	"Ancient Remnant DamageTime" = 12
 
 [Koboleton]
 	#Cause Koboleton to Drop Item In Hand Percent
@@ -453,9 +435,6 @@
 	#Maledictus's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	MaledictusDamageMultiplier = 1.5
-	#Maledictus's DamageTime
-	#Range: 0 ~ 100
-	"Maledictus DamageTime" = 30
 
 [spawning]
 	#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn
@@ -523,7 +502,7 @@
 
 [Block]
 	#Cursed Tombstone Summon cooldown Minute
-	#Range: 1 ~ 300
+	#Range: 3 ~ 300
 	"Cursed Tombstone Summon cooldown Minute" = 30
 
 [Wadjet]

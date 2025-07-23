@@ -817,7 +817,7 @@
     I:CursedRingPainModifier=200
 
     # A fraction of time the player should bear the Seven Curses to use Abyssal Artifacts. [range: 0.0 ~ 32768.0, default: 0.995, synchronized: yes]
-    D:CursedRingSuperCursedTime=0.97
+    D:CursedRingSuperCursedTime=0.995
 
     # If true, Ring of the Seven Curses will be equipped into player's ring slot right away when entering a new world, instead of just being added to their inventory. [default: false, synchronized: yes]
     B:CursedRingUltraHardcore=false

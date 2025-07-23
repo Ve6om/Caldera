@@ -346,15 +346,3 @@
 	#Activates or disables enchantment
 	Active = true
 
-[Harvester]
-	#Activates or disables enchantment
-	Active = true
-	#Max level of enchantment
-	"Max Level" = 4
-	#Increase in damage per kill
-	"Damage Increase" = 0.06
-	#Initial max amount of kills
-	"Base kills" = 80
-	#Increase in max amount of kills per level
-	"Increase per levels" = 30
-

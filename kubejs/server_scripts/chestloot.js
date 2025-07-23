@@ -80,7 +80,6 @@ LootJS.modifiers((event) => {
                 Item.of("enigmaticlegacy:ascension_amulet").withChance(1),
                 Item.of("enigmaticaddons:lost_engine").withChance(1),
                 Item.of("enigmaticaddons:revival_leaf").withChance(1),
-                Item.of("enigmaticaddons:despair_insignia").withChance(1),
             ])
     event
         .addLootTableModifier("lostcities:chests/raildungeonchest")
@@ -100,7 +99,6 @@ LootJS.modifiers((event) => {
                 Item.of("enigmaticlegacy:ascension_amulet").withChance(1),
                 Item.of("enigmaticaddons:lost_engine").withChance(1),
                 Item.of("enigmaticaddons:revival_leaf").withChance(1),
-                Item.of("enigmaticaddons:despair_insignia").withChance(1),
             ])
 })
 LootJS.modifiers((event) => {

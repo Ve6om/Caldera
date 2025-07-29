@@ -1,0 +1,21 @@
+{
+	version: 1
+	uuid: "048327bc6a83429a9581d810649dece7"
+	name: "kiwiphoenix364#048327bc"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		00253043204D4F9D: 52
+	}
+	started: {
+		7C96031E560DF366: 1753330962050L
+		7DDEA3DC49374FA0: 1753330962050L
+		00253043204D4F9D: 1753330962050L
+		0000000000000001: 1753330962050L
+	}
+	completed: {
+		27886BEDB7EE2387: 1753330958262L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
